@@ -1,6 +1,14 @@
 import React, { Component } from 'react';
 import { Text, View, ScrollView, StyleSheet, TouchableOpacity } from 'react-native';
 import { NavigationStackProp } from 'react-navigation-stack';
+import MIcon from 'react-native-vector-icons/MaterialCommunityIcons';
+import Dialog, { SlideAnimation, DialogContent, DialogFooter, DialogButton, DialogTitle } from 'react-native-popup-dialog';
+import { connect } from 'react-redux';
+import { bindActionCreators } from 'redux';
+const { AdMobBanner, AdMobRewarded } = require('react-native-admob');
+import { adunitid, demobanner, demovideo } from './appid';
+import { setHighScore } from './Actions';
+import { User } from './Reducer';
 import Eco from '../questions/eco'
 import Gov from '../questions/gov'
 import His_eu from '../questions/his_eu'
@@ -8,10 +16,13 @@ import His_us from '../questions/his_us'
 import His_world from '../questions/his_world'
 import Marketing from '../questions/marketing'
 import Psy from '../questions/psy'
+import AsyncStorage from '@react-native-community/async-storage';
 
 
 interface Props {
-   navigation: NavigationStackProp
+   navigation: NavigationStackProp,
+   user: User,
+   setHighScore: (num: number) => void
 }
 
 interface Question {
@@ -27,11 +38,14 @@ interface State {
    clickable: boolean,
    score: number,
    question: Question,
+   wrong: number,
    tileColors: Array<"#e3e3e3" | "#f77" | "#7f7">,
    questions: Array<Question>,
    fontSize: number,
+   extra: boolean,
    pastQuestionIndeces: Array<number>,
    currentIndex: number,
+   lost: boolean,
    type: string
 }
 
@@ -46,6 +60,8 @@ export class Game extends Component<Props, State>{
       this.state = {
          clickable: true,
          currentIndex: 0,
+         wrong: 0,
+         lost: false,
          tileColors: ["#e3e3e3", "#e3e3e3", "#e3e3e3", "#e3e3e3"],
          fontSize: 13,
          pastQuestionIndeces: [],
@@ -58,6 +74,7 @@ export class Game extends Component<Props, State>{
             question: ''
          },
          questions: [],
+         extra: false,
          score: 0,
          type: this.props.navigation.getParam("type")
       }
@@ -71,7 +88,33 @@ export class Game extends Component<Props, State>{
       return Math.floor(Math.random() * (max - min) + min);
    }
 
-   componentDidMount() {
+   async componentDidMount() {
+      AdMobRewarded.setAdUnitID(demovideo);
+      AdMobRewarded.addEventListener('rewarded', () => {
+         let { questions } = this.state;
+         let index = this.randomNum(0, questions.length);
+         for (let i = 0; i < this.state.pastQuestionIndeces.length; i++) {
+            if (index === this.state.pastQuestionIndeces[i]) {
+               index = this.randomNum(0, questions.length);
+               i = 0;
+            }
+         }
+         let pastindeces = [...this.state.pastQuestionIndeces];
+         pastindeces.push(index);
+         let fontSize = 13;
+         if (questions[index].a.length < 10 && questions[index].b.length < 10 && questions[index].c.length < 10 && questions[index].d.length < 10)
+            fontSize = 20
+         else if (questions[index].a.length < 20 && questions[index].b.length < 20 && questions[index].c.length < 20 && questions[index].d.length < 20)
+            fontSize = 18
+         else if (questions[index].a.length < 26 && questions[index].b.length < 26 && questions[index].c.length < 26 && questions[index].d.length < 26)
+            fontSize = 16
+         else if (questions[index].a.length < 32 && questions[index].b.length < 32 && questions[index].c.length < 32 && questions[index].d.length < 32)
+            fontSize = 15
+         this.setState({ lost: false, extra: true, wrong: this.state.wrong - 1, fontSize, currentIndex: index, tileColors: ["#e3e3e3", "#e3e3e3", "#e3e3e3", "#e3e3e3"], question: questions[index], pastQuestionIndeces: pastindeces, questions, clickable: true })
+      });
+      AdMobRewarded.addEventListener('adClosed', () => {
+         console.log('AdMobRewarded => adClosed');
+      });
       let questions = [];
       if (this.state.type === 'Random') {
          for (let i in Eco) {
@@ -249,17 +292,19 @@ export class Game extends Component<Props, State>{
             fontSize = 15
          this.setState({ fontSize, currentIndex: index, question: questions[index], pastQuestionIndeces: pastindeces, questions: questions })
       }
+      await AsyncStorage.setItem("playDate", new Date().getDate().toString());
    }
 
    submit = (val: "a" | "b" | "c" | "d", index: number) => {
       let colors = [...this.state.tileColors];
-      let score = this.state.score;
+      let { score, wrong, lost } = this.state;
       if (val === this.state.question.ans) {
          colors[index] = "#7f7";
          score++;
       }
       else {
          colors[index] = "#f77";
+         wrong++;
          if (this.state.question.ans === 'a')
             colors[0] = "#7f7";
          if (this.state.question.ans === 'b')
@@ -269,30 +314,57 @@ export class Game extends Component<Props, State>{
          if (this.state.question.ans === 'd')
             colors[3] = "#7f7";
       }
-      this.setState({ tileColors: colors, clickable: false, score }, () => {
-         setTimeout(() => {
-            let { questions } = this.state;
-            let index = this.randomNum(0, questions.length);
-            for(let i = 0; i<this.state.pastQuestionIndeces.length; i++){
-               if(index === this.state.pastQuestionIndeces[i]){
-                  index = this.randomNum(0, questions.length);
-                  i=0;
-               }
+      if (wrong === 2) {
+         this.setState({ tileColors: colors, lost: true, clickable: false, wrong });
+      }
+      else if (!lost) {
+         this.setState({ tileColors: colors, clickable: false, score, wrong }, async () => {
+            if (score > this.props.navigation.getParam("highScore")) {
+               this.props.setHighScore(score);
+               await AsyncStorage.setItem("highScore", score.toString())
             }
-            let pastindeces = [...this.state.pastQuestionIndeces];
-            pastindeces.push(index);
-            let fontSize = 13;
-            if (questions[index].a.length < 10 && questions[index].b.length < 10 && questions[index].c.length < 10 && questions[index].d.length < 10)
-               fontSize = 20
-            else if (questions[index].a.length < 20 && questions[index].b.length < 20 && questions[index].c.length < 20 && questions[index].d.length < 20)
-               fontSize = 18
-            else if (questions[index].a.length < 26 && questions[index].b.length < 26 && questions[index].c.length < 26 && questions[index].d.length < 26)
-               fontSize = 16
-            else if (questions[index].a.length < 32 && questions[index].b.length < 32 && questions[index].c.length < 32 && questions[index].d.length < 32)
-               fontSize = 15
-            this.setState({ fontSize, currentIndex: index, tileColors: ["#e3e3e3", "#e3e3e3", "#e3e3e3", "#e3e3e3"], question: questions[index], pastQuestionIndeces: pastindeces, questions, clickable: true })
-         }, 2500)
-      })
+            setTimeout(() => {
+               let { questions } = this.state;
+               let index = this.randomNum(0, questions.length);
+               for (let i = 0; i < this.state.pastQuestionIndeces.length; i++) {
+                  if (index === this.state.pastQuestionIndeces[i]) {
+                     index = this.randomNum(0, questions.length);
+                     i = 0;
+                  }
+               }
+               let pastindeces = [...this.state.pastQuestionIndeces];
+               pastindeces.push(index);
+               let fontSize = 13;
+               if (questions[index].a.length < 10 && questions[index].b.length < 10 && questions[index].c.length < 10 && questions[index].d.length < 10)
+                  fontSize = 20
+               else if (questions[index].a.length < 20 && questions[index].b.length < 20 && questions[index].c.length < 20 && questions[index].d.length < 20)
+                  fontSize = 18
+               else if (questions[index].a.length < 26 && questions[index].b.length < 26 && questions[index].c.length < 26 && questions[index].d.length < 26)
+                  fontSize = 16
+               else if (questions[index].a.length < 32 && questions[index].b.length < 32 && questions[index].c.length < 32 && questions[index].d.length < 32)
+                  fontSize = 15
+               this.setState({ fontSize, currentIndex: index, tileColors: ["#e3e3e3", "#e3e3e3", "#e3e3e3", "#e3e3e3"], question: questions[index], pastQuestionIndeces: pastindeces, questions, clickable: true })
+            }, 2500)
+         });
+      }
+   }
+
+   wrongs = () => {
+      const { wrong } = this.state;
+      const size = 20;
+      let defualtColor = "#999";
+      let colors = [defualtColor, defualtColor, defualtColor, defualtColor, defualtColor];
+      for (let i = 0; i < wrong; i++)
+         colors[i] = "red";
+      return (
+         <View style={{ flexDirection: 'row' }}>
+            <MIcon size={size} color={colors[0]} name="close-circle" />
+            <MIcon size={size} color={colors[1]} name="close-circle" />
+            <MIcon size={size} color={colors[2]} name="close-circle" />
+            <MIcon size={size} color={colors[3]} name="close-circle" />
+            <MIcon size={size} color={colors[4]} name="close-circle" />
+         </View>
+      )
    }
 
    render() {
@@ -300,6 +372,7 @@ export class Game extends Component<Props, State>{
          <ScrollView contentContainerStyle={{ flex: 1 }}>
             <View style={styles.score}>
                <Text style={styles.scoreText}>Score: {this.state.score}</Text>
+               {this.wrongs()}
             </View>
             <View style={styles.question}>
                <Text style={styles.questionText}>{'\t\t'}{this.state.question.question}</Text>
@@ -321,15 +394,64 @@ export class Game extends Component<Props, State>{
                   <Text style={{ ...styles.choiceText, fontSize: this.state.fontSize }}><Text style={styles.choice}>d</Text>) {this.state.question.d}</Text>
                </TouchableOpacity>
             </View>
+            <Dialog
+               visible={this.state.lost}
+               dialogAnimation={new SlideAnimation({
+                  slideFrom: 'bottom',
+               })}
+               onTouchOutside={() => { this.setState({ lost: false }, () => this.props.navigation.pop()); }}
+               onHardwareBackPress={() => { this.setState({ lost: false }, () => this.props.navigation.pop()); return true }}
+               dialogTitle={<DialogTitle title={"Your score is " + this.state.score + "!"} />}
+               footer={
+                  <DialogFooter>
+                     <DialogButton
+                        text="OK"
+                        onPress={() => this.setState({ lost: false }, () => this.props.navigation.pop())}
+                     />
+                     {
+                        this.state.extra ? <View/> :
+                        <DialogButton
+                           text="Watch Video"
+                           onPress={ async () => {
+                              await AdMobRewarded.requestAd()
+                              await AdMobRewarded.showAd()
+                           }}
+                        />
+                     }
+                  </DialogFooter>
+               }
+            >
+               <DialogContent style={{ paddingVertical: 8 }}>
+                  <Text style={{ fontSize: 16, fontFamily: 'sans-serif-light' }}>{!this.state.extra ? "Watch a video for two extra lives!\n" : ''}Press OK to go back to the menu.</Text>
+               </DialogContent>
+            </Dialog>
          </ScrollView>
       )
    }
 }
 
-export default Game
+interface StateRedux {
+   user: User
+}
+
+const mapStateToProps = (state: StateRedux) => {
+   const { user } = state;
+   return { user };
+};
+
+const mapDispatchToProps = (dispatch: any) => (
+   bindActionCreators({
+      setHighScore
+   }, dispatch)
+);
+
+export default connect(mapStateToProps, mapDispatchToProps)(Game);
 
 const styles = StyleSheet.create({
    score: {
+      flexDirection: 'row',
+      alignItems: 'center',
+      justifyContent: 'space-evenly',
       paddingVertical: 8,
       flex: 0.2,
       backgroundColor: '#e9e9e9'

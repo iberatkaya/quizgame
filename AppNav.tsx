@@ -65,7 +65,7 @@ class Drawer extends Component {
                </TouchableOpacity>
                <TouchableOpacity
                   style={{ paddingLeft: 16, paddingVertical: 14.5 }}
-                  onPress={() => { Linking.openURL("mailto:ibraberatkaya@gmail.com?subject=Recycler Feedback"); }}
+                  onPress={() => { Linking.openURL("mailto:ibraberatkaya@gmail.com?subject=Quiz Feedback"); }}
                >
                   <View style={{ flexDirection: 'row', alignItems: 'center' }}>
                      <Icon name="email" size={24} color="#888888" />

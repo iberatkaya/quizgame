@@ -9253,20 +9253,12 @@ Most studies show that
 0 presidential coattails are stronger than ever.
 0 presidential coattails affect Republicans more than Democrats. 
 
-The impact of public approval or disapproval of the president on the support that thepresident receives in Congress is
-0 irrelevant.
-0 not too important, though it occasionally has a minor effect.
-0 represented in the text by the equation s \ ¹3D px\ ¹2D1.
-0 extremely important, and sways nearly all members of Congress on every vote.
-1 important, but usually at the margins on most policies. 
-
 The political resource that has the most potential to turn a situation of stalemate between thepresident and Congress into one supportive of the president's legislative proposals is
 0 presidential leadership.
 0 the president's party leadership.
 0 presidential rewards and sanctions.
 1 public approval.
 0 the threat of veto. 
-
 
 An electoral mandate ________ the president's level of support in Congress.
 0 does severe harm to
@@ -9310,7 +9302,6 @@ The president's role in the legislative process
 0 is most effective in domestic policy.
 0 at least until 1995, has been to react to and modify congressional initiatives. 
 
-
 The president's legislative skills compete with other factors influencing congressional voting,including all of the following EXCEPT
 0 ideology.
 0 constituency news.
@@ -9346,7 +9337,6 @@ Some believe the War Powers Resolution could be successfully overturned by the S
 0 interferes with the president's power to declare war.
 0 was really aimed at the Vietnam War only. 
 
-
 The War Powers Resolution may be considered unconstitutional because
 1 its use of the legislative veto may be considered a violation of the doctrine of separation of powers.
 0 it violates the president's power to declare war.
@@ -9360,8 +9350,6 @@ During the 1991 Gulf War,
 0 President Bush did not seek congressional support for the operation.
 1 Congress passed a resolution authorizing the president to use force against Iraq.
 0 Congress adopted a formal declaration of war against Iraq. 
-
-
 
 Congress's role in national security policy has typically included all of the following EXCEPT
 0 support or criticism of the president.
@@ -9412,7 +9400,7 @@ Among recent presidents, the average approval ratings in the public opinion poll
 0 below 40 percent.
 0 slowly rising over the course of a president's term(s). 
 
-On average, those who identify with the president's party give approval more than ________percentage points higher than do those who identify with the opposition party.
+On average, those who identify with the president's party give approval more than ________ percentage points higher than do those who identify with the opposition party.
 0 10
 0 20
 1 40

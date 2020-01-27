@@ -1568,7 +1568,7 @@ let obj = {
       ans: 'd'
    },
    q196: {
-      question: "Mussolini&#8217;s Fascist Party gained public support in post-war Italy by?:",
+      question: "Mussolini's Fascist Party gained public support in post-war Italy by?:",
       a: "working within the political system to elected to Parliament.",
       b: "arguing that Italy had been slighted by the Allies at the Peace Conference.",
       c: "taking advantage of labor unrest and directing violence against socialists.",
@@ -2403,7 +2403,7 @@ let obj = {
       question: "Which of the following was not a factor in the collapse of the communist governments of eastern Europe in 1989?:",
       a: "the leadership of Yugoslavia in opposing the Soviet Union.",
       b: "the defeat of the communist regimes in democratic elections.",
-      c: "Gorbachev&#8217;s announcement that the Soviet Union was withdrawing its financial and military support.",
+      c: "Gorbachev's announcement that the Soviet Union was withdrawing its financial and military support.",
       d: "the efforts of the Solidarity movement in Poland.",
       ans: 'c'
    },
@@ -2624,14 +2624,6 @@ let obj = {
       ans: 'd'
    },
    q328: {
-      question: "* cujus regio, ejus religio.  		* reaffirmation of German nationalism. 		* limited to the recognition of Lutheranism and Catholicism. * resolved the conflict between German Protestants and Catholic princes         in the Holy Roman Empire.  All of the statements above describe the?:",
-      a: "Treaty of Westphalia.",
-      b: "Edict of Nantes.",
-      c: "Peace of Augsburg.",
-      d: "Treaty of Paris.",
-      ans: 'c'
-   },
-   q329: {
       question: "Which of the following was the underlying cause of the other four?:",
       a: "the end of unity in Western Christianity.",
       b: "the Protestant Reformation.",
@@ -2639,7 +2631,7 @@ let obj = {
       d: "the Great Schism characterized by the Avignon papacy and the struggle between Pope Boniface XVIII and the French king, Philip IV.",
       ans: 'd'
    },
-   q330: {
+   q329: {
       question: "By the end of the 16c, the Protestant Reformation had extended its influence to all of the following nations EXCEPT?:",
       a: "the Holy Roman Empire.",
       b: "Spain.",
@@ -2647,7 +2639,7 @@ let obj = {
       d: "England.",
       ans: 'b'
    },
-   q331: {
+   q330: {
       question: " When the coin in the coffer rings, the soul from Purgatory springs.  This jingle was most likely spoken by?:",
       a: "Johannes Tetzel.",
       b: "Martin Luther.",
@@ -2655,7 +2647,7 @@ let obj = {
       d: "John Knox.",
       ans: 'a'
    },
-   q332: {
+   q331: {
       question: "The Schmalkaldic War (1546-1547) was begun by?:",
       a: "the Hapsburg to extend their empire.",
       b: "Philip II of Spain to subdue the Netherlands.",
@@ -2663,7 +2655,7 @@ let obj = {
       d: "Charles V to restore Catholicism to the Holy Roman Empire.",
       ans: 'd'
    },
-   q333: {
+   q332: {
       question: "Calvinist laws prohibited?:",
       a: "investments and profits.",
       b: "dancing and gambling.",
@@ -2671,7 +2663,7 @@ let obj = {
       d: "capital punishment.",
       ans: 'b'
    },
-   q334: {
+   q333: {
       question: "Ulrich Zwingli was responsible for the Protestant conversion of?:",
       a: "the Netherlands.",
       b: "France.",
@@ -2679,7 +2671,7 @@ let obj = {
       d: "Portugal.",
       ans: 'c'
    },
-   q335: {
+   q334: {
       question: "The Diet of Worms was?:",
       a: "an Imperial Council that Martin Luther refused to attend.",
       b: "the site of a debate between Martin Luther and John Eck.",
@@ -2687,7 +2679,7 @@ let obj = {
       d: "an Imperial Council that ordered Martin Luther to recant and condemned him when he refused.",
       ans: 'd'
    },
-   q336: {
+   q335: {
       question: "The Peace of Augsburg (1555)?:",
       a: "allowed every individual in the Holy Roman Empire to choose between Lutheranism and Catholicism.",
       b: "made Calvinism the official religion of the Holy Roman Empire.",
@@ -2695,7 +2687,7 @@ let obj = {
       d: "permitted only the ruler of each state in the Empire to choose between Lutheranism and Catholicism.",
       ans: 'd'
    },
-   q337: {
+   q336: {
       question: "  All are not created on equal terms, but some are preordained to eternal life, others to eternal damnation; and, accordingly, as each has been created for one or the other of these ends, we say that he has been predestined to life or death.  This statement above reflects an essential view of?:",
       a: "John Calvin.",
       b: "Desiderius Erasmus.",
@@ -2703,7 +2695,7 @@ let obj = {
       d: "Ulrich Zwingli.",
       ans: 'a'
    },
-   q338: {
+   q337: {
       question: "Probably the most important reason for the popularity of Lutheranism among the Northern German princes was that it?:",
       a: "attacked the idea of divinely established Papal authority.",
       b: "it made Germany politically weaker.",
@@ -2711,7 +2703,7 @@ let obj = {
       d: "placed considerable emphasis upon the Emperor.",
       ans: 'a'
    },
-   q339: {
+   q338: {
       question: "Martin Luther rejected which of the following?:",
       a: "the priesthood of all believers",
       b: "justification through faith alone",
@@ -2719,7 +2711,7 @@ let obj = {
       d: "financial payment for the remission of sins",
       ans: 'd'
    },
-   q340: {
+   q339: {
       question: "Which of the following is not considered a cause of the Protestant Reformation?:",
       a: "northern Renaissance scholars\' interest in early biblical texts.",
       b: "the reform decrees of the Council of Trent.",
@@ -2727,7 +2719,7 @@ let obj = {
       d: "nationalist movements in the German states of the Holy Roman Empire.",
       ans: 'b'
    },
-   q341: {
+   q340: {
       question: "The Brethren of Common Life represent?:",
       a: "the extent of Protestant conversions in Italy.",
       b: "the intense religious scholarship in Swiss monasteries.",
@@ -2735,7 +2727,7 @@ let obj = {
       d: "an example of pre-Reformation popular piety.",
       ans: 'd'
    },
-   q342: {
+   q341: {
       question: "John Wycliffe and John Huss both appealed to the superiority of?:",
       a: "the kings.",
       b: "the Church Councils.",
@@ -2743,7 +2735,7 @@ let obj = {
       d: "the Catholic clergy.",
       ans: 'c'
    },
-   q343: {
+   q342: {
       question: "Calvin insisted upon strict observance of moral laws because?:",
       a: "moral behavior was an outward sign that the person was probably of the elect.",
       b: "he saw no connection between moral law and salvation.",
@@ -2751,7 +2743,7 @@ let obj = {
       d: "he believed that government could be dispensed with if moral laws were closely obeyed.",
       ans: 'a'
    },
-   q344: {
+   q343: {
       question: "Many German peasants were attracted to Luther\'s ideas chiefly because they?:",
       a: "thought that his principles would get them into heaven directly, without having to pass through purgatory.",
       b: "believed he justified their refusal to pay tithes to the Roman Catholic Church.",
@@ -2759,7 +2751,7 @@ let obj = {
       d: "believed he supported their freedom from serfdom.",
       ans: 'd'
    },
-   q345: {
+   q344: {
       question: "Martin Luther believed that women should?:",
       a: "manage the household economy.",
       b: "be allowed to enter the priesthood.",
@@ -2767,7 +2759,7 @@ let obj = {
       d: "rule the household.",
       ans: 'd'
    },
-   q346: {
+   q345: {
       question: "A result of the Protestant Reformation of the 16c was the?:",
       a: "establishment of state churches in England, Scotland, and northern Germany.",
       b: "separation of Church and State in France.",
@@ -2775,7 +2767,7 @@ let obj = {
       d: "collapse of the temporal and spiritual power of the Pope.",
       ans: 'a'
    },
-   q347: {
+   q346: {
       question: "Calvinism was a theocratic religion because?:",
       a: "it allowed complete freedom of worship.",
       b: "it believed in predestination.",
@@ -2783,7 +2775,7 @@ let obj = {
       d: "it permitted only members of its Church to hold political office.",
       ans: 'd'
    },
-   q348: {
+   q347: {
       question: "The official creed of Lutheranism was summed up in?:",
       a: " The Freedom of a Christian Man. ",
       b: "the  Augsburg Confession. ",
@@ -2791,7 +2783,7 @@ let obj = {
       d: " The Baylonian Captivity of the Church. ",
       ans: 'b'
    },
-   q349: {
+   q348: {
       question: "The popular lay movements that most directly assailed the late medieval Church were the?:",
       a: "Albigensians and Beghards.",
       b: "Cathars and Donatists.",
@@ -2799,7 +2791,7 @@ let obj = {
       d: "Lollards and Hussites.",
       ans: 'd'
    },
-   q350: {
+   q349: {
       question: "The principal reason for the sale of indulgences by the Roman Catholic Church was the?:",
       a: "desire to complete the building of the new St. Peter\'s in Rome.",
       b: "wish of the Church to engage in greater missionary activity.",
@@ -2807,7 +2799,7 @@ let obj = {
       d: "desire to establish more universities to train better clergy.",
       ans: 'a'
    },
-   q351: {
+   q350: {
       question: "The Protestant Reformation?:",
       a: "weakened civil authority.",
       b: "prevented the growth of religious tolerance.",
@@ -2815,7 +2807,7 @@ let obj = {
       d: "prevented Catholicism from spreading outside Europe.",
       ans: 'c'
    },
-   q352: {
+   q351: {
       question: "The printing press helped the Reformation succeed for all of the following reasons EXCEPT?:",
       a: "it allowed for the rapid dissemination of radical ideas.",
       b: "it allowed Martin Luther to publish and disseminate his works.",
@@ -2823,7 +2815,7 @@ let obj = {
       d: "it decreased the cost of reading materials and made them more affordable to the middle and lower classes.",
       ans: 'c'
    },
-   q353: {
+   q352: {
       question: "The Council of Trent was important because?:",
       a: "it provided for a new system to elect the pope.",
       b: "it called for acceptance of Lutheran principles.",
@@ -2831,7 +2823,7 @@ let obj = {
       d: "it reaffirmed the traditional doctrines of the Catholic Church.",
       ans: 'd'
    },
-   q354: {
+   q353: {
       question: "The Reformation in Germany resulted in?:",
       a: "a unified German state.",
       b: "political fragmentation.",
@@ -2839,7 +2831,7 @@ let obj = {
       d: "secular freedom for the peasantry.",
       ans: 'b'
    },
-   q355: {
+   q354: {
       question: "The English Reformation was peculiar because the government broke with Rome?:",
       a: "when there was no theological dispute between king and pope.",
       b: "after the pope took the side of the nobility against the king.",
@@ -2847,7 +2839,7 @@ let obj = {
       d: "after it took the side of France in a political dispute.",
       ans: 'a'
    },
-   q356: {
+   q355: {
       question: "England\'s break with the Roman church became official with the passage of the?:",
       a: "Six Articles.",
       b: "The  Ninety-Five Thesis. ",
@@ -2855,7 +2847,7 @@ let obj = {
       d: "Act of Supremacy.",
       ans: 'd'
    },
-   q357: {
+   q356: {
       question: "Martin Luther intended his  Ninety-Five Theses? :",
       a: "to lead to a break with the Roman Catholic Church.",
       b: "to initiate a debate on the buying and selling of indulgences.",
@@ -2863,7 +2855,7 @@ let obj = {
       d: "to justify the buying and selling of indulgences.",
       ans: 'b'
    },
-   q358: {
+   q357: {
       question: "The Reformation influenced the development of the modern world primarily by?:",
       a: "reducing the power of the state over the lives of ordinary people.",
       b: "providing some justification for challenging the absolute authority of kings.",
@@ -2871,7 +2863,7 @@ let obj = {
       d: "believing in complete religious freedom for everyone.",
       ans: 'b'
    },
-   q359: {
+   q358: {
       question: "The \"Weber Thesis\" attempted to explain the connections between the rise of Calvinism and the rise of?:",
       a: "absolute monarchies.",
       b: "Anglicanism.",
@@ -2879,7 +2871,7 @@ let obj = {
       d: "capitalism.",
       ans: 'd'
    },
-   q360: {
+   q359: {
       question: "In Geneva, the Calvinists?:",
       a: "were crushed by the Catholic troops of the Holy Roman Emperor.",
       b: "reformed the city with little opposition from an enthusiastic populace.",
@@ -2887,7 +2879,7 @@ let obj = {
       d: "withdrew the Ecclesiastical Ordinances in 1541.",
       ans: 'c'
    },
-   q361: {
+   q360: {
       question: "The Elizabethan Settlement?:",
       a: "established the Church of England.",
       b: "returned England to the Roman Catholic Church.",
@@ -2895,7 +2887,7 @@ let obj = {
       d: "made militant Calvinism the official religion of England.",
       ans: 'a'
    },
-   q362: {
+   q361: {
       question: "Which of the following supported Martin Luther?:",
       a: "Holy Roman Emperor Charles V.",
       b: "the papal ambassador (legate) in Germany.",
@@ -2903,7 +2895,7 @@ let obj = {
       d: "Prince Frederick III, the Elector of Saxony.",
       ans: 'd'
    },
-   q363: {
+   q362: {
       question: "Pope Paul III did all of the following EXCEPT?:",
       a: "call the Council of Trent.",
       b: "reorganize the Roman Inquisition.",
@@ -2911,7 +2903,7 @@ let obj = {
       d: "reconcile Catholicism with Protestantism at the Imperial Diet of Regensburg.",
       ans: 'd'
    },
-   q364: {
+   q363: {
       question: "This religious order became the tool of the papacy in their crusade against the spread of Protestantism in Europe in the 16c?:",
       a: "the Society of Jesus (Jesuits).",
       b: "the Tridentines.",
@@ -2919,7 +2911,7 @@ let obj = {
       d: "the Grey Franciscans.",
       ans: 'a'
    },
-   q365: {
+   q364: {
       question: "Catholicism was recognized as the official religion of France but limited toleration was extended to Calvinists by the?:",
       a: "Peace of Augsburg.",
       b: "Edict of Nantes.",
@@ -2927,7 +2919,7 @@ let obj = {
       d: "Treaty of Tordesillas.",
       ans: 'b'
    },
-   q366: {
+   q365: {
       question: "The religious climate of France prior to the French Wars of Religion was best characterized by?:",
       a: "a nobility that was nearly 50% Huguenots.",
       b: "a population split evenly between Huguenots and Catholics.",
@@ -2935,7 +2927,7 @@ let obj = {
       d: "a poorly organized Huguenot opposition to a Catholic majority.",
       ans: 'a'
    },
-   q367: {
+   q366: {
       question: "The remark attributed to the French king, Henry IV, that  Paris is worth a Mass , is usually interpreted to mean that he?:",
       a: "put political necessities above personal beliefs.",
       b: "was a particularly devout Catholic.",
@@ -2943,7 +2935,7 @@ let obj = {
       d: "supported the policies of the Catholic League.",
       ans: 'a'
    },
-   q368: {
+   q367: {
       question: "In 16c and 17c Europe, the member of a community most likely to be accused of witchcraft was?:",
       a: "a merchant.",
       b: "a royal official.",
@@ -2951,7 +2943,7 @@ let obj = {
       d: "an elderly, widowed woman.",
       ans: 'd'
    },
-   q369: {
+   q368: {
       question: "In the late 1620s and early 1630s, King Gustavus Adolphus of Sweden played a key role in European affairs by?:",
       a: "opposing the expansionist plans of Cardinal Richelieu of France.",
       b: "acting as intermediary between Catholic and Lutheran governments.",
@@ -2959,7 +2951,7 @@ let obj = {
       d: "allying with Habsburg Spain to challenge British sea power.",
       ans: 'c'
    },
-   q370: {
+   q369: {
       question: "The Peace of Westphalia?:",
       a: "reconfirmed the power and grandeur of the Holy Roman Empire.",
       b: "gave Sweden new territories along the Baltic Sea coast.",
@@ -2967,7 +2959,7 @@ let obj = {
       d: "weakened the Holy Roman Empire.",
       ans: 'd'
    },
-   q371: {
+   q370: {
       question: "The St. Bartholomew\'s Day Massacre?:",
       a: "decimated the ranks of the Protestant leadership but failed to suppress the anti-Catholic movement in Europe.",
       b: "was successful and led to the collapse of French Protestantism.",
@@ -2975,7 +2967,7 @@ let obj = {
       d: "was followed by an English effort to assist the Huguenots.",
       ans: 'a'
    },
-   q372: {
+   q371: {
       question: "The Thirty Years\' War became primarily a political conflict during the?:",
       a: "Danish phase.",
       b: "Italian phase.",
@@ -2983,7 +2975,7 @@ let obj = {
       d: "Bohemian phase.",
       ans: 'c'
    },
-   q373: {
+   q372: {
       question: "In general, which of the following MOST accurately reflects the state of Europe in 1648?:",
       a: "the northwest of Europe was predominantly Protestant while the south was mostly Catholic.",
       b: "Catholicism was triumphant everywhere in Europe.",
@@ -2991,7 +2983,7 @@ let obj = {
       d: "the Holy Roman Empire emerged as a completely Lutheran sphere of influence.",
       ans: 'a'
    },
-   q374: {
+   q373: {
       question: "All of the following were consequences of the Thirty Years\' War EXCEPT the?:",
       a: "settlement of the religious wars between Catholics and Protestants in Germany.",
       b: "depopulation and economic stagnation of Central Europe.",
@@ -2999,7 +2991,7 @@ let obj = {
       d: "predominance of France in Europe.",
       ans: 'c'
    },
-   q375: {
+   q374: {
       question: "The Church\'s view of witchcraft was that?:",
       a: "there was no such thing, since there was no supernatural power except that of God.",
       b: "women were less involved in witchcraft than men because they inherited the spiritual grace of the Virgin Mary.",
@@ -3007,7 +2999,7 @@ let obj = {
       d: "witches must be put to death for the good of society, but they might achieve salvation if they recanted before execution.",
       ans: 'd'
    },
-   q376: {
+   q375: {
       question: "The rebellions that swept through Europe at the time of the Thirty Years\' War indirectly resulted in?:",
       a: "a decline in the power of the European middle class.",
       b: "a tremendous decline of wealth in Spain.",
@@ -3015,7 +3007,7 @@ let obj = {
       d: "an increase in the power of the European monarchies.",
       ans: 'd'
    },
-   q377: {
+   q376: {
       question: "Historians who argue that the Treaties of Westphalia mark the beginning of a new era in diplomatic history cite all of the following arguments EXCEPT?:",
       a: "papal objections to the treaties were ignored and the treaties did not receive papal sanction.",
       b: "the Austrian Habsburgs abandones their Spanish cousins.",
@@ -3023,7 +3015,7 @@ let obj = {
       d: "the treaties laid the groundwork for the subsequent rise of Russia as a major Continental power.",
       ans: 'd'
    },
-   q378: {
+   q377: {
       question: "The mission of the Spanish Armada in 1588 was to?:",
       a: "acquire territory in the Baltic area.",
       b: "reunite the throne of Spain.",
@@ -3031,7 +3023,7 @@ let obj = {
       d: "replace Queen Elizabeth with a Catholic monarch.",
       ans: 'd'
    },
-   q379: {
+   q378: {
       question: "The  Malleus Maleficarum ?:",
       a: "for years was considered the standard handbook on witches.",
       b: "gave details on how to gain a confession from a heretic.",
@@ -3039,7 +3031,7 @@ let obj = {
       d: "was written by John Calvin.",
       ans: 'a'
    },
-   q380: {
+   q379: {
       question: "Following the Thirty Years\' War, what country became dominant in Europe?:",
       a: "Sweden.",
       b: "France.",
@@ -3047,7 +3039,7 @@ let obj = {
       d: "Germany.",
       ans: 'b'
    },
-   q381: {
+   q380: {
       question: "The 16c religious wars that had plagued France were largely ended with the?:",
       a: "Edict of Nantes.",
       b: "accession to the throne of Louis XI.",
@@ -3055,7 +3047,7 @@ let obj = {
       d: "massacre of St. Bartholomew\'s Day.",
       ans: 'a'
    },
-   q382: {
+   q381: {
       question: "Which of the following is TRUE of the Dutch Revolt?:",
       a: "the nobleman, William of Orange, led the revolt.",
       b: "the Dutch flooded their own lands to hamper the Spanish.",
@@ -3063,7 +3055,7 @@ let obj = {
       d: "all of these choices are correct.",
       ans: 'd'
    },
-   q383: {
+   q382: {
       question: "The word vernacular is used to describe?:",
       a: "the structure of the human skeleton.",
       b: "a type of crossbow used by British archers in the Hundred Years\' War.",
@@ -3071,7 +3063,7 @@ let obj = {
       d: "the spoken language of an area.",
       ans: 'd'
    },
-   q384: {
+   q383: {
       question: "The dominant trend of government in Renaissance city-states in Italy was from?:",
       a: "republicanism to despotism.",
       b: "democracy to theocracy.",
@@ -3079,7 +3071,7 @@ let obj = {
       d: "despotism to theocracy.",
       ans: 'a'
    },
-   q385: {
+   q384: {
       question: "Which of the following locations had the greatest influence on shaping the values of the Italian Renaissance?:",
       a: "the manor of a nobleman.",
       b: "the cottage of a serf.",
@@ -3087,7 +3079,7 @@ let obj = {
       d: "the manufacturing districts of an Italian city.",
       ans: 'c'
    },
-   q386: {
+   q385: {
       question: "He is sometimes called the \"Father of Humanism?:\"",
       a: "Sir Thomas More.",
       b: "Petrarch.",
@@ -3095,7 +3087,7 @@ let obj = {
       d: "Pico della Mirandola.",
       ans: 'b'
    },
-   q387: {
+   q386: {
       question: "Renaissance education was characterized by?:",
       a: "emphasis on developing the \"complete individual\".",
       b: "tendencies to criticize the Church and openly encourage religious revolt.",
@@ -3103,7 +3095,7 @@ let obj = {
       d: "a hesitancy to question old teachings.",
       ans: 'a'
    },
-   q388: {
+   q387: {
       question: "The favorite classical author of Renaissance scholars was?:",
       a: "Virgil.",
       b: "Homer.",
@@ -3111,7 +3103,7 @@ let obj = {
       d: "Plato.",
       ans: 'c'
    },
-   q389: {
+   q388: {
       question: "Which of the following was NOT a characteristic of the Renaissance?:	",
       a: "reemphasis on the culture of antiquity.",
       b: "search for balance and proportion in politics.",
@@ -3119,7 +3111,7 @@ let obj = {
       d: "strong anti-Christian sentiment.",
       ans: 'd'
    },
-   q390: {
+   q389: {
       question: "The early Renaissance humanists in Italy would have been MOST interested in?:",
       a: "translating a portion of the Bible into the vernacular.",
       b: "perfecting the Italian language.",
@@ -3127,7 +3119,7 @@ let obj = {
       d: "finding an old Greek manuscript.",
       ans: 'd'
    },
-   q391: {
+   q390: {
       question: "Castiglione, in his work,  The Courtier ?",
       a: "provided a handbook for politicians.",
       b: "suggested the proper social graces for a young Renaissance noble.",
@@ -3135,7 +3127,7 @@ let obj = {
       d: "condemned the Church.",
       ans: 'b'
    },
-   q392: {
+   q391: {
       question: "The literary masterpiece that satirized the ideals of knighthood and chivalry was written by?:",
       a: "Rabelais.",
       b: "Erasmus.",
@@ -3143,7 +3135,7 @@ let obj = {
       d: "Castiglione.",
       ans: 'c'
    },
-   q393: {
+   q392: {
       question: "Renaissance courtiers were?:",
       a: "people who worked for the Venetian Republic.",
       b: "slaves of the  doge  of Venice.",
@@ -3151,7 +3143,7 @@ let obj = {
       d: "military leaders whose conquests spread the Renaissance to northern Europe.",
       ans: 'c'
    },
-   q394: {
+   q393: {
       question: "Civic humanists?:",
       a: "advocated active service to the city-state.",
       b: "opposed the use of public funds to patronize artists.",
@@ -3159,7 +3151,7 @@ let obj = {
       d: "advocated a life of scholarly contemplation.",
       ans: 'a'
    },
-   q395: {
+   q394: {
       question: "Northern humanists differed from their Italian predecessors?:",
       a: "by concentrating on the ancient Greek authors.",
       b: "in that they had no need for rich patrons to support their work.",
@@ -3167,7 +3159,7 @@ let obj = {
       d: "by refusing to use the vernacular in their work.",
       ans: 'c'
    },
-   q396: {
+   q395: {
       question: " Art and sciences are not cast in a mold, but are perfected by degrees, by often handling and polishing, as bears leisurely lick their cubs into form.  (Michel de Montaigne,  Works II. xii , 1533-1592)",
       a: "skepticism concerning known or revealed truth.",
       b: "atheism and his subsequent execution as a heretic.",
@@ -3175,7 +3167,7 @@ let obj = {
       d: "relativism in reference to absolute good or evil.",
       ans: 'a'
    },
-   q397: {
+   q396: {
       question: "Mannerist art was characterized by?:",
       a: "formality, balance, restraint.",
       b: "emphasis on decorative design.",
@@ -3183,7 +3175,7 @@ let obj = {
       d: "distorted human figures and unnatural lighting effects.",
       ans: 'd'
    },
-   q398: {
+   q397: {
       question: "According to Jacob Burckhardt, the Renaissance represented?:",
       a: "the greatest period of economic recovery in the history of Western civilization.",
       b: "a period of moral decline.",
@@ -3191,7 +3183,7 @@ let obj = {
       d: "a distinct break from the Middle Ages.",
       ans: 'd'
    },
-   q399: {
+   q398: {
       question: "Pico della Mirandola\'s  Oration on the Dignity of Man  stated that?:",
       a: "humans were fallen creatures, but regain their place by following God\'s will.",
       b: "God gave humans free will so that they could choose to be earthly or spiritual creatures.",
@@ -3199,7 +3191,7 @@ let obj = {
       d: "only through prayer and good works could man achieve his full potential.",
       ans: 'b'
    },
-   q400: {
+   q399: {
       question: "Liberal education in the Renaissance included all of the following EXCEPT?:",
       a: "the study of military theory.",
       b: "a stress on physical education.",
@@ -3207,7 +3199,7 @@ let obj = {
       d: "the study of music.",
       ans: 'a'
    },
-   q401: {
+   q400: {
       question: "Thomas More\'s  Utopia ?:",
       a: "illustrated the northern humanists\' break with the Catholic church.",
       b: "represented the high point of northern humanist thought.",
@@ -3215,7 +3207,7 @@ let obj = {
       d: "presented a revolutionary social order based on communal living and property.",
       ans: 'd'
    },
-   q402: {
+   q401: {
       question: " The Prince  argued that?:",
       a: "a prince must always behave in a moral fashion.",
       b: "the prince\'s highest obligation was to God.",
@@ -3223,7 +3215,7 @@ let obj = {
       d: "the prince must give one-half of his wealth to the poor and to the Church.",
       ans: 'c'
    },
-   q403: {
+   q402: {
       question: "Italian Renaissance art can be most appropriately described as?:",
       a: "a revolt against the classical style and the advancement of a new artistic standard based on humanism.",
       b: "NeoClassicism in which the traditional characteristics of harmony and symmetry were valued.",
@@ -3231,7 +3223,7 @@ let obj = {
       d: "romantic idealism predicated upon notions of secular fantasy.",
       ans: 'b'
    },
-   q404: {
+   q403: {
       question: "Lorenzo Valla gained fame for?:",
       a: "becoming ruler of the Renaissance city of Florence.",
       b: "his inventions.",
@@ -3239,7 +3231,7 @@ let obj = {
       d: "proving the Donation of Constantine a fraud.",
       ans: 'd'
    },
-   q405: {
+   q404: {
       question: "Construed as an intellectual threat to the Church, Humanism?:",
       a: "argued that the episcopal order of the Roman church should be altered.",
       b: "condemned the Church for not addressing the needs of the poor.",
@@ -3247,7 +3239,7 @@ let obj = {
       d: "maintained that the true source of authority within the Church was scripture.",
       ans: 'd'
    },
-   q406: {
+   q405: {
       question: "The primary reason for Bolshevik success in taking over the government in November, 1917 was?:",
       a: "the overwhelming support the Bolsheviks had from the masses of the Russian people.",
       b: "the collapse of workers\' and soldiers\' soviets, which had been the backbone of Provisional Government support.",
@@ -3255,7 +3247,7 @@ let obj = {
       d: "the inability of the Provisional Government to solve the overwhelming problems facing the Russian people.",
       ans: 'd'
    },
-   q407: {
+   q406: {
       question: "Which of the following best describes the wartime Russian government?:",
       a: "Holy man Rasputin ran the bureaucracy efficiently.",
       b: "The Tsarina Alexandra kept Nicholas ignorant of domestic problems.",
@@ -3263,7 +3255,7 @@ let obj = {
       d: "Newer weapons kept Russian losses to a minimum.",
       ans: 'b'
    },
-   q408: {
+   q407: {
       question: "After the Revolution of 1905 in Russia?:",
       a: "the Tsar\'s powers of appointment and decision-making were curtailed.",
       b: "the government tried to estrengthen the village-communal system of agriculture in order to improve conditions of the peasants.",
@@ -3271,7 +3263,7 @@ let obj = {
       d: "workers were granted new rights to welfare and participation.",
       ans: 'c'
    },
-   q409: {
+   q408: {
       question: "Stalin\'s policy in postwar Russia is best characterized as?:",
       a: "rapid industrialization and agricultural collectivism.",
       b: "rearmament was given first priority in industry.",
@@ -3279,7 +3271,7 @@ let obj = {
       d: "a laissez-faire policy.",
       ans: 'a'
    },
-   q410: {
+   q409: {
       question: "Which of the following was the result of the Treaty of Brest-Litovsk with Germany in 1918?:",
       a: "Russia lost one-third of her total area.",
       b: "it strengthened the government of Alexander Kerensky.",
@@ -3287,7 +3279,7 @@ let obj = {
       d: "Russia signed a military alliance with the Western powers.",
       ans: 'a'
    },
-   q411: {
+   q410: {
       question: "Trotsky and Stalin\'s interpretations of Marxism differed most significantly in which of the following ways?:",
       a: "Stalin wanted to foster revolution in Western Europe while Trotsky wanted to develop the Soviet Union first.",
       b: "Trotsky wanted to foster world revolution while Stalin wanted \"to build Socialism in one country.",
@@ -3295,7 +3287,7 @@ let obj = {
       d: "Trotsky was a deviationist; Stalin followed the Party line.",
       ans: 'b'
    },
-   q412: {
+   q411: {
       question: "The benefits of the Soviet system included all of the following EXCEPT?:",
       a: "full employment.",
       b: "low-cost utilities.",
@@ -3303,7 +3295,7 @@ let obj = {
       d: "free education.",
       ans: 'c'
    },
-   q413: {
+   q412: {
       question: "Which slogan expresses the ideal of the Bolshevik Revolution of 1917?:",
       a: "Bread, Land, Peace.",
       b: "Liberty, Equality, Fraternity.",
@@ -3311,15 +3303,15 @@ let obj = {
       d: "Russification.",
       ans: 'a'
    },
-   q414: {
-      question: "Which of the following was not part of Count Witte&#8217;s policy of industrialization?:",
+   q413: {
+      question: "Which of the following was not part of Count Witte's policy of industrialization?:",
       a: "banking reform to encourage domestic savings and investment.",
       b: "promotion of foreign investment in Russian industry.",
       c: "construction of the trans-Siberian railroad.",
       d: "nationalization of key industries such as coal and steel.",
       ans: 'd'
    },
-   q415: {
+   q414: {
       question: "Which of the following statements is most valid regarding the October Manifesto issued by Czar Nicholas II in 1905?:",
       a: "it precipitated a general strike that paralyzed the economy.",
       b: "it brought about significant constitutional reform of the government.",
@@ -3327,7 +3319,7 @@ let obj = {
       d: "it was an expedient and temporary promise of reform in response to civil unrest.",
       ans: 'd'
    },
-   q416: {
+   q415: {
       question: "Which country did NOT send troops to fight against the Bolsheviks in the Civil War?:",
       a: "Britain.",
       b: "Japan.",
@@ -3335,7 +3327,7 @@ let obj = {
       d: "Germany.",
       ans: 'd'
    },
-   q417: {
+   q416: {
       question: "At the heart of the Soviet Five-Year Plan was the idea that?:",
       a: "Soviet foreign trade would improve if customers could sign five-year contracts.",
       b: "the Communist Party should let the state handle economic policy without interfering.",
@@ -3343,7 +3335,7 @@ let obj = {
       d: "workers and farmers would be able to plan vacations more effectively if they had five-year work schedules.",
       ans: 'c'
    },
-   q418: {
+   q417: {
       question: "Lenin had to adapt pure Marxist ideology to the situation in Russia because?:",
       a: "workers in Russia played virtually no part in the activities of March 1917. ",
       b: "the majority of the Russian population were peasants, and Marx said little about peasants\' revolutionary potential.",
@@ -3351,7 +3343,7 @@ let obj = {
       d: "few revolutionary groups in Russia were acquainted with Marx\'s philosophy or plan of action.",
       ans: 'b'
    },
-   q419: {
+   q418: {
       question: " Which of the following best characterizes the Russian Provisional Government of March-November 1917?:",
       a: "a group of radical intellectuals committed to world revolution.",
       b: "monarchists who supported the czar.",
@@ -3359,7 +3351,7 @@ let obj = {
       d: "middle-class and intellectual leaders who had little sympathy for workers and peasants.",
       ans: 'd'
    },
-   q420: {
+   q419: {
       question: "Which of the following BEST describes the essence of Lenin\'s New Economic Policy (NEP)?:",
       a: "mass opportunities for education.",
       b: "rapid industrialization and emphasis upon heavy industry.",
@@ -3367,7 +3359,7 @@ let obj = {
       d: "a significant resumption of private ownership.",
       ans: 'd'
    },
-   q421: {
+   q420: {
       question: "The Kronstadt Rebellion was caused by?:",
       a: "the economic disaster and social upheaval of the Russian Civil War.",
       b: "the desire of Ukrainian naval officers to secede from the new Soviet Union.",
@@ -3375,7 +3367,7 @@ let obj = {
       d: "the influence of the Spartacist movement.",
       ans: 'a'
    },
-   q422: {
+   q421: {
       question: "The Soviet controlled Comintern (Communist International) was?:",
       a: "the name Stalin chose for the Communist party.",
       b: "the policy of covertly financing subversive organizations in western Europe and the United States.",
@@ -3383,7 +3375,7 @@ let obj = {
       d: "a branch of the Soviet Military dedicated to acquiring overseas colonies for the Soviet Union.",
       ans: 'c'
    },
-   q423: {
+   q422: {
       question: "Which of the following is a uniquely Russian contribution to Marxist theory?:",
       a: "the sole determinant of value is human labor.",
       b: "the proletariat inevitably becomes conscious of its revolutionary mission.",
@@ -3391,7 +3383,7 @@ let obj = {
       d: "a communist revolution must be led by a party of professional revolutionaries.",
       ans: 'd'
    },
-   q424: {
+   q423: {
       question: "Lenin called the system through which he implemented his political and economic policies in the 1918-1919 period?:",
       a: "people\'s democracy.",
       b: "communism triumphant.",
@@ -3399,7 +3391,7 @@ let obj = {
       d: "socialist revolutionism.",
       ans: 'c'
    },
-   q425: {
+   q424: {
       question: "The Ptolemaic conception of the universe was also known as?:",
       a: "the lunacentric conception.",
       b: "God\'s master plan.",
@@ -3407,7 +3399,7 @@ let obj = {
       d: "the expanding universe.",
       ans: 'c'
    },
-   q426: {
+   q425: {
       question: "Tycho Brahe?:",
       a: "was a major supporter of Copernicus\' theory within the scientific community.",
       b: "did most of his work in Italy.",
@@ -3415,7 +3407,7 @@ let obj = {
       d: "recorded astronomical data from the observatory he built in Denmark.",
       ans: 'd'
    },
-   q427: {
+   q426: {
       question: "Sir Francis Bacon\'s contribution to philosophy, Novum Organum, was based upon?:",
       a: "developing Neo-Platonism.",
       b: "developing Scholasticism.",
@@ -3423,7 +3415,7 @@ let obj = {
       d: "glorifying inductive reasoning.",
       ans: 'd'
    },
-   q428: {
+   q427: {
       question: "Newton\'s mathematical discoveries included?:",
       a: "calculus, a mathematical means of measuring rates of change.",
       b: "algebra and set theory.",
@@ -3431,7 +3423,7 @@ let obj = {
       d: "the whole number system.",
       ans: 'a'
    },
-   q429: {
+   q428: {
       question: "All of the following were causes of the Scientific Revolution EXCEPT?:",
       a: "improvements in scientific instruments.",
       b: "the contributions of medieval universities.",
@@ -3439,7 +3431,7 @@ let obj = {
       d: "the active support of the papacy.",
       ans: 'd'
    },
-   q430: {
+   q429: {
       question: "Which of the following statements most accurately reflects the attitude of the states of Europe toward the new science?:",
       a: "in France and other Catholic countries, monarchs attempted to suppress the new science.",
       b: "outside of Italy and Poland, the new science was scarcely known.",
@@ -3447,7 +3439,7 @@ let obj = {
       d: "the Russian Tsars welcomed western scientists who were persecuted for their views.",
       ans: 'c'
    },
-   q431: {
+   q430: {
       question: "Galileo\'s ideas on motion included?:",
       a: "the idea that a rush of air behind a projectile kept it in motion.",
       b: "the principle of inertia.",
@@ -3455,7 +3447,7 @@ let obj = {
       d: "the spring reaction model.",
       ans: 'b'
    },
-   q432: {
+   q431: {
       question: "The Scientific Revolution?:",
       a: "proved that women were physically inferior to men.",
       b: "supported the idea that men were more important than women in the reproductive process.",
@@ -3463,7 +3455,7 @@ let obj = {
       d: "challenged the idea that women were inferior to men.",
       ans: 'd'
    },
-   q433: {
+   q432: {
       question: "The Scientific Revolution challenged Christianity because?:",
       a: "it undermined the literal interpretation of the Bible.",
       b: "it proved Jesus was not divine.",
@@ -3471,7 +3463,7 @@ let obj = {
       d: "it proved the resurrection never took place.",
       ans: 'a'
    },
-   q434: {
+   q433: {
       question: "As a result of the scientific theories developed through the 16c and 17, Europeans developed a conception of the universe?:",
       a: "as geocentric.",
       b: "as guided in every physical realm by a personal God.",
@@ -3479,7 +3471,7 @@ let obj = {
       d: "as governed by natural laws.",
       ans: 'd'
    },
-   q435: {
+   q434: {
       question: "Spinoza differed with all other philosophers of his day about the?:",
       a: "divinity of the material universe.",
       b: "rational elements of Christianity.",
@@ -3487,7 +3479,7 @@ let obj = {
       d: "dangers to European civilization of the Jewish faith.",
       ans: 'a'
    },
-   q436: {
+   q435: {
       question: "Galileo Galilei is credited with what important scientific discovery?:",
       a: "the organ responsible for circulating blood is the heart.",
       b: "inductive observation, the development of hypotheses, experimentation, and orgranization are the keys to scientific industry.",
@@ -3495,7 +3487,7 @@ let obj = {
       d: "mathematics can describe natural phenomena.",
       ans: 'c'
    },
-   q437: {
+   q436: {
       question: "Which of the following was NOT a difficulty with the Aristotelian cosmos?",
       a: "It did not explain why planets did not appear to be equidistant from earth.",
       b: "It accurately predicted the movement of the planets.",
@@ -3503,7 +3495,7 @@ let obj = {
       d: "It failed to account for the movement of the planets.",
       ans: 'd'
    },
-   q438: {
+   q437: {
       question: "Descartes\' idea was that the world consists of two fundamental entities or substances, which we can call?:",
       a: "water and air.",
       b: "the physical and the spiritual.",
@@ -3511,7 +3503,7 @@ let obj = {
       d: "deduction and induction.",
       ans: 'b'
    },
-   q439: {
+   q438: {
       question: "Medieval science was primarily based on?:",
       a: "close observation of nature.",
       b: "pure superstitions.",
@@ -3519,7 +3511,7 @@ let obj = {
       d: "a blending of Christian theology and the writings of classical authors.",
       ans: 'd'
    },
-   q440: {
+   q439: {
       question: "In  De humani corporis fabrica , Andrea Vesalius?:",
       a: "devised a model of the universe.",
       b: "discussed chemical treatments for disease.",
@@ -3527,7 +3519,7 @@ let obj = {
       d: "explained a theory of human evolution.",
       ans: 'c'
    },
-   q441: {
+   q440: {
       question: "The Newtonian, scientific model of the universe is?:",
       a: "mechanistic and predicable.",
       b: "irrational and holistic.",
@@ -3535,7 +3527,7 @@ let obj = {
       d: "mythological and magical.",
       ans: 'a'
    },
-   q442: {
+   q441: {
       question: "The Scientific Revolution and Deism radically transformed Western thinking by?:",
       a: "reaffirming the idea of original sin.",
       b: "requiring all previous scientific writings to be burned.",
@@ -3543,7 +3535,7 @@ let obj = {
       d: "introducing the idea of secular progress.",
       ans: 'd'
    },
-   q443: {
+   q442: {
       question: "Hitler\'s primary motivation for the invasion of the Soviet Union was?:",
       a: "to eliminate any possible resistance to German expansion in the Balkans and the Near East.",
       b: "to block the westward expansion of Japan in Asia.",
@@ -3551,7 +3543,7 @@ let obj = {
       d: "to destroy Bolshevism and acquire  lebensraum  for German colonization.",
       ans: 'd'
    },
-   q444: {
+   q443: {
       question: "Which aspect of the conduct of World War II DIFFERED from that of World War I?:",
       a: "widespread bombing of civilian populations by both sides.",
       b: "dependence upon systems of alliances.",
@@ -3559,7 +3551,7 @@ let obj = {
       d: "use of propaganda by both sides.",
       ans: 'a'
    },
-   q445: {
+   q444: {
       question: "A significant British invention that helped turn the tide in the Battle of Britain against Germany was?:",
       a: "poison gas.",
       b: "radar.",
@@ -3567,7 +3559,7 @@ let obj = {
       d: "\"Tiger\" tank.",
       ans: 'b'
    },
-   q446: {
+   q445: {
       question: "Which aspect of German strategy was employed during BOTH World Wars I and II?:",
       a: "a large-scale military push early in the war in the Balkans.",
       b: "formation of an alliance with Japan.",
@@ -3575,7 +3567,7 @@ let obj = {
       d: "respect for the rights of the U. S. on the sea.",
       ans: 'c'
    },
-   q447: {
+   q446: {
       question: "A social historian would be most likely interested in researching which of the following topics related to World War II?:",
       a: "the diplomatic correspondence between Churchill and Roosevelt.",
       b: "the confrontations that exacerbated the Cold War.",
@@ -3583,7 +3575,7 @@ let obj = {
       d: "women\'s participation in the labor force during the war",
       ans: 'd'
    },
-   q448: {
+   q447: {
       question: "The success of  blitzkrieg  depended mainly on superiority in?:",
       a: "zeppelin production.",
       b: "air power plus mobile ground troops.",
@@ -3591,7 +3583,7 @@ let obj = {
       d: "chemical weapons.",
       ans: 'b'
    },
-   q449: {
+   q448: {
       question: "The major strategic reason for Allied landings in Italy was to?:",
       a: "force Mussolini to resign.",
       b: "rescue Jewish children being hidden in Catholic convents and monasteries.",
@@ -3599,7 +3591,7 @@ let obj = {
       d: "open a second front to take the pressure off the Soviets.",
       ans: 'd'
    },
-   q450: {
+   q449: {
       question: "The important decision made by leading German officials at the Wannsee Conference was?:",
       a: "to develop an atomic bomb.",
       b: "to invade the Soviet Union.",
@@ -3607,7 +3599,7 @@ let obj = {
       d: "to begin implementation of the \"Final Solution\" to the Jewish Question.",
       ans: 'd'
    },
-   q451: {
+   q450: {
       question: "The chief argument between Truman and Stalin at Potsdam in July, 1945, was over?:",
       a: "free elections in eastern Europe.",
       b: "the numbers of tanks Americans and Russians could keep in Europe.",
@@ -3615,7 +3607,7 @@ let obj = {
       d: "what to do with German prisoners of war.",
       ans: 'a'
    },
-   q452: {
+   q451: {
       question: "Why was the Atlantic Charter of 1941 critical to colonial peoples?:",
       a: "in it, the United States promised to intervene militarily in the process of decolonization.",
       b: "it promoted the concept that all people had the right to choose the form of government under which they live.",
@@ -3623,7 +3615,7 @@ let obj = {
       d: "it promised membership for all colonial governments in the United Nations.",
       ans: 'b'
    },
-   q453: {
+   q452: {
       question: "After Hitler occupied most of France, the remainder of the country became?:",
       a: "Communist France under Mendez France.",
       b: "very prosperous.",
@@ -3631,7 +3623,7 @@ let obj = {
       d: "Vichy France under Marshall Henri Petain.",
       ans: 'd'
    },
-   q454: {
+   q453: {
       question: "The tide turned in the Russian theater turned in favor of the Russians when?:",
       a: "German forces were beaten by the Russians in Poland.",
       b: "Allied forces came to the aid of Russian troops in Iran.",
@@ -3639,7 +3631,7 @@ let obj = {
       d: "German forces mutinied and abandoned the siege of Leningrad.",
       ans: 'c'
    },
-   q455: {
+   q454: {
       question: "Nazi occupation in Western Europe differed from that in the east in that?:",
       a: "people in western countries were glad to collaborate with the Germans.",
       b: "Nazi occupation was more extremely brutal in the east, because of Nazi racial ideology.",
@@ -3647,7 +3639,7 @@ let obj = {
       d: "the Nazis treated captured American and British soldiers more humanely in the west than in the east.",
       ans: 'b'
    },
-   q456: {
+   q455: {
       question: "All of the following groups were particularly singled out by the Nazis for extermination EXCEPT?:",
       a: "Jews.",
       b: "homosexuals.",
@@ -3655,7 +3647,7 @@ let obj = {
       d: "Christian clergy.",
       ans: 'd'
    },
-   q457: {
+   q456: {
       question: "Winston Churchill\'s vision for the postwar world?:",
       a: "stressed the balance of power to check the Soviets, and resisted ending colonial empires.",
       b: "sought expansive advantages to guarantee security for his own nation, based on suspicions about his two Allied counterparts.",
@@ -3663,7 +3655,7 @@ let obj = {
       d: "placed first priority in reviving a strong international organization to achieve collective security.",
       ans: 'a'
    },
-   q458: {
+   q457: {
       question: "President Roosevelt and Prime Minister Churchill announced at their wartime conference in Casablanca that their principal war aim was to?:",
       a: "promote the national independence of Third World nations.",
       b: "topple the pro-fascist governments in Spain and Argentina.",
@@ -3671,7 +3663,7 @@ let obj = {
       d: "destroy the last remnants of European imperialism.",
       ans: 'c'
    },
-   q459: {
+   q458: {
       question: "Most Lend-Lease aid was sent to?:",
       a: "Spain and Ethiopia.",
       b: "the Soviet Union and Great Britain.",
@@ -3679,7 +3671,7 @@ let obj = {
       d: "Spain and Italy.",
       ans: 'b'
    },
-   q460: {
+   q459: {
       question: "What exception to unconditional surrender were the Japanese allowed?:",
       a: "none of the Japanese high command would be tried for war crimes.",
       b: "the Japanese were allowed to continue to build jet airplanes.",
@@ -3687,7 +3679,7 @@ let obj = {
       d: "Emperor Hirohito was retained by the Japanese.",
       ans: 'd'
    },
-   q461: {
+   q460: {
       question: "All of the following were results of World War II EXCEPT?:",
       a: "the creation of new states in Europe.",
       b: "the positioning of the United States as a world power.",
@@ -3695,7 +3687,7 @@ let obj = {
       d: "Japan\'s adoption of a democratic constitution.",
       ans: 'a'
    },
-   q462: {
+   q461: {
       question: "Which statement expressed a defense used by some Nazi was criminals at their trials in an attempt to justify their actions during World War II?:",
       a: "in a war, loss of lives cannot be avoided.",
       b: "the end justifies the means.",
@@ -3703,7 +3695,7 @@ let obj = {
       d: "one\'s behavior is not accountable when one is following orders.",
       ans: 'd'
    },
-   q463: {
+   q462: {
       question: "The Austrian annexation of Bosnia in 1908 threatened the nationalist aspirations of which of the following countries?:",
       a: "Turkey.",
       b: "Rumania.",
@@ -3711,7 +3703,7 @@ let obj = {
       d: "France.",
       ans: 'c'
    },
-   q464: {
+   q463: {
       question: "One of the most dangerous outcomes of the Bosnian crisis was that?:",
       a: "Austria lost the provinces of Bosnia and Herzegovina, encouraging the further dismemberment of the empire.",
       b: "Russia and Serbia were humiliated, encouraging them to more reckless and belligerent actions in the future.",
@@ -3719,7 +3711,7 @@ let obj = {
       d: "Germany began to back away from its support of Austria because Austria threatened the peace of Europe.",
       ans: 'b'
    },
-   q465: {
+   q464: {
       question: "All of the following were contributory causes of World War I EXCEPT?:",
       a: "imperialist rivalries.",
       b: "economic competition.",
@@ -3727,7 +3719,7 @@ let obj = {
       d: "Bolshevism.",
       ans: 'd'
    },
-   q466: {
+   q465: {
       question: "The dismissal of Bismarck by Kaiser William II paved the way for an alliance between which of the following countries during World War I?:",
       a: "France and Russia.",
       b: "Germany and Italy.",
@@ -3735,7 +3727,7 @@ let obj = {
       d: "Great Britain and Belgium.",
       ans: 'a'
    },
-   q467: {
+   q466: {
       question: "At the Paris Peace Conference, the two major powers NOT represented were?:",
       a: "Italy and Germany.",
       b: "Turkey and China.",
@@ -3743,7 +3735,7 @@ let obj = {
       d: "Russia and Japan.",
       ans: 'c'
    },
-   q468: {
+   q467: {
       question: "Which state existed in 1919, but NOT in 1914?:",
       a: "Poland.",
       b: "Denmark.",
@@ -3751,7 +3743,7 @@ let obj = {
       d: "Belgium.",
       ans: 'a'
    },
-   q469: {
+   q468: {
       question: "The Schlieffen Plan indicated that the German General Staff?:",
       a: "did not expect to go to war with Russia.",
       b: "expected a long, drawn-out war.",
@@ -3759,7 +3751,7 @@ let obj = {
       d: "did not expect Austria-Hungary to honor the Triple Alliance.",
       ans: 'c'
    },
-   q470: {
+   q469: {
       question: "The major factors that led to German surrender were?:",
       a: "exhaustion of German resources and manpower.",
       b: "stiffened allied resistance following the Treaty of Brest-Litovsk.",
@@ -3767,7 +3759,7 @@ let obj = {
       d: "all of these choices are correct.",
       ans: 'd'
    },
-   q471: {
+   q470: {
       question: "As public morale weakened in the later stages of the war?:",
       a: "workers\' strikes lessened because of brutal suppression.",
       b: "Clemenceau\'s liberal French government let internal dissent dictate government policy.",
@@ -3775,7 +3767,7 @@ let obj = {
       d: "police powers were expanded to include the arrest of dissenters as traitors.",
       ans: 'd'
    },
-   q472: {
+   q471: {
       question: "On the eve of the outbreak of war in Europe in 1914, William II of Germany?:",
       a: "attempted to engage Nicholas II in a diplomatic dislogue to avoid war if at all possible.",
       b: "was plotting the overthrow of Nicholas II of Russia.",
@@ -3783,7 +3775,7 @@ let obj = {
       d: "invited Bismarck to resume his role as Chancellor.",
       ans: 'a'
    },
-   q473: {
+   q472: {
       question: "The \"blank check\" that Kaiser William gave Austria on July 5, 1914?:",
       a: "promised complete German funding of the total amount needed to update the Austrian armed forces.",
       b: "provided clear assurance of German military support for Austria-Hungary against Serbia.",
@@ -3791,7 +3783,7 @@ let obj = {
       d: "attempted to revive the Austro-Russo-German partnership.",
       ans: 'b'
    },
-   q474: {
+   q473: {
       question: "What is the social significance of women working in factories during World War I?:",
       a: "due to the wartime shortage of male workers, even the supervisors were women.",
       b: "women were found to be more adept than men at close detail work.",
@@ -3799,7 +3791,7 @@ let obj = {
       d: "the vital contribution of women to the war effort helped in their liberation from narrow social roles.",
       ans: 'd'
    },
-   q475: {
+   q474: {
       question: "To break the deadlock of trench warfare, nations resorted to all of the following EXCEPT?:",
       a: "the use of tanks.",
       b: "widespread use of poison gas.",
@@ -3807,7 +3799,7 @@ let obj = {
       d: "increased dependence on cavalry.",
       ans: 'd'
    },
-   q476: {
+   q475: {
       question: "British promises and assistance to Arabs fighting in the Middle East were designed to?:",
       a: "create their own independent countries.",
       b: "gain enough Arab good will so that opposition to a new Jewish state would be minimal.",
@@ -3815,7 +3807,7 @@ let obj = {
       d: "help the Allied war effort by denying Arab support to Turkey.",
       ans: 'd'
    },
-   q477: {
+   q476: {
       question: "The most visible effect of World War I on European society was?:",
       a: "an end to unemployment.",
       b: "a dramatic increase in church attendance.",
@@ -3823,7 +3815,7 @@ let obj = {
       d: "a dramatic increase in unemployed workers.",
       ans: 'a'
    },
-   q478: {
+   q477: {
       question: "Article 231 of the Versailles Treaty?:",
       a: "established the League of Nations.",
       b: "divided Germany\'s colonies among the Allies.",
@@ -3831,7 +3823,7 @@ let obj = {
       d: "returned Alsace-Lorraine to France.",
       ans: 'c'
    },
-   q479: {
+   q478: {
       question: "Which of the following was NOT a provision of the Treaty of Versailles?:",
       a: "Germany accepted sole responsibility for starting World War I.",
       b: "Austria was required to pay reparations to the Allies.",
@@ -3839,7 +3831,7 @@ let obj = {
       d: "the Rhineland was demilitarized.",
       ans: 'b'
    },
-   q480: {
+   q479: {
       question: "Which of the following is the most accurate description of the fundamental difference that lay behind what Woodrow Wilson expected from the treaty ending World War I and what the Allies wanted?:",
       a: "the Allies wanted reparations from Germany, and Wilson opposed them.",
       b: "Wilson was hampered by the need to negotiate a treaty that would pass the Senate, whereas the Allies had no political concerns.",
@@ -3847,7 +3839,7 @@ let obj = {
       d: "Wilson wanted a peace that would not lead to another war, whereas the Allies wanted revenge.",
       ans: 'd'
    },
-   q481: {
+   q480: {
       question: "The British won a major propaganda victory at the start of the First World War because of?:",
       a: "the sinking of the Lusitania.",
       b: "the Zimmerman telegram.",
@@ -3855,7 +3847,7 @@ let obj = {
       d: "the destruction by the Germans of major Parisian landmarks.",
       ans: 'c'
    },
-   q482: {
+   q481: {
       question: "The mandate system, created by the League of Nations, was a form of colonialism where the colonial rulers were?:",
       a: "pledged to allow the inhabitants to establish self-rule immediately.",
       b: "allowed to annex all former German colonies.",
