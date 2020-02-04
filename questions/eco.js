@@ -4696,14 +4696,6 @@ let obj = {
       ans: 'a'
    },
    q587: {
-      question: "According to this decision box, if both firms follow a dominant strategy, the losses of Firm A and Firm B respectively will be",
-      a: "–$30 b and –$25 b.",
-      b: "–$60 b and –$15 b.",
-      c: "–$15 b and–$60 b.",
-      d: "–$20 b and –$20 b.",
-      ans: 'a'
-   },
-   q588: {
       question: "According to this decision box, which of the following is the dominant strategies for the firms?",
       a: "Firm A should reveal the site and Firm B should keep it secret.",
       b: "Firm A should keep the site secret and Firm B should reveal it.",
@@ -4711,7 +4703,7 @@ let obj = {
       d: "Both firms should keep the site secret.",
       ans: 'c'
    },
-   q589: {
+   q588: {
       question: "In a world with only two countries, the noncooperative outcome to an “arms race” game is clearly",
       a: "bad for society.",
       b: "the best possible outcome for society.",
@@ -4719,7 +4711,7 @@ let obj = {
       d: "better than the cooperative outcome.",
       ans: 'a'
    },
-   q590: {
+   q589: {
       question: "Very often, the reason that players can solve the prisoners’ dilemma game and reach the most profitable outcome is that",
       a: "the game becomes more competitive.",
       b: "they play the game not once, but many times.",
@@ -4727,7 +4719,7 @@ let obj = {
       d: "All of the above can solve the prisoners’ dilemma.",
       ans: 'b'
    },
-   q591: {
+   q590: {
       question: "In a two-person repeated game, a tit-for-tat strategy starts with",
       a: "cooperation and then each player mimics the other player’s last move.",
       b: "cooperation and then each player is unresponsive to the strategic moves of the other player.",
@@ -4735,7 +4727,7 @@ let obj = {
       d: "non-cooperation and then each player cooperates when the other player demonstrates a desire for the cooperative solution.",
       ans: 'a'
    },
-   q592: {
+   q591: {
       question: "Two students are suspected of cheating together on an exam. If both confess they each get an F on the exam. If one confesses she gets an F in the course and the other student is expelled. If neither student confesses there is no penalty. Considering only these consequences a student should",
       a: "confess if he is certain the other will not confess.",
       b: "never confess.",
@@ -4743,7 +4735,7 @@ let obj = {
       d: "confess if he is certain the other will confess.",
       ans: 'd'
    },
-   q593: {
+   q592: {
       question: "The Sherman Antitrust Act",
       a: "was passed to encourage judicial leniency in the review of cooperative agreements.",
       b: "was concerned with Nash equilibria dominated by self-interest in prisoners’ dilemma games.",
@@ -4751,7 +4743,7 @@ let obj = {
       d: "restricted the ability of competitors to engage in cooperative agreements.",
       ans: 'd'
    },
-   q594: {
+   q593: {
       question: "Antitrust laws in general are used to",
       a: "prevent oligopolists from acting in ways that make markets less competitive.",
       b: "help oligopolists resolve their version of the prisoner’s dilemma.",
@@ -4759,7 +4751,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'a'
    },
-   q595: {
+   q594: {
       question: "Suppose discount electronics retailers free ride on information about products provided by nondiscount retailers. The information that is provided about products is",
       a: "greater than the optimal quantity.",
       b: "the optimal quantity.",
@@ -4767,7 +4759,7 @@ let obj = {
       d: "Not necessarily any one of the above.",
       ans: 'c'
    },
-   q596: {
+   q595: {
       question: "The practice of requiring someone to buy two or more items together is",
       a: "illegal because it allows firms to form collusive arrangements.",
       b: "not illegal because it increases the well-being of society.",
@@ -4775,7 +4767,7 @@ let obj = {
       d: "not illegal because collusive agreements are conducive to cooperative outcomes.",
       ans: 'c'
    },
-   q597: {
+   q596: {
       question: "The practice of selling a product to retailers and requiring the retailers to charge a specific price for the product is called",
       a: "resale price maintenance.",
       b: "fixed retail pricing.",
@@ -4783,7 +4775,7 @@ let obj = {
       d: "cost plus pricing.",
       ans: 'a'
    },
-   q598: {
+   q597: {
       question: "A market structure with a few firms is known as",
       a: "monopoly.",
       b: "oligopoly.",
@@ -4791,7 +4783,7 @@ let obj = {
       d: "perfect competition.",
       ans: 'b'
    },
-   q599: {
+   q598: {
       question: "Sellers are assumed to offer similar products in which type(s) of market structures?",
       a: "both monopolistic competition and oligopoly",
       b: "neither monopolistic competition nor oligopoly",
@@ -4799,7 +4791,7 @@ let obj = {
       d: "oligopoly, but not monopolistic competition",
       ans: 'd'
    },
-   q600: {
+   q599: {
       question: "Which of the following products is produced in an oligopoly market?",
       a: "novels",
       b: "movies",
@@ -4807,7 +4799,7 @@ let obj = {
       d: "computer games",
       ans: 'c'
    },
-   q601: {
+   q600: {
       question: "Which of the following products is produced in a monopolistically competitive market?",
       a: "compact discs",
       b: "tennis balls",
@@ -4815,7 +4807,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'a'
    },
-   q602: {
+   q601: {
       question: "Oligopolists have the",
       a: "highest profits when they cooperate, which they usually do.",
       b: "highest profits when they cooperate, but find it difficult to cooperate.",
@@ -4823,7 +4815,7 @@ let obj = {
       d: "same profits whether they cooperate or care only about their own profits.",
       ans: 'b'
    },
-   q603: {
+   q602: {
       question: "Price exceeds marginal cost",
       a: "in monopoly markets and oligopoly markets.",
       b: "only in monopoly markets.",
@@ -4831,7 +4823,7 @@ let obj = {
       d: "in neither oligopoly nor monopoly markets.",
       ans: 'a'
    },
-   q604: {
+   q603: {
       question: "Suppose the market for mineral water is produced at a marginal cost of zero in a duopoly market with the demand schedule shown. If the duopolists collude they will produce a total of",
       a: "200 units, which is more than if they did not collude.",
       b: "200 units, which is less than if they did not collude.",
@@ -4839,7 +4831,7 @@ let obj = {
       d: "160 units, which is less than if they did not collude.",
       ans: 'd'
    },
-   q605: {
+   q604: {
       question: "Suppose the table shows the demand curve for crude oil and that the marginal cost of producing a unit of crude oil is $0.",
       a: "The quantity produced in a competitive market is 600; the quantity produced by oligopolists that collude is 450.",
       b: "The quantity produced in a competitive market is 600; the quantity produced by oligopolists that collude is 300.",
@@ -4847,7 +4839,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'b'
    },
-   q606: {
+   q605: {
       question: "When oligopolists do not collude price",
       a: "and output are higher than if they collude.",
       b: "and output are lower than if they collude.",
@@ -4855,7 +4847,7 @@ let obj = {
       d: "is lower and output is higher than if they collude.",
       ans: 'd'
    },
-   q607: {
+   q606: {
       question: "When oligopolists do not collude",
       a: "price and output are the same as in a competitive market.",
       b: "price is higher and output is lower than in a competitive market.",
@@ -4863,7 +4855,7 @@ let obj = {
       d: "both price and output are higher than in a competitive market.",
       ans: 'b'
    },
-   q608: {
+   q607: {
       question: "A Nash equilibrium occurs when:",
       a: "oligopolists cooperate with each other.",
       b: "economic actors who are interacting choose their best strategy given the strategies chosen by others.",
@@ -4871,7 +4863,7 @@ let obj = {
       d: "a monopolist is forced to produce the efficient level of output.",
       ans: 'b'
    },
-   q609: {
+   q608: {
       question: "If an oligopolist raises production",
       a: "both the output effect and the price effect tend to raise profits.",
       b: "both the output effect and the price effect tend to decrease profits.",
@@ -4879,7 +4871,7 @@ let obj = {
       d: "the output effect tends to decrease profits while the price effect tends to raise profits.",
       ans: 'c'
    },
-   q610: {
+   q609: {
       question: "As the number of sellers in an oligopoly rises, the magnitude of the price effect",
       a: "rises, and the output effect vanishes.",
       b: "rises, but the output effect remains.",
@@ -4887,7 +4879,7 @@ let obj = {
       d: "falls, but the output effect remains.",
       ans: 'd'
    },
-   q611: {
+   q610: {
       question: "The prisoners’ dilemma helps to explain why cooperation",
       a: "occurs in strategic situations.",
       b: "is difficult to maintain in strategic situations.",
@@ -4895,7 +4887,7 @@ let obj = {
       d: "never occurs in strategic situations.",
       ans: 'b'
    },
-   q612: {
+   q611: {
       question: "Game theory is especially relevant to understanding",
       a: "competitive markets.",
       b: "monopoly markets.",
@@ -4903,7 +4895,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'c'
    },
-   q613: {
+   q612: {
       question: "A tit-for-tat strategy",
       a: "performed the best of many strategies compared in a tournament.",
       b: "requires that if one party reneges, that the other will follow her dominant strategy forever.",
@@ -4911,7 +4903,7 @@ let obj = {
       d: "makes it difficult for oligopolists to cooperate.",
       ans: 'a'
    },
-   q614: {
+   q613: {
       question: "Suppose that a manufacturer requires that the retailers handling its product enter into resale price maintenance (RPM) agreements. This:",
       a: "eliminates all competition among those retailers.",
       b: "enables the manufacturer to charge a higher wholesale price to the retailers than would otherwise be possible.",
@@ -4919,7 +4911,7 @@ let obj = {
       d: "forces the retailers to accept a lower mark-up over the wholesale price than they would obtain without RPM.",
       ans: 'c'
    },
-   q615: {
+   q614: {
       question: "Which of the following is incorrect?",
       a: "To move the allocation of resources closer to the social optimum, policymakers should try to induce firms in an oligopoly to compete rather than cooperate.",
       b: "For many centuries, judges in England and the United States have deemed agreements among competitors to reduce quantities and raise prices to be contrary to the public good.",
@@ -4927,7 +4919,7 @@ let obj = {
       d: "Predatory pricing may be considered a type of price discrimination.",
       ans: 'd'
    },
-   q616: {
+   q615: {
       question: "The Sherman Act",
       a: "made agreements to restrain trade among competitors unenforceable.",
       b: "made agreements to restrain trade among competitors a criminal conspiracy.",
@@ -4935,7 +4927,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'b'
    },
-   q617: {
+   q616: {
       question: "To prevent discount retailers from free riding on information provided about goods by other retailers, wholesalers may use",
       a: "resale price maintenance.",
       b: "predatory pricing.",
@@ -4943,7 +4935,7 @@ let obj = {
       d: "tying.",
       ans: 'a'
    },
-   q618: {
+   q617: {
       question: "Tying",
       a: "has not yet been banned by the U.S. court system.",
       b: "is probably used to prevent a free-rider problem.",
@@ -4951,7 +4943,7 @@ let obj = {
       d: "may be used as a form of price discrimination.",
       ans: 'd'
    },
-   q619: {
+   q618: {
       question: "In a monopolistically competitive industry, profit-maximizing firms are price",
       a: "takers who produce a quantity where price is equal to marginal cost.",
       b: "takers who produce a quantity where price is greater than marginal cost.",
@@ -4959,7 +4951,7 @@ let obj = {
       d: "setters who set price above marginal cost.",
       ans: 'd'
    },
-   q620: {
+   q619: {
       question: "When free entry is one of the attributes of a market structure, economic profits in the long run",
       a: "are equal to implicit cost.",
       b: "are greater than implicit cost.",
@@ -4967,7 +4959,7 @@ let obj = {
       d: "depend on whether or not firms produce identical products.",
       ans: 'c'
    },
-   q621: {
+   q620: {
       question: "The profit-maximizing rule for a firm in a monopolistically competitive market is to produce the quantity at which",
       a: "average revenue equals average total cost.",
       b: "average total cost is at its minimum.",
@@ -4975,7 +4967,7 @@ let obj = {
       d: "marginal cost is at its minimum.",
       ans: 'c'
    },
-   q622: {
+   q621: {
       question: "Product differentiation causes the seller of a good to face what type of demand curve?",
       a: "upward sloping",
       b: "downward sloping",
@@ -4983,7 +4975,7 @@ let obj = {
       d: "vertical",
       ans: 'b'
    },
-   q623: {
+   q622: {
       question: "A monopolistically competitive firm chooses",
       a: "the quantity of output to produce and the price of its output.",
       b: "the quantity of output to produce, but the market determines price.",
@@ -4991,7 +4983,7 @@ let obj = {
       d: "only whether to enter or exit the market.",
       ans: 'a'
    },
-   q624: {
+   q623: {
       question: "If firms in a monopolistically competitive market are earning negative economic profits, which of the following scenarios would best reflect the change facing incumbent firms as the market adjusts to its new equilibrium?",
       a: "a downward shift in their marginal cost curve",
       b: "an upward shift in their marginal cost curve",
@@ -4999,7 +4991,7 @@ let obj = {
       d: "an increase in demand",
       ans: 'd'
    },
-   q625: {
+   q624: {
       question: "As new firms enter a monopolistically competitive market, profits of existing firms",
       a: "decline and product diversity in the market increases.",
       b: "decline and product diversity in the market decreases.",
@@ -5007,7 +4999,7 @@ let obj = {
       d: "rise and product diversity in the market increases.",
       ans: 'a'
    },
-   q626: {
+   q625: {
       question: "When a profit-maximizing firm in a monopolistically competitive market is producing the long-run equilibrium quantity,",
       a: "its demand curve will be tangent to its average total cost curve.",
       b: "it will be earning economic profits.",
@@ -5015,7 +5007,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'a'
    },
-   q627: {
+   q626: {
       question: "Since a firm in a monopolistically competitive market faces a",
       a: "downward-sloping demand curve, it will always operate at efficient scale.",
       b: "perfectly inelastic demand curve, it will always operate at efficient scale.",
@@ -5023,7 +5015,7 @@ let obj = {
       d: "downward-sloping demand curve, it will always operate at excess capacity.",
       ans: 'd'
    },
-   q628: {
+   q627: {
       question: "Monopolistically competitive firms operate at",
       a: "excess capacity, so that additional production would raise average total cost.",
       b: "excess capacity, so that additional production would lower average total cost.",
@@ -5031,7 +5023,7 @@ let obj = {
       d: "efficient scale, so that additional production would lower average total cost.",
       ans: 'b'
    },
-   q629: {
+   q628: {
       question: "In the long run, a firm in a perfectly competitive market operates at",
       a: "excess capacity and so do monopolistically competitive firms.",
       b: "excess capacity while monopolistically competitive firm operate at efficient scale.",
@@ -5039,7 +5031,7 @@ let obj = {
       d: "efficient scale while monopolistically competitive firms operate at excess capacity.",
       ans: 'd'
    },
-   q630: {
+   q629: {
       question: "A monopolistically competitive market could be considered inefficient because",
       a: "price exceeds marginal cost.",
       b: "marginal cost exceeds average revenue.",
@@ -5047,7 +5039,7 @@ let obj = {
       d: "mark-up pricing does not occur in any other market structure.",
       ans: 'a'
    },
-   q631: {
+   q630: {
       question: "The deadweight loss that is associated with a monopolistically competitive market is a result of",
       a: "operating in a constant cost industry.",
       b: "pricing above marginal cost.",
@@ -5055,7 +5047,7 @@ let obj = {
       d: "pricing below marginal cost in order to increase market share.",
       ans: 'b'
    },
-   q632: {
+   q631: {
       question: "The administrative burden of regulating price in a monopolistically competitive market is",
       a: "small because firms produce at under-capacity.",
       b: "small due to economies of scale.",
@@ -5063,7 +5055,7 @@ let obj = {
       d: "large because price is usually below marginal cost.",
       ans: 'c'
    },
-   q633: {
+   q632: {
       question: "If regulators required firms in monopolistically competitive markets to set price equal to marginal cost,",
       a: "firms would most likely experience economic losses.",
       b: "firms would also operate at the efficient scale.",
@@ -5071,7 +5063,7 @@ let obj = {
       d: "the most efficient firms are not likely to be affected.",
       ans: 'a'
    },
-   q634: {
+   q633: {
       question: "When the loss from a business-stealing externality exceeds the gain from a product-variety externality,",
       a: "market efficiency is likely to be enhanced by the entry of new firms.",
       b: "there are likely to be too many firms in a monopolistically competitive market.",
@@ -5079,7 +5071,7 @@ let obj = {
       d: "firms are more likely to operate at efficient scale.",
       ans: 'b'
    },
-   q635: {
+   q634: {
       question: "If advertising decreases the elasticity of demand for a firm’s product, the firm is likely to",
       a: "lower their advertising budget.",
       b: "become more competitive.",
@@ -5087,7 +5079,7 @@ let obj = {
       d: "produce above the efficient scale.",
       ans: 'c'
    },
-   q636: {
+   q635: {
       question: "In recent years, the courts have been",
       a: "less lenient of advertising in order to enhance the ability of markets to allocate resources efficiently.",
       b: "less lenient of advertising in order to decrease elasticity of demand for specific products.",
@@ -5095,7 +5087,7 @@ let obj = {
       d: "more lenient of advertising in order to enhance competition in markets.",
       ans: 'd'
    },
-   q637: {
+   q636: {
       question: "When firms in a monopolistically competitive market engage in price-related advertising, defenders of advertising argue that",
       a: "the quality of products sold in the market always increases.",
       b: "customers are less likely to be informed about other characteristics of the product.",
@@ -5103,7 +5095,7 @@ let obj = {
       d: "each firm has less market power.",
       ans: 'd'
    },
-   q638: {
+   q637: {
       question: "Results of the study done by Lee Benham on advertising for eyeglasses suggests that",
       a: "optometrists would enthusiastically endorse advertising restrictions.	",
       b: "brand loyalty and market power in the eyeglass market was likely to be more pervasive in states that allowed advertising.",
@@ -5111,7 +5103,7 @@ let obj = {
       d: "eyeglass sales were more profitable in states that allowed advertising.",
       ans: 'a'
    },
-   q639: {
+   q638: {
       question: "Defenders of advertising argue that it is not rational for profit-maximizing firms to spend money on advertising for products that have",
       a: "low prices.",
       b: "high prices.",
@@ -5119,7 +5111,7 @@ let obj = {
       d: "inferior quality.",
       ans: 'd'
    },
-   q640: {
+   q639: {
       question: "In some countries, brand name fast-food restaurants are not allowed to operate. Such restrictions are likely to",
       a: "reduce barriers to entry in imperfect markets.",
       b: "reduce the competitive nature of local fast-food markets.",
@@ -5127,7 +5119,7 @@ let obj = {
       d: "enhance the choice set of consumers among local restaurants.",
       ans: 'b'
    },
-   q641: {
+   q640: {
       question: "Viola uses only Log Cabin® brand maple syrup on her pancakes. She claims that even though generic maple syrups are cheaper, that they often seem watery. In a blind taste test Viola prefers a generic maple syrup. Her behavior is consistently explained by which of the following?",
       a: "Consumers of brand-name products do not know their true preferences.",
       b: "Consumers may choose brand-names to ensure the general quality of the product.",
@@ -5135,7 +5127,7 @@ let obj = {
       d: "None of the above is consistent.",
       ans: 'b'
    },
-   q642: {
+   q641: {
       question: "Monopolistic competition is characterized by",
       a: "few sellers and free entry.",
       b: "few sellers and restricted entry.",
@@ -5143,7 +5135,7 @@ let obj = {
       d: "many sellers and restricted entry.",
       ans: 'c'
    },
-   q643: {
+   q642: {
       question: "Which of the following products is likely to be sold in a monopolistically competitive market?",
       a: "crude oil",
       b: "electricity",
@@ -5151,7 +5143,7 @@ let obj = {
       d: "furniture",
       ans: 'd'
    },
-   q644: {
+   q643: {
       question: "The demand curve of a monopolistically competitive firm is",
       a: "downward sloping; as it also is for a monopolist.",
       b: "downward sloping; as it also is for monopolists and perfectly competitive firms.",
@@ -5159,7 +5151,7 @@ let obj = {
       d: "horizontal; as it also is for monopolists and perfectly competitive firms.",
       ans: 'a'
    },
-   q645: {
+   q644: {
       question: "A monopolistically competitive firm maximizes profits by setting quantity and/or price according to the same rule as",
       a: "a perfectly competitive firm.",
       b: "a monopolist.",
@@ -5167,7 +5159,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'b'
    },
-   q646: {
+   q645: {
       question: "A monopolistically competitive firm maximizes profits at the quantity where",
       a: "average total cost = marginal cost.",
       b: "average total cost = average revenue.",
@@ -5175,7 +5167,7 @@ let obj = {
       d: "marginal revenue = marginal cost.",
       ans: 'd'
    },
-   q647: {
+   q646: {
       question: "A monopolistically competitive firm maximizes its profits and has profits greater than zero if",
       a: "average total cost equals average revenue and average total cost is greater than price.",
       b: "average total cost equals average revenue and average total cost is less than price.",
@@ -5183,7 +5175,7 @@ let obj = {
       d: "marginal revenue equals marginal cost and average total cost is less than price.",
       ans: 'd'
    },
-   q648: {
+   q647: {
       question: "When price is above average total cost in a monopolistically competitive market",
       a: "new firms enter the market, and the demand curves of existing firms shift left.",
       b: "new firms enter the market and the demand curves of existing firms shifts right.",
@@ -5191,7 +5183,7 @@ let obj = {
       d: "some firms exit the market and the demand curve of existing firms shifts right.",
       ans: 'a'
    },
-   q649: {
+   q648: {
       question: "When a monopolistically competitive firm is in long-run equilibrium",
       a: "economic profits will be zero.",
       b: "marginal cost exceeds price.",
@@ -5199,7 +5191,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'a'
    },
-   q650: {
+   q649: {
       question: "Which of the following is correct?",
       a: "Monopolistically competitive firms are price takers.",
       b: "For monopolistically competitive firms the marginal revenue curve lies above the demand curve.",
@@ -5207,7 +5199,7 @@ let obj = {
       d: "For monopolistically competitive firms, price equals marginal cost in the long run.",
       ans: 'c'
    },
-   q651: {
+   q650: {
       question: "Consider the following two sentences. Because the demand curve of a monopolistically competitive firm is downward sloping, its marginal revenue is less than price. Because there is free entry into monopolistically competitive markets, in the long-run economic profits are driven to zero.",
       a: "Both sentences are correct.",
       b: "Both sentences are incorrect.",
@@ -5215,7 +5207,7 @@ let obj = {
       d: "Only the second sentence is correct.",
       ans: 'a'
    },
-   q652: {
+   q651: {
       question: "Consider the following two sentences. Both perfectly competitive and monopolistically competitive firms produce at the efficient scale. Perfectly competitive firms produce where price equals marginal cost, while monopolistically competitive firms produce where price is greater than marginal cost.",
       a: "Both sentences are correct.",
       b: "Neither sentence is correct.",
@@ -5223,7 +5215,7 @@ let obj = {
       d: "Only the second sentence is correct.",
       ans: 'd'
    },
-   q653: {
+   q652: {
       question: "A monopolistically competitive firm in the long run produces",
       a: "a quantity less than the efficient scale.",
       b: "at the efficient scale.",
@@ -5231,7 +5223,7 @@ let obj = {
       d: "None of the above is necessarily correct, it depends on whether firms are making economic profits greater than zero.",
       ans: 'a'
    },
-   q654: {
+   q653: {
       question: "In the long run profit-maximizing monopolistically competitive firms charge a price",
       a: "above average total cost, but less than marginal cost.",
       b: "above average total cost, but greater than marginal cost.",
@@ -5239,7 +5231,7 @@ let obj = {
       d: "equal to average total cost, but greater than marginal cost.",
       ans: 'd'
    },
-   q655: {
+   q654: {
       question: "Excess capacity arises under conditions of monopolistic competition because:",
       a: "there is underutilization of resources and not enough firms.",
       b: "the output produced does not minimize average total cost.",
@@ -5247,7 +5239,7 @@ let obj = {
       d: "there are too many goods chasing too few resources.",
       ans: 'b'
    },
-   q656: {
+   q655: {
       question: "Which of the externalities created by the entry of a new firm exists under both perfect competition and monopolistic competition?",
       a: "only the product-variety externality",
       b: "only the business-stealing externality",
@@ -5255,7 +5247,7 @@ let obj = {
       d: "neither the product-variety externality nor the business-stealing externality",
       ans: 'd'
    },
-   q657: {
+   q656: {
       question: "Requiring monopolistic competitors to set price equal to marginal cost would",
       a: "be a burden because there are so many producers of differentiated products.",
       b: "cause them to make losses.",
@@ -5263,7 +5255,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'c'
    },
-   q658: {
+   q657: {
       question: "The number of firms in a monopolistically competitive market is likely to be too small",
       a: "if the product-variety externality is larger than the business-stealing externality.",
       b: "if the business-stealing externality is larger than the product-variety externality.",
@@ -5271,7 +5263,7 @@ let obj = {
       d: "under no conditions, monopolistically competitive markets always have a larger number of firms than is socially efficient.",
       ans: 'a'
    },
-   q659: {
+   q658: {
       question: "Monopolistic competition results in inefficiency because",
       a: "they can earn an economic profit in the short run.",
       b: "price is not equal to average total cost in the long run.",
@@ -5279,7 +5271,7 @@ let obj = {
       d: "price is greater than marginal cost.",
       ans: 'd'
    },
-   q660: {
+   q659: {
       question: "In which of the following markets are advertising expenditures as a percent of revenues likely to be highest?",
       a: "perfect competition.",
       b: "monopoly.",
@@ -5287,7 +5279,7 @@ let obj = {
       d: "None of the above is necessarily likely to spend a larger share of revenues on advertising than the others.",
       ans: 'c'
    },
-   q661: {
+   q660: {
       question: "Critics of advertising argue that advertising:",
       a: "increases the elasticity of demand for the firm’s product.",
       b: "impedes competition.",
@@ -5295,7 +5287,7 @@ let obj = {
       d: "decreases supply of the firm’s product.",
       ans: 'b'
    },
-   q662: {
+   q661: {
       question: "Suppose that by advertising, fast food places are able to increase the perception that their products are unique and so foster brand loyalty. The demand curves for the products of these firms become",
       a: "more elastic, so markup increases.",
       b: "more elastic, so markup decreases.",
@@ -5303,7 +5295,7 @@ let obj = {
       d: "less elastic, so markup decreases.",
       ans: 'c'
    },
-   q663: {
+   q662: {
       question: "Which of the following is incorrect?",
       a: "Courts have recently concluded that restrictions on advertising by certain professions served mostly to curtail competition.",
       b: "A study showed that the average price of eyeglasses was higher in states that allowed advertising than in states that did not.",
@@ -5311,7 +5303,7 @@ let obj = {
       d: "Advertising may lead to a more efficient allocation of resources.",
       ans: 'b'
    },
-   q664: {
+   q663: {
       question: "Brand loyalty may",
       a: "provide incentive for brand names to offer products of consistently high quality.",
       b: "make demand for the brand’s product more elastic.",
@@ -5319,7 +5311,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'a'
    },
-   q665: {
+   q664: {
       question: "Factors of production are best defined as the",
       a: "wages paid to the workforce.",
       b: "goods and services sold in the market.",
@@ -5327,7 +5319,7 @@ let obj = {
       d: "inputs used to produce goods and services.",
       ans: 'd'
    },
-   q666: {
+   q665: {
       question: "Since a firm’s demand for a factor of production comes from its decision to supply a good in the market, we refer to this type of demand as",
       a: "supplied demand.",
       b: "derived demand.",
@@ -5335,7 +5327,7 @@ let obj = {
       d: "differentiated demand.",
       ans: 'b'
    },
-   q667: {
+   q666: {
       question: "Most of the total income earned in the U.S. economy is ultimately paid to households in the form of",
       a: "rent.",
       b: "wages.",
@@ -5343,7 +5335,7 @@ let obj = {
       d: "profit.",
       ans: 'b'
    },
-   q668: {
+   q667: {
       question: "The production function describes the relationship between",
       a: "inputs and cost.",
       b: "outputs and profit.",
@@ -5351,7 +5343,7 @@ let obj = {
       d: "inputs and revenue.",
       ans: 'c'
    },
-   q669: {
+   q668: {
       question: "The marginal product of labor is defined as the increase in",
       a: "revenue per additional unit of input.",
       b: "output per additional unit of input.",
@@ -5359,7 +5351,7 @@ let obj = {
       d: "output per additional unit of revenue.",
       ans: 'b'
    },
-   q670: {
+   q669: {
       question: "If hiring more workers causes each additional worker to contribute less to the total output,",
       a: "diminishing profitability is present.",
       b: "increasing marginal product is present.",
@@ -5367,7 +5359,7 @@ let obj = {
       d: "diminishing marginal cost is present.",
       ans: 'c'
    },
-   q671: {
+   q670: {
       question: "The value of the marginal product of labor is equal to the change in",
       a: "marginal cost with the addition of the last worker.",
       b: "total cost with the addition of the last worker.",
@@ -5375,7 +5367,7 @@ let obj = {
       d: "total revenue with the addition of the last worker.",
       ans: 'd'
    },
-   q672: {
+   q671: {
       question: "A competitive, profit-maximizing firm hires workers until",
       a: "the value of the marginal product equals the wage.",
       b: "unemployment rates are zero.",
@@ -5383,7 +5375,7 @@ let obj = {
       d: "marginal revenue equals zero.",
       ans: 'a'
    },
-   q673: {
+   q672: {
       question: "A worker’s contribution to a firm’s revenue is measured directly by the worker’s",
       a: "contribution to output.",
       b: "value of marginal product.",
@@ -5391,7 +5383,7 @@ let obj = {
       d: "marginal product multiplied by his/her wage.",
       ans: 'b'
    },
-   q674: {
+   q673: {
       question: "A profit-maximizing competitive firm that experiences diminishing marginal product of labor is also experiencing",
       a: "an upward-sloping demand for labor.",
       b: "a downward-sloping demand for labor.",
@@ -5399,7 +5391,7 @@ let obj = {
       d: "a perfectly inelastic supply of labor.",
       ans: 'b'
    },
-   q675: {
+   q674: {
       question: "If one observes a profit-maximizing firm increasing employment, it is possible to infer that the",
       a: "firm is increasing its market share.",
       b: "marginal product is rising.",
@@ -5407,7 +5399,7 @@ let obj = {
       d: "value of the marginal product exceeds the wage.",
       ans: 'd'
    },
-   q676: {
+   q675: {
       question: "If the price of airline tickets rises, what will happen to the demand curve for flight attendants?",
       a: "It will shift to the left.",
       b: "It will shift to the right.",
@@ -5415,7 +5407,7 @@ let obj = {
       d: "It will remain unchanged; price changes do not shift demand curves.",
       ans: 'b'
    },
-   q677: {
+   q676: {
       question: "Which of the following events would cause an increase in the labor supply curve?",
       a: "more married women deciding to work",
       b: "a lower Social Security retirement age",
@@ -5423,7 +5415,7 @@ let obj = {
       d: "tighter restrictions on immigration policy",
       ans: 'a'
    },
-   q678: {
+   q677: {
       question: "When labor supply increases,",
       a: "profit-maximizing firms reduce employment.",
       b: "the marginal productivity of workers always increases.",
@@ -5431,7 +5423,7 @@ let obj = {
       d: "wages decrease as long as labor demand is downward sloping.",
       ans: 'd'
    },
-   q679: {
+   q678: {
       question: "Which of the following could decrease labor demand?",
       a: "an increase in migrant workers",
       b: "a decrease in the labor supply",
@@ -5439,7 +5431,7 @@ let obj = {
       d: "an increase in the marginal productivity of workers",
       ans: 'c'
    },
-   q680: {
+   q679: {
       question: "When firms are able to increase the amount of physical capital available to workers the",
       a: "value of the marginal product of labor will decrease.",
       b: "value of the marginal product of labor will increase.",
@@ -5447,7 +5439,7 @@ let obj = {
       d: "marginal product of labor will decline.",
       ans: 'b'
    },
-   q681: {
+   q680: {
       question: "When economists refer to a firm’s capital, they are likely to be using the term to describe the",
       a: "markets for final goods and services.",
       b: "amount of financing provided by the equity markets.",
@@ -5455,7 +5447,7 @@ let obj = {
       d: "amount of bank financing used by the firm.",
       ans: 'c'
    },
-   q682: {
+   q681: {
       question: "The purchase price of land is",
       a: "the price received from the flow of some land services.",
       b: "the price a person pays to own the factor of production.",
@@ -5463,7 +5455,7 @@ let obj = {
       d: "the value of the land to the firm this time period.",
       ans: 'b'
    },
-   q683: {
+   q682: {
       question: "The marginal product of any factor of production depends on",
       a: "the price of the final good.",
       b: "the quantity of the factor used.",
@@ -5471,7 +5463,7 @@ let obj = {
       d: "whether it is used to produce a good or a service.",
       ans: 'b'
    },
-   q684: {
+   q683: {
       question: "As a result of severe flooding, a farmer loses one-half of his productive farmland. He should expect to see the marginal productivity of his land",
       a: "increase.",
       b: "decrease.",
@@ -5479,7 +5471,7 @@ let obj = {
       d: "remain unchanged.",
       ans: 'a'
    },
-   q685: {
+   q684: {
       question: "The change in the supply of one factor",
       a: "alters the earnings of all factors.",
       b: "will not alter the marginal productivity of other factors, but may lower their price.",
@@ -5487,7 +5479,7 @@ let obj = {
       d: "will not change the value of marginal product for other factors.",
       ans: 'a'
    },
-   q686: {
+   q685: {
       question: "For the profit-maximizing competitive firm, the value of marginal product curve is",
       a: "always rising.",
       b: "the labor supply curve.",
@@ -5495,7 +5487,7 @@ let obj = {
       d: "falling only when marginal product is rising.",
       ans: 'c'
    },
-   q687: {
+   q686: {
       question: "Which of the following would be considered capital?",
       a: "Tiger Woods’ golf clubs",
       b: "Greg Mankiw’s Ph.D.",
@@ -5503,7 +5495,7 @@ let obj = {
       d: "the Kansas City Chiefs’ defensive coach",
       ans: 'a'
    },
-   q688: {
+   q687: {
       question: "The most important factor of product based on income earned in the U.S. economy is",
       a: "land.",
       b: "labor.",
@@ -5511,7 +5503,7 @@ let obj = {
       d: "profit.",
       ans: 'b'
    },
-   q689: {
+   q688: {
       question: "Derived demand refers to the fact that the demand for a factor of production is derived from the",
       a: "supply of that factor of production.",
       b: "level of a firm’s investment.",
@@ -5519,7 +5511,7 @@ let obj = {
       d: "equilibrium price for that factor of production in the market.",
       ans: 'c'
    },
-   q690: {
+   q689: {
       question: "A production function shows the relationship between the quantity of",
       a: "inputs used to make a good and the cost associated with those inputs.",
       b: "inputs used to make a good and the quantity of output of that good.",
@@ -5527,7 +5519,7 @@ let obj = {
       d: "inputs used to make a good and the total revenue generated by the sale of that good.",
       ans: 'b'
    },
-   q691: {
+   q690: {
       question: "The value of the marginal product curve is downward sloping because",
       a: "as firms hire additional workers, profit for the firm declines.",
       b: "of the law of diminishing marginal product.",
@@ -5535,7 +5527,7 @@ let obj = {
       d: "firms must lower the price of their product in order to sell more of it.",
       ans: 'b'
    },
-   q692: {
+   q691: {
       question: "The increase in the amount of output from an additional unit of labor is called",
       a: "derived demand.",
       b: "diminishing marginal product.",
@@ -5543,7 +5535,7 @@ let obj = {
       d: "the marginal product of labor.",
       ans: 'd'
    },
-   q693: {
+   q692: {
       question: "For a profit-maximizing firm, the decision to employ an additional worker is based on how",
       a: "long the worker plans to stay with the company.",
       b: "profitable that worker will be to the firm.",
@@ -5551,7 +5543,7 @@ let obj = {
       d: "much experience the worker has with that type of job.",
       ans: 'b'
    },
-   q694: {
+   q693: {
       question: "The value of the marginal product of labor is equal to",
       a: "total output divided by the quantity of labor.",
       b: "the price of the output the labor produced.",
@@ -5559,7 +5551,7 @@ let obj = {
       d: "the supply curve for labor.",
       ans: 'c'
    },
-   q695: {
+   q694: {
       question: "The competitive, profit-maximizing firm’s demand for labor curve is",
       a: "a horizontal line in perfectly competitive industries.",
       b: "typically more elastic than the demand for the product the firms are producing.",
@@ -5567,7 +5559,7 @@ let obj = {
       d: "equal to the value of the marginal product of labor curve.",
       ans: 'd'
    },
-   q696: {
+   q695: {
       question: "If the price of televisions falls, the value of the marginal product of workers making televisions will",
       a: "definitely fall.",
       b: "definitely rise.",
@@ -5575,7 +5567,7 @@ let obj = {
       d: "fall or rise; we do not have enough information to know for certain.",
       ans: 'a'
    },
-   q697: {
+   q696: {
       question: "If Kansans begin moving to Colorado to live because of the beautiful scenery, we would expect",
       a: "firms to automatically relocate to Kansas.",
       b: "the supply of labor to increase in Kansas and decrease in Colorado.",
@@ -5583,7 +5575,7 @@ let obj = {
       d: "wages to increase in Colorado and decrease in Kansas.",
       ans: 'c'
    },
-   q698: {
+   q697: {
       question: "Plainco Corporations sells widgets for $3 each in a market that is perfectly competitive. Increasing the number of Plainco workers from 1,000 to 1,001 would cause output to rise from 615 to 625 widgets per day. Plainco should hire the 1,001st worker only when",
       a: "the wage is $30 or less per day.",
       b: "the wage is more than $30 per day.",
@@ -5591,7 +5583,7 @@ let obj = {
       d: "workers are willing to work on a piecework basis.",
       ans: 'a'
    },
-   q699: {
+   q698: {
       question: "Which of the following would NOT increase the demand for labor?",
       a: "an increase in the final product price",
       b: "an increase in the amount of capital available for workers to use",
@@ -5599,7 +5591,7 @@ let obj = {
       d: "an increase in the wage labor receives",
       ans: 'd'
    },
-   q700: {
+   q699: {
       question: "Each of the following is a key determinant of labor productivity EXCEPT the amount of",
       a: "human capital acquired through education and training.",
       b: "technological knowledge that is available.",
@@ -5607,7 +5599,7 @@ let obj = {
       d: "annual growth the company experiences.",
       ans: 'd'
    },
-   q701: {
+   q700: {
       question: "The value of the marginal product curve is also a firm’s",
       a: "total revenue curve.",
       b: "supply curve for labor.",
@@ -5615,7 +5607,7 @@ let obj = {
       d: "production function.",
       ans: 'c'
    },
-   q702: {
+   q701: {
       question: "If the price of Godiva chocolates increases, we would expect that this company’s wages will",
       a: "rise and fewer workers will be hired.",
       b: "fall and more workers will be hired.",
@@ -5623,7 +5615,7 @@ let obj = {
       d: "fall and fewer workers will be hired.",
       ans: 'c'
    },
-   q703: {
+   q702: {
       question: "Workers who acquire additional training or education should expect",
       a: "a wage increase, since they now should be more productive.",
       b: "to be fired, since they are now overqualified for their job.",
@@ -5631,7 +5623,7 @@ let obj = {
       d: "to have less need for physical capital associated with their job.",
       ans: 'a'
    },
-   q704: {
+   q703: {
       question: "An orange grower in Florida who loses most of his orange trees to a hard freeze should expect the marginal productivity of his capital to",
       a: "increase.",
       b: "decrease.",
@@ -5639,7 +5631,7 @@ let obj = {
       d: "be negative.",
       ans: 'b'
    },
-   q705: {
+   q704: {
       question: "An upward-sloping supply curve means that",
       a: "workers prefer to work less when wages are high.",
       b: "workers prefer to buy more leisure time when their incomes increase.",
@@ -5647,7 +5639,7 @@ let obj = {
       d: "workers will attempt to buy more leisure time and supply more labor when wages rise.",
       ans: 'c'
    },
-   q706: {
+   q705: {
       question: "Given a downward-sloping demand for labor curve, if the supply of labor increases, we would expect",
       a: "firms will choose to hire fewer workers.",
       b: "a shortage of workers in most industries.",
@@ -5655,7 +5647,7 @@ let obj = {
       d: "the value of the marginal product of labor to rise.",
       ans: 'c'
    },
-   q707: {
+   q706: {
       question: "The price paid to any factor of production",
       a: "decreases when the demand for that factor increases.",
       b: "is equal to the value of the marginal product of that factor.",
@@ -5663,7 +5655,7 @@ let obj = {
       d: "will be greater than the value of the marginal product of that factor if the firm is a profit-maximizer.",
       ans: 'b'
    },
-   q708: {
+   q707: {
       question: "When wage differentials are observed in competitive labor markets, the neoclassical theory of labor markets would predict",
       a: "market discrimination.",
       b: "that wage differences reflect social status.",
@@ -5671,7 +5663,7 @@ let obj = {
       d: "a difference in the value of marginal product of labor.",
       ans: 'd'
    },
-   q709: {
+   q708: {
       question: "The job of night watchman at the Punxsutawny Phil Groundhog museum is known to have a high wage. This is likely to be partially explained by the fact that the job",
       a: "is likely to be incredibly dull.",
       b: "is likely to be difficult.",
@@ -5679,7 +5671,7 @@ let obj = {
       d: "provides plenty of time for self-reflection.",
       ans: 'a'
    },
-   q710: {
+   q709: {
       question: "The term “compensating differential” refers to",
       a: "the fact that workers that do similar work should be paid the same wage.",
       b: "a wage difference that arises from nonmonetary characteristics of different jobs.",
@@ -5687,7 +5679,7 @@ let obj = {
       d: "all of the above.",
       ans: 'b'
    },
-   q711: {
+   q710: {
       question: "A recent law school graduate is considering two offers to practice law, one in California and one in Mississippi. Rumor has it that it is very difficult to pass the Mississippi bar exam and meet other certification requirements required by the Mississippi Attorney Association. Assuming all other things are equal, the attorney would expect",
       a: "wages in California and Mississippi to be identical.",
       b: "to make a lower wage in Mississippi.",
@@ -5695,7 +5687,7 @@ let obj = {
       d: "to be unable to predict the wage difference between Mississippi and California.",
       ans: 'c'
    },
-   q712: {
+   q711: {
       question: "Public schoolteachers are known to have low wages. This is likely to be partially explained by the fact that",
       a: "public schoolteacher jobs are easy.",
       b: "public schoolteachers need very little money to live.",
@@ -5703,7 +5695,7 @@ let obj = {
       d: "many people perceive the job of public schoolteacher to have a high element of personal satisfaction.",
       ans: 'd'
    },
-   q713: {
+   q712: {
       question: "Workers that have invested in human capital are",
       a: "universally less productive in “dull” jobs.",
       b: "likely to have a higher value of marginal product.",
@@ -5711,7 +5703,7 @@ let obj = {
       d: "not likely to have changed the value of their marginal product.",
       ans: 'b'
    },
-   q714: {
+   q713: {
       question: "By 1998, the earnings gap between both men and women college graduates in the United States and those with only a high school diploma increased to",
       a: "118 percent for men and 98 percent for women.",
       b: "66 percent for men and 55 percent for women.",
@@ -5719,7 +5711,7 @@ let obj = {
       d: "98 percent for men and 118 percent for women.",
       ans: 'a'
    },
-   q715: {
+   q714: {
       question: "The statement “the rich get richer and the poor get poorer” is evident in the fact that",
       a: "developing countries do not pay workers the value of their marginal product.",
       b: "developed economies export high-skill jobs to developing countries.",
@@ -5727,7 +5719,7 @@ let obj = {
       d: "the earnings gap between high-skill jobs and low-skill jobs has increased over the last several years.",
       ans: 'd'
    },
-   q716: {
+   q715: {
       question: "Economists who study labor markets have discovered that",
       a: "ability, effort, and chance are likely to be significant contributors to wage differences.",
       b: "only about 5 percent of wage differences are related to chance.",
@@ -5735,7 +5727,7 @@ let obj = {
       d: "work effort is difficult to measure, but is not likely to contribute much to an explanation of wage differences.",
       ans: 'a'
    },
-   q717: {
+   q716: {
       question: "Empirical analysis of wage differences has found evidence",
       a: "of a minor role played by omitted variables.",
       b: "of a direct correlation between wages and attractiveness.",
@@ -5743,7 +5735,7 @@ let obj = {
       d: "that suggests that physical appearance-related wage differentials among males are vastly different than differentials among females.",
       ans: 'b'
    },
-   q718: {
+   q717: {
       question: "According to the human capital view, education",
       a: "alters work ethic.",
       b: "leads to lower lifetime earnings.",
@@ -5751,7 +5743,7 @@ let obj = {
       d: "is an indicator of raw intellect.",
       ans: 'c'
    },
-   q719: {
+   q718: {
       question: "The fact that women are more likely to interrupt their careers to raise children reflects",
       a: "further evidence that labor markets discriminate against women.",
       b: "evidence that society under-values the role of women in the market place.",
@@ -5759,7 +5751,7 @@ let obj = {
       d: "evidence that markets are inefficient at allocating labor resources.",
       ans: 'c'
    },
-   q720: {
+   q719: {
       question: "Evidence suggests that business owners are generally",
       a: "interested in profits, only when discrimination is illegal.",
       b: "more interested in discrimination than in making a profit.",
@@ -5767,7 +5759,7 @@ let obj = {
       d: "more interested in making a profit than in discriminating against a particular group.",
       ans: 'd'
    },
-   q721: {
+   q720: {
       question: "Discriminatory hiring practices can be expected, even if markets are competitive, as a result of",
       a: "lower costs of hiring.",
       b: "customer preferences.",
@@ -5775,7 +5767,7 @@ let obj = {
       d: "unrestricted entry and exit in markets.",
       ans: 'b'
    },
-   q722: {
+   q721: {
       question: "The issue of comparable worth is one in which",
       a: "all workers should receive the same wages in an economy.",
       b: "markets are allowed to determine a worker’s rate of compensation.",
@@ -5783,7 +5775,7 @@ let obj = {
       d: "all workers should be provided an opportunity to make a comparable contribution to the economy.",
       ans: 'c'
    },
-   q723: {
+   q722: {
       question: "Which of the following scenarios would serve to decrease the demand for unskilled labor in our country?",
       a: "increased international trade with countries where unskilled labor is more plentiful",
       b: "increased demand for goods produced by unskilled labor",
@@ -5791,7 +5783,7 @@ let obj = {
       d: "increased supply of migrant workers",
       ans: 'a'
    },
-   q724: {
+   q723: {
       question: "Why do major league baseball players get paid more than minor league players?",
       a: "The higher wage reflects a compensating differential.",
       b: "Major league players are better athletes.",
@@ -5799,7 +5791,7 @@ let obj = {
       d: "Playing in the major leagues is less pleasant than playing in the minor leagues.",
       ans: 'b'
    },
-   q725: {
+   q724: {
       question: "Which of the following statements represents the idea behind signaling in education?",
       a: "Education can turn an unproductive person into a productive person.",
       b: "The more naturally productive someone is the more they are inclined to educate themselves.",
@@ -5807,7 +5799,7 @@ let obj = {
       d: "all of the above",
       ans: 'b'
    },
-   q726: {
+   q725: {
       question: "Studies have shown that nonunion workers earn about",
       a: "10 to 20 percent less than union workers.",
       b: "10 to 20 percent more than union workers.",
@@ -5815,7 +5807,7 @@ let obj = {
       d: "40 to 50 percent less than union workers.",
       ans: 'a'
    },
-   q727: {
+   q726: {
       question: "How does the theory of efficiency wages explain above-equilibrium wages?",
       a: "Employers are forced to pay higher wages in efficient markets.",
       b: "Workers get a raise in wage when they prove they are increasing their productivity.",
@@ -5823,7 +5815,7 @@ let obj = {
       d: "Employers give their workers a higher wage in the hopes that it will lead to increased productivity.",
       ans: 'd'
    },
-   q728: {
+   q727: {
       question: "Racial segregation of streetcars in the southern cities was largely opposed by",
       a: "streetcar firms.",
       b: "government officials.",
@@ -5831,7 +5823,7 @@ let obj = {
       d: "all of the above.",
       ans: 'a'
    },
-   q729: {
+   q728: {
       question: "What was the main reason the gender gap did not narrow during the post-war years?",
       a: "Women added more to marginal product than men.",
       b: "Employers were required to pay men more to do the same job women were doing.",
@@ -5839,7 +5831,7 @@ let obj = {
       d: "all of the above",
       ans: 'c'
    },
-   q730: {
+   q729: {
       question: "Economists would argue that the gender wage gap is narrowing because of",
       a: "efficiency wages.",
       b: "comparable worth legislation.",
@@ -5847,7 +5839,7 @@ let obj = {
       d: "increased training among women.",
       ans: 'd'
    },
-   q731: {
+   q730: {
       question: "Laws across the United States have provided a way for economists to study the effects of education on wages because of differences from state-to-state in",
       a: "antitrust laws.",
       b: "minimum wage laws.",
@@ -5855,7 +5847,7 @@ let obj = {
       d: "legalized gambling.",
       ans: 'c'
    },
-   q732: {
+   q731: {
       question: "Students who are required to finish more schooling have been found to",
       a: "earn a higher wage.",
       b: "be happier with their career choices.",
@@ -5863,7 +5855,7 @@ let obj = {
       d: "be more likely to feel the effects of minimum wage increases.",
       ans: 'a'
    },
-   q733: {
+   q732: {
       question: "Tiger Woods, a famous golfer, earns more than a university professor. The neoclassical theory of labor markets would suggest that",
       a: "Although many university professors play golf, it is just a hobby and not a profession.",
       b: "Tiger Woods has received more formal education than a university professor.",
@@ -5871,7 +5863,7 @@ let obj = {
       d: "Sports are generally considered more important in an economy than education.",
       ans: 'c'
    },
-   q734: {
+   q733: {
       question: "Which of the following statements is NOT true?",
       a: "The wage for difficult jobs exceeds that for easy jobs.",
       b: "The wage for fun jobs exceeds that for dull jobs.",
@@ -5879,7 +5871,7 @@ let obj = {
       d: "The wage for skilled jobs exceeds that for unskilled jobs.",
       ans: 'b'
    },
-   q735: {
+   q734: {
       question: "Receptionists generally have low paying jobs because",
       a: "receptionist jobs are considered difficult.",
       b: "receptionists are required to have a college degree.",
@@ -5887,7 +5879,7 @@ let obj = {
       d: "many people perceive the job as having an element of personal satisfaction.",
       ans: 'c'
    },
-   q736: {
+   q735: {
       question: "A high-rise construction worker is typically paid a higher wage than a carpenter who builds residential housing primarily because",
       a: "carpenters are more likely to work a standard day shift where high-rise construction workers generally work at night.",
       b: "carpenter jobs are perceived as fun and easy.",
@@ -5895,7 +5887,7 @@ let obj = {
       d: "high-rise construction jobs require years of training while building residential housing requires no special training.",
       ans: 'c'
    },
-   q737: {
+   q736: {
       question: "If the night-shift workers at a Ford assembly plant make more than the day-shift workers at the same plant, this is because of",
       a: "an inefficient labor market in the car industry.",
       b: "a compensating differential.",
@@ -5903,7 +5895,7 @@ let obj = {
       d: "a negative externality in this labor market.",
       ans: 'b'
    },
-   q738: {
+   q737: {
       question: "Human capital",
       a: "is a form of economic rent.",
       b: "is a new term economists have devised for robotics technology.",
@@ -5911,7 +5903,7 @@ let obj = {
       d: "is knowledge and skill acquired through education and training.",
       ans: 'd'
    },
-   q739: {
+   q738: {
       question: "The wage difference between jobs that require education and those that don’t",
       a: "is not likely to be related to productivity differences.",
       b: "encourages workers to bear the cost of acquiring education.",
@@ -5919,7 +5911,7 @@ let obj = {
       d: "does not affect the supply of workers in the different labor markets.",
       ans: 'b'
    },
-   q740: {
+   q739: {
       question: "Skill differences account for some of the differences in wages across occupations because",
       a: "high-skilled workers are more pleasant to work with than low-skilled workers.",
       b: "international trade has altered the relative demand for skilled and unskilled labor.",
@@ -5927,7 +5919,7 @@ let obj = {
       d: "lower skilled workers are suffering from discrimination.",
       ans: 'b'
    },
-   q741: {
+   q740: {
       question: "Studies have documented that the earnings gap between low-skill workers and high-skill workers has",
       a: "increased over the past two decades.",
       b: "not changed as the wages of both groups have steadily increased.",
@@ -5935,7 +5927,7 @@ let obj = {
       d: "decreased over the past two decades because of lower college enrollments.",
       ans: 'a'
    },
-   q742: {
+   q741: {
       question: "Which of the following would NOT explain the “beauty premium?”",
       a: "Beauty is an indirect measure of other types of ability.",
       b: "Physical beauty is associated with a worker’s marginal productivity in every occupation.",
@@ -5943,7 +5935,7 @@ let obj = {
       d: "Beauty is a type of discrimination.",
       ans: 'b'
    },
-   q743: {
+   q742: {
       question: "The human capital view of education is that it",
       a: "can reduce job discrimination.",
       b: "enhances productivity.",
@@ -5951,7 +5943,7 @@ let obj = {
       d: "is a signal of natural intelligence or ability.",
       ans: 'b'
    },
-   q744: {
+   q743: {
       question: "The signaling view of education is that it",
       a: "alters work ethic.",
       b: "signals natural ability.",
@@ -5959,7 +5951,7 @@ let obj = {
       d: "always leads to high-wage jobs.",
       ans: 'b'
    },
-   q745: {
+   q744: {
       question: "When differences in average wages occur in a labor market, economists agree that these differences",
       a: "occur solely because of differences in productivity between genders and races.",
       b: "do not alone provide conclusive evidence of discrimination.",
@@ -5967,7 +5959,7 @@ let obj = {
       d: "provide conclusive evidence of broad patterns of discrimination on the basis of gender and race.",
       ans: 'b'
    },
-   q746: {
+   q745: {
       question: "When employers in competitive product markets choose to discriminate when hiring workers, they will",
       a: "likely go out of business.",
       b: "have a larger pool of potential employees from which to choose.",
@@ -5975,7 +5967,7 @@ let obj = {
       d: "realize an increase in economic profit because of the low cost of labor.",
       ans: 'a'
    },
-   q747: {
+   q746: {
       question: "Factors that affect a worker’s wage but are difficult to measure include",
       a: "ability, effort and chance.",
       b: "gender and race.",
@@ -5983,7 +5975,7 @@ let obj = {
       d: "years of experience and geographic location.",
       ans: 'a'
    },
-   q748: {
+   q747: {
       question: "Streetcar seating that was segregated by race was opposed by firms that ran the streetcars because",
       a: "railroad companies were not required to segregate by race.",
       b: "streetcar drivers could not remember who sat where.",
@@ -5991,7 +5983,7 @@ let obj = {
       d: "segregated seating was less profitable than streetcar seating that didn’t have restrictions.",
       ans: 'd'
    },
-   q749: {
+   q748: {
       question: "A 1988 study of the professional basketball players’ market found that",
       a: "sports with strong player associations do not experience wage discrimination.",
       b: "consumer driven wage discrimination between black and white basketball players may exist.",
@@ -5999,7 +5991,7 @@ let obj = {
       d: "wage discrimination in basketball may be eliminated with government regulations.",
       ans: 'b'
    },
-   q750: {
+   q749: {
       question: "Which of the following is a valid economic criticism of comparable worth?",
       a: "There is no employment discrimination in the United States.",
       b: "Comparable worth distorts labor market signals, thereby creating labor surpluses and shortages.",
@@ -6007,7 +5999,7 @@ let obj = {
       d: "Women are less likely than men to be heads of households.",
       ans: 'b'
    },
-   q751: {
+   q750: {
       question: "The idea behind signaling in education is that",
       a: "education can turn an unproductive person into a productive person.",
       b: "more productive people are more inclined to educate themselves.",
@@ -6015,7 +6007,7 @@ let obj = {
       d: "most college graduates wouldn’t be half as productive if it were not for the years they spend in the classroom.",
       ans: 'b'
    },
-   q752: {
+   q751: {
       question: "The superstar phenomenon occurs in markets",
       a: "that can limit the supply of participants in the market so that competition is diminished.",
       b: "that make it possible for the best producer to supply every customer at low cost.",
@@ -6023,7 +6015,7 @@ let obj = {
       d: "where the ability and effort of market participants are relatively equal.",
       ans: 'b'
    },
-   q753: {
+   q752: {
       question: "Each of the following tend to create above-equilibrium wages as well as a shortage of jobs EXCEPT",
       a: "unions.",
       b: "efficiency wages.",
@@ -6031,7 +6023,7 @@ let obj = {
       d: "minimum wage laws.",
       ans: 'c'
    },
-   q754: {
+   q753: {
       question: "Economists are skeptical that discrimination is employer driven because",
       a: "employers are profit maximizers.",
       b: "there is a cost advantage for the non-discriminating firm.",
@@ -6039,7 +6031,7 @@ let obj = {
       d: "All of the above are reasons.",
       ans: 'd'
    },
-   q755: {
+   q754: {
       question: "Factors which are likely to have influenced the declining gender wage gap include each of the following EXCEPT:",
       a: "Women are gaining more continuous work experience.",
       b: "Women are delaying marriage.",
@@ -6047,7 +6039,7 @@ let obj = {
       d: "Fertility rates have fallen.",
       ans: 'c'
    },
-   q756: {
+   q755: {
       question: "Wage differences that exist between well-educated workers and less-educated workers can be thought of as",
       a: "unfair by most economists.",
       b: "another form of discrimination in the labor market.",
@@ -6055,7 +6047,7 @@ let obj = {
       d: "difficult to explain in a market economy.",
       ans: 'c'
    },
-   q757: {
+   q756: {
       question: "A natural experiment which allows economists to examine the effect of education on wages and productivity exists because of",
       a: "minimum wage laws.",
       b: "government-subsidized higher education.",
@@ -6063,7 +6055,7 @@ let obj = {
       d: "differences in state laws for school attendance.",
       ans: 'd'
    },
-   q758: {
+   q757: {
       question: "A person’s earnings depends on",
       a: "how well the economy is doing.",
       b: "whether or not the economy is experiencing inflation.",
@@ -6071,7 +6063,7 @@ let obj = {
       d: "how much profit that person’s employer is able to make.",
       ans: 'c'
    },
-   q759: {
+   q758: {
       question: "Labor earnings make up what part of total income in the U.S. economy?",
       a: "all of it",
       b: "three-fourths",
@@ -6079,7 +6071,7 @@ let obj = {
       d: "one-fourth",
       ans: 'b'
    },
-   q760: {
+   q759: {
       question: "If income were equally distributed across all families,",
       a: "all families would more likely be rich than poor.",
       b: "the relative share of income would decline as the number of families are increased.",
@@ -6087,7 +6079,7 @@ let obj = {
       d: "75 percent of the families would receive exactly 75 percent of the income.",
       ans: 'd'
    },
-   q761: {
+   q760: {
       question: "Based on data from 1998, what percent of all income in the United States did the top fifth of all families receive?",
       a: "4 percent",
       b: "32 percent",
@@ -6095,7 +6087,7 @@ let obj = {
       d: "78 percent",
       ans: 'c'
    },
-   q762: {
+   q761: {
       question: "Evidence suggests that the women’s movement has",
       a: "increased income inequality across households.",
       b: "decreased income inequality across households.",
@@ -6103,7 +6095,7 @@ let obj = {
       d: "decreased the importance of traditional measures of income inequality.",
       ans: 'a'
    },
-   q763: {
+   q762: {
       question: "In the United States the poverty rate is a measure of the",
       a: "number of people whose annual income is less than $18,000.",
       b: "number of people whose annual household income is less than $39,000.",
@@ -6111,7 +6103,7 @@ let obj = {
       d: "percentage of government expenditures spent on programs to relieve poverty.",
       ans: 'c'
    },
-   q764: {
+   q763: {
       question: "Over the past few years, growth in average income has",
       a: "eliminated poverty.",
       b: "failed to decrease the poverty rate.",
@@ -6119,7 +6111,7 @@ let obj = {
       d: "increased the poverty rate in some years, and decreased it in other years.",
       ans: 'b'
    },
-   q765: {
+   q764: {
       question: "Measures of poverty that fail to account for the value of in-kind transfers",
       a: "overstate the actual poverty rate.",
       b: "understate the actual poverty rate.",
@@ -6127,7 +6119,7 @@ let obj = {
       d: "are generally more reliable in accounting for annual variation in actual poverty rates.",
       ans: 'a'
    },
-   q766: {
+   q765: {
       question: "The life cycle effect characterizes a life-time income profile in which income",
       a: "falls during the early years of market activity and peaks at retirement.",
       b: "rises as a worker gains maturity and experience.",
@@ -6135,7 +6127,7 @@ let obj = {
       d: "tends to follow a seasonal pattern.",
       ans: 'b'
    },
-   q767: {
+   q766: {
       question: "Saving and borrowing behavior is indicative of a family",
       a: "that is most likely to be poor.",
       b: "that has a difficult time balancing its standard of living.",
@@ -6143,7 +6135,7 @@ let obj = {
       d: "adjusting its standard of living to reflect transitory changes in income.",
       ans: 'd'
    },
-   q768: {
+   q767: {
       question: "A family’s ability to buy goods and services depends largely on its",
       a: "permanent income.",
       b: "in-kind transfers.",
@@ -6151,7 +6143,7 @@ let obj = {
       d: "transitory income.",
       ans: 'a'
    },
-   q769: {
+   q768: {
       question: "Economic mobility refers to the",
       a: "movement of people among income classes.",
       b: "movement of resources from one industry to another.",
@@ -6159,7 +6151,7 @@ let obj = {
       d: "government’s attempt to distribute monetary assistance to areas most in need.",
       ans: 'a'
    },
-   q770: {
+   q769: {
       question: "Whether or not policymakers should try to make our society more egalitarian is largely a matter of",
       a: "egalitarian principles.",
       b: "economic efficiency.",
@@ -6167,7 +6159,7 @@ let obj = {
       d: "enhanced opportunity.",
       ans: 'c'
    },
-   q771: {
+   q770: {
       question: "According to utilitarians, the ultimate objective of private and public actions is to",
       a: "enhance the income of the rich.",
       b: "provide for the betterment of the poor.",
@@ -6175,7 +6167,7 @@ let obj = {
       d: "ensure an egalitarian distribution of income.",
       ans: 'c'
    },
-   q772: {
+   q771: {
       question: "The utilitarian case for redistributing income is based on the assumption of",
       a: "rising marginal utility.",
       b: "collective consensus.",
@@ -6183,7 +6175,7 @@ let obj = {
       d: "diminishing marginal utility.",
       ans: 'd'
    },
-   q773: {
+   q772: {
       question: "When the government taxes income as part of a redistribution program",
       a: "the poor pay higher taxes.",
       b: "incentives to earn income are diminished.",
@@ -6191,7 +6183,7 @@ let obj = {
       d: "incentives for the poor to work are enhanced.",
       ans: 'b'
    },
-   q774: {
+   q773: {
       question: "In the parable of the leaky bucket, a fundamental problem with government redistribution programs is identified. As long as the government only has “leaky buckets” at its disposal",
       a: "equality of economic opportunity is an unattainable goal.",
       b: "affirmative action programs are doomed to failure.",
@@ -6199,7 +6191,7 @@ let obj = {
       d: "full egalitarian policies will always dominate competing policy options.",
       ans: 'c'
    },
-   q775: {
+   q774: {
       question: "Liberalism is founded on a premise that behind a “veil of ignorance”",
       a: "no one would be considered in an “original position.”",
       b: "justice is a matter of political philosophy.",
@@ -6207,7 +6199,7 @@ let obj = {
       d: "everyone would agree to “just” rules to reallocate income.",
       ans: 'd'
    },
-   q776: {
+   q775: {
       question: "The liberalism rule called the maximin criterion suggests that the focus of social policy would be to",
       a: "elevate the well-being of those at the bottom of income distribution.",
       b: "elevate the well-being of all workers.",
@@ -6215,7 +6207,7 @@ let obj = {
       d: "expropriate the factors of production from the capitalist class.",
       ans: 'a'
    },
-   q777: {
+   q776: {
       question: "A libertarian is likely to argue that",
       a: "society is responsible for ensuring an equal distribution of income.",
       b: "outcomes always dominate processes.",
@@ -6223,7 +6215,7 @@ let obj = {
       d: "only individual members of society can earn income.",
       ans: 'd'
    },
-   q778: {
+   q777: {
       question: "Minimum wage laws",
       a: "increase the efficiency of labor markets.",
       b: "force a market imbalance between the supply and demand for labor.",
@@ -6231,7 +6223,7 @@ let obj = {
       d: "are most effective at alleviating poverty when labor demand is highly elastic.",
       ans: 'b'
    },
-   q779: {
+   q778: {
       question: "Evidence suggests that",
       a: "the longer a family is on welfare, the harder it is to get off welfare.",
       b: "legislation designed to limit the time a family can be on welfare will never be passed.",
@@ -6239,7 +6231,7 @@ let obj = {
       d: "welfare dependency is embraced by over 80% of new welfare recipients.",
       ans: 'a'
    },
-   q780: {
+   q779: {
       question: "Proponents of welfare reform claim that programs for the poor which do not establish a time limit on recipient benefits harm children by",
       a: "forcing mothers to work outside the home.",
       b: "encouraging child abuse by absent fathers.",
@@ -6247,7 +6239,7 @@ let obj = {
       d: "all of the above.",
       ans: 'c'
    },
-   q781: {
+   q780: {
       question: "A negative income tax system would",
       a: "eliminate tax progressivity.",
       b: "make taxes more regressive.",
@@ -6255,7 +6247,7 @@ let obj = {
       d: "collect from high-income households and give transfers to low-income households.",
       ans: 'd'
    },
-   q782: {
+   q781: {
       question: "Assume that the government proposes a negative income tax that calculates taxes owed by the formula, TAXES OWED = (1/3 / INCOME) – 10,000. A family that earns an income of $60,000 will",
       a: "pay $10,000 in taxes.",
       b: "receive a subsidy of $3,000.",
@@ -6263,7 +6255,7 @@ let obj = {
       d: "neither pay taxes nor receive an income subsidy.",
       ans: 'a'
    },
-   q783: {
+   q782: {
       question: "Three-fourths of total income in the U.S. economy comes from",
       a: "rental income.",
       b: "labor earnings.",
@@ -6271,7 +6263,7 @@ let obj = {
       d: "corporate profit.",
       ans: 'b'
    },
-   q784: {
+   q783: {
       question: "One way to describe the distribution of income in the economy is to",
       a: "calculate the bell curve that exists in any economy.",
       b: "use the International Income Distribution Standards that were established in 1992.",
@@ -6279,7 +6271,7 @@ let obj = {
       d: "calculate the percentage of families that fall into each of seven income categories.",
       ans: 'd'
    },
-   q785: {
+   q784: {
       question: "U.S. income data from 1998 show that the bottom one-fifth of all families received",
       a: "4 percent of all income.",
       b: "10 percent of all income.",
@@ -6287,7 +6279,7 @@ let obj = {
       d: "36 percent of all income.",
       ans: 'a'
    },
-   q786: {
+   q785: {
       question: "Over the past several decades, the women’s movement may be responsible for",
       a: "less inequality in family incomes.",
       b: "high-income men marrying low-income women.",
@@ -6295,7 +6287,7 @@ let obj = {
       d: "more inequality in family incomes.",
       ans: 'd'
    },
-   q787: {
+   q786: {
       question: "When the income distribution of the U.S. is compared to that of other countries, it shows that the U.S. has a",
       a: "distribution that is one of the most equal income distributions.",
       b: "distribution that is one of the most unequal income distributions.",
@@ -6303,7 +6295,7 @@ let obj = {
       d: "higher percentage of poor families, and a higher percentage of rich families than most countries.",
       ans: 'c'
    },
-   q788: {
+   q787: {
       question: "The poverty line is equal to the",
       a: "average income of the bottom one-fifth of all income recipients.",
       b: "average income of the bottom one-tenth of all income recipients.",
@@ -6311,7 +6303,7 @@ let obj = {
       d: "cost of an adequate diet for a family multiplied by three.",
       ans: 'd'
    },
-   q789: {
+   q788: {
       question: "The annual adjustment to the poverty line reflects",
       a: "family size.",
       b: "price changes.",
@@ -6319,7 +6311,7 @@ let obj = {
       d: "the number of people currently on public assistance.",
       ans: 'b'
    },
-   q790: {
+   q789: {
       question: "The number of families living in poverty in the U.S. tends to be overstated by about",
       a: "2 percent.",
       b: "5 percent.",
@@ -6327,7 +6319,7 @@ let obj = {
       d: "15 percent.",
       ans: 'c'
    },
-   q791: {
+   q790: {
       question: "In-kind transfers",
       a: "can only be provided by the Federal government.",
       b: "are goods and services given to the poor rather than cash.",
@@ -6335,7 +6327,7 @@ let obj = {
       d: "are taken into account when determining the degree of income inequality in the economy.",
       ans: 'b'
    },
-   q792: {
+   q791: {
       question: "Transitory income refers to",
       a: "the regular pattern of income variation over a person’s life.",
       b: "a person’s normal income.",
@@ -6343,7 +6335,7 @@ let obj = {
       d: "temporary increases and decreases in income.",
       ans: 'd'
    },
-   q793: {
+   q792: {
       question: "Income and saving rates are highest for people who are",
       a: "retired.",
       b: "middle-aged.",
@@ -6351,7 +6343,7 @@ let obj = {
       d: "married with young children.",
       ans: 'b'
    },
-   q794: {
+   q793: {
       question: "The life-cycle theory would suggest that because people can borrow and save to smooth out changes in income, their standard of living depends more on",
       a: "lifetime income rather than annual income.",
       b: "annual income rather than lifetime income.",
@@ -6359,7 +6351,7 @@ let obj = {
       d: "average monthly income rather than annual income.",
       ans: 'a'
    },
-   q795: {
+   q794: {
       question: "The new formula being considered by the U.S. Census Bureau to compute the income threshold for the poverty line would",
       a: "not change the poverty line, but the formula would be easier to compute.",
       b: "decrease the poverty line and decrease the number of families below the poverty line.",
@@ -6367,7 +6359,7 @@ let obj = {
       d: "increase the poverty line, but the number of families considered poor would not change since the cost of living is continuously rising.",
       ans: 'c'
    },
-   q796: {
+   q795: {
       question: "A family’s ability to buy goods and services depends largely on its normal or average income which is its",
       a: "transitory income.",
       b: "in-kind transfers.",
@@ -6375,7 +6367,7 @@ let obj = {
       d: "lifetime income.",
       ans: 'c'
    },
-   q797: {
+   q796: {
       question: "Studies have shown that if a father earns 20 percent above his generation’s average income, his son will most likely earn",
       a: "relatively the same income as his father.",
       b: "less than his father since the son has less incentive to work with a wealthy father.",
@@ -6383,7 +6375,7 @@ let obj = {
       d: "8 percent above his generation’s average income.",
       ans: 'd'
    },
-   q798: {
+   q797: {
       question: "Evidence indicates that",
       a: "most of the poor are poor for short periods of time.",
       b: "education is unrelated to poverty.",
@@ -6391,7 +6383,7 @@ let obj = {
       d: "working does not reduce one’s chance of being poor.",
       ans: 'a'
    },
-   q799: {
+   q798: {
       question: "The political philosophy according to which the government should punish crimes and enforce voluntary agreements but not redistribute income is",
       a: "liberalism.",
       b: "utilitarianism.",
@@ -6399,7 +6391,7 @@ let obj = {
       d: "libertarianism.",
       ans: 'd'
    },
-   q800: {
+   q799: {
       question: "Because of diminishing marginal utility,",
       a: "the rich receive more satisfaction than the poor from the last dollar they spend since the rich have more to spend.",
       b: "more of something is always preferred to less of something, especially money.",
@@ -6407,7 +6399,7 @@ let obj = {
       d: "the poor receive more satisfaction than the rich from the last dollar they spend.",
       ans: 'd'
    },
-   q801: {
+   q800: {
       question: "Because of distorted incentives, when the government tries to maximize total utility in the economy by redistributing income, the policy will",
       a: "always achieve a full egalitarian society in a market economy.",
       b: "always fall short of a full egalitarian society.",
@@ -6415,7 +6407,7 @@ let obj = {
       d: "achieve a full egalitarian society only if sufficient funds are transferred from the rich to the poor.",
       ans: 'b'
    },
-   q802: {
+   q801: {
       question: "Rawl’s maximin criterion suggests that income transferred from the rich to the poor should aim to",
       a: "promote an egalitarian distribution of income.",
       b: "maximize the well-being of the worst off person in society.",
@@ -6423,7 +6415,7 @@ let obj = {
       d: "reduce the disincentives to work and save that redistribution policy creates.",
       ans: 'b'
    },
-   q803: {
+   q802: {
       question: "Libertarians would condone government involvement in an economy to ensure",
       a: "a distribution of income as equal as possible.",
       b: "equal opportunity, but not an equal distribution of income.",
@@ -6431,7 +6423,7 @@ let obj = {
       d: "an objectively-determined just society.",
       ans: 'b'
    },
-   q804: {
+   q803: {
       question: "Government welfare programs are often criticized because",
       a: "studies have shown that these programs encourage single-parent households.",
       b: "the government spends more each year on welfare programs than it does on national defense.",
@@ -6439,7 +6431,7 @@ let obj = {
       d: "they create incentives for people to become needy.",
       ans: 'd'
    },
-   q805: {
+   q804: {
       question: "Opponents of the 1996 law that limits the time a family can receive welfare benefits believe that",
       a: "children will become innocent victims of this law.",
       b: "any money saved by lowering welfare roles will be diverted to defense spending.",
@@ -6447,7 +6439,7 @@ let obj = {
       d: "little evidence exists that staying on welfare for long periods of time is detrimental to a family.",
       ans: 'a'
    },
-   q806: {
+   q805: {
       question: "Assume that the government proposes a negative income tax that calculates taxes owed by the formula, TAXES OWED = (1/2 / INCOME) – 15,000. For a family earning $20,000 of income, how would this negative income tax affect them?",
       a: "They will receive an income subsidy of $10,000.",
       b: "They will receive an income subsidy of $5,000.",
@@ -6455,7 +6447,7 @@ let obj = {
       d: "They will not be required to pay any tax.",
       ans: 'b'
    },
-   q807: {
+   q806: {
       question: "Almost everyone agrees that the more equally policymakers attempt to divide the “pie” the",
       a: "more likely the middle class will be to “starve.”",
       b: "larger the “pie” becomes.",
@@ -6463,7 +6455,7 @@ let obj = {
       d: "“fatter” the rich become.",
       ans: 'c'
    },
-   q808: {
+   q807: {
       question: "The slope of the budget constraint is determined by the",
       a: "level of income of the consumer.",
       b: "relative price of commodities represented on the axes.",
@@ -6471,7 +6463,7 @@ let obj = {
       d: "endowment of productive resources.",
       ans: 'b'
    },
-   q809: {
+   q808: {
       question: "Consumer preferences are typically represented by",
       a: "cost curves.",
       b: "supply curves.",
@@ -6479,7 +6471,7 @@ let obj = {
       d: "budget constraints.",
       ans: 'c'
    },
-   q810: {
+   q809: {
       question: "The slope of an indifference curve is",
       a: "constant.",
       b: "positive, since indifference curves slope upward.",
@@ -6487,7 +6479,7 @@ let obj = {
       d: "the same as the slope of the budget constraint at every point.",
       ans: 'c'
    },
-   q811: {
+   q810: {
       question: "The amount of a good an individual has ",
       a: "is only affected by prices.",
       b: "is only affected by income.",
@@ -6495,7 +6487,7 @@ let obj = {
       d: "affects the rate at which she is willing to trade.",
       ans: 'd'
    },
-   q812: {
+   q811: {
       question: "As long as a consumer is on the same indifference curve",
       a: "she is unable to decide which bundle of goods to choose.",
       b: "she is indifferent among the points on that indifference curve.",
@@ -6503,7 +6495,7 @@ let obj = {
       d: "she is indifferent to all points which lie on any other indifference curves.",
       ans: 'b'
    },
-   q813: {
+   q812: {
       question: "When indifference curves are bowed inward toward the origin,",
       a: "it is unlikely that consumers will be willing to engage in trade.",
       b: "people can only increase satisfaction by consuming more of all commodities.",
@@ -6511,7 +6503,7 @@ let obj = {
       d: "the marginal rate of substitution decreases as a consumer moves down an indifference curve.",
       ans: 'd'
    },
-   q814: {
+   q813: {
       question: "The highest indifference curve that a consumer can reach is the one",
       a: "farthest from the origin.",
       b: "that intersects the budget constraint in at least two places.",
@@ -6519,7 +6511,7 @@ let obj = {
       d: "all of the above.",
       ans: 'c'
    },
-   q815: {
+   q814: {
       question: "Which of the following is NOT a property of indifference curves?",
       a: "Lower indifference curves are preferable to higher indifference curves.",
       b: "Indifference curves are bowed inward toward the origin.",
@@ -6527,7 +6519,7 @@ let obj = {
       d: "Indifference curves are downward sloping.",
       ans: 'a'
    },
-   q816: {
+   q815: {
       question: "When two goods are perfect substitutes they will have ",
       a: "linear indifference curves.",
       b: "indifference curves that cross.",
@@ -6535,7 +6527,7 @@ let obj = {
       d: "indifference curves with a positive slope.",
       ans: 'a'
    },
-   q817: {
+   q816: {
       question: "When economists describe preferences, they sometimes use the concept of ",
       a: "income.",
       b: "utility.",
@@ -6543,7 +6535,7 @@ let obj = {
       d: "markets.",
       ans: 'b'
    },
-   q818: {
+   q817: {
       question: "An optimizing consumer will select a consumption bundle in which the",
       a: "utility exceeds price.",
       b: "marginal rate of substitution is equal to income.",
@@ -6551,7 +6543,7 @@ let obj = {
       d: "marginal rate of substitution is equal to the relative price.",
       ans: 'd'
    },
-   q819: {
+   q818: {
       question: "At the optimum",
       a: "the budget constraint would have a slope of 1.",
       b: "it is still possible for the consumer to increase his consumption of both goods.",
@@ -6559,7 +6551,7 @@ let obj = {
       d: "the indifference curve would intersect the budget constraint at its center.",
       ans: 'c'
    },
-   q820: {
+   q819: {
       question: "When a budget constraint shifts out",
       a: "the consumer is worse off.",
       b: "the consumer can now reach a higher indifference curve.",
@@ -6567,7 +6559,7 @@ let obj = {
       d: "it could only have been caused by an increase in the price of one of the goods.",
       ans: 'b'
    },
-   q821: {
+   q820: {
       question: "Assume that a college student purchases Diet Coke and Snickers. The substitution effect associated with a decrease in the price of a Snickers will result in",
       a: "only a decrease in the consumption of Diet Coke.",
       b: "only an increase in the consumption of Snickers.",
@@ -6575,7 +6567,7 @@ let obj = {
       d: "an increase in the consumption of Snickers and a decrease in the consumption of Diet Coke. ",
       ans: 'd'
    },
-   q822: {
+   q821: {
       question: "Violations to the law of demand are assumed to occur",
       a: "only when goods are Giffen goods.",
       b: "commonly.",
@@ -6583,7 +6575,7 @@ let obj = {
       d: "All of the above are possible answers.",
       ans: 'a'
    },
-   q823: {
+   q822: {
       question: "If an in-kind transfer forces the recipient to consume more of the good than he would choose with a cash transfer of equal value, then the recipient",
       a: "would prefer the in-kind transfer over a cash transfer of equal dollar value.",
       b: "would prefer a cash transfer of equal dollar value.",
@@ -6591,7 +6583,7 @@ let obj = {
       d: "Not enough information about the consumer is given to answer this question. ",
       ans: 'b'
    },
-   q824: {
+   q823: {
       question: "The theory of consumer choice provides a more complete understanding of demand by examining ",
       a: "the tradeoffs people face in their role as consumers.",
       b: "the role of suppliers and how they attempt to maximize profits.",
@@ -6599,7 +6591,7 @@ let obj = {
       d: "individuals who make irrational consumption decisions.",
       ans: 'a'
    },
-   q825: {
+   q824: {
       question: "A budget constraint shows",
       a: "consumption bundles that makes a consumer equally satisfied.",
       b: "the prices a consumer must pay for two products he consumes.",
@@ -6607,7 +6599,7 @@ let obj = {
       d: "the various consumption bundles that a consumer can afford with a given income. ",
       ans: 'd'
    },
-   q826: {
+   q825: {
       question: "A point outside a consumer’s budget constraint",
       a: "cannot be reached given the consumer’s current income.",
       b: "shows that the consumer is not spending all of her income.",
@@ -6615,7 +6607,7 @@ let obj = {
       d: "means that one of the two goods must be an inferior good.",
       ans: 'a'
    },
-   q827: {
+   q826: {
       question: "Which of the following leads to a parallel shift of the budget line?",
       a: "a 10 percent increase in the price of both goods",
       b: "a 20 percent reduction in the price of both goods",
@@ -6623,7 +6615,7 @@ let obj = {
       d: "a 10 percent increase in the price of one of the goods only",
       ans: 'c'
    },
-   q828: {
+   q827: {
       question: "The relative price of two goods equals",
       a: "the marginal rate of substitution.",
       b: "the slope of an indifference curve.",
@@ -6631,7 +6623,7 @@ let obj = {
       d: "consumer optimum.",
       ans: 'c'
    },
-   q829: {
+   q828: {
       question: "For a consumer, any point on the same indifference curve yields",
       a: "different levels of satisfaction.",
       b: "constraints faced by the consumer.",
@@ -6639,7 +6631,7 @@ let obj = {
       d: "an income level sufficient to make an individual happy.",
       ans: 'c'
    },
-   q830: {
+   q829: {
       question: "A consumer who reduces his consumption of one good will remain on the same indifference curve only if he",
       a: "doesn’t change his consumption of another good.",
       b: "reduces his consumption of another good.",
@@ -6647,7 +6639,7 @@ let obj = {
       d: "He will not be able to stay on the same indifference curve if he reduces his consumption of one good.",
       ans: 'c'
    },
-   q831: {
+   q830: {
       question: "The marginal rate of substitution",
       a: "measures the rate at which a consumer is willing to trade one good for another.",
       b: "is always constant.",
@@ -6655,7 +6647,7 @@ let obj = {
       d: "identifies the point where the budget constraint and the indifference curve are tangent.",
       ans: 'a'
    },
-   q832: {
+   q831: {
       question: "Because consumers prefer more consumption to less, they",
       a: "prefer indifference curves with positive slopes.",
       b: "prefer lower indifference curves to higher indifference curves.",
@@ -6663,7 +6655,7 @@ let obj = {
       d: "are generally unable to place all consumption bundles on an indifference curve.",
       ans: 'c'
    },
-   q833: {
+   q832: {
       question: "Indifference curves are bowed inward because people are ",
       a: "unwilling to substitute one good for another.",
       b: "more willing to give up goods that they have in abundance.",
@@ -6671,7 +6663,7 @@ let obj = {
       d: "generally willing to consume more of one good over another.",
       ans: 'b'
    },
-   q834: {
+   q833: {
       question: "Two goods that are perfect complements will have indifference curves that are",
       a: "right angles.",
       b: "intersecting.",
@@ -6679,7 +6671,7 @@ let obj = {
       d: "upward sloping.",
       ans: 'a'
    },
-   q835: {
+   q834: {
       question: "When a consumer reaches the highest indifference curve possible, she has maximized her",
       a: "income.",
       b: "utility.",
@@ -6687,7 +6679,7 @@ let obj = {
       d: "substitution effect.",
       ans: 'b'
    },
-   q836: {
+   q835: {
       question: "The consumer’s optimum occurs where the",
       a: "highest attainable indifference curve is just tangent to the budget line.",
       b: "consumer maximizes his satisfaction and has some income left over.",
@@ -6695,7 +6687,7 @@ let obj = {
       d: "consumer will be on the indifference curve lying closest to the origin.",
       ans: 'a'
    },
-   q837: {
+   q836: {
       question: "An inferior good is any good that",
       a: "is of lesser quality than a normal good.",
       b: "an increase in income increases consumption of the good.",
@@ -6703,7 +6695,7 @@ let obj = {
       d: "a rational consumer would not generally choose to buy.",
       ans: 'c'
    },
-   q838: {
+   q837: {
       question: "Economic theory suggests that demand curves can sometimes slope upward ",
       a: "if a good is a strongly inferior good with a dominant income effect.",
       b: "when the supply curve for the good is downward sloping.",
@@ -6711,7 +6703,7 @@ let obj = {
       d: "if a good is a normal good with a dominant income effect.",
       ans: 'a'
    },
-   q839: {
+   q838: {
       question: "A Giffen good has",
       a: "an upward-sloping demand curve.",
       b: "a downward-sloping demand curve.",
@@ -6719,7 +6711,7 @@ let obj = {
       d: "a vertical demand curve.",
       ans: 'a'
    },
-   q840: {
+   q839: {
       question: "The theory of consumer choice can be used to ",
       a: "understand producers’ response to demand.",
       b: "derive a demand curve.",
@@ -6727,7 +6719,7 @@ let obj = {
       d: "show how individuals’ activities determine the preferences of a society.",
       ans: 'b'
    },
-   q841: {
+   q840: {
       question: "If an individual’s labor supply curve is backward bending this would suggest that he will",
       a: "work more as wage rates rise.",
       b: "work less as wage rates rise.",
@@ -6735,7 +6727,7 @@ let obj = {
       d: "demand more leisure as wage rates fall.",
       ans: 'b'
    },
-   q842: {
+   q841: {
       question: "Rational consumers who are saving for retirement may choose to save less when interest rates rise if ",
       a: "they are likely to inherit a large sum of money.",
       b: "they realize that they will need much less money after retirement to maintain the same standard of living. ",
@@ -6743,7 +6735,7 @@ let obj = {
       d: "the income effect dominates the substitution effect.",
       ans: 'd'
    },
-   q843: {
+   q842: {
       question: "Macroeconomics is the study of",
       a: "market regulation.",
       b: "money and financial markets.",
@@ -6751,7 +6743,7 @@ let obj = {
       d: "how households and firms make decisions and how they interact.",
       ans: 'c'
    },
-   q844: {
+   q843: {
       question: "For the economy as a whole",
       a: "expenditure exceeds income because of taxes.",
       b: "income must equal expenditure.",
@@ -6759,7 +6751,7 @@ let obj = {
       d: "expenditure exceeds income because of the government budget deficit.",
       ans: 'b'
    },
-   q845: {
+   q844: {
       question: "A circular-flow diagram is used to describe ",
       a: "how banks create money.",
       b: "how weather patterns affect the economy.",
@@ -6767,7 +6759,7 @@ let obj = {
       d: "the flow of income and expenditures in an economy.",
       ans: 'd'
    },
-   q846: {
+   q845: {
       question: "Gross Domestic Product is defined as the market value of",
       a: "all final goods and services produced by a country’s citizens in a given period of time.",
       b: "every good and service produced within a country in a given period of time.",
@@ -6775,7 +6767,7 @@ let obj = {
       d: "all goods and services produced by a country’s citizens in a given period of time.",
       ans: 'c'
    },
-   q847: {
+   q846: {
       question: "Goods and services produced and sold illegally are",
       a: "excluded from GDP.",
       b: "included in GDP.",
@@ -6783,7 +6775,7 @@ let obj = {
       d: "included in GDP to the extent that they can be measured.",
       ans: 'a'
    },
-   q848: {
+   q847: {
       question: "Latrell decides to hire Cynthia to mow his lawn, instead of mowing it himself, as he is accustomed to doing. As a result of this transaction, GDP",
       a: "will decrease.",
       b: "will increase.",
@@ -6791,7 +6783,7 @@ let obj = {
       d: "could increase or decrease, depending on whether Cynthia mows Latrell’s lawn as well as Latrell could mow it himself.",
       ans: 'b'
    },
-   q849: {
+   q848: {
       question: "The value of intermediate goods that are sold is",
       a: "not added to GDP.",
       b: "added to GDP if they were produced in a previous year.",
@@ -6799,7 +6791,7 @@ let obj = {
       d: "added to GDP unless they are sold at a loss.",
       ans: 'a'
    },
-   q850: {
+   q849: {
       question: "An American company owns a fast-food store in Lima, Peru. The value of the goods and services produced in the store are included",
       a: "in both Peruvian GDP and U.S. GDP.",
       b: "in Peruvian GDP, but not U.S. GDP.",
@@ -6807,7 +6799,7 @@ let obj = {
       d: "partly in Peruvian GDP and partly in U.S. GDP.",
       ans: 'b'
    },
-   q851: {
+   q850: {
       question: "National income is defined as ",
       a: "all income produced within a country.",
       b: "the income received by the national government.",
@@ -6815,7 +6807,7 @@ let obj = {
       d: "the total income earned by a nation’s residents in the production of goods and services.",
       ans: 'd'
    },
-   q852: {
+   q851: {
       question: "The government reports that GDP “increased by 2 percent in the last quarter.”",
       a: "GDP increased by 10 percent for the year.",
       b: "GDP increased at an annual rate of 2 percent during the last quarter.",
@@ -6823,7 +6815,7 @@ let obj = {
       d: "GDP increased at an annual rate of .5 percent during the last quarter.",
       ans: 'c'
    },
-   q853: {
+   q852: {
       question: "The four components of GDP are consumption,",
       a: "money supply, government purchases, and exports.",
       b: "investment, transfer payments, and imports.",
@@ -6831,7 +6823,7 @@ let obj = {
       d: "investment, government purchases, and foreign exchange.",
       ans: 'c'
    },
-   q854: {
+   q853: {
       question: "In macroeconomics, investment is spending on",
       a: "real estate and financial assets.",
       b: "capital equipment, inventories, and structures, including new housing.",
@@ -6839,7 +6831,7 @@ let obj = {
       d: "capital equipment, inventories, and structures, excluding household purchases of new housing.",
       ans: 'b'
    },
-   q855: {
+   q854: {
       question: "Government purchases include spending on goods and services by ",
       a: "local, state and federal governments.",
       b: "the federal government only.",
@@ -6847,7 +6839,7 @@ let obj = {
       d: "state and federal governments only.",
       ans: 'a'
    },
-   q856: {
+   q855: {
       question: "If exports are smaller than imports, net exports",
       a: "are positive.",
       b: "are negative.",
@@ -6855,7 +6847,7 @@ let obj = {
       d: "are larger than imports.",
       ans: 'b'
    },
-   q857: {
+   q856: {
       question: "Transfer payments are",
       a: "included in GDP because they represent income to individuals.",
       b: "not included in GDP unless they represent unemployment compensation.",
@@ -6863,7 +6855,7 @@ let obj = {
       d: "not included in GDP because they do not represent payments for currently produced goods or services.",
       ans: 'd'
    },
-   q858: {
+   q857: {
       question: "In 1998, U.S. GDP was about",
       a: "$85 trillion.",
       b: "$8.5 trillion.",
@@ -6871,7 +6863,7 @@ let obj = {
       d: "$85 billion.",
       ans: 'b'
    },
-   q859: {
+   q858: {
       question: "If total spending rises from one year to the next, then",
       a: "net exports must be falling.",
       b: "prices at which goods and services are sold must be higher.",
@@ -6879,7 +6871,7 @@ let obj = {
       d: "either the economy must be producing a larger output of goods and services, or the prices at which goods and services are sold must be higher, or both.",
       ans: 'd'
    },
-   q860: {
+   q859: {
       question: "The best measure of a country’s production of goods and services is",
       a: "real GDP.",
       b: "real NNP.",
@@ -6887,7 +6879,7 @@ let obj = {
       d: "nominal GNP.",
       ans: 'a'
    },
-   q861: {
+   q860: {
       question: "Real GDP is the production of goods and services valued at",
       a: "current year prices.",
       b: "future year prices.",
@@ -6895,7 +6887,7 @@ let obj = {
       d: "the ratio of current year prices to constant year prices.",
       ans: 'c'
    },
-   q862: {
+   q861: {
       question: "The GDP deflator is the ratio of",
       a: "nominal GDP to real GDP.",
       b: "real GDP to nominal GDP.",
@@ -6903,7 +6895,7 @@ let obj = {
       d: "real GDP to nominal GDP multiplied by 100.",
       ans: 'c'
    },
-   q863: {
+   q862: {
       question: "If the GDP deflator is 150 and nominal GDP is $9,000 billion, then real GDP is",
       a: "$135 billion.",
       b: "$1,350 billion.",
@@ -6911,7 +6903,7 @@ let obj = {
       d: "$6,000 billion.",
       ans: 'd'
    },
-   q864: {
+   q863: {
       question: "If the GDP deflator was 100 in the base year of 2000, and was 105 in 2002, we can say that",
       a: "the price level increased by 5 percent from 2000 to 2002.",
       b: "the price level increased by 105 percent from 2000 to 2002.",
@@ -6919,7 +6911,7 @@ let obj = {
       d: "we cannot judge price increases from changes in the GDP deflator.",
       ans: 'a'
    },
-   q865: {
+   q864: {
       question: "GDP is used as the basic measure of a society’s economic well-being. A better measure of the economic well-being of individuals in society is",
       a: "the consumption component of GDP.",
       b: "GDP per person.",
@@ -6927,7 +6919,7 @@ let obj = {
       d: "the level of business investment.",
       ans: 'b'
    },
-   q866: {
+   q865: {
       question: "GDP per person is not a perfect measure of the well-being of individuals in society because it excludes",
       a: "the role of government.",
       b: "the value of investment in real capital.",
@@ -6935,7 +6927,7 @@ let obj = {
       d: "things like leisure time, the value of goods and services produced at home, and environmental quality.",
       ans: 'd'
    },
-   q867: {
+   q866: {
       question: "International studies of the relationship between GDP per person and quality of life measures, such as life expectancy and literacy rates show that larger GDP per person is associated with",
       a: "longer life expectancy and higher levels of illiteracy.",
       b: "shorter life expectancy and higher levels of illiteracy.",
@@ -6943,7 +6935,7 @@ let obj = {
       d: "shorter life expectancy and lower levels of illiteracy.",
       ans: 'c'
    },
-   q868: {
+   q867: {
       question: "Microeconomics is the study of",
       a: "the government and its role in the economy.",
       b: "how households and firms make decisions, and how they interact in markets.",
@@ -6951,7 +6943,7 @@ let obj = {
       d: "economics as if you were looking at the economy with a telescope to get the big picture.",
       ans: 'b'
    },
-   q869: {
+   q868: {
       question: "GDP can measures both an economy’s total income and total expenditure because they are",
       a: "always equal because rules in accounting always make things equal.",
       b: "equal only when all goods and services produced are sold.",
@@ -6959,7 +6951,7 @@ let obj = {
       d: "always equal since every transaction has both a buyer and a seller.",
       ans: 'd'
    },
-   q870: {
+   q869: {
       question: "Which of the following represents GDP?",
       a: "C + I + G",
       b: "G + I + NX",
@@ -6967,7 +6959,7 @@ let obj = {
       d: "C + I + G + NX",
       ans: 'd'
    },
-   q871: {
+   q870: {
       question: "Which of the following would be counted in the calculation of GDP?",
       a: "the sale of a rare coin to a coin collector",
       b: "homes that are rebuilt after being completely destroyed by a hurricane",
@@ -6975,7 +6967,7 @@ let obj = {
       d: "the sale of cocaine in the black market.",
       ans: 'b'
    },
-   q872: {
+   q871: {
       question: "Aaron and Adam, who are both full-time students, have each been doing work on their own cars. Then Adam decides to hire Aaron to do his oil changes, and in turn, Aaron hires Adam to keep his car clean. As a result of this change, GDP",
       a: "rises.",
       b: "falls.",
@@ -6983,7 +6975,7 @@ let obj = {
       d: "is unaffected because Adam and Aaron are full-time students.",
       ans: 'a'
    },
-   q873: {
+   q872: {
       question: "The largest component of GDP is",
       a: "net exports.",
       b: "consumption.",
@@ -6991,7 +6983,7 @@ let obj = {
       d: "investment.",
       ans: 'b'
    },
-   q874: {
+   q873: {
       question: "If the value of intermediate goods were used to calculate GDP instead of final goods, then GDP would be",
       a: "over-estimated, because of double counting.",
       b: "under-estimated because of all the goods and services missed in the calculations.",
@@ -6999,7 +6991,7 @@ let obj = {
       d: "the same, since it doesn’t matter whether intermediate goods or final goods are used in the calculations.",
       ans: 'a'
    },
-   q875: {
+   q874: {
       question: "Jim buys a new Mustang in August 1999 and then sells it to John in June 2001. As a result,",
       a: "the value of the car will be included in 2001 GDP only, since that was the year of the last sale.",
       b: "1999 GDP will include the value of the car, and 2001 GDP will include the value of the car minus depreciation.",
@@ -7007,7 +6999,7 @@ let obj = {
       d: "both 1999 GDP and 2001 GDP will include the value of the car since it was sold in both years.",
       ans: 'c'
    },
-   q876: {
+   q875: {
       question: "Which two of the following are considered measures of income for an economy?",
       a: "gross national product and net national product",
       b: "net national profits and personal income",
@@ -7015,7 +7007,7 @@ let obj = {
       d: "disposable personal income and personal profits",
       ans: 'a'
    },
-   q877: {
+   q876: {
       question: "Personal income is defined as",
       a: "after-tax proprietors’ income.",
       b: "the total income earned by a nation’s permanent residents.",
@@ -7023,7 +7015,7 @@ let obj = {
       d: "the total income earned by a nation’s residents minus depreciation.",
       ans: 'b'
    },
-   q878: {
+   q877: {
       question: "Retained earnings are the part of income that",
       a: "households retain after paying taxes.",
       b: "business retain after paying taxes.",
@@ -7031,7 +7023,7 @@ let obj = {
       d: "corporations do not pay to their owners in the form of dividends.",
       ans: 'd'
    },
-   q879: {
+   q878: {
       question: "If the government reports that “GDP increased at an annual rate of 4.0 percent for the fourth quarter of 2000,” then GDP increased by ",
       a: "1.0 percent during 2000.",
       b: "16.0 percent during 2000.",
@@ -7039,7 +7031,7 @@ let obj = {
       d: "1.0 percent during the fourth quarter of 2000.",
       ans: 'd'
    },
-   q880: {
+   q879: {
       question: "If you buy a carton of chocolate chip cookie dough ice cream in your favorite grocery store",
       a: "both GDP and consumption spending will be higher.",
       b: "GDP will be higher, but consumption spending will be unchanged.",
@@ -7047,7 +7039,7 @@ let obj = {
       d: "since your spending on the ice cream became the store’s income, GDP would not change.",
       ans: 'a'
    },
-   q881: {
+   q880: {
       question: "Net exports will be positive when",
       a: "imports are larger than exports.",
       b: "exports are larger than imports.",
@@ -7055,7 +7047,7 @@ let obj = {
       d: "GDP increases.",
       ans: 'b'
    },
-   q882: {
+   q881: {
       question: "Transfer payments are ",
       a: "paychecks which are automatically deposited in bank accounts.",
       b: "on-line bill payment services offered by many large banks.",
@@ -7063,7 +7055,7 @@ let obj = {
       d: "government spending that does not reflect payment for currently produced goods or services.",
       ans: 'd'
    },
-   q883: {
+   q882: {
       question: "If Hallmark builds a plant in Mexico, the production from that plant would be ",
       a: "included in U.S. GNP but not GDP.",
       b: "included in U.S. GDP but not GNP.",
@@ -7071,7 +7063,7 @@ let obj = {
       d: "not included in either U.S. GDP or GNP but only in Mexico’s production.",
       ans: 'a'
    },
-   q884: {
+   q883: {
       question: "If a construction company in Japan purchases a U.S. built bulldozer from Caterpillar, U.S. GDP",
       a: "is the same but U.S. GNP increases.",
       b: "increases since exports are included in GDP.",
@@ -7079,7 +7071,7 @@ let obj = {
       d: "decreases since the bulldozer could have been purchased by a U.S. company.",
       ans: 'b'
    },
-   q885: {
+   q884: {
       question: "In 1998, U.S. GDP was",
       a: "$850 billion.",
       b: "$1,367 billion.",
@@ -7087,7 +7079,7 @@ let obj = {
       d: "$8,511 billion.",
       ans: 'd'
    },
-   q886: {
+   q885: {
       question: "Real GDP ",
       a: "evaluates current production at current prices.",
       b: "evaluates current production at prices in some base year.",
@@ -7095,7 +7087,7 @@ let obj = {
       d: "is a measure of the value of goods only, but not services.",
       ans: 'b'
    },
-   q887: {
+   q886: {
       question: "GDP is a good but not perfect measure of economic well-being because it leaves out each of the following EXCEPT",
       a: "leisure.",
       b: "volunteer work.",
@@ -7103,7 +7095,7 @@ let obj = {
       d: "the quality of the environment.",
       ans: 'c'
    },
-   q888: {
+   q887: {
       question: "If nominal GDP is $10 trillion and the GDP deflator is 125, real GDP is",
       a: "$6 trillion.",
       b: "$8 trillion.",
@@ -7111,7 +7103,7 @@ let obj = {
       d: "$12.5 trillion.",
       ans: 'b'
    },
-   q889: {
+   q888: {
       question: "If we want to know the amount of expenditures for an average individual in a country, we should look at",
       a: "real GDP.",
       b: "nominal GDP.",
@@ -7119,7 +7111,7 @@ let obj = {
       d: "current GDP.",
       ans: 'c'
    },
-   q890: {
+   q889: {
       question: "International GDP data show that",
       a: "a nation’s GDP is closely associated with its citizens’ standard of living.",
       b: "there is no relationship between GDP and the economic well-being of citizens.",
@@ -7127,7 +7119,7 @@ let obj = {
       d: "there are few real differences in living standards around the world, in spite of the large differences in GDP among nations.",
       ans: 'a'
    },
-   q891: {
+   q890: {
       question: "It is especially difficult to measure GDP in Russia because",
       a: "no consistent national income accounting standards exist.",
       b: "the statisticians believe that producers are exaggerating the size of output.",
@@ -7135,7 +7127,7 @@ let obj = {
       d: "only government officials are allowed access to statistics on the economy.",
       ans: 'c'
    },
-   q892: {
+   q891: {
       question: "When the consumer price index rises, a typical family",
       a: "can spend fewer dollars to maintain the same standard of living.",
       b: "finds that its standard of living is not affected.",
@@ -7143,7 +7135,7 @@ let obj = {
       d: "None of the above answers is necessarily correct.",
       ans: 'c'
    },
-   q893: {
+   q892: {
       question: "The inflation rate is defined as the",
       a: "cost of inflation. ",
       b: "cost of borrowing. ",
@@ -7151,7 +7143,7 @@ let obj = {
       d: "percentage change in the price level from the previous period.",
       ans: 'd'
    },
-   q894: {
+   q893: {
       question: "The CPI is a measure of the overall cost of ",
       a: "producer inputs.",
       b: "personal imports.",
@@ -7159,7 +7151,7 @@ let obj = {
       d: "goods and services produced in the economy. ",
       ans: 'c'
    },
-   q895: {
+   q894: {
       question: "The CPI is computed using all goods and services",
       a: "produced in the economy. ",
       b: "used to produce other goods. ",
@@ -7167,7 +7159,7 @@ let obj = {
       d: "that typical consumers buy. ",
       ans: 'd'
    },
-   q896: {
+   q895: {
       question: "In computing the CPI, the base year is the ",
       a: "year against which this years price index is compared to find the inflation rate during the year. ",
       b: "benchmark against which other years are compared. ",
@@ -7175,7 +7167,7 @@ let obj = {
       d: "year with the lowest prices.",
       ans: 'b'
    },
-   q897: {
+   q896: {
       question: "For any given year, the CPI is the price of the basket of goods and services in the",
       a: "given year divided by the price of the basket in the base year, then multiplied by 100.",
       b: "base year divided by the price of the basket in the base year, then divided by 100.",
@@ -7183,7 +7175,7 @@ let obj = {
       d: "base year divided by the price of the basket in the given year, then multiplied by 100. ",
       ans: 'a'
    },
-   q898: {
+   q897: {
       question: "Categories of U.S. consumer spending used in the CPI, ranked from largest to smallest are:",
       a: "food and beverages, housing, and medical care.",
       b: "food and beverages, medical care, and housing.",
@@ -7191,7 +7183,7 @@ let obj = {
       d: "housing, medical care, and food and beverages.",
       ans: 'c'
    },
-   q899: {
+   q898: {
       question: "Substitution causes the increase in the cost of living from one year to the next to be",
       a: "neither overstated or understated by the CPI because the CPI is based on the price of all goods.",
       b: "overstated by the CPI because the basket of goods used to compute the CPI changes from year to year and so does not take into account the fact that as prices rise people purchase more of the goods they like less. ",
@@ -7199,7 +7191,7 @@ let obj = {
       d: "overstated by the CPI because the CPI is based on a fixed basket of goods that does not reflect increases in the purchases of goods that become relatively cheap.",
       ans: 'd'
    },
-   q900: {
+   q899: {
       question: "Unmeasured quality change is a problem in the CPI because",
       a: "if the quality of a good deteriorates, the purchasing power of a dollar increases even if the price of the good remains the same. ",
       b: "the Bureau of Labor Statistics does not attempt to account for any quality changes that affect the standard of living. ",
@@ -7207,7 +7199,7 @@ let obj = {
       d: "Both a and b are correct.",
       ans: 'c'
    },
-   q901: {
+   q900: {
       question: "Which of the following statements best represents economists’ beliefs about the bias in the CPI as a measure of the cost of living? ",
       a: "Economists agree on the severity of the CPI bias, but there is still debate on what to do about it.",
       b: "Economists debate both the severity of the CPI bias and what to do about it.",
@@ -7215,7 +7207,7 @@ let obj = {
       d: "Economists agree that the bias in the CPI is not a serious problem. ",
       ans: 'b'
    },
-   q902: {
+   q901: {
       question: "Most, but not all, soccer balls used in the United States are imported from other nations. If the price of soccer balls increases, the GDP deflator will",
       a: "increase, but the consumer price index will not increase.",
       b: "increase less than will the consumer price index.",
@@ -7223,7 +7215,7 @@ let obj = {
       d: "not increase, but the consumer price index will increase. ",
       ans: 'b'
    },
-   q903: {
+   q902: {
       question: "An Egyptian company produces sweaters in the United States and exports all of them to Lithuania. Other things the same, if the price of these sweaters increases, the GDP deflator",
       a: "increases and the CPI is unchanged. ",
       b: "and the CPI are unchanged.",
@@ -7231,7 +7223,7 @@ let obj = {
       d: "is unchanged and the CPI increases.",
       ans: 'a'
    },
-   q904: {
+   q903: {
       question: "The basket of goods in the consumer price index changes",
       a: "occasionally, while the basket of goods in the GDP deflator changes each time it is computed.",
       b: "each time it is computed, while the basket of goods in the GDP deflator changes occasionally.",
@@ -7239,7 +7231,7 @@ let obj = {
       d: "each time it is computed, as does the basket of goods in the GDP deflator.",
       ans: 'a'
    },
-   q905: {
+   q904: {
       question: "What is the purpose of measuring the overall level of prices in the economy? ",
       a: "to allow consumers to know what kinds of prices to expect in the future",
       b: "to allow the measurement of GDP ",
@@ -7247,7 +7239,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'c'
    },
-   q906: {
+   q905: {
       question: "Babe Ruth’s 1931 salary was $80,000. The price index for 1931 is 15.2 and the price index for 1999 is 166. Ruth’s 1931 salary was equivalent to a 1999 salary of about",
       a: "$8,700.",
       b: "$87,000. ",
@@ -7255,7 +7247,7 @@ let obj = {
       d: "$8,700,000.",
       ans: 'c'
    },
-   q907: {
+   q906: {
       question: "Craig is offered a $120,000 per year job in Los Angeles, and a $90,000 per year job in Akron. The CPI for Los Angeles is 160 and the CPI for Akron is 120. What is the Los Angeles job’s purchasing power in “Akron dollars”?",
       a: "$160,000",
       b: "$120,000",
@@ -7263,7 +7255,7 @@ let obj = {
       d: "$65,000",
       ans: 'c'
    },
-   q908: {
+   q907: {
       question: "A COLA automatically raises the wage rate when",
       a: "real GDP increases. ",
       b: "the labor force increases.",
@@ -7271,7 +7263,7 @@ let obj = {
       d: "the consumer price index increases. ",
       ans: 'd'
    },
-   q909: {
+   q908: {
       question: "The nominal interest rate is",
       a: "the interest rate paid or charged by a bank. ",
       b: "the interest rate as usually reported without a correction for the effects of inflation. ",
@@ -7279,7 +7271,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'c'
    },
-   q910: {
+   q909: {
       question: "Which of the following is the most accurate statement about the relationship between the nominal interest rate and the real interest rate? ",
       a: "The real interest rate is the nominal interest rate minus the rate of inflation.",
       b: "The real interest rate is the nominal interest rate divided by the price level.",
@@ -7287,7 +7279,7 @@ let obj = {
       d: "The real interest rate is the nominal interest rate times the expected price level divided by the current price level.",
       ans: 'a'
    },
-   q911: {
+   q910: {
       question: "If the nominal interest rate is 8% and rate of inflation is 2%, the real interest rate is",
       a: "16%. ",
       b: "10%. ",
@@ -7295,7 +7287,7 @@ let obj = {
       d: "4%.",
       ans: 'c'
    },
-   q912: {
+   q911: {
       question: "The nominal interest rate tells you",
       a: "how fast the purchasing power of your bank account rises over time.",
       b: "how fast the number of dollars in your bank account rises over time.",
@@ -7303,7 +7295,7 @@ let obj = {
       d: "the purchasing power of your bank account.",
       ans: 'b'
    },
-   q913: {
+   q912: {
       question: "The real interest rate tells you",
       a: "the number of dollars in your bank account.",
       b: "the purchasing power of your bank account.",
@@ -7311,7 +7303,7 @@ let obj = {
       d: "how fast the purchasing power of your bank account rises over time.",
       ans: 'd'
    },
-   q914: {
+   q913: {
       question: "Which of the following is the most accurate statement about nominal and real interest rates?",
       a: "Nominal and real interest rates often do not move together.",
       b: "Nominal and real interest rates always move together.",
@@ -7319,7 +7311,7 @@ let obj = {
       d: "Nominal and real interest rates are identical.",
       ans: 'a'
    },
-   q915: {
+   q914: {
       question: "Samantha deposits $1,000 in a saving account that pays an annual interest rate of 4%. Over the course of a year the inflation rate is 1%. At the end of the year Samantha has ",
       a: "$40 more in her account, and her purchasing power has increased $30.",
       b: "$30 more in her account and her purchasing power has increased $50.",
@@ -7327,7 +7319,7 @@ let obj = {
       d: "$40 more in her account, and her purchasing power has increased $40.",
       ans: 'a'
    },
-   q916: {
+   q915: {
       question: "In the late 1970s, nominal interest rates were high and inflation rates were very high. As a result, real interest rates were",
       a: "very high.",
       b: "moderately high.",
@@ -7335,7 +7327,7 @@ let obj = {
       d: "low, and in some years they were negative.",
       ans: 'd'
    },
-   q917: {
+   q916: {
       question: "Suppose the CPI in 1990 is 125. The CPI in 1999 is 155. What is the rate of inflation over the period? ",
       a: "24 percent",
       b: "25 percent",
@@ -7343,7 +7335,7 @@ let obj = {
       d: "52 percent",
       ans: 'a'
    },
-   q918: {
+   q917: {
       question: "Which of the following has the greatest weight in the CPI?",
       a: "food and beverages",
       b: "housing",
@@ -7351,7 +7343,7 @@ let obj = {
       d: "All of the above have equal weights in the CPI.",
       ans: 'b'
    },
-   q919: {
+   q918: {
       question: "The consumer price index is based on ",
       a: "100,000s of prices.",
       b: "10,000s of prices.",
@@ -7359,7 +7351,7 @@ let obj = {
       d: "100s of prices.",
       ans: 'b'
    },
-   q920: {
+   q919: {
       question: "Consider the following two sentences. The producer price index measures the cost of a basket of goods and services purchased by firms. Changes in the producer price index are thought to be useful in predicting consumer prices.",
       a: "Both sentences are true.",
       b: "Only the first sentence is true.",
@@ -7367,7 +7359,7 @@ let obj = {
       d: "Neither sentence is true.",
       ans: 'a'
    },
-   q921: {
+   q920: {
       question: "Which of the following is true considering substitution bias?",
       a: "When prices change from one year to the next, they do not all change proportionately.",
       b: "Substitution bias tends to make the CPI overstate the cost of living from one year to the next.",
@@ -7375,7 +7367,7 @@ let obj = {
       d: "All of the above are true.",
       ans: 'd'
    },
-   q922: {
+   q921: {
       question: "Consider the following two sentences. The creation of new goods makes each dollar more valuable. Yet because the CPI is based on a fixed basket of goods and services, it does not reflect this decrease in the cost of living.",
       a: "Both sentences are true.",
       b: "Only the first sentence is true.",
@@ -7383,7 +7375,7 @@ let obj = {
       d: "Neither sentence is true.",
       ans: 'a'
    },
-   q923: {
+   q922: {
       question: "Which of the following is correct?",
       a: "The CPI makes no adjustment for quality changes.",
       b: "Research by the Bureau of Labor Statistics shows that over the last 18 years the elderly have experienced more rapid increases in the cost-of-living than the general population.",
@@ -7391,7 +7383,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'b'
    },
-   q924: {
+   q923: {
       question: "If the price of apples increases more than the price of other goods, the weight of the apples in the CPI",
       a: "increases.",
       b: "decreases.",
@@ -7399,7 +7391,7 @@ let obj = {
       d: "stays the same, but should decrease to accurately reflect the change in the cost-of-living. ",
       ans: 'd'
    },
-   q925: {
+   q924: {
       question: "Suppose that the price of French wine imported to the US increases, other things the same this",
       a: "increases both the CPI and the GDP in the United States.",
       b: "increases the CPI but does not change the GDP deflator in the U.S.",
@@ -7407,7 +7399,7 @@ let obj = {
       d: "changes neither the CPI nor the GDP deflator in the U.S.",
       ans: 'b'
    },
-   q926: {
+   q925: {
       question: "If the price of oil decreases, the CPI",
       a: "decreases more than the GDP deflator decreases.",
       b: "decreases less than the GDP deflator decreases.",
@@ -7415,7 +7407,7 @@ let obj = {
       d: "does not change, but the GDP deflator decreases.",
       ans: 'a'
    },
-   q927: {
+   q926: {
       question: "Which of the following is correct?",
       a: "Both the CPI and GDP deflator use fixed weights.",
       b: "Neither the CPI nor GDP deflator use fixed weights.",
@@ -7423,7 +7415,7 @@ let obj = {
       d: "The GDP deflator, but not the CPI uses fixed weights.",
       ans: 'c'
    },
-   q928: {
+   q927: {
       question: "The inflation rate computed from the CPI is",
       a: "always somewhat greater than that computed from the GDP deflator.",
       b: "always somewhat less than that computed from the GDP deflator.",
@@ -7431,7 +7423,7 @@ let obj = {
       d: "sometimes greater and sometimes less, but generally moves with the rate computed from the GDP deflator.",
       ans: 'd'
    },
-   q929: {
+   q928: {
       question: "In the late 1970s ",
       a: "both the GDP deflator and CPI showed high rates of inflation; in the 1990s both showed low inflation rates.",
       b: "both the GDP deflator and CPI showed low rates of inflation; in the 1990s both showed high inflation rates.",
@@ -7439,7 +7431,7 @@ let obj = {
       d: "and the 1990s both the GDP deflator and CPI showed low rates of inflation.",
       ans: 'a'
    },
-   q930: {
+   q929: {
       question: "In 1949 Sycamore, Illinois built a hospital for about $500,000. In 1987 the county restored the courthouse for about $2.4 million. A price index for nonresidential construction was 14 in 1949, 92 in 1987, and 114.5 in 2000. According to these numbers the hospital cost about",
       a: "$3.6 million in 2000 dollars, which is less than the cost of the courthouse restoration in 2000 dollars.",
       b: "$3.6 million in 2000 dollars, which is more than the cost of the courthouse restoration in 2000 dollars.",
@@ -7447,7 +7439,7 @@ let obj = {
       d: "$4.1 million in 2000 dollars, which is more than the cost of the courthouse restoration in 2000 dollars.",
       ans: 'd'
    },
-   q931: {
+   q930: {
       question: "Your grandparents tell you that in 1960 they paid $0.35 for admission to a movie. The price index in 1960 was 30. The price index in today is 171. What is the price your grandparents paid in today’s dollars? ",
       a: "$1.05",
       b: "$1.99",
@@ -7455,7 +7447,7 @@ let obj = {
       d: "$5.98",
       ans: 'b'
    },
-   q932: {
+   q931: {
       question: "In 1970 Professor Fellswoop made $12,000, in 1980 he earned $24,000, in 1990 he earned $36,000. If the CPI was 40 in 1970, 60 in 1980, 100 in 1990 in terms of 1999 dollars, Professor Fellswoop’s salary was highest in ",
       a: "1970, and lowest in 1980.",
       b: "1990, and lowest in 1980.",
@@ -7463,7 +7455,7 @@ let obj = {
       d: "1990, and lowest in 1970.",
       ans: 'c'
    },
-   q933: {
+   q932: {
       question: "Indexation refers to ",
       a: "a process of adjusting the nominal interest rate so that it is equal to the real interest rate.",
       b: "using a law or contract to automatically correct a dollar amount for the effects of inflation.",
@@ -7471,7 +7463,7 @@ let obj = {
       d: "an adjustment made by the Bureau of Labor Statistics to the CPI so that the index is in line with the GDP deflator.",
       ans: 'b'
    },
-   q934: {
+   q933: {
       question: "Mavis Corporation has an agreement with its workers to completely index the wage of their employees to inflation in the CPI. Mavis currently pays its production line workers $7.50 an hour and is scheduled to index their wages today. If the CPI is currently about 130 and was 120 a year ago Mavis should increase the hourly wages of its workers by about",
       a: "7.5 cents ",
       b: "10 cents",
@@ -7479,7 +7471,7 @@ let obj = {
       d: "62.5 cents",
       ans: 'd'
    },
-   q935: {
+   q934: {
       question: "Suppose that the real interest rate is 3% and the inflation rate is 1%.",
       a: "The dollar value of savings increases at 3%, and the value of savings in goods increases at 1%.",
       b: "The dollar value of savings increases at 1%, and the value of savings in goods increases at 2%.",
@@ -7487,7 +7479,7 @@ let obj = {
       d: "The dollar value of savings increases at 4%, and the value of savings in goods increases at 3%.",
       ans: 'd'
    },
-   q936: {
+   q935: {
       question: "Sluggo puts money in the bank and earns a 5% nominal interest rate, if the inflation rate is 3%, in one year Sluggo will have",
       a: "3% more money that will purchase 2% more goods.",
       b: "3% more money that will purchase 8% more goods.",
@@ -7495,7 +7487,7 @@ let obj = {
       d: "5% more money that will purchase 8% more goods.",
       ans: 'c'
    },
-   q937: {
+   q936: {
       question: "In Japan in 2000 nominal interest rates were 1.5% and the inflation rate was –.5%. The real interest rate was",
       a: "–2%.",
       b: "–1%.",
@@ -7503,7 +7495,7 @@ let obj = {
       d: "2%.",
       ans: 'd'
    },
-   q938: {
+   q937: {
       question: "A nation’s standard of living is measured by its",
       a: "real GDP.",
       b: "real GDP per person.",
@@ -7511,7 +7503,7 @@ let obj = {
       d: "nominal GDP per person.",
       ans: 'b'
    },
-   q939: {
+   q938: {
       question: "Over the past century in the United States, average income as measured by real GDP per person has grown about",
       a: "4 percent per year, which implies a doubling about every 20 years.",
       b: "3 percent per year, which implies a doubling about every 25 years.",
@@ -7519,7 +7511,7 @@ let obj = {
       d: "1 percent per year, which implies a doubling about every 65 years.",
       ans: 'c'
    },
-   q940: {
+   q939: {
       question: "In the length of one generation, which of the following countries has gone from being among the poorest countries in the world to being among the richest?",
       a: "Chad",
       b: "Ethiopia",
@@ -7527,7 +7519,7 @@ let obj = {
       d: "Singapore",
       ans: 'd'
    },
-   q941: {
+   q940: {
       question: "In comparison to other countries, Japan had a high growth rate over the last 100 years. Japan’s average annual growth rate of real GDP per person was a bit less than ",
       a: "0.5 percent.",
       b: "1.0 percent.",
@@ -7535,7 +7527,7 @@ let obj = {
       d: "3.0 percent.",
       ans: 'd'
    },
-   q942: {
+   q941: {
       question: "Compounding refers to the",
       a: "geometric smoothing of productivity data.",
       b: "accumulation of a growth rate over a period of time.",
@@ -7543,7 +7535,7 @@ let obj = {
       d: "adjustment made to GDP meant to take out the effects of inflation.",
       ans: 'b'
    },
-   q943: {
+   q942: {
       question: "When Ben Franklin died he left $5,000 to be invested for a period of 200 years to benefit medical students and scientific research. According to the “rule of 70,” how often would this money have doubled if it grew 7 percent per year every year?",
       a: "about every 10 years",
       b: "about every 7 years",
@@ -7551,7 +7543,7 @@ let obj = {
       d: "about every 3.5 years",
       ans: 'a'
    },
-   q944: {
+   q943: {
       question: "According to the rule of 70, if some variable grows at a rate of g percent per year, then that variable doubles in approximately",
       a: "70/g years.",
       b: "70g years.",
@@ -7559,7 +7551,7 @@ let obj = {
       d: "2g/70 years.",
       ans: 'a'
    },
-   q945: {
+   q944: {
       question: "Both Elmo and Anna work eight hours a day. Elmo can produce four baskets of goods per hour while Anna can produce three baskets of the same goods per hour. It follows that Elmo’s",
       a: "productivity is greater than Anna’s.",
       b: "output is greater than Anna’s.",
@@ -7567,7 +7559,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'd'
    },
-   q946: {
+   q945: {
       question: "Which of the following would be considered physical capital?",
       a: "paper used to make cardboard for boxes of chocolate",
       b: "the skills and knowledge of a film director",
@@ -7575,7 +7567,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'c'
    },
-   q947: {
+   q946: {
       question: "Which of the following is human capital?",
       a: "a company’s cafeteria",
       b: "employees’ knowledge of the production process",
@@ -7583,7 +7575,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'b'
    },
-   q948: {
+   q947: {
       question: "In a market economy, scarcity of resources is reflected in",
       a: "supply only.",
       b: "demand only.",
@@ -7591,7 +7583,7 @@ let obj = {
       d: "the quantity traded.",
       ans: 'c'
    },
-   q949: {
+   q948: {
       question: "Your company discovers a better way to produce DVDs, but how you do this is not apparent from the DVDs themselves. Your knowledge of how to more efficiently produce DVDs is",
       a: "common technological knowledge.",
       b: "common, but not technological knowledge.",
@@ -7599,7 +7591,7 @@ let obj = {
       d: "proprietary, but not technological knowledge.",
       ans: 'c'
    },
-   q950: {
+   q949: {
       question: "If there are constant returns to scale, the production function can be written as ",
       a: "xY = 2xAF(L, K, H, N).",
       b: "Y/L = A F(xL, xK, xH, xN).",
@@ -7607,7 +7599,7 @@ let obj = {
       d: "Y/L = A F( 1, K/L, H/L, N/L).",
       ans: 'd'
    },
-   q951: {
+   q950: {
       question: "Which of the following would increase productivity? ",
       a: "an increase in the amount of equipment per-worker",
       b: "an increase in the knowledge and skills of workers",
@@ -7615,7 +7607,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'd'
    },
-   q952: {
+   q951: {
       question: "Across countries, investment and growth rates are",
       a: "unrelated.",
       b: "negatively related.",
@@ -7623,7 +7615,7 @@ let obj = {
       d: "positively related.",
       ans: 'd'
    },
-   q953: {
+   q952: {
       question: "If there are diminishing returns to capital, ",
       a: "capital produces fewer goods as it ages.",
       b: "increases in the capital stock eventually decrease output.",
@@ -7631,7 +7623,7 @@ let obj = {
       d: "the larger the capital stock, the less an increase in the capital stock increases output.",
       ans: 'd'
    },
-   q954: {
+   q953: {
       question: "The logic behind the catch-up effect is that",
       a: "workers in countries with low income will work harder than workers in countries with high incomes.",
       b: "new capital adds more to production in a country that doesn’t have much capital than in a country that already has much capital.",
@@ -7639,7 +7631,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'b'
    },
-   q955: {
+   q954: {
       question: "In the 1800s, Europeans purchased stock in American companies that used the funds to build railroads and factories. The Europeans made",
       a: "foreign portfolio investments.",
       b: "indirect domestic investments.",
@@ -7647,7 +7639,7 @@ let obj = {
       d: "foreign indirect investments.",
       ans: 'a'
    },
-   q956: {
+   q955: {
       question: "Which of the following is generally an opportunity cost of investment in human capital?",
       a: "forgone wages at present ",
       b: "increased earning potential",
@@ -7655,7 +7647,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'a'
    },
-   q957: {
+   q956: {
       question: "Generally, the main cause of famine is",
       a: "a shortage of food.",
       b: "excessive population.",
@@ -7663,7 +7655,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'c'
    },
-   q958: {
+   q957: {
       question: "Outward-oriented policies",
       a: "have led to high growth rates for the countries that pursued them.",
       b: "prevent countries from taking advantage of gains from trade.",
@@ -7671,7 +7663,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'a'
    },
-   q959: {
+   q958: {
       question: "A large and sudden increase in the number of workers is likely to ",
       a: "raise real GDP per person, but decrease real GDP.",
       b: "decrease both real GDP and real GDP per person.",
@@ -7679,7 +7671,7 @@ let obj = {
       d: "raise real GDP, but decrease real GDP per person.",
       ans: 'd'
    },
-   q960: {
+   q959: {
       question: "The primary reason that U.S. living standards are higher today than they were a century ago is that ",
       a: "human capital has increased.",
       b: "physical capital per worker has increased.",
@@ -7687,7 +7679,7 @@ let obj = {
       d: "more productive natural resources have been discovered.",
       ans: 'c'
    },
-   q961: {
+   q960: {
       question: "From 1973 to 1998, U.S. productivity growth was slower than from 1959 to 1973. Which of the following is correct?",
       a: "This continues a downward trend as output growth was higher in periods before 1959.",
       b: "It appears that this may be attributed to a slowdown in technological progress.",
@@ -7695,7 +7687,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'b'
    },
-   q962: {
+   q961: {
       question: "Typically, countries in Africa",
       a: "have high tax rates.",
       b: "have laws and geography that make international trade easy.	",
@@ -7703,7 +7695,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'a'
    },
-   q963: {
+   q962: {
       question: "In the last 100 years U.S. per-capita real GDP grew about ",
       a: "2% per year, so that it is about two times as high.",
       b: "2% per year, so that it is about eight times as high.",
@@ -7711,7 +7703,7 @@ let obj = {
       d: "4% per year, so that it is about eight times as high.",
       ans: 'b'
    },
-   q964: {
+   q963: {
       question: "Per-capita real GDP in China is about equal to per-capita real GDP in the United States in",
       a: "1870, and 1/2 that in the United States today.",
       b: "1870, and 1/8 that in the United States today.",
@@ -7719,7 +7711,7 @@ let obj = {
       d: "1920, and 1/8 that in the United States today.",
       ans: 'b'
    },
-   q965: {
+   q964: {
       question: "Of countries listed in the text, the per-capita real GDP growth rates over the last 100 years ranged from about ",
       a: "0%-5%.",
       b: "1%-3%.",
@@ -7727,7 +7719,7 @@ let obj = {
       d: "3%-6%.",
       ans: 'b'
    },
-   q966: {
+   q965: {
       question: "Suppose an economy that was roughly the size of Australia had a population of 19 million and real GDP of about 380,000 million U.S. dollars in 1998. Suppose further that in 1999 population was about 19.5 million and real GDP was about 401,500 million dollars. What are the approximate growth rates of real GDP and of real GDP per-capita?",
       a: "5.7%, 5.3%",
       b: "5.7%, 3%",
@@ -7735,7 +7727,7 @@ let obj = {
       d: "5.3%, 3%",
       ans: 'b'
    },
-   q967: {
+   q966: {
       question: "Which of the following is correct?",
       a: "If a country has a per-capita real GDP growth rate of 7%, its per-capita real GDP will double about every 14 years.",
       b: "The current level of per-capita real GDP in the United States is about $19,450.",
@@ -7743,7 +7735,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'c'
    },
-   q968: {
+   q967: {
       question: "Productivity is the",
       a: "growth rate of real GDP.",
       b: "average amount a worker produces per hour.",
@@ -7751,7 +7743,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'b'
    },
-   q969: {
+   q968: {
       question: "Suppose that factory output rose from 50,000 units to 55,000 units while labor hours rose from 1100 to 1200. Which of the following is true? ",
       a: "Labor productivity remained unchanged.",
       b: "Labor productivity increased slightly.",
@@ -7759,7 +7751,7 @@ let obj = {
       d: "Labor productivity increased sharply.",
       ans: 'b'
    },
-   q970: {
+   q969: {
       question: "The productivity of U.S. workers is higher than that of workers in many countries that have less capital. Which of the following arguments concerning these facts is logically consistent?",
       a: "This contradicts the idea of diminishing marginal product. If U.S. workers have more capital, they should have lower productivity.",
       b: "Productivity in the United States is higher because the United States has more workers than those countries having low productivity.",
@@ -7767,7 +7759,7 @@ let obj = {
       d: "None of the above is logically consistent.",
       ans: 'c'
    },
-   q971: {
+   q970: {
       question: "Engineering students learn long-established methods for constructing bridges, in and of itself this learning increases",
       a: "human capital.",
       b: "physical capital.",
@@ -7775,7 +7767,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'a'
    },
-   q972: {
+   q971: {
       question: "If there are constant returns to scale then",
       a: "a doubling of all inputs doubles real GDP.",
       b: "technological progress does not affect per-capita real GDP.",
@@ -7783,7 +7775,7 @@ let obj = {
       d: "an increase in capital per worker would leave per-capita real GDP unchanged.",
       ans: 'a'
    },
-   q973: {
+   q972: {
       question: "Which of the following is incorrect?",
       a: "Bulldozers are an example of physical capital.",
       b: "Students can be viewed as workers who have the important job of producing human capital that will be used in future production.",
@@ -7791,7 +7783,7 @@ let obj = {
       d: "Technological progress may reduce our dependence on nonrenewable resources.",
       ans: 'c'
    },
-   q974: {
+   q973: {
       question: "Human capital is",
       a: "the number of workers in the economy.",
       b: "the number of workers divided by the population.",
@@ -7799,7 +7791,7 @@ let obj = {
       d: "society’s understanding of the best way to produce output.",
       ans: 'd'
    },
-   q975: {
+   q974: {
       question: "Consider the following two sentences. The wealth of some countries derives primarily from the natural resources they own. However, countries with few natural resources can be highly productive.",
       a: "Both sentences are true.",
       b: "Only the first sentence is true.",
@@ -7807,7 +7799,7 @@ let obj = {
       d: "Neither sentence is true.",
       ans: 'a'
    },
-   q976: {
+   q975: {
       question: "Once adjusted for inflation the price of most natural resources ",
       a: "rose because of increasing demand from a growing population.",
       b: "rose because their supply is declining.",
@@ -7815,7 +7807,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'd'
    },
-   q977: {
+   q976: {
       question: "In the long run a higher savings rate leads to",
       a: "a higher level of per-capita income.",
       b: "a higher level of productivity.",
@@ -7823,7 +7815,7 @@ let obj = {
       d: "A and B, but not C.",
       ans: 'd'
    },
-   q978: {
+   q977: {
       question: "Consider the following two sentences. According to the data, countries with higher investment relative to GDP, tend to have higher growth rates of real GDP per person. This relation is not perfect though, because an increase in the physical capital stock increases output per person more in a country with much capital than in a similar country with less capital.",
       a: "Both sentences are true.",
       b: "Both sentences are false.",
@@ -7831,7 +7823,7 @@ let obj = {
       d: "Only the second sentence is true.",
       ans: 'c'
    },
-   q979: {
+   q978: {
       question: "The catch-up effect is the",
       a: "tendency for countries that start off poor to grow more rapidly than countries that start off rich.",
       b: "property whereby the benefits of an extra unit of an input declines as the quantity of the input increases.",
@@ -7839,7 +7831,7 @@ let obj = {
       d: "property whereby the benefits of different inputs move toward each other over time.",
       ans: 'a'
    },
-   q980: {
+   q979: {
       question: "Which of the following is incorrect?",
       a: "Controlling for other variables such as the percentage of GDP devoted to investment, poor countries tend to grow faster than rich countries.",
       b: "The growth that arises from capital accumulation is not a free lunch.",
@@ -7847,7 +7839,7 @@ let obj = {
       d: "The United States and Korea devoted similar shares of real GDP to investment from 1960-1991, but the United States had a higher growth rate.",
       ans: 'd'
    },
-   q981: {
+   q980: {
       question: "Which would increase the capital stock of El Salvador and provide returns to U.S. investors?",
       a: "U.S. foreign direct investment in El Salvador.",
       b: "U.S. foreign portfolio investment in El Salvador.",
@@ -7855,7 +7847,7 @@ let obj = {
       d: "Neither of the above is correct.",
       ans: 'c'
    },
-   q982: {
+   q981: {
       question: "U.S. foreign direct investment",
       a: "raises both U.S. GDP and U.S. GNP.",
       b: "raises neither U.S. GDP nor U.S. GNP.",
@@ -7863,7 +7855,7 @@ let obj = {
       d: "raises U.S. GNP, but not U.S. GDP.",
       ans: 'd'
    },
-   q983: {
+   q982: {
       question: "Which of the following is NOT correct?",
       a: "Many economists would advise governments in less-developed economies to implement policies that encourage investment from abroad.",
       b: "Lowering population growth rates can increase per-capita real GDP.",
@@ -7871,7 +7863,7 @@ let obj = {
       d: "In the long run, increases in the savings rate lead to increases in real GDP growth.",
       ans: 'd'
    },
-   q984: {
+   q983: {
       question: "Which of the following statements is correct? ",
       a: "In general, a given level of investment in a poor country will lead to greater economic growth than the same level of investment in a rich country.",
       b: "If a nation invests more, its economic growth rate will be permanently higher.",
@@ -7879,7 +7871,7 @@ let obj = {
       d: "Increased economic growth through increased investment does not have an opportunity cost.",
       ans: 'a'
    },
-   q985: {
+   q984: {
       question: "Generally speaking from society’s viewpoint, the returns to research and development undertaken by firms",
       a: "is a public good.",
       b: "is a private good.",
@@ -7887,7 +7879,7 @@ let obj = {
       d: "will never occur if a system of patents is not put into place.",
       ans: 'a'
    },
-   q986: {
+   q985: {
       question: "Suppose a German-owned automobile company opens a new car plant in Wayne, Nebraska.",
       a: "This foreign direct investment increases U.S. real GDP more than it increases U.S. real GNP.",
       b: "This foreign direct investment increases U.S. real GNP more than it increases U.S. real GDP.",
@@ -7895,7 +7887,7 @@ let obj = {
       d: "The foreign portfolio investment increases U.S. real GNP more than it increases U.S. real GDP.",
       ans: 'a'
    },
-   q987: {
+   q986: {
       question: "Which of the following can increase real GDP per person?",
       a: "a decrease in population growth",
       b: "foreign investment from abroad",
@@ -7903,7 +7895,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'd'
    },
-   q988: {
+   q987: {
       question: "When a country saves a smaller portion of its GDP, it will have",
       a: "more investment, and so have more capital and higher productivity.",
       b: "more investment, and so have less capital and lower productivity.",
@@ -7911,7 +7903,7 @@ let obj = {
       d: "less investment, and so have less capital and lower productivity.",
       ans: 'd'
    },
-   q989: {
+   q988: {
       question: "What are the two basic categories of financial institutions?",
       a: "the foreign exchange markets and the stock markets",
       b: "the financial markets and financial intermediaries",
@@ -7919,7 +7911,7 @@ let obj = {
       d: "the lending market and the deposit market",
       ans: 'b'
    },
-   q990: {
+   q989: {
       question: "Which of the following is not a nonsensical headline?",
       a: "British perpetuities about to mature.",
       b: "Disney issues new bonds with term of $1,000 each.",
@@ -7927,7 +7919,7 @@ let obj = {
       d: "Standard and Poor’s judges new junk bond to have very low credit risk.",
       ans: 'c'
    },
-   q991: {
+   q990: {
       question: "A certificate of indebtedness that specifies the obligations of the borrower to the holder is called a ",
       a: "stock.",
       b: "mutual fund.",
@@ -7935,7 +7927,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'c'
    },
-   q992: {
+   q991: {
       question: "Rudolph has the choice of two bonds, one that pays 5 percent interest and the other that pays 10 percent interest. Which of the following is most likely?",
       a: "The 10 percent bond is less risky than the 5 percent bond",
       b: "The 10 percent bond has a shorter term than the 5 percent bond",
@@ -7943,7 +7935,7 @@ let obj = {
       d: "The 10 percent bond is a corporate bond, and the 5 percent bond is a municipal bond",
       ans: 'd'
    },
-   q993: {
+   q992: {
       question: "People who buy stock in a corporation such as Maytag become",
       a: "creditors of Maytag, so the benefits of holding the stock depend on Maytag’s profits.",
       b: "creditors of Maytag, but the benefits of holding the stock do not depend on Maytag’s profits.	",
@@ -7951,7 +7943,7 @@ let obj = {
       d: "part owners of Maytag, but the benefits of holding the stock do not depend on Maytag’s profits.",
       ans: 'c'
    },
-   q994: {
+   q993: {
       question: "Stock indexes are",
       a: "reports in the newspapers that report on the price of the stock and earnings of individual corporations over time.",
       b: "the average of a group of stock prices.",
@@ -7959,7 +7951,7 @@ let obj = {
       d: "measures of the price of a stock relative to its risk.",
       ans: 'b'
    },
-   q995: {
+   q994: {
       question: "A corporation has a price of $25, a dividend of $.50, and retained earnings of $.30 per share. The dividend yield on this stock is",
       a: "3.2 percent.",
       b: "2 percent.",
@@ -7967,7 +7959,7 @@ let obj = {
       d: "1 percent.",
       ans: 'b'
    },
-   q996: {
+   q995: {
       question: "A mutual fund ",
       a: "is a financial market where small firms sell stocks and bonds to raise funds. ",
       b: "is money set aside by local governments to lend to small firms who want to invest in projects that are mutually beneficial to the firm and community.",
@@ -7975,7 +7967,7 @@ let obj = {
       d: "sells shares to the public and uses the proceeds to buy a selection of various types of stocks, bonds, or both stocks and bonds.",
       ans: 'd'
    },
-   q997: {
+   q996: {
       question: "Which of the following equations represents national saving in a closed economy?",
       a: "Y – I – G – NX",
       b: "Y – C – G",
@@ -7983,7 +7975,7 @@ let obj = {
       d: "G + C – Y",
       ans: 'b'
    },
-   q998: {
+   q997: {
       question: "In a closed economy, national saving equals",
       a: "income minus private consumption.",
       b: "private saving minus public saving.",
@@ -7991,7 +7983,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'c'
    },
-   q999: {
+   q998: {
       question: "Suppose that in a closed economy GDP is equal to 9,000, taxes are equal to 1,000, Consumption equals 6,000, and government expenditures equal 2,000. What are private saving and public saving?",
       a: "2000 and –1000",
       b: "2000 and 1000",
@@ -7999,7 +7991,7 @@ let obj = {
       d: "1000 and 2000",
       ans: 'a'
    },
-   q1000: {
+   q999: {
       question: "A budget surplus is created when the government ",
       a: "sells more bonds than it buys back.",
       b: "spends more than it receives in tax revenue.",
@@ -8007,7 +7999,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'c'
    },
-   q1001: {
+   q1000: {
       question: "The source of the demand for loanable funds",
       a: "and the supply of loanable funds is saving.",
       b: "and the supply of loanable funds is investment.",
@@ -8015,7 +8007,7 @@ let obj = {
       d: "is investment and the source of the supply of loanable funds is saving.",
       ans: 'd'
    },
-   q1002: {
+   q1001: {
       question: "The supply of loanable funds slopes",
       a: "downward because an increase in the interest rate induces people to save less.",
       b: "downward because an increase in the interest rate induces people to invest less.",
@@ -8023,7 +8015,7 @@ let obj = {
       d: "upward because an increase in the interest rate induces people to invest more.",
       ans: 'c'
    },
-   q1003: {
+   q1002: {
       question: "A lower interest rate induces people to",
       a: "save less, so the demand for loanable funds slopes upward.",
       b: "save less, so the demand for loanable funds slopes downward.",
@@ -8031,7 +8023,7 @@ let obj = {
       d: "invest more, so the demand for loanable funds slopes downward.",
       ans: 'd'
    },
-   q1004: {
+   q1003: {
       question: "If the current market interest rate for loanable funds is below the equilibrium level, then the quantity of loanable funds",
       a: "demanded exceeds the quantity of loanable funds supplied and the interest rate will fall.",
       b: "demanded exceeds the quantity of loanable funds supplied and the interest rate will rise.",
@@ -8039,7 +8031,7 @@ let obj = {
       d: "supplied exceeds the quantity of loanable funds demanded and the interest rate will rise.",
       ans: 'b'
    },
-   q1005: {
+   q1004: {
       question: "If the inflation rate is 3 percent and the real interest rate is 9 percent, then the nominal interest rate is ",
       a: "12 percent.",
       b: "6 percent.",
@@ -8047,7 +8039,7 @@ let obj = {
       d: "1/3 percent.",
       ans: 'a'
    },
-   q1006: {
+   q1005: {
       question: "Promises of future payments have the largest present value when interest rates are",
       a: "high and the time until the future payment is received is long.",
       b: "high and the time until the future payment is received is short.",
@@ -8055,7 +8047,7 @@ let obj = {
       d: "low and the time until the future payment is received is short.",
       ans: 'd'
    },
-   q1007: {
+   q1006: {
       question: "What would happen in the market for loanable funds if the government were to decrease the tax on interest income?",
       a: "The supply of loanable funds would shift right.",
       b: "The supply of loanable funds would shift left.",
@@ -8063,7 +8055,7 @@ let obj = {
       d: "The demand for loanable funds would shift left.",
       ans: 'a'
    },
-   q1008: {
+   q1007: {
       question: "If Congress raised the tax on interest income, investment",
       a: "and saving would increase.",
       b: "and saving would decrease.",
@@ -8071,7 +8063,7 @@ let obj = {
       d: "would decrease and saving would increase.",
       ans: 'b'
    },
-   q1009: {
+   q1008: {
       question: "Which of the following is incorrect?",
       a: "Taxes on interest income do not substantially decrease future payments from current saving.",
       b: "American families save a smaller fraction of their incomes than their counterparts in many other countries such as Germany and Japan.",
@@ -8079,7 +8071,7 @@ let obj = {
       d: "A change in the tax law that encouraged greater saving would reduce interest rates.",
       ans: 'a'
    },
-   q1010: {
+   q1009: {
       question: "Suppose that Congress were to institute an investment tax credit. What would happen in the market for loanable funds?",
       a: "The supply of loanable funds would shift left.",
       b: "The supply of loanable funds would shift right.",
@@ -8087,7 +8079,7 @@ let obj = {
       d: "The demand for loanable funds would shift right.",
       ans: 'd'
    },
-   q1011: {
+   q1010: {
       question: "An increase in the budget deficit shifts the",
       a: "demand for loanable funds left.",
       b: "demand for loanable funds right.",
@@ -8095,7 +8087,7 @@ let obj = {
       d: "supply of loanable funds right.",
       ans: 'c'
    },
-   q1012: {
+   q1011: {
       question: "Which of the following beliefs would make someone less likely to oppose government deficits?",
       a: "The return on private investment is higher than the return on public investment.",
       b: "Taxes considerably distort private decision making.",
@@ -8103,7 +8095,7 @@ let obj = {
       d: "All of the above would make someone less likely to oppose government deficits.",
       ans: 'c'
    },
-   q1013: {
+   q1012: {
       question: "If Microsoft sells a bond they are ",
       a: "borrowing directly from the public.",
       b: "borrowing indirectly from the public.",
@@ -8111,7 +8103,7 @@ let obj = {
       d: "lending indirectly to the public.",
       ans: 'a'
    },
-   q1014: {
+   q1013: {
       question: "You buy a bond issued by Dole Corporation. Which of the following feature(s) of this bond refers to its term?",
       a: "It pays an interest rate of 12%.",
       b: "It matures in five years.",
@@ -8119,7 +8111,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'b'
    },
-   q1015: {
+   q1014: {
       question: "Which of the following is correct?",
       a: "Differences in credit risk mean that corporate bonds tend to have higher interest rates than U.S. government bonds.",
       b: "Differences in tax treatment mean that U.S. government bonds tend to have a higher interest rate than municipal bonds.",
@@ -8127,7 +8119,7 @@ let obj = {
       d: "Neither of the above is correct.",
       ans: 'c'
    },
-   q1016: {
+   q1015: {
       question: "Papa Mario’s Pizza Company sells stock.",
       a: "They are using equity financing and the return shareholders earn depends on how profitable the company is.",
       b: "They are using debt financing and the return shareholders earn depends on how profitable the company is.",
@@ -8135,7 +8127,7 @@ let obj = {
       d: "They are using debt financing and the return shareholders earn is fixed.",
       ans: 'a'
    },
-   q1017: {
+   q1016: {
       question: "Worldwide Delivery Service Corporation develops a way to speed up their deliveries and reduce their costs. We expect the",
       a: "demand for existing shares of this stock to rise causing its price to rise.",
       b: "demand for existing shares of this stock to rise causing its price to fall.",
@@ -8143,7 +8135,7 @@ let obj = {
       d: "supply of the existing shares of this stock to fall casing its price to fall.",
       ans: 'a'
    },
-   q1018: {
+   q1017: {
       question: "Suppose Sarah Lee Corporation stock has a P/E ratio of 8. This P/E ratio is relatively",
       a: "high, indicating buyers may expect earnings to rise.",
       b: "high indicating buyers may expect earnings to fall.",
@@ -8151,7 +8143,7 @@ let obj = {
       d: "low, indicating buyers may expect earnings to fall.",
       ans: 'd'
    },
-   q1019: {
+   q1018: {
       question: "Retained earnings are",
       a: "paid out as dividends.",
       b: "the amount of revenues a firm receives for the sale of its products minus its costs of production as measured by its accountants.",
@@ -8159,7 +8151,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'd'
    },
-   q1020: {
+   q1019: {
       question: "Which of the following is correct?",
       a: "Smaller local firms borrow relatively more from banks than larger well-known corporations do.",
       b: "Banks charge borrowers a slightly lower interest rate than they pay to depositors.",
@@ -8167,7 +8159,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'a'
    },
-   q1021: {
+   q1020: {
       question: "Other things the same, an increase in taxes necessarily means",
       a: "the government has a surplus.",
       b: "public savings increases.",
@@ -8175,7 +8167,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'b'
    },
-   q1022: {
+   q1021: {
       question: "In a closed economy national savings minus the government surplus is equal to",
       a: "investment.",
       b: "public saving.",
@@ -8183,7 +8175,7 @@ let obj = {
       d: "real GDP minus consumption minus government expenditures.",
       ans: 'c'
    },
-   q1023: {
+   q1022: {
       question: "If people wanted to borrow more for mortgages, perhaps because of changes in tax laws that make home ownership more desirable, then the",
       a: "demand for loanable funds shifts right, making the interest rate rise.",
       b: "demand for loanable funds shifts right, making the interest rate fall.",
@@ -8191,7 +8183,7 @@ let obj = {
       d: "supply of loanable funds shifts right, making the interest rate fall.",
       ans: 'a'
    },
-   q1024: {
+   q1023: {
       question: "Other things the same, a fall in the interest rate induces borrowers to borrow",
       a: "less and savers to save less.",
       b: "more and savers to save less.",
@@ -8199,7 +8191,7 @@ let obj = {
       d: "more and savers to save more.",
       ans: 'b'
    },
-   q1025: {
+   q1024: {
       question: "If the demand for loanable funds shifts right, the interest rate",
       a: "and lending increase.",
       b: "and lending decrease.",
@@ -8207,7 +8199,7 @@ let obj = {
       d: "decreases and lending increases.",
       ans: 'a'
    },
-   q1026: {
+   q1025: {
       question: "An increase in the supply of loanable funds will (other things constant): ",
       a: "increase the equilibrium interest rate and decrease investment.",
       b: "increase the equilibrium interest rate and increase investment.",
@@ -8215,7 +8207,7 @@ let obj = {
       d: "decrease the equilibrium interest rate and decrease investment.",
       ans: 'c'
    },
-   q1027: {
+   q1026: {
       question: "Oksana put money in the bank one year ago at an interest rate of 5%; during that time prices rose by 2%. The dollar value of Oksana’s account has increased ",
       a: "7% and the real value increased 5%.",
       b: "7% and the real value increased 2%.",
@@ -8223,7 +8215,7 @@ let obj = {
       d: "5% and the real value increased 3%.",
       ans: 'd'
    },
-   q1028: {
+   q1027: {
       question: "Your boss promises to pay you a retirement bonus of $40,000 when you retire six years from today. If the interest rate is 5%, the present value of this payment is ",
       a: "$40,000/(6 / 1.05).",
       b: "$40,000/(1.05)6.",
@@ -8231,7 +8223,7 @@ let obj = {
       d: "$40,000 	 (1.05)6.",
       ans: 'b'
    },
-   q1029: {
+   q1028: {
       question: "Roth Individual Retirement Accounts allow people to save a limited amount of money without paying taxes on the interest when funds are withdrawn. Government programs like these should increase the",
       a: "demand for loanable funds and lower the interest rate.",
       b: "demand for loanable funds and raise the interest rate.",
@@ -8239,7 +8231,7 @@ let obj = {
       d: "supply of loanable funds and raise the interest rate.",
       ans: 'c'
    },
-   q1030: {
+   q1029: {
       question: "During the Presidencies of Kennedy and Reagan tax changes were made that reduced taxes on investment. Government programs like these should increase the",
       a: "demand for loanable funds and lower the interest rate.",
       b: "demand for loanable funds and raise the interest rate.",
@@ -8247,7 +8239,7 @@ let obj = {
       d: "supply of loanable funds and raise the interest rate.",
       ans: 'b'
    },
-   q1031: {
+   q1030: {
       question: "If the government wanted to decrease interest rates and increase investment it could ",
       a: "raise the government deficit. ",
       b: "reduce taxes on interest income. ",
@@ -8255,7 +8247,7 @@ let obj = {
       d: "None of the above is correct. ",
       ans: 'b'
    },
-   q1032: {
+   q1031: {
       question: "Which of the following will shift the demand for loanable funds? ",
       a: "a decrease in the market rate of interest",
       b: "a law passed by Congress granting special tax breaks for savers",
@@ -8263,7 +8255,7 @@ let obj = {
       d: "an increase in the market rate of interest",
       ans: 'c'
    },
-   q1033: {
+   q1032: {
       question: "Replacing the income tax with a consumption tax would ",
       a: "increase interest rates and saving. ",
       b: "decrease interest rates and saving. ",
@@ -8271,7 +8263,7 @@ let obj = {
       d: "decrease interest rates and increase saving. ",
       ans: 'd'
    },
-   q1034: {
+   q1033: {
       question: "Between 1814 and 1829 the national debt of the U.S. government fell from about $128 million to about $50 million. The model of the market for loanable funds suggests that this reduction of the debt should have",
       a: "increased the interest rate and investment. ",
       b: "increased the interest rate and decreased investment. ",
@@ -8279,7 +8271,7 @@ let obj = {
       d: "decreased the interest rate and investment. ",
       ans: 'c'
    },
-   q1035: {
+   q1034: {
       question: "	An increase in the budget deficit is represented by shifting the",
       a: "demand for loanable funds right.",
       b: "demand for loanable funds left.",
@@ -8287,7 +8279,7 @@ let obj = {
       d: "supply of loanable funds left.",
       ans: 'd'
    },
-   q1036: {
+   q1035: {
       question: "Suppose the government reduced the tax rate on interest income and used a current budget surplus to finance this tax cut.",
       a: "The reduction in tax rates and the reduction in the surplus would both shift the supply of loanable funds right.",
       b: "The reduction in tax rates would shift the supply of loanable funds right. The reduction in the surplus would shift the supply of loanable funds left.",
@@ -8295,7 +8287,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'b'
    },
-   q1037: {
+   q1036: {
       question: "The natural rate of unemployment is",
       a: "zero percent.",
       b: "the rate associated with the highest possible level of GDP.",
@@ -8303,7 +8295,7 @@ let obj = {
       d: "the amount of unemployment that the economy normally experiences.",
       ans: 'd'
    },
-   q1038: {
+   q1037: {
       question: "Unemployment data is collected",
       a: "from firms and unemployment insurance claims.",
       b: "through a regular survey of about 60,000 households.",
@@ -8311,7 +8303,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'b'
    },
-   q1039: {
+   q1038: {
       question: "Which of the following people is counted as unemployed according to official statistics?",
       a: "Nancy, who is on temporary layoff",
       b: "Gary, who has retired and is not looking for work",
@@ -8319,7 +8311,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'a'
    },
-   q1040: {
+   q1039: {
       question: "Who would be included in the labor force?",
       a: "Holly, an unpaid homemaker",
       b: "Dave, who does not have a job, but is looking for work	",
@@ -8327,7 +8319,7 @@ let obj = {
       d: "None of the above are included in the labor force.",
       ans: 'b'
    },
-   q1041: {
+   q1040: {
       question: "The BLS recently reported that there were 45.38 million college graduates over age 16. Of this number 36.08 million were in the labor force and 35.48 were employed. What was the labor-force participation rate and the unemployment rate for this group?",
       a: "about 78 percent and 1.3 percent",
       b: "about 79.5 percent and 1.7 percent",
@@ -8335,7 +8327,7 @@ let obj = {
       d: "about 98 percent and 1.7 percent",
       ans: 'b'
    },
-   q1042: {
+   q1041: {
       question: "Kay loses her job and decides to sit around home for a few months. Ceteris paribus, the unemployment rate",
       a: "increases, and the labor-force participation rate decreases.",
       b: "increases, and the labor-force participation rate is unaffected.",
@@ -8343,7 +8335,7 @@ let obj = {
       d: "is unaffected, and the labor-force participation rate increases.",
       ans: 'a'
    },
-   q1043: {
+   q1042: {
       question: "Which of the following is correct?",
       a: "Teenagers have lower labor-force participation rates and lower unemployment rates than do adults.",
       b: "Teenagers have lower labor-force participation rates and higher unemployment rates than do adults.	",
@@ -8351,7 +8343,7 @@ let obj = {
       d: "Teenagers have higher labor-force participation rates and lower unemployment rates than do adults.",
       ans: 'b'
    },
-   q1044: {
+   q1043: {
       question: "Just after World War II, the labor-force participation rate of women was",
       a: "about 3/5 and currently is 1/2.",
       b: "about 1/2 and currently is about 3/5.",
@@ -8359,7 +8351,7 @@ let obj = {
       d: "about 1/4 and currently is about 2/3.",
       ans: 'c'
    },
-   q1045: {
+   q1044: {
       question: "Suppose that some people report themselves as unemployed when, in fact, they are working in the underground economy. If these persons were counted as employed, ",
       a: "both the unemployment rate and labor-force participation rate would be higher.",
       b: "the unemployment rate would be higher and the labor-force participation rate would be unchanged.",
@@ -8367,7 +8359,7 @@ let obj = {
       d: "both the unemployment rate and labor-force participation rate would be lower.",
       ans: 'c'
    },
-   q1046: {
+   q1045: {
       question: "Christine is looking for work as a financial analyst. Although her prospects are good, she hasn’t yet taken a job. Pam is looking for work in a furniture factory, but there aren’t many furniture companies looking for workers and every time she shows up for an interview, there are many more people than openings. ",
       a: "Christine is frictionally unemployed and Pam is structurally unemployed.",
       b: "Christine is structurally unemployed and Pam is frictionally unemployed.",
@@ -8375,7 +8367,7 @@ let obj = {
       d: "Christine and Pam are both structurally unemployed.",
       ans: 'a'
    },
-   q1047: {
+   q1046: {
       question: "People who are unemployed because of job search are best classified as",
       a: "cyclically unemployed.",
       b: "discouraged workers.",
@@ -8383,7 +8375,7 @@ let obj = {
       d: "structurally unemployed.",
       ans: 'c'
    },
-   q1048: {
+   q1047: {
       question: "Sectoral shifts in the economy",
       a: "create structural unemployment.",
       b: "immediately reduce unemployment.",
@@ -8391,7 +8383,7 @@ let obj = {
       d: "increase unemployment due to job search.",
       ans: 'd'
    },
-   q1049: {
+   q1048: {
       question: "Unemployment insurance",
       a: "reduces job search unemployment.",
       b: "decreases the natural rate of unemployment.",
@@ -8399,7 +8391,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'c'
    },
-   q1050: {
+   q1049: {
       question: "A typical American worker covered by unemployment insurance receives ",
       a: "100 percent of their former wages for 26 weeks.",
       b: "75 percent of their former wages for 50 weeks.",
@@ -8407,7 +8399,7 @@ let obj = {
       d: "25 percent of their former wages for 50 weeks.",
       ans: 'c'
    },
-   q1051: {
+   q1050: {
       question: "An increase in the world price of oil creates a sectoral shift that probably",
       a: "decreases unemployment, and the decrease would be greater in a country with unemployment insurance than in one without.",
       b: "decreases unemployment, but the decrease would be smaller in a country with unemployment insurance than in one without.",
@@ -8415,7 +8407,7 @@ let obj = {
       d: "increases unemployment, but the increase would be smaller in a country with unemployment insurance than in one without.",
       ans: 'c'
    },
-   q1052: {
+   q1051: {
       question: "Minimum wage laws",
       a: "probably reduce teenage employment.",
       b: "are probably the major cause of natural unemployment.",
@@ -8423,7 +8415,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'a'
    },
-   q1053: {
+   q1052: {
       question: "Between the 1940s and today, union membership",
       a: "fell from about 1/2 to 1/3 of the labor force.",
       b: "fell from about 1/3 to 1/6 of the labor force.",
@@ -8431,7 +8423,7 @@ let obj = {
       d: "rose from about 1/3 to 1/2 of the labor force.",
       ans: 'b'
    },
-   q1054: {
+   q1053: {
       question: "When a union bargains successfully with an employer, ",
       a: "the quantity of labor supplied increases but the quantity of labor demanded decreases.",
       b: "the quantity of labor supplied increases but the quantity of labor demanded increases. ",
@@ -8439,7 +8431,7 @@ let obj = {
       d: "both the quantity of labor supplied and the quantity of labor demanded decrease.",
       ans: 'a'
    },
-   q1055: {
+   q1054: {
       question: "When unions raise wages in one sector of the economy, the supply of labor in other sectors of the economy",
       a: "decreases, raising wages in industries that are not unionized.",
       b: "decreases, reducing wages in industries that are not unionized.",
@@ -8447,7 +8439,7 @@ let obj = {
       d: "increases, reducing wages in industries that are not unionized. ",
       ans: 'd'
    },
-   q1056: {
+   q1055: {
       question: "Right-to-work laws",
       a: "prevent employers from hiring permanent replacements for workers who are on strike.",
       b: "allows employers to replace workers who are on strike.",
@@ -8455,7 +8447,7 @@ let obj = {
       d: "give workers in a unionized firm the right to choose whether or not to join the union.",
       ans: 'd'
    },
-   q1057: {
+   q1056: {
       question: "Angela is the newly appointed CEO of a company that manufactures computer chips on an assembly line. Her staff has told her that given productivity numbers, they suspect some workers may be shirking. According to efficiency wage theory, what should she do?",
       a: "Pay all workers more than the equilibrium wage rate.",
       b: "Reward those who shirk with higher wages.",
@@ -8463,7 +8455,7 @@ let obj = {
       d: "Make sure that workers are getting paid exactly the equilibrium wage rate.",
       ans: 'a'
    },
-   q1058: {
+   q1057: {
       question: "Efficiency wages reduce",
       a: "the average quality of job applicants.",
       b: "labor-force participation rates.",
@@ -8471,7 +8463,7 @@ let obj = {
       d: "the incentive to shirk.",
       ans: 'd'
    },
-   q1059: {
+   q1058: {
       question: "An efficient wage designed to ensure that quality workers are hired is designed principally to reduce a problem created by ",
       a: "adverse selection, but it also increases unemployment.",
       b: "adverse selection, but it also decreases unemployment.",
@@ -8479,7 +8471,7 @@ let obj = {
       d: "moral hazard, but it also decreases unemployment.",
       ans: 'a'
    },
-   q1060: {
+   q1059: {
       question: "Which of the following explanations of the natural rate of unemployment is most important for the U.S. economy?",
       a: "job search",
       b: "minimum wage laws",
@@ -8487,7 +8479,7 @@ let obj = {
       d: "Economists have not determined the answer to this question.",
       ans: 'd'
    },
-   q1061: {
+   q1060: {
       question: "Henry Ford paid his workers $5.00 per day to ",
       a: "meet union demands.",
       b: "prevent his workers from unionizing.",
@@ -8495,7 +8487,7 @@ let obj = {
       d: "increase worker productivity.",
       ans: 'd'
    },
-   q1062: {
+   q1061: {
       question: "Which of the following is correct?",
       a: "Some degree of unemployment is inevitable.",
       b: "Other things the same, an increase in the number of people who are unemployed decreases real GDP. ",
@@ -8503,7 +8495,7 @@ let obj = {
       d: "All of the above are correct. ",
       ans: 'd'
    },
-   q1063: {
+   q1062: {
       question: "According to the BLS, a homemaker is ",
       a: "employed. ",
       b: "unemployed. ",
@@ -8511,7 +8503,7 @@ let obj = {
       d: "Both b and c are correct.",
       ans: 'c'
    },
-   q1064: {
+   q1063: {
       question: "The labor force equals the",
       a: "adult population minus the number of people unemployed. ",
       b: "number of people employed plus the number of people unemployed. ",
@@ -8519,7 +8511,7 @@ let obj = {
       d: "number of people who are unemployed. ",
       ans: 'b'
    },
-   q1065: {
+   q1064: {
       question: "The unemployment rate is computed as the number of unemployed times 100",
       a: "divided by the labor force.",
       b: "divided by the number of people employed.",
@@ -8527,7 +8519,7 @@ let obj = {
       d: "times the participation rate.",
       ans: 'a'
    },
-   q1066: {
+   q1065: {
       question: "The total population (age 16 and over) of Pageland is 48 million. Of this total, 4 million are unemployed and 36 million currently hold jobs. What are the rates of unemployment and labor force participation of Pageland? ",
       a: "The rate of unemployment is 11 percent, and the rate of labor force participation is 83 percent.",
       b: "The rate of unemployment is 10 percent, and the rate of labor force participation is 75 percent.",
@@ -8535,7 +8527,7 @@ let obj = {
       d: "The rate of unemployment is 11 percent, and the rate of labor force participation is 90 percent.",
       ans: 'c'
    },
-   q1067: {
+   q1066: {
       question: "According to recent statistics from Spain, the unemployment rate was about 16.97% and the number of people employed was about 13.5 million. About how many people were unemployed?",
       a: "1.82 million",
       b: "2.29 million",
@@ -8543,7 +8535,7 @@ let obj = {
       d: "The answer cannot be determined from the information provided.",
       ans: 'c'
    },
-   q1068: {
+   q1067: {
       question: "Since 1950, the participation rate in the United States",
       a: "increased for both men and women.",
       b: "decreased for both men and women.",
@@ -8551,7 +8543,7 @@ let obj = {
       d: "decreased for men, but increased for women.",
       ans: 'd'
    },
-   q1069: {
+   q1068: {
       question: "Studies have found that most",
       a: "unemployment at a given point in time is short term.",
       b: "spells of unemployment are long.",
@@ -8559,7 +8551,7 @@ let obj = {
       d: "unemployment at any given point in time is long term.",
       ans: 'd'
    },
-   q1070: {
+   q1069: {
       question: "Consider the following sentences. Most spells of unemployment are short. Most unemployment observed at any given time is long-term.",
       a: "Both sentences are true. ",
       b: "Both sentences are false. ",
@@ -8567,7 +8559,7 @@ let obj = {
       d: "Only the second sentence is true.",
       ans: 'a'
    },
-   q1071: {
+   q1070: {
       question: "Consider the following sentences. Frictional unemployment results because it takes time for workers to search for the jobs that best suit their taste and skills. Structural unemployment results because the number of jobs available in some labor markets is insufficient to provide the jobs for everyone who wants one. ",
       a: "Both sentences are true. ",
       b: "Both sentences are false. ",
@@ -8575,7 +8567,7 @@ let obj = {
       d: "Only the second sentence is true. ",
       ans: 'a'
    },
-   q1072: {
+   q1071: {
       question: "Unemployment insurance ",
       a: "reduces search effort and lowers unemployment.",
       b: "reduces search efforts and raises unemployment. ",
@@ -8583,7 +8575,7 @@ let obj = {
       d: "increases search effort and decreases unemployment.",
       ans: 'b'
    },
-   q1073: {
+   q1072: {
       question: "Higher unemployment insurance benefits tend to increase the level of unemployment because the higher benefits",
       a: "reduce the opportunity cost of job search and hence increase the search time.",
       b: "increase the opportunity cost of job search and hence increase the search time.",
@@ -8591,7 +8583,7 @@ let obj = {
       d: "increase the opportunity cost of job search and hence decrease the search time.",
       ans: 'b'
    },
-   q1074: {
+   q1073: {
       question: "Which of the following would increase frictional unemployment?",
       a: "a reduction in unemployment insurance ",
       b: "increases in the world price of oil ",
@@ -8599,7 +8591,7 @@ let obj = {
       d: "All the above are correct.",
       ans: 'b'
    },
-   q1075: {
+   q1074: {
       question: "Increasing the minimum wage would increase",
       a: "both frictional and structural unemployment.",
       b: "frictional unemployment, but not structural unemployment. ",
@@ -8607,7 +8599,7 @@ let obj = {
       d: "neither frictional nor structural unemployment. ",
       ans: 'c'
    },
-   q1076: {
+   q1075: {
       question: "An increase in the minimum wage would",
       a: "increase both the quantity demanded and the quantity supplied of labor. ",
       b: "decrease both the quantity demanded and the quantity supplied of labor. ",
@@ -8615,7 +8607,7 @@ let obj = {
       d: "increase the quantity supplied of labor and decrease the quantity demanded of labor. ",
       ans: 'd'
    },
-   q1077: {
+   q1076: {
       question: "If an industry becomes unionized, ",
       a: "both employment and wages in that industry tend to rise. ",
       b: "wages in that industry tend to rise, while employment in that industry tends to fall. ",
@@ -8623,7 +8615,7 @@ let obj = {
       d: "both employment and wages in that industry tend to fall.",
       ans: 'b'
    },
-   q1078: {
+   q1077: {
       question: "In Sweden and Denmark",
       a: "about 1/3 of the workers belong to unions, which is less than in the United States.",
       b: "about 1/3 of the workers belong to unions, which is more than in the United States.",
@@ -8631,7 +8623,7 @@ let obj = {
       d: "about 3/4 of the workers belong to unions, which is more than in the United States.",
       ans: 'd'
    },
-   q1079: {
+   q1078: {
       question: "Efficiency wages",
       a: "increase both productivity and unemployment.",
       b: "decrease both productivity and unemployment.",
@@ -8639,7 +8631,7 @@ let obj = {
       d: "decrease productivity and increase unemployment.",
       ans: 'a'
    },
-   q1080: {
+   q1079: {
       question: "Tom Crown operates a company that produces paintings for motels. Tom decides that if he pays his workers more that his profits will increase. Which of the following is a likely and logical explanation for his decision?",
       a: "By paying higher wages, he will be able to charge more for the paintings his workers produce.",
       b: "By paying higher wages, incompetent workers are less likely to apply.",
@@ -8647,7 +8639,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'c'
    },
-   q1081: {
+   q1080: {
       question: "The theory of efficiency wages implies that if it became easier to accurately evaluate the workers’ abilities, wages",
       a: "and unemployment would rise.",
       b: "would rise and unemployment would fall.",
@@ -8655,7 +8647,7 @@ let obj = {
       d: "and unemployment would fall.",
       ans: 'd'
    },
-   q1082: {
+   q1081: {
       question: "Anything that makes the efficiency wage rise relative to the market-clearing wage will",
       a: "increase both the quantity demanded and the quantity of labor supplied.",
       b: "decrease both the quantity demanded and the quantity of labor supplied.",
@@ -8663,7 +8655,7 @@ let obj = {
       d: "decrease the quantity demanded and increase the quantity of labor supplied.",
       ans: 'd'
    },
-   q1083: {
+   q1082: {
       question: "Among experienced professors the ones with the least skills are most likely to be searching for jobs and as a result schools are likely to be skeptical of applications from all experienced professors. If workers have much say in who gets hired, they may find it in their best interest to avoid suggesting the hire of workers that may be superior to them.",
       a: "Both examples illustrate adverse selection.",
       b: "Both examples illustrate moral hazard.",
@@ -8671,7 +8663,7 @@ let obj = {
       d: "The first example illustrates moral hazard, the second illustrates adverse selection.",
       ans: 'c'
    },
-   q1084: {
+   q1083: {
       question: "Which of the following would reduce the natural rate of unemployment?",
       a: "The Internet provides more readily available information about available jobs.",
       b: "Congress increases the minimum wage.",
@@ -8679,7 +8671,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'a'
    },
-   q1085: {
+   q1084: {
       question: "Which of the following laws would increase the natural rate of unemployment?",
       a: "Congress abolishes the minimum wage.",
       b: "Congress passes laws that make it harder to find out about job candidates’ past job history.",
@@ -8687,7 +8679,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'b'
    },
-   q1086: {
+   q1085: {
       question: "Barter",
       a: "is more efficient than money.",
       b: "makes trading easier than money.",
@@ -8695,7 +8687,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'd'
    },
-   q1087: {
+   q1086: {
       question: "Which of the following best illustrates the unit of account function of money?",
       a: "You list prices for candy sold on your Web site, sweet-treats.com, in dollars.",
       b: "You pay for tickets to a WNBA game with dollars.",
@@ -8703,7 +8695,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'a'
    },
-   q1088: {
+   q1087: {
       question: "U.S. currency is currently ",
       a: "commodity money with no intrinsic value.",
       b: "fiat money with no intrinsic value.",
@@ -8711,7 +8703,7 @@ let obj = {
       d: "fiat money with intrinsic value.",
       ans: 'b'
    },
-   q1089: {
+   q1088: {
       question: "Since the U.S. government has decreed that U.S. currency is legal tender,",
       a: "people may not legally make trades with anything else.",
       b: "people are more likely to accept the dollar as a medium of exchange.",
@@ -8719,7 +8711,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'b'
    },
-   q1090: {
+   q1089: {
       question: "M1 includes",
       a: "savings deposits.",
       b: "money market deposit accounts.",
@@ -8727,7 +8719,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'c'
    },
-   q1091: {
+   q1090: {
       question: "Credit cards are",
       a: "a method of deferring payment.",
       b: "used as a medium of exchange.",
@@ -8735,7 +8727,7 @@ let obj = {
       d: "equivalent to debit cards.",
       ans: 'a'
    },
-   q1092: {
+   q1091: {
       question: "Which of the following might explain why the United States has so much currency per person?",
       a: "Currency may be a preferable store of wealth for criminals.",
       b: "U.S. citizens are holding a lot of foreign currency.",
@@ -8743,7 +8735,7 @@ let obj = {
       d: "All of the above help explain the abundance of currency.",
       ans: 'a'
    },
-   q1093: {
+   q1092: {
       question: "Which Federal Reserve Bank president is always a voting member of the FOMC?",
       a: "Boston",
       b: "New York",
@@ -8751,7 +8743,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'b'
    },
-   q1094: {
+   q1093: {
       question: "The Federal Open-market Committee is made up of",
       a: "5 of the 12 presidents of the Federal Reserve Regional banks, and the 7 members of the Board of Governors.",
       b: "the 12 presidents of the Federal Reserve Regional banks, and the Chair of the Board of Governors.",
@@ -8759,7 +8751,7 @@ let obj = {
       d: "7 of the 12 presidents of the Federal Reserve Regional banks, and the 5 members of the Board of Governors.",
       ans: 'a'
    },
-   q1095: {
+   q1094: {
       question: "The Fed can influence unemployment in ",
       a: "the short run, but not the long run.",
       b: "the short and long run.",
@@ -8767,7 +8759,7 @@ let obj = {
       d: "neither the short nor long run.",
       ans: 'a'
    },
-   q1096: {
+   q1095: {
       question: "On a bank’s T-account,",
       a: "deposits are assets, reserves are liabilities.",
       b: "reserves are assets, deposits are liabilities.",
@@ -8775,7 +8767,7 @@ let obj = {
       d: "both deposits and reserves are liabilities.",
       ans: 'b'
    },
-   q1097: {
+   q1096: {
       question: "If the reserve ratio is 5 percent and a bank receives a new deposit of $500, this bank",
       a: "must increase its required reserves by $500.",
       b: "will initially see its total reserves increase by $25.",
@@ -8783,7 +8775,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'c'
    },
-   q1098: {
+   q1097: {
       question: "If the reserve requirement is 10 percent, the Last Bank of Hope",
       a: "is holding excess reserves of $1,000.",
       b: "is in a position to make a new loan of $2000.",
@@ -8791,7 +8783,7 @@ let obj = {
       d: "has less reserves than required.",
       ans: 'a'
    },
-   q1099: {
+   q1098: {
       question: "If the Last Bank of Hope is holding only the amount of reserves required, the reserve requirement is",
       a: "100 percent.",
       b: "80 percent.",
@@ -8799,7 +8791,7 @@ let obj = {
       d: "12.5 percent.",
       ans: 'c'
    },
-   q1100: {
+   q1099: {
       question: "If the reserve ratio is 25 percent, the money multiplier is",
       a: "2.",
       b: "4.",
@@ -8807,7 +8799,7 @@ let obj = {
       d: "8.",
       ans: 'b'
    },
-   q1101: {
+   q1100: {
       question: "If the reserve ratio is 15 percent, an additional $2,000 of reserves will increase the money supply by",
       a: "$1,500.",
       b: "$3,000.",
@@ -8815,7 +8807,7 @@ let obj = {
       d: "$13,333.",
       ans: 'd'
    },
-   q1102: {
+   q1101: {
       question: "Which list contains only actions that decrease the money supply?",
       a: "lower the discount rate, make open-market purchases",
       b: "lower the discount rate, make open-market sales",
@@ -8823,7 +8815,7 @@ let obj = {
       d: "raise the discount rate, make open-market sales",
       ans: 'd'
    },
-   q1103: {
+   q1102: {
       question: "To increase the money supply, the Fed could",
       a: "sell government bonds.",
       b: "decrease the discount rate.",
@@ -8831,7 +8823,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'b'
    },
-   q1104: {
+   q1103: {
       question: "In a fractional reserve banking system, an increase in reserve requirements ",
       a: "increases both the money multiplier and the money supply.",
       b: "increases the money multiplier, but decreases the money supply.",
@@ -8839,7 +8831,7 @@ let obj = {
       d: "decreases the money multiplier, but increases the money supply.",
       ans: 'c'
    },
-   q1105: {
+   q1104: {
       question: "When the Fed increases the discount rate, banks will borrow ",
       a: "less, banks will lend more, and the money supply will decrease.",
       b: "less, banks will lend less, and the money supply will decrease.",
@@ -8847,7 +8839,7 @@ let obj = {
       d: "more, banks will lend less, and the money supply will decrease.",
       ans: 'b'
    },
-   q1106: {
+   q1105: {
       question: "The interest rate the Fed charges on loans it makes to banks is called the",
       a: "discount rate.",
       b: "federal funds rate.",
@@ -8855,7 +8847,7 @@ let obj = {
       d: "FOMC rate.",
       ans: 'a'
    },
-   q1107: {
+   q1106: {
       question: "During the stock market crash of October 1987, the Fed",
       a: "nearly created a financial panic by not acting as a lender of last resort.",
       b: "nearly created a financial panic by raising the discount rate.",
@@ -8863,7 +8855,7 @@ let obj = {
       d: "prevented a financial panic by raising reserve requirements.",
       ans: 'c'
    },
-   q1108: {
+   q1107: {
       question: "If the reserve ratio is 10 percent, and banks do not hold excess reserves, when the Fed purchases $10 million of government bonds, bank reserves ",
       a: "decrease by $10 million and the money supply eventually decreases by $100 million.",
       b: "decrease by $10 million and the money supply eventually increases by $100 million.",
@@ -8871,7 +8863,7 @@ let obj = {
       d: "increase by $10 million and the money supply eventually increases by $100 million.",
       ans: 'd'
    },
-   q1109: {
+   q1108: {
       question: "If banks choose to hold more excess reserves,",
       a: "required reserves in the banking system increase.",
       b: "the money multiplier will increase.",
@@ -8879,7 +8871,7 @@ let obj = {
       d: "the money supply falls.",
       ans: 'd'
    },
-   q1110: {
+   q1109: {
       question: "The Fed can directly protect a bank during a bank run by",
       a: "increasing reserve requirements.",
       b: "selling government bonds to the bank.",
@@ -8887,7 +8879,7 @@ let obj = {
       d: "doing any of the above.",
       ans: 'c'
    },
-   q1111: {
+   q1110: {
       question: "Giving up a dollar bill to purchase an ice cream cone best illustrates money’s function as a",
       a: "store of wealth.",
       b: "unit of account.",
@@ -8895,7 +8887,7 @@ let obj = {
       d: "standard of value. ",
       ans: 'c'
    },
-   q1112: {
+   q1111: {
       question: "Which of the following provides a store of value? ",
       a: "U.S. currency ",
       b: "stocks in Microsoft Corporation ",
@@ -8903,7 +8895,7 @@ let obj = {
       d: "All the above are correct. ",
       ans: 'd'
    },
-   q1113: {
+   q1112: {
       question: "Of the following assets which is the most liquid? ",
       a: "stocks in Intel Corporation",
       b: "a painting by van Gogh ",
@@ -8911,7 +8903,7 @@ let obj = {
       d: "fine jewelry ",
       ans: 'a'
    },
-   q1114: {
+   q1113: {
       question: "Which of the following types of currency has intrinsic value? ",
       a: "commodity money",
       b: "fiat money ",
@@ -8919,7 +8911,7 @@ let obj = {
       d: "neither commodity money nor fiat money ",
       ans: 'a'
    },
-   q1115: {
+   q1114: {
       question: "Which of the following is not contained in M1? ",
       a: "currency",
       b: "demand deposits ",
@@ -8927,7 +8919,7 @@ let obj = {
       d: "traveler’s checks",
       ans: 'c'
    },
-   q1116: {
+   q1115: {
       question: "M2 is ",
       a: "smaller and less liquid than M1. ",
       b: "smaller but more liquid than M1. ",
@@ -8935,7 +8927,7 @@ let obj = {
       d: "larger than and more liquid than M1. ",
       ans: 'c'
    },
-   q1117: {
+   q1116: {
       question: "Credit cards are a",
       a: "store of value. ",
       b: "method of deferring payments. ",
@@ -8943,7 +8935,7 @@ let obj = {
       d: "All of the above are correct. ",
       ans: 'b'
    },
-   q1118: {
+   q1117: {
       question: "Which of the following pairs correctly list a function of the Fed and the part of the Fed directly responsible for the function.",
       a: "income tax policy—Board of Governors",
       b: "conduct open-market operations—The Chair of the Board of Governors",
@@ -8951,7 +8943,7 @@ let obj = {
       d: "check clearing—regional Federal Reserve Banks",
       ans: 'd'
    },
-   q1119: {
+   q1118: {
       question: "Which part of the Fed meets about every six weeks to discuss the economy and make changes in monetary policy?",
       a: "the Board of Governors",
       b: "the FOMC",
@@ -8959,7 +8951,7 @@ let obj = {
       d: "the Central Bank Policy Commission",
       ans: 'b'
    },
-   q1120: {
+   q1119: {
       question: "If the Fed makes open-market purchases it will",
       a: "increase the money supply which will increase the price level. ",
       b: "increase the money supply which will decrease the price level. ",
@@ -8967,7 +8959,7 @@ let obj = {
       d: "decrease the money supply which will decrease the price level. ",
       ans: 'a'
    },
-   q1121: {
+   q1120: {
       question: "FOMC policy decisions have an important influence on the economy’s",
       a: "rate of inflation in the long run and level of employment in the short run. ",
       b: "rate of inflation and level of employment in the long run. ",
@@ -8975,7 +8967,7 @@ let obj = {
       d: "employment in the short run, but have no influence on inflation in either the short or long run. ",
       ans: 'a'
    },
-   q1122: {
+   q1121: {
       question: "The First National Bank of Tinyville has $10,000 of reserves. If it is holding no excess reserves, and the reserve ratio is 10%, its deposits are",
       a: "$90,000.",
       b: "$99,000.",
@@ -8983,7 +8975,7 @@ let obj = {
       d: "$110,000.",
       ans: 'c'
    },
-   q1123: {
+   q1122: {
       question: "Which of the following items is a liability to a bank? ",
       a: "loans",
       b: "reserves",
@@ -8991,7 +8983,7 @@ let obj = {
       d: "an interest-bearing asset owned by the bank ",
       ans: 'c'
    },
-   q1124: {
+   q1123: {
       question: "If R is the reserve ratio, which of the following is the correct way to find the money multiplier?",
       a: "1 – R",
       b: "1/R",
@@ -8999,7 +8991,7 @@ let obj = {
       d: "(1+R)/R",
       ans: 'b'
    },
-   q1125: {
+   q1124: {
       question: "The higher the reserve requirement ratio the",
       a: "more of each deposit banks may lend out, and the larger the multiplier.",
       b: "more of each deposit banks may lend out, and the smaller the multiplier.",
@@ -9007,7 +8999,7 @@ let obj = {
       d: "less of each deposit banks may lend out, and the smaller the multiplier.",
       ans: 'd'
    },
-   q1126: {
+   q1125: {
       question: "The Fed’s most frequently used tool of monetary control is ",
       a: "open-market operations. ",
       b: "changes in reserve requirements. ",
@@ -9015,7 +9007,7 @@ let obj = {
       d: "bank runs.",
       ans: 'a'
    },
-   q1127: {
+   q1126: {
       question: "In 1991 the Federal Reserve lowered the reserve requirement ratio from 12% to 10%. This should have ",
       a: "increased both the money multiplier and the money supply. ",
       b: "increased both the money multiplier and the money supply. ",
@@ -9023,7 +9015,7 @@ let obj = {
       d: "increased the money multiplier and decreased the money supply. ",
       ans: 'a'
    },
-   q1128: {
+   q1127: {
       question: "Suppose the Federal Reserve System purchases one-hundred thousand dollars of government bonds. If the reserve requirement is 10%, the Fed’s purchase",
       a: "increases the money supply by 90 thousand dollars. ",
       b: "increases the money supply by one million dollars. ",
@@ -9031,7 +9023,7 @@ let obj = {
       d: "decreases the money supply by one million dollars. ",
       ans: 'b'
    },
-   q1129: {
+   q1128: {
       question: "An increase in the discount rate ",
       a: "increases the money supply, while an increase in the reserve ratio decreases the money supply. ",
       b: "or an increase in the reserve ratio increases the money supply. ",
@@ -9039,7 +9031,7 @@ let obj = {
       d: "decreases the money supply, while an increase in the reserve ratio increases the money supply. ",
       ans: 'c'
    },
-   q1130: {
+   q1129: {
       question: "If the Federal Reserve wished to increase the money supply it could make open-market",
       a: "sales or raise the discount rate. ",
       b: "sales or decrease the discount rate. ",
@@ -9047,7 +9039,7 @@ let obj = {
       d: "purchases or decrease the discount rate. ",
       ans: 'd'
    },
-   q1131: {
+   q1130: {
       question: "Which of the following will increase the money supply, but leave the money multiplier unchanged? ",
       a: "an increase in the discount rate.",
       b: "open-market sales.",
@@ -9055,7 +9047,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'd'
    },
-   q1132: {
+   q1131: {
       question: "An increase in the discount rate encourages banks to borrow",
       a: "more from the Fed and increases the money supply. ",
       b: "less from the Fed and reduces the money supply. ",
@@ -9063,7 +9055,7 @@ let obj = {
       d: "less from the Fed and increases the money supply. ",
       ans: 'b'
    },
-   q1133: {
+   q1132: {
       question: "During World War II people chose to hold relatively more currency and relatively fewer checking deposits. This should have ",
       a: "increased the money multiplier and the money supply. ",
       b: "increased the money multiplier and decreased the money supply. ",
@@ -9071,7 +9063,7 @@ let obj = {
       d: "decreased the money multiplier and decreased the money supply. ",
       ans: 'd'
    },
-   q1134: {
+   q1133: {
       question: "In the nineteenth century when there were bank runs, banks would make relatively fewer loans and hold relatively more excess reserves. This should have ",
       a: "increased both the money multiplier and the money supply. ",
       b: "decreased both the money multiplier and the money supply. ",
@@ -9079,7 +9071,7 @@ let obj = {
       d: "decreased the multiplier and increased the money supply. ",
       ans: 'b'
    },
-   q1135: {
+   q1134: {
       question: "Which of the following concerning U.S. inflation is false?",
       a: "Low inflation was viewed as a triumph of President Carter’s economic policy.",
       b: "There were long periods in the nineteenth century during which prices fell.",
@@ -9087,7 +9079,7 @@ let obj = {
       d: "U.S. inflation has varied over time, but international data shows even more variation.",
       ans: 'a'
    },
-   q1136: {
+   q1135: {
       question: "There was hyperinflation during ",
       a: "1880 to 1896 in the United States.",
       b: "post World War I Germany.",
@@ -9095,7 +9087,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'b'
    },
-   q1137: {
+   q1136: {
       question: "When the price level rises, the number of dollars needed to buy a representative basket of goods",
       a: "decreases, so the value of money rises.",
       b: "decreases, so the value of money falls.",
@@ -9103,7 +9095,7 @@ let obj = {
       d: "increases, so the value of money falls.",
       ans: 'd'
    },
-   q1138: {
+   q1137: {
       question: "When the money market is drawn with the value of money on the vertical axis, the money demand curve slopes",
       a: "upward, because at higher prices people want to hold less money.",
       b: "upward, because open-market purchases make more money available.",
@@ -9111,7 +9103,7 @@ let obj = {
       d: "downward, because at higher prices people want to hold less money.",
       ans: 'c'
    },
-   q1139: {
+   q1138: {
       question: "When the money market is drawn with the value of money on the vertical axis, the value of money increases if",
       a: "money demand shifts right or money supply shifts left.",
       b: "money demand shifts left or money supply shifts right.",
@@ -9119,7 +9111,7 @@ let obj = {
       d: "either money demand or money supply shifts left.",
       ans: 'a'
    },
-   q1140: {
+   q1139: {
       question: "When the money market is drawn with the value of money on the vertical axis, the price level increases if",
       a: "money demand shifts right or money supply shifts left.",
       b: "money demand shifts left or money supply shifts right.",
@@ -9127,7 +9119,7 @@ let obj = {
       d: "either money demand or money supply shifts left.",
       ans: 'b'
    },
-   q1141: {
+   q1140: {
       question: "A decrease in the money supply creates an excess",
       a: "demand for money that is eliminated by rising prices.",
       b: "demand for money that is eliminated by falling prices.",
@@ -9135,7 +9127,7 @@ let obj = {
       d: "supply of money that is eliminated by falling prices.",
       ans: 'b'
    },
-   q1142: {
+   q1141: {
       question: "Hubert spends $60 on a portable CD player.",
       a: "Both the $60 and the CD player are real variables.",
       b: "Both the $60 and the CD player are nominal variables.",
@@ -9143,7 +9135,7 @@ let obj = {
       d: "The $60 is a real variable and the CD player is a real variable.",
       ans: 'c'
    },
-   q1143: {
+   q1142: {
       question: "Steve lowers the hourly wage he pays his employees $1. The employees figure that, even accounting for the decrease, they can purchase more goods with what they earn in an hour than they could a year ago. It follows that ",
       a: "the workers’ real and nominal wages have risen.",
       b: "the workers’ real wage rose and their nominal wage fell.",
@@ -9151,7 +9143,7 @@ let obj = {
       d: "both the real and nominal wages fell.",
       ans: 'b'
    },
-   q1144: {
+   q1143: {
       question: "According to the classical dichotomy, which of the following is influenced by monetary factors?",
       a: "nominal interest rates",
       b: "real GDP",
@@ -9159,7 +9151,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'a'
    },
-   q1145: {
+   q1144: {
       question: "According to the classical dichotomy, when the money supply doubles, which of the following also double?",
       a: "the price level",
       b: "nominal wages",
@@ -9167,7 +9159,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'd'
    },
-   q1146: {
+   q1145: {
       question: "Monetary neutrality implies that an increase in the quantity of money will increase",
       a: "the price level.",
       b: "employment.",
@@ -9175,7 +9167,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'a'
    },
-   q1147: {
+   q1146: {
       question: "Velocity is computed as ",
       a: "(P 	 M)/Y.",
       b: "(Y 	 M)/P.",
@@ -9183,7 +9175,7 @@ let obj = {
       d: "(Y 	 M)/V.",
       ans: 'c'
    },
-   q1148: {
+   q1147: {
       question: "The equation of exchange alone implies that an increase in M could result in",
       a: "an increase in the price level.",
       b: "an increase in real GDP.",
@@ -9191,7 +9183,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'd'
    },
-   q1149: {
+   q1148: {
       question: "If velocity and output were nearly constant,",
       a: "the inflation rate would be much higher than the money supply growth rate.",
       b: "the inflation rate would be much lower than the money supply growth rate.",
@@ -9199,7 +9191,7 @@ let obj = {
       d: "Any of the above could be correct, more information is needed.",
       ans: 'c'
    },
-   q1150: {
+   q1149: {
       question: "The inflation tax",
       a: "is an alternative to income taxes and government borrowing.",
       b: "taxes those who hold the least amount of money most.",
@@ -9207,7 +9199,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'a'
    },
-   q1151: {
+   q1150: {
       question: "If the money supply growth rate permanently increased from 10 percent to 20 percent we would expect that inflation and nominal interest rates would both increase",
       a: "by more than 10 percentage points.",
       b: "by 10 percentage points.",
@@ -9215,7 +9207,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'b'
    },
-   q1152: {
+   q1151: {
       question: "An increase in the money supply growth rate increases ",
       a: "inflation, nominal interest rates, and real interest rates.",
       b: "inflation and real interest rates, but does not change nominal interest rates.",
@@ -9223,7 +9215,7 @@ let obj = {
       d: "nominal and real interest rates, but does not change inflation.",
       ans: 'c'
    },
-   q1153: {
+   q1152: {
       question: "Shoeleather costs refer to",
       a: "the cost of more frequent price changes induced by higher inflation.",
       b: "resources used to maintain lower money holdings when inflation is high.",
@@ -9231,7 +9223,7 @@ let obj = {
       d: "the distortion in incentives, created by inflation, by taxes that do not adjust for inflation.",
       ans: 'b'
    },
-   q1154: {
+   q1153: {
       question: "Menu costs refer to ",
       a: "the distortion in incentives created by inflation when taxes do not adjust for inflation.",
       b: "the cost of more frequent price changes induced by higher inflation.",
@@ -9239,7 +9231,7 @@ let obj = {
       d: "the distortion in resource allocation created by distortions in relative prices due to inflation.",
       ans: 'b'
    },
-   q1155: {
+   q1154: {
       question: "You buy stock and its price rises more than the price level; before taxes you made a nominal",
       a: "and real gain, and you pay taxes on the nominal gain.",
       b: "and real gain, and you pay taxes only on the real gain.",
@@ -9247,7 +9239,7 @@ let obj = {
       d: "gain and real loss, the real loss means you pay less tax.",
       ans: 'a'
    },
-   q1156: {
+   q1155: {
       question: "Given a nominal interest rate of 20 percent, in which case would you earn the highest after-tax real interest rate?",
       a: "Inflation is 5 percent; the tax rate is 20 percent.",
       b: "Inflation is 4 percent; the tax rate is 30 percent.",
@@ -9255,7 +9247,7 @@ let obj = {
       d: "The after-tax real interest rate is the same for all of the above.",
       ans: 'a'
    },
-   q1157: {
+   q1156: {
       question: "Which of the following inflation costs matter even when actual and expected inflation are the same?",
       a: "menu costs",
       b: "inflation induced tax distortions",
@@ -9263,7 +9255,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'd'
    },
-   q1158: {
+   q1157: {
       question: "In 1898, prospectors on the Klondike River discovered gold. This discovery caused an unexpected price level ",
       a: "decrease, which helped creditors at the expense of debtors.",
       b: "decrease, which helped debtors at the expense of creditors.",
@@ -9271,7 +9263,7 @@ let obj = {
       d: "increase, which helped debtors at the expense of creditors.",
       ans: 'd'
    },
-   q1159: {
+   q1158: {
       question: "In order to maintain stable prices, the central bank must",
       a: "tightly control the money supply.",
       b: "keep unemployment low.",
@@ -9279,7 +9271,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'a'
    },
-   q1160: {
+   q1159: {
       question: "Which of the following concerning U.S. inflation is incorrect? ",
       a: "Over the last 60 years the average inflation rate was about 5%. ",
       b: "In the nineteenth century there were periods of deflation. ",
@@ -9287,7 +9279,7 @@ let obj = {
       d: "Farmers were especially hurt by the high inflation of the late 1800s.",
       ans: 'd'
    },
-   q1161: {
+   q1160: {
       question: "The quantity theory of money is helpful for explaining ",
       a: "hyperinflation only. ",
       b: "moderate inflation only. ",
@@ -9295,7 +9287,7 @@ let obj = {
       d: "Neither moderate inflation nor hyperinflation. ",
       ans: 'c'
    },
-   q1162: {
+   q1161: {
       question: "When the price level falls, 1/P",
       a: "increases and the value of money increases. ",
       b: "increases and the value of money decreases. ",
@@ -9303,7 +9295,7 @@ let obj = {
       d: "decreases and the value of money decreases. ",
       ans: 'a'
    },
-   q1163: {
+   q1162: {
       question: "The money supply curve shifts right if ",
       a: "the Fed sells bonds in the open market. ",
       b: "1/P rises. ",
@@ -9311,7 +9303,7 @@ let obj = {
       d: "Both a and b are correct.",
       ans: 'c'
    },
-   q1164: {
+   q1163: {
       question: "As the price level increases, people want to hold a",
       a: "larger quantity of money as shown by moving along the money demand curve. ",
       b: "larger quantity of money as shown by shifting the money demand curve. ",
@@ -9319,7 +9311,7 @@ let obj = {
       d: "smaller quantity of money as shown by shifting money demand curve. ",
       ans: 'a'
    },
-   q1165: {
+   q1164: {
       question: "The quantity of money supplied is balanced with the quantity of money demanded by adjustments in the",
       a: "interest rate in both the long run and the short run.",
       b: "price level in both the long run and the short run.",
@@ -9327,7 +9319,7 @@ let obj = {
       d: "price level in the long run and adjustments in the interest rate in the long run.",
       ans: 'd'
    },
-   q1166: {
+   q1165: {
       question: "A decrease in the equilibrium quality of money and an increase in the equilibrium value of money could be created by ",
       a: "an increase in money demand. ",
       b: "an increase in money supply. ",
@@ -9335,7 +9327,7 @@ let obj = {
       d: "a decrease in money demand.",
       ans: 'c'
    },
-   q1167: {
+   q1166: {
       question: "Suppose the economy is initially in monetary equilibrium. The Federal Reserve then increases the money supply. As a result the quantity of money demanded will",
       a: "exceed the quantity of money supplied, and the price level will fall.",
       b: "exceed the quantity of money supplied, and the price level will increase.",
@@ -9343,7 +9335,7 @@ let obj = {
       d: "be less than the quantity of money supplied, and the price level will increase. ",
       ans: 'd'
    },
-   q1168: {
+   q1167: {
       question: "Which of the following both cause the price level to decrease? ",
       a: "an increase in money supply and an increase in money demand. ",
       b: "an increase in money supply and a decrease in money demand. ",
@@ -9351,7 +9343,7 @@ let obj = {
       d: "a decrease in money supply and a decrease in money demand. ",
       ans: 'b'
    },
-   q1169: {
+   q1168: {
       question: "Which of the following is an example of a real variable? ",
       a: "the income of your economics professor",
       b: "the dollar value of the economy’s output",
@@ -9359,7 +9351,7 @@ let obj = {
       d: "the profits earned by Ford Motor Company in 2000 ",
       ans: 'c'
    },
-   q1170: {
+   q1169: {
       question: "If there is monetary neutrality which of the following change when the money supply changes? ",
       a: "real interest rates",
       b: "the price level",
@@ -9367,7 +9359,7 @@ let obj = {
       d: "building and modernizing of factories. ",
       ans: 'b'
    },
-   q1171: {
+   q1170: {
       question: "Today most economists accept Hume’s conclusion of monetary neutrality as an accurate description of the economy in",
       a: "both the long run and the short run.",
       b: "neither the short run nor the long run. ",
@@ -9375,7 +9367,7 @@ let obj = {
       d: "the long run only.",
       ans: 'd'
    },
-   q1172: {
+   q1171: {
       question: "The economy of Empe produces only compact discs. In a recent year they produced 6,000 compact discs at a price of $12 each. They had a money supply of $6,000. For that year the velocity of money in Empe ",
       a: "was 1/12.",
       b: "was 1.",
@@ -9383,7 +9375,7 @@ let obj = {
       d: "cannot be determined from the information given.",
       ans: 'c'
    },
-   q1173: {
+   q1172: {
       question: "According to the quantity equation, other things the same, the price level would increase if either the money supply",
       a: "or the velocity of money increased. ",
       b: "or the velocity of money decreased. ",
@@ -9391,7 +9383,7 @@ let obj = {
       d: "decreased or the velocity of money increased. ",
       ans: 'a'
    },
-   q1174: {
+   q1173: {
       question: "Consider the following two assumptions. The velocity of money is stable over time. Factory supplies and production technology primarily determine the economy’s output of goods and services. ",
       a: "Both assumptions are important to the quantity theory of money. ",
       b: "Neither assumption is important to the quantity theory of money. ",
@@ -9399,7 +9391,7 @@ let obj = {
       d: "Only the second assumption is important to the quantity theory of money. ",
       ans: 'a'
    },
-   q1175: {
+   q1174: {
       question: "Data on hyperinflation indicates, ",
       a: "that money supply growth was much greater than inflation. ",
       b: "that money supply growth was about the same as inflation. ",
@@ -9407,7 +9399,7 @@ let obj = {
       d: "no close relationship between money supply growth and inflation. ",
       ans: 'b'
    },
-   q1176: {
+   q1175: {
       question: "An analysis of countries experiencing rapid rates of inflation indicates that inflation is generally: ",
       a: "caused by strong labor unions.",
       b: "the result of restrictive macropolicy, which pushes up interest rates.",
@@ -9415,7 +9407,7 @@ let obj = {
       d: "the result of allowing the money supply to grow too rapidly.",
       ans: 'd'
    },
-   q1177: {
+   q1176: {
       question: "The inflation tax refers to the tendency",
       a: "of real interest rates to rise when money supply growth rises. ",
       b: "for the value of dollars people hold to fall as the government prints more money. ",
@@ -9423,7 +9415,7 @@ let obj = {
       d: "All of the above are correct. ",
       ans: 'b'
    },
-   q1178: {
+   q1177: {
       question: "According to the Fisher effect, when the rate of money supply growth increases",
       a: "both real and nominal interest rates should increase.",
       b: "both real and nominal interest rates should decrease. ",
@@ -9431,7 +9423,7 @@ let obj = {
       d: "None of the above is correct. ",
       ans: 'd'
    },
-   q1179: {
+   q1178: {
       question: "Inflation was higher in Argentina in the 1980s than in the 1990s. If the Fisher effect is correct, we would expect to observe that in Argentina",
       a: "nominal interest rates were higher in the 1980s than in the 1990s.",
       b: "nominal interest rates were higher in the 1990s than in the 1980s.",
@@ -9439,7 +9431,7 @@ let obj = {
       d: "real interest rates were higher in the 1990s than in the 1980s.",
       ans: 'a'
    },
-   q1180: {
+   q1179: {
       question: "If wages and prices both rose by 5%, workers’",
       a: "real wages would rise so they would be better-off.",
       b: "real wages would be unchanged, so they would be neither better-off nor worse-off.",
@@ -9447,7 +9439,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'b'
    },
-   q1181: {
+   q1180: {
       question: "Shoeleather costs refer to ",
       a: "resources people use to reduce their money holdings when inflation is high.",
       b: "the tendency of some costs to rise more than others when inflation rises.",
@@ -9455,7 +9447,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'a'
    },
-   q1182: {
+   q1181: {
       question: "Menu costs refer to the costs of ",
       a: "comparing prices.",
       b: "changing prices.",
@@ -9463,7 +9455,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'b'
    },
-   q1183: {
+   q1182: {
       question: "If the nominal interest rate is 10%, the inflation rate is 6%, and the tax rate is 20%, what is the after-tax real rate of interest?",
       a: "4%",
       b: "3.2%",
@@ -9471,7 +9463,7 @@ let obj = {
       d: "2%",
       ans: 'd'
    },
-   q1184: {
+   q1183: {
       question: "If a country suddenly and unexpectedly reduces monetary growth inflation will be unexpectedly",
       a: "low and wealth is redistributed from borrowers to lenders.",
       b: "low and wealth is redistributed from lenders to borrowers.",
@@ -9479,7 +9471,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'a'
    },
-   q1185: {
+   q1184: {
       question: "Who is worse-off when countries trade?",
       a: "both the exporting and importing county",
       b: "only the exporting country",
@@ -9487,7 +9479,7 @@ let obj = {
       d: "neither the exporting nor importing country",
       ans: 'd'
    },
-   q1186: {
+   q1185: {
       question: "International trade is of major importance for understanding",
       a: "the nature of inflation.",
       b: "the basics of the natural unemployment rate.",
@@ -9495,7 +9487,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'd'
    },
-   q1187: {
+   q1186: {
       question: "Net exports of a country are the value of goods",
       a: "exported minus the value of goods imported.",
       b: "imported minus the value of goods exported. ",
@@ -9503,7 +9495,7 @@ let obj = {
       d: "and services exported minus the value of goods and services imported.",
       ans: 'd'
    },
-   q1188: {
+   q1187: {
       question: "Peter, a Canadian citizen, sells several hundred cases of smoked salmon to a restaurant chain in the United States. By itself this sale",
       a: "decreases U.S. net exports and has no effect on Canadian net exports.",
       b: "decreases U.S. net exports and increases Canadian net exports.",
@@ -9511,7 +9503,7 @@ let obj = {
       d: "increases U.S. net exports and decreases Canadian net exports.",
       ans: 'b'
    },
-   q1189: {
+   q1188: {
       question: "U.S. imports account for about what percentage of GDP?",
       a: "less than 1 percent",
       b: "about 4 percent",
@@ -9519,7 +9511,7 @@ let obj = {
       d: "over 10 percent",
       ans: 'd'
    },
-   q1190: {
+   q1189: {
       question: "If a resident of the United States buys stock in a Japanese corporation, this is an example of U.S.",
       a: "foreign portfolio investment.",
       b: "foreign direct investment.",
@@ -9527,7 +9519,7 @@ let obj = {
       d: "imports.",
       ans: 'a'
    },
-   q1191: {
+   q1190: {
       question: "Brad, a U.S. resident, builds and operates a boxing gym in Thailand. The purchase represents",
       a: "U.S. foreign direct investment and U.S. domestic investment.",
       b: "U.S. foreign portfolio investment and U.S. domestic investment.",
@@ -9535,7 +9527,7 @@ let obj = {
       d: "investment for Brad and U.S. foreign portfolio investment.",
       ans: 'c'
    },
-   q1192: {
+   q1191: {
       question: "Paul, a U.S. citizen, opens a textbook company in Brazil. His expenditures",
       a: "decrease U.S. and Brazilian net foreign investment.",
       b: "increase U.S. and Brazilian net foreign investment.",
@@ -9543,7 +9535,7 @@ let obj = {
       d: "decrease U.S. net foreign investment, but increase Brazilian net foreign investment.",
       ans: 'c'
    },
-   q1193: {
+   q1192: {
       question: "While making investment decisions, investors ",
       a: "compare the nominal, but not the real, interest rates offered on different bonds.",
       b: "compare the real interest rates offered on different bonds.",
@@ -9551,7 +9543,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'b'
    },
-   q1194: {
+   q1193: {
       question: "Which of the following is correct?",
       a: "In many countries, the government finances a much larger share of investment projects than they used to.",
       b: "Foreign stock markets make up an increasing share of the value of stock worldwide.",
@@ -9559,7 +9551,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'b'
    },
-   q1195: {
+   q1194: {
       question: "Which of the following is true?",
       a: "NX + NFI = Y",
       b: "Y = NFI – NX",
@@ -9567,7 +9559,7 @@ let obj = {
       d: "NFI + I = NX",
       ans: 'c'
    },
-   q1196: {
+   q1195: {
       question: "If a U.S. shirtmaker purchases cotton from Egypt, U.S. net exports",
       a: "decrease, and U.S. net foreign investment increases.",
       b: "decrease, and U.S. net foreign investment decreases.",
@@ -9575,7 +9567,7 @@ let obj = {
       d: "increase, and U.S. net foreign investment decreases.",
       ans: 'b'
    },
-   q1197: {
+   q1196: {
       question: "Which of the following is incorrect?",
       a: "The total movement of capital from advanced to developing nations is a large fraction of the world’s total investment.",
       b: "Growing exports of manufactured goods from South to North will lead to a net loss of northern industrial jobs only if they are not matched by growth in exports from North to South.",
@@ -9583,7 +9575,7 @@ let obj = {
       d: "Growing exports to the newly industrialized countries have created about as many jobs as growing imports have displaced.",
       ans: 'a'
    },
-   q1198: {
+   q1197: {
       question: "Which of the following equations is correct?",
       a: "S = I + C",
       b: "S = I + NFI",
@@ -9591,7 +9583,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'b'
    },
-   q1199: {
+   q1198: {
       question: "After 1980, U.S. Net Foreign Investment fell dramatically, but the U.S. economy did not experience a similar fall in domestic investment. Hence, saving in the United States must ",
       a: "have decreased dramatically.",
       b: "have increased dramatically.",
@@ -9599,7 +9591,7 @@ let obj = {
       d: "not necessarily have done any of the above.",
       ans: 'a'
    },
-   q1200: {
+   q1199: {
       question: "If the exchange rate changes from 30 Thai bhat per dollar to 45 Thai bhat per dollar, the dollar has ",
       a: "depreciated and so buys more Thai goods.",
       b: "depreciated and so buys fewer Thai goods.",
@@ -9607,7 +9599,7 @@ let obj = {
       d: "appreciated and so buys more Thai goods.",
       ans: 'd'
    },
-   q1201: {
+   q1200: {
       question: "Suppose that a ton of coal costs 1500 British pounds in the UK and $2000 in the United States. If the nominal exchange rate is .75 British pounds per dollar, the real exchange rate is",
       a: "4/3 tons of British coal per ton of U.S. coal.",
       b: "1 ton of British coal per ton of U.S. coal.",
@@ -9615,7 +9607,7 @@ let obj = {
       d: "None of the above are correct.",
       ans: 'b'
    },
-   q1202: {
+   q1201: {
       question: "If the nominal exchange rate e is foreign currency per dollar, the domestic price is P, and the foreign price is P*, the real exchange rate is defined as ",
       a: "e(P/P*).",
       b: "e(P*/P).",
@@ -9623,7 +9615,7 @@ let obj = {
       d: "e – P/P*.",
       ans: 'a'
    },
-   q1203: {
+   q1202: {
       question: "A depreciation of the U.S. real exchange rate induces U.S. consumers to buy",
       a: "fewer domestic goods and fewer foreign goods.",
       b: "fewer domestic goods and more foreign goods.",
@@ -9631,7 +9623,7 @@ let obj = {
       d: "more domestic goods and more foreign goods.",
       ans: 'c'
    },
-   q1204: {
+   q1203: {
       question: "If the U.S. real exchange rate appreciates relative to the French franc, U.S. exports to France",
       a: "rise, and French exports to the United States fall.",
       b: "fall, and French exports to the United States rise.",
@@ -9639,7 +9631,7 @@ let obj = {
       d: "and French exports to the United States fall.",
       ans: 'b'
    },
-   q1205: {
+   q1204: {
       question: "Suppose that the dollar buys more coffee in Kenya than in Brazil. Traders could make a profit by buying coffee in",
       a: "Kenya and selling it in Brazil, which would tend to raise the price of coffee in Kenya.",
       b: "Kenya and selling it in Brazil, which would tend to raise the price of coffee in Brazil.",
@@ -9647,7 +9639,7 @@ let obj = {
       d: "Brazil and selling it in Kenya, which would tend to raise the price of coffee in Kenya.",
       ans: 'a'
    },
-   q1206: {
+   q1205: {
       question: "If P = domestic prices, P* = foreign prices, and e is the exchange rate, which of the following is implied by purchasing-power parity?",
       a: "P = e/P*",
       b: "e = P*/P",
@@ -9655,7 +9647,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'b'
    },
-   q1207: {
+   q1206: {
       question: "When a country’s central bank decreases the money supply, its price level",
       a: "rises and its currency depreciates relative to other currencies in the world.",
       b: "falls and its currency depreciates relative to other currencies in the world.",
@@ -9663,7 +9655,7 @@ let obj = {
       d: "falls and its currency appreciates relative to other currencies in the world.",
       ans: 'd'
    },
-   q1208: {
+   q1207: {
       question: "When a country’s central bank increases the money supply, a unit of money",
       a: "loses value in terms of the domestic goods and services it can buy, but gains value in terms of the foreign currency it can buy.",
       b: "loses value both in terms of the domestic goods and services it can buy and in terms of the foreign currency it can buy.",
@@ -9671,7 +9663,7 @@ let obj = {
       d: "gains value in terms of the domestic goods and services it can buy, but loses value in terms of the foreign currency it can buy. ",
       ans: 'b'
    },
-   q1209: {
+   q1208: {
       question: "On behalf of your firm, you make frequent trips to Liberia. You notice that you always have to pay fewer dollars to get the local currency to have your hair styled than you have to pay for similar styling in the United States. This is ",
       a: "inconsistent with purchasing-power parity, but might be explained by limited opportunities for arbitrage in hair styling across international borders.",
       b: "consistent with purchasing-power parity if prices in Liberia are rising more rapidly than prices in the United States.",
@@ -9679,7 +9671,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'a'
    },
-   q1210: {
+   q1209: {
       question: "In 1999 Morocco exported $5.9 billion of goods and services and imported $8.4 billion. Morocco had a trade balance of about",
       a: "$14.3 billion.",
       b: "$2.5 billion.",
@@ -9687,7 +9679,7 @@ let obj = {
       d: "–$2.5 billion.",
       ans: 'd'
    },
-   q1211: {
+   q1210: {
       question: "Which of the following would be consistent with a trade balance of $5 billion?",
       a: "exports and imports each equal $2.5 billion.",
       b: "exports equal $15 billion and imports equal $10 billion.",
@@ -9695,7 +9687,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'b'
    },
-   q1212: {
+   q1211: {
       question: "A Swiss firm opens a watch factory in the United States. ",
       a: "This is Swiss foreign direct investment and by itself increases Swiss net foreign investment.",
       b: "This is Swiss foreign direct investment and by itself decreases Swiss net foreign investment.",
@@ -9703,7 +9695,7 @@ let obj = {
       d: "This is Swiss foreign portfolio investment and by itself decreases Swiss net foreign investment.",
       ans: 'a'
    },
-   q1213: {
+   q1212: {
       question: "A U.S. firm opens a factory that produces camping equipment in Albania, by itself",
       a: "this increases U.S. net foreign investment and decreases Albanian net foreign investment.",
       b: "this decreases U.S. net foreign investment and increases Albanian net foreign investment.",
@@ -9711,7 +9703,7 @@ let obj = {
       d: "increases only Albanian net foreign investment.",
       ans: 'a'
    },
-   q1214: {
+   q1213: {
       question: "Suppose that the real return from operating factories in Ghana decreases relative to the real rate of return in the United States. Other things the same,",
       a: "this increases U.S. net foreign investment and decreases Ghanan net foreign investment.",
       b: "this decreases U.S. net foreign investment and increases Ghanan net foreign investment.",
@@ -9719,7 +9711,7 @@ let obj = {
       d: "increases only Ghanan net foreign investment.",
       ans: 'b'
    },
-   q1215: {
+   q1214: {
       question: "A U.S. computer maker sells computers to a German firm. The U.S. company uses all of the revenues from this sale to purchase automobiles from German firms. These transactions",
       a: "increase both U.S. net exports and U.S. net foreign investment.",
       b: "decrease both U.S. net exports and U.S. net foreign investment.",
@@ -9727,7 +9719,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'd'
    },
-   q1216: {
+   q1215: {
       question: "Brazil buys railroad engines from a U.S. firm and pays for them with bolivianos (Bolivian currency). By itself this transaction",
       a: "increases both U.S. net exports and U.S. net foreign investment.",
       b: "decreases both U.S. net exports and U.S. net foreign investment.",
@@ -9735,7 +9727,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'a'
    },
-   q1217: {
+   q1216: {
       question: "In which of the following situations must national saving rise?",
       a: "domestic investment increases and net foreign investment decreases.",
       b: "domestic investment decreases and net foreign investment increases.",
@@ -9743,7 +9735,7 @@ let obj = {
       d: "net exports decrease and domestic investment is unchanged.",
       ans: 'c'
    },
-   q1218: {
+   q1217: {
       question: "The difference between savings in an open and closed economy equals",
       a: "net exports.",
       b: "net foreign investment.",
@@ -9751,7 +9743,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'c'
    },
-   q1219: {
+   q1218: {
       question: "Consider the following two actions. 1. Kohl’s, a U.S. department store chain, builds new stores in Sweden. 2. Rudy, a U.S. citizen, buys newly issued bonds from Campmore.com who uses the money to build additional warehouse space in the United States. ",
       a: "Both 1. and 2. increase U.S. savings.",
       b: "Neither 1. nor 2. increase U.S savings.",
@@ -9759,7 +9751,7 @@ let obj = {
       d: "2. increases U.S. savings, but 1. does not.",
       ans: 'a'
    },
-   q1220: {
+   q1219: {
       question: "During the twenty years or so before this text was written the United States had ",
       a: "both positive net exports and net foreign investment.",
       b: "both negative net exports and net foreign investment.",
@@ -9767,7 +9759,7 @@ let obj = {
       d: "negative net exports and positive net foreign investment.",
       ans: 'b'
    },
-   q1221: {
+   q1220: {
       question: "Which of the following is a true statement? ",
       a: "Net foreign investment always equals a nation’s net exports.",
       b: "Net foreign investment equals a nation’s exports plus national saving.",
@@ -9775,7 +9767,7 @@ let obj = {
       d: "National saving equals domestic investment minus net foreign investment.",
       ans: 'a'
    },
-   q1222: {
+   q1221: {
       question: "If a country has business opportunities that are relatively attractive compared to other countries, we would expect it to have",
       a: "both positive net exports and positive net foreign investment.",
       b: "both negative net exports and negative net foreign investment.",
@@ -9783,7 +9775,7 @@ let obj = {
       d: "negative net exports and positive net foreign investment.",
       ans: 'b'
    },
-   q1223: {
+   q1222: {
       question: "In late 1999 you could purchase about 325 Greek drachma (Greek currency) for a dollar. In late 2000 you could purchase about 400 drachma for a dollar. These exchange rates are given in ",
       a: "real terms, and over this period the dollar appreciated.",
       b: "real terms, and over this period the dollar depreciated.",
@@ -9791,7 +9783,7 @@ let obj = {
       d: "nominal terms, and over this period the dollar depreciated.",
       ans: 'c'
    },
-   q1224: {
+   q1223: {
       question: "In January 2000 the exchange rate was 5.6 new kwanza (Angolan currency) per dollar. In January 2001 it was 6 new kwanza per dollar.",
       a: "The dollar appreciated and so other things the same was worth more Angolan goods.",
       b: "The dollar appreciated and so other things the same was worth fewer Angolan goods.",
@@ -9799,7 +9791,7 @@ let obj = {
       d: "The dollar depreciated and so other things the same was worth fewer Angolan goods.",
       ans: 'a'
    },
-   q1225: {
+   q1224: {
       question: "In the United States a three-pound can of coffee costs about $6. Suppose the exchange rate is about 50 Belgian francs per dollar and that a three-pound can of coffee in Belgium costs about 400 francs. What is the real exchange rate?",
       a: "4/3 cans of Belgian coffee per can of U.S. coffee.",
       b: "3/2 cans of Belgian coffee per can of U.S. coffee.",
@@ -9807,7 +9799,7 @@ let obj = {
       d: "2/3 cans of Belgian coffee per can of U.S. coffee.",
       ans: 'c'
    },
-   q1226: {
+   q1225: {
       question: "Suppose the nominal exchange rate is 100, the domestic price index is 50, and the foreign price index is 10. The real exchange rate is: ",
       a: "1,000.",
       b: "500.",
@@ -9815,7 +9807,7 @@ let obj = {
       d: "50.",
       ans: 'b'
    },
-   q1227: {
+   q1226: {
       question: "Suppose that the exchange rate is 50 Bangladesh taka per dollar, that a bushel of rice costs 200 taka in Bangladesh and $3 in the United States. Then the real exchange rate is",
       a: "greater than one and arbitragers could profit by buying rice in the United States and selling it in Bangladesh.",
       b: "greater than one and arbitragers could profit by buying rice in Bangladesh and selling it in the United States.",
@@ -9823,7 +9815,7 @@ let obj = {
       d: "less than one and arbitragers could profit by buying rice in Bangladesh and selling it in the United States.",
       ans: 'c'
    },
-   q1228: {
+   q1227: {
       question: "Which of the following does purchasing-power parity imply?",
       a: "the purchasing power of the dollar is the same in the United States as in foreign countries.",
       b: "the price of domestic goods relative to foreign goods cannot change.",
@@ -9831,7 +9823,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'a'
    },
-   q1229: {
+   q1228: {
       question: "The nominal exchange rate is about 2 Aruban florin per dollar. If a basket of goods in the United States costs $40, how many florins must a basket of goods in Aruba cost for purchasing-power parity to hold?",
       a: "20 florin.",
       b: "40 florin.",
@@ -9839,7 +9831,7 @@ let obj = {
       d: "100 florin.",
       ans: 'c'
    },
-   q1230: {
+   q1229: {
       question: "The exchange rate is about 200 Kazakhstan tenge per dollar. According to purchasing power parity this exchange rate would rise if the price level in",
       a: "either the United States or Kazakhstan rose.",
       b: "either the United States or Kazakhstan fell.",
@@ -9847,7 +9839,7 @@ let obj = {
       d: "the United States fell or the price level in Kazakhstan rose.",
       ans: 'd'
    },
-   q1231: {
+   q1230: {
       question: "If inflation in other countries is higher than inflation in the United States over the next few months and exchange rates are given in terms of how much foreign currency a dollar buys and how many foreign goods U.S. goods buy, according to purchasing-power parity we should expect to see",
       a: "both the real and nominal exchange rate appreciate.",
       b: "both the real and nominal exchange rate depreciate.",
@@ -9855,7 +9847,7 @@ let obj = {
       d: "only the nominal exchange rate appreciate.",
       ans: 'd'
    },
-   q1232: {
+   q1231: {
       question: "Suppose the dollar depreciates relative to the British pound. We know that: ",
       a: "prices in the United States are falling.",
       b: "prices in the United States are rising.",
@@ -9863,7 +9855,7 @@ let obj = {
       d: "United States dollars will buy more British pounds.",
       ans: 'b'
    },
-   q1233: {
+   q1232: {
       question: "If exchange rates are given in terms of how much foreign currency a dollar buys and how many foreign goods U.S. goods buy, then if the Fed increased the U.S. money supply other things the same, purchasing-power parity implies",
       a: "both the real and nominal exchange rate depreciate.",
       b: "only the real exchange rate depreciates.",
@@ -9871,7 +9863,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'c'
    },
-   q1234: {
+   q1233: {
       question: "Which of the following would be inconsistent with purchasing-power parity?",
       a: "Tom is traveling in Europe; he notices that he will have to give up the same amount of U.S. currency to obtain foreign currency to eat breakfast whether he eats in London or Paris.",
       b: "You observe that the exchange rate is 40 French francs per dollar. Over the next year inflation is higher in France than in the United States and the exchange rate is still 40 French francs per dollar.",
@@ -9879,7 +9871,7 @@ let obj = {
       d: "Neither of the above is inconsistent with purchasing-power parity.",
       ans: 'b'
    },
-   q1235: {
+   q1234: {
       question: "Over the past decade, the United States has ",
       a: "usually been very near to a trade balance.",
       b: "persistently had a trade deficit.",
@@ -9887,7 +9879,7 @@ let obj = {
       d: "had trade deficits about as often as trade surpluses.",
       ans: 'b'
    },
-   q1236: {
+   q1235: {
       question: "In an open economy, the market for loanable funds equates national saving with ",
       a: "domestic investment.",
       b: "net foreign investment.",
@@ -9895,7 +9887,7 @@ let obj = {
       d: "the supply of foreign currency.",
       ans: 'c'
    },
-   q1237: {
+   q1236: {
       question: "A rise in the real interest rate",
       a: "encourages investment and so increases the quantity of loanable funds supplied.",
       b: "encourages investment and so decreases the quantity of loanable funds demanded.",
@@ -9903,7 +9895,7 @@ let obj = {
       d: "discourages investment and so decreases the quantity of loanable funds demanded.",
       ans: 'd'
    },
-   q1238: {
+   q1237: {
       question: "If the interest rate were above the equilibrium level, the ",
       a: "shortage of loanable funds would drive the interest rate downward.",
       b: "surplus of loanable funds would drive the interest rate downward.",
@@ -9911,7 +9903,7 @@ let obj = {
       d: "surplus of loanable funds would drive the interest rate upward.",
       ans: 'b'
    },
-   q1239: {
+   q1238: {
       question: "Which of the following is correct?",
       a: "When U.S. net exports are negative, the purchase of capital assets abroad exceeds the sale of capital assets abroad.",
       b: "When U.S. net exports are positive, Americans must be selling foreign assets.",
@@ -9919,7 +9911,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'c'
    },
-   q1240: {
+   q1239: {
       question: "In the market for foreign currency exchange, the amount of net foreign investment desired at each real interest rate represents the quantity of dollars",
       a: "supplied for the purpose of buying assets abroad.",
       b: "supplied for the purpose of selling assets domestically.",
@@ -9927,7 +9919,7 @@ let obj = {
       d: "demanded for the purpose of importing foreign goods and services.",
       ans: 'a'
    },
-   q1241: {
+   q1240: {
       question: "Net foreign investment = net exports implies that",
       a: "national saving equals domestic investment.",
       b: "the supply of dollars equals the demand for dollars in the foreign-currency exchange market.",
@@ -9935,7 +9927,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'b'
    },
-   q1242: {
+   q1241: {
       question: "An appreciation of the real exchange rate for the dollar",
       a: "decreases the quantity of dollars demanded in the market for foreign-currency exchange.	",
       b: "increases the quantity of dollars demanded in the market for foreign-currency exchange. ",
@@ -9943,7 +9935,7 @@ let obj = {
       d: "shifts the demand for dollars in the market for foreign-currency exchange to the left.",
       ans: 'a'
    },
-   q1243: {
+   q1242: {
       question: "The variable that links the market for loanable funds and the foreign-currency exchange market is",
       a: "national saving.",
       b: "net exports.",
@@ -9951,7 +9943,7 @@ let obj = {
       d: "domestic investment.",
       ans: 'c'
    },
-   q1244: {
+   q1243: {
       question: "Ceteris paribus, if the Italian real interest rate were to decrease, Italian net foreign investment ",
       a: "would rise, while net foreign investment of other countries would fall.",
       b: "would fall, while net foreign investment of other countries would rise.",
@@ -9959,7 +9951,7 @@ let obj = {
       d: "and net foreign investment of other countries would fall.",
       ans: 'a'
    },
-   q1245: {
+   q1244: {
       question: "Between 1995 and 1998 Sweden decreased their budget deficit. This change shifted Sweden’s",
       a: "demand for loanable funds left.",
       b: "demand for loanable funds right.",
@@ -9967,7 +9959,7 @@ let obj = {
       d: "supply of loanable funds right.",
       ans: 'd'
    },
-   q1246: {
+   q1245: {
       question: "Which of the following increases when the budget deficit of the United States increases?",
       a: "U.S. supply of loanable funds.",
       b: "net foreign investment.",
@@ -9975,7 +9967,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'c'
    },
-   q1247: {
+   q1246: {
       question: "In the 1980s the U.S. budget deficit rose. At the same time the U.S. trade deficit grew larger, the real exchange rate of the dollar appreciated, and U.S. net foreign investment decreased. Which of these events is consistent with what the open-economy macroeconomic model predicts concerning the effects of an increase in the budget deficit?",
       a: "The U.S. trade deficit grew.",
       b: "The real exchange rate of the dollar appreciated.",
@@ -9983,7 +9975,7 @@ let obj = {
       d: "All of the above are consistent with the predictions of the model.",
       ans: 'd'
    },
-   q1248: {
+   q1247: {
       question: "Suppose that the United States imposes an import quota on farm machinery. This shifts the",
       a: "demand for dollars in the foreign-currency exchange market right.",
       b: "demand for dollars in the foreign-currency exchange market left.",
@@ -9991,7 +9983,7 @@ let obj = {
       d: "supply of dollars in the foreign-currency exchange market left.",
       ans: 'a'
    },
-   q1249: {
+   q1248: {
       question: "Suppose that the United States imposes an import quota on furniture. The quota makes the real exchange rate of U.S. dollars",
       a: "appreciate and the real interest rate in the United States increase.",
       b: "appreciate but does not change the real interest rate in the United States.",
@@ -9999,7 +9991,7 @@ let obj = {
       d: "depreciate but does not change the real interest rate in the United States.",
       ans: 'b'
    },
-   q1250: {
+   q1249: {
       question: "If U.S. citizens decide to save a larger fraction of their incomes, the real interest rate",
       a: "decreases, the real exchange rate of the dollar depreciates, and U.S. net foreign investment increases.",
       b: "decreases, the real exchange rate of the dollar appreciates, and U.S. net foreign investment decreases.",
@@ -10007,7 +9999,7 @@ let obj = {
       d: "increases, the real exchange rate of the dollar depreciates, and U.S. net foreign investment increases.",
       ans: 'a'
    },
-   q1251: {
+   q1250: {
       question: "If U.S. firms decide to invest more domestically at each interest rate, the real interest rate in the U.S.",
       a: "decreases, the real exchange rate of the dollar depreciates, and U.S. net foreign investment decreases.",
       b: "decreases, the real exchange rate of the dollar appreciates, and U.S. net foreign investment increases.",
@@ -10015,7 +10007,7 @@ let obj = {
       d: "increases, the real exchange rate of the dollar appreciates, and U.S. net foreign investment decreases.",
       ans: 'd'
    },
-   q1252: {
+   q1251: {
       question: "Trade policies ",
       a: "alter the trade balance because they alter imports of the country that implemented them.",
       b: "alter the trade balance because they alter net foreign investment of the country that implements them.",
@@ -10023,7 +10015,7 @@ let obj = {
       d: "do not alter the trade balance because they cannot alter the real exchange rate of the currency of the country that implements them.",
       ans: 'c'
    },
-   q1253: {
+   q1252: {
       question: "When Mexico suffered from capital flight in 1994, Mexico’s real interest rate ",
       a: "fell and the peso appreciated.",
       b: "fell and the peso depreciated.",
@@ -10031,7 +10023,7 @@ let obj = {
       d: "rose and the peso depreciated.",
       ans: 'd'
    },
-   q1254: {
+   q1253: {
       question: "When a country suffers from capital flight, the demand for loanable funds",
       a: "and the supply of currency in the foreign-exchange market shifts left.",
       b: "and the supply of currency in the foreign-exchange market shifts right.",
@@ -10039,7 +10031,7 @@ let obj = {
       d: "shifts left while the supply of currency in the foreign-exchange market shifts right.",
       ans: 'b'
    },
-   q1255: {
+   q1254: {
       question: "When Mexico suffered from capital flight in 1994, the U.S. real interest rate ",
       a: "fell and the real exchange rate of the dollar appreciated.",
       b: "fell and the real exchange rate of the dollar depreciated.",
@@ -10047,7 +10039,7 @@ let obj = {
       d: "rose and the real exchange rate of the dollar depreciated.",
       ans: 'a'
    },
-   q1256: {
+   q1255: {
       question: "Which of the following would cause the real exchange rate of the U.S. dollar to appreciate?",
       a: "capital flight from the United States",
       b: "if the U.S. government increases the budget surplus",
@@ -10055,7 +10047,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'c'
    },
-   q1257: {
+   q1256: {
       question: "Which of the following will increase U.S. net foreign investment?",
       a: "if the government increases the budget surplus",
       b: "capital flight from other countries",
@@ -10063,7 +10055,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'a'
    },
-   q1258: {
+   q1257: {
       question: "Which of the following concerning the open-economy macro model is correct?",
       a: "It assumes that real GDP is fixed.",
       b: "It assumes that the interest rate adjusts to bring the supply of and demand for money into balance.",
@@ -10071,7 +10063,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'a'
    },
-   q1259: {
+   q1258: {
       question: "The supply of loanable funds comes from",
       a: "national saving. Demand for loanable funds comes from only domestic investment.",
       b: "national saving. Demand for loanable funds comes from domestic and net foreign investment.",
@@ -10079,7 +10071,7 @@ let obj = {
       d: "domestic investment and net foreign investment. Demand for loanable funds comes from national saving.",
       ans: 'b'
    },
-   q1260: {
+   q1259: {
       question: "Jack and Jill are co-owners of the U.S. firm Wells Petroleum. Jack builds an oil well in Texas. Jill builds an oil well in Venezuela.",
       a: "Neither Jack’s nor Jill’s purchase of capital count as demand for loanable funds in the U.S. market.",
       b: "Jack’s purchase of capital counts as demand for loanable funds in the U.S. maket; Jill’s purchase does not.",
@@ -10087,7 +10079,7 @@ let obj = {
       d: "Both Jack’s and Jill’s purchase of capital count as demand for loanable funds in the U.S. market.",
       ans: 'd'
    },
-   q1261: {
+   q1260: {
       question: "Other things the same an increase in the U.S. real interest rate relative to real interest rates in other countries ",
       a: "decreases the quantity of loanable funds supplied in the U.S. market.",
       b: "decreases U.S. domestic investment.",
@@ -10095,7 +10087,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'b'
    },
-   q1262: {
+   q1261: {
       question: "Which of the following would increase both the real interest rate and the quantity of loanable funds?",
       a: "The supply of loanable funds shifts left.",
       b: "The supply of loanable funds shifts right.",
@@ -10103,7 +10095,7 @@ let obj = {
       d: "The demand for loanable funds shifts right.",
       ans: 'd'
    },
-   q1263: {
+   q1262: {
       question: "Which of the following would be shown by shifting the supply of loanable funds right?",
       a: "People want to save more at each interest rate.",
       b: "People want to invest more domestically at each interest rate.",
@@ -10111,7 +10103,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'a'
    },
-   q1264: {
+   q1263: {
       question: "In the open-economy macroeconomic model, which of the following happens in response to an appreciation of the real exchange rate?",
       a: "The quantity of dollars demanded in the foreign-exchange market increases.",
       b: "The quantity of dollars demanded in the foreign-exchange market decreases.",
@@ -10119,7 +10111,7 @@ let obj = {
       d: "The quantity of dollars supplied in the foreign-exchange market decreases.",
       ans: 'b'
    },
-   q1265: {
+   q1264: {
       question: "If the real interest rate in the United States falls relative to real interest rates in other countries, U.S. net foreign investment",
       a: "increases, the supply of dollars in the foreign exchange market shifts right, and the real exchange rate of the dollar appreciates.",
       b: "increases, the supply of dollars in the foreign exchange market shifts right, and the real exchange rate of the dollar depreciates.",
@@ -10127,7 +10119,7 @@ let obj = {
       d: "decreases, the supply of dollars in the foreign exchange market shifts left, and the real exchange rate of the dollar depreciates.",
       ans: 'b'
    },
-   q1266: {
+   q1265: {
       question: "In the open-economy macroeconomic model, if the real exchange rate was above the equilibrium level, which of the following would rise?",
       a: "the real exchange rate",
       b: "net exports",
@@ -10135,7 +10127,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'b'
    },
-   q1267: {
+   q1266: {
       question: "When the supply of loanable funds shifts right, which of the following increases?",
       a: "net foreign investment and the real exchange rate",
       b: "net foreign investment, but not the real exchange rate",
@@ -10143,7 +10135,7 @@ let obj = {
       d: "neither the real exchange rate nor net foreign investment",
       ans: 'b'
    },
-   q1268: {
+   q1267: {
       question: "Which of the following would increase the real exchange rate?",
       a: "the demand for loanable funds shifts left",
       b: "the supply of loanable funds shifts right",
@@ -10151,7 +10143,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'c'
    },
-   q1269: {
+   q1268: {
       question: "In recent years the budget deficit of Thailand has increased. According to the open- economy macroeconomic model this should have caused which curve to shift right?",
       a: "the Thai supply of loanable funds",
       b: "the Thai demand for loanable funds",
@@ -10159,7 +10151,7 @@ let obj = {
       d: "None of the above shift right",
       ans: 'd'
    },
-   q1270: {
+   q1269: {
       question: "Between 1814 and 1829 the U.S. government debt fell. This should have ",
       a: "increased interest rates and net foreign investment.",
       b: "decreased interest rates and net foreign investment.",
@@ -10167,7 +10159,7 @@ let obj = {
       d: "decreased interest rates and increased net foreign investment.",
       ans: 'd'
    },
-   q1271: {
+   q1270: {
       question: "An increase in budget deficits will",
       a: "increase the trade deficit.",
       b: "decrease the trade deficit.",
@@ -10175,7 +10167,7 @@ let obj = {
       d: "have no impact on the trade deficit.",
       ans: 'a'
    },
-   q1272: {
+   q1271: {
       question: "Suppose sheep ranchers in Tiberius convince the government to prohibit the import of wool into Tiberius. According to the open-economy macroeconomic model this will cause the Tiberian currency to",
       a: "appreciate and decrease net exports.",
       b: "appreciate, but have no effect on net exports.",
@@ -10183,7 +10175,7 @@ let obj = {
       d: "depreciate and increase net exports.",
       ans: 'b'
    },
-   q1273: {
+   q1272: {
       question: "Suppose that conservationists in Sherwood convince the government to prohibit the export of timber from Sherwood. According to the open-economy macroeconomic model this will",
       a: "reduce Sherwood’s net exports, and cause their real exchange rate to appreciate.",
       b: "reduce Sherwood’s net exports, and cause their real exchange rate to depreciate",
@@ -10191,7 +10183,7 @@ let obj = {
       d: "have no effect on Sherwood’s net exports, and cause their real exchange rate to depreicate.",
       ans: 'd'
    },
-   q1274: {
+   q1273: {
       question: "The restriction on imports of Japanese vehicles into the United States has: ",
       a: "caused the real exchange rate to appreciate.",
       b: "caused net exports in the United States to decline.",
@@ -10199,7 +10191,7 @@ let obj = {
       d: "increased net foreign investment in the United States.",
       ans: 'a'
    },
-   q1275: {
+   q1274: {
       question: "Molly Price, economic detective, meets a client who wants to know why interest rates have risen and the real exchange rate appreciated. The client suspects four causes; which one is consistent with the facts?",
       a: "Import quotas were imposed.",
       b: "Import quotas were removed.",
@@ -10207,7 +10199,7 @@ let obj = {
       d: "The budget deficit decreased.",
       ans: 'c'
    },
-   q1276: {
+   q1275: {
       question: "The country of Monac experiences a coup that causes capital flight from the country. As a result",
       a: "net foreign investment in Monac will decrease.",
       b: "the demand for loanable funds in Monac will increase.",
@@ -10215,7 +10207,7 @@ let obj = {
       d: "the exchange rate in Monac will increase.",
       ans: 'b'
    },
-   q1277: {
+   q1276: {
       question: "Between 1992 and 1999 it is estimated that Russia had capital flight of about $150 billion. Other things the same, we would expect that this capital flight has resulted in",
       a: "falling domestic interest rates and an appreciation of the Russian currency.",
       b: "falling domestic interest rates and a depreciation of the Russian currency.",
@@ -10223,7 +10215,7 @@ let obj = {
       d: "rising domestic interest rates and a depreciation of the Russian currency.",
       ans: 'd'
    },
-   q1278: {
+   q1277: {
       question: "If people feel that it has become riskier to buy the capital assets of some country, perhaps because of increased political instability, then interest rates ",
       a: "rise and the local currency depreciates.",
       b: "rise and the local currency appreciates.",
@@ -10231,7 +10223,7 @@ let obj = {
       d: "fall and the local currency depreciates.",
       ans: 'a'
    },
-   q1279: {
+   q1278: {
       question: "If there is capital flight",
       a: "both the supply of loanable funds and the supply of the local currency in the foreign exchange market shift right.",
       b: "both the supply of loanable funds and the demand for the local currency in the foreign exchange market shift left.",
@@ -10239,7 +10231,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'c'
    },
-   q1280: {
+   q1279: {
       question: "Which of the following raises interest rates and causes appreciation of the local currency?",
       a: "capital flight",
       b: "restrictrive trade policies",
@@ -10247,7 +10239,7 @@ let obj = {
       d: "All of the above are correct",
       ans: 'c'
    },
-   q1281: {
+   q1280: {
       question: "Business cycles",
       a: "are explained mostly by fluctuations in corporate profits.",
       b: "no longer are very important due to government policy.",
@@ -10255,7 +10247,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'c'
    },
-   q1282: {
+   q1281: {
       question: "Investment is a",
       a: "large part of real GDP, so it accounts for a small share of the fluctuation in real GDP.",
       b: "large part of real GDP, yet it accounts for a large share of the fluctuation in real GDP.",
@@ -10263,7 +10255,7 @@ let obj = {
       d: "small part of real GDP, yet it accounts for a large share of the fluctuation in real GDP.",
       ans: 'd'
    },
-   q1283: {
+   q1282: {
       question: "According to classical economic theory, changes in the money supply affect",
       a: "nominal variables and real variables.",
       b: "neither nominal nor real variables.",
@@ -10271,7 +10263,7 @@ let obj = {
       d: "nominal variables, but not real variables.",
       ans: 'd'
    },
-   q1284: {
+   q1283: {
       question: "Most economists believe that classical economic theory is a good description of the world in",
       a: "the long run, but not in the short run.",
       b: "the short run, but not in the long run.",
@@ -10279,7 +10271,7 @@ let obj = {
       d: "neither the short nor long run.",
       ans: 'a'
    },
-   q1285: {
+   q1284: {
       question: "The effect of an increase in the price level is represented by a",
       a: "shift to the right of the aggregate demand curve.",
       b: "shift to the left of the aggregate demand curve.",
@@ -10287,7 +10279,7 @@ let obj = {
       d: "movement to the right along a given aggregate demand curve.",
       ans: 'c'
    },
-   q1286: {
+   q1285: {
       question: "People will spend less if the price level",
       a: "rises, making the dollars they hold worth more.",
       b: "rises, making the dollars they hold worth less.",
@@ -10295,7 +10287,7 @@ let obj = {
       d: "falls, making the dollars they hold worth less.",
       ans: 'b'
    },
-   q1287: {
+   q1286: {
       question: "A decrease in U.S. interest rates leads to ",
       a: "an appreciation of the dollar that leads to smaller exports.",
       b: "an appreciation of the dollar that leads to greater net exports.",
@@ -10303,7 +10295,7 @@ let obj = {
       d: "a depreciation of the dollar that leads to greater net exports.",
       ans: 'd'
    },
-   q1288: {
+   q1287: {
       question: "Suppose a stock market crash makes people feel poorer. This decrease in wealth would cause people to ",
       a: "decrease consumption, which shifts aggregate supply left.",
       b: "decrease consumption, which shifts aggregate demand left.",
@@ -10311,7 +10303,7 @@ let obj = {
       d: "increase consumption, which shifts aggregate demand right.",
       ans: 'b'
    },
-   q1289: {
+   q1288: {
       question: "Aggregate demand shifts right when the government ",
       a: "institutes an investment tax credit.",
       b: "raises personal income taxes.",
@@ -10319,7 +10311,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'a'
    },
-   q1290: {
+   q1289: {
       question: "The long-run aggregate supply curve shifts right if",
       a: "Congress raises the minimum wage substantially.",
       b: "unemployment insurance benefits are made more generous.",
@@ -10327,7 +10319,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'c'
    },
-   q1291: {
+   q1290: {
       question: "In the long run, technological progress",
       a: "makes the price level rise, while increases in the money supply make prices fall.",
       b: "makes the price level fall, while increases in the money supply make prices rise.",
@@ -10335,7 +10327,7 @@ let obj = {
       d: "and increases in the money supply both make the price level fall.",
       ans: 'b'
    },
-   q1292: {
+   q1291: {
       question: "The misperceptions theory of the short-run aggregate supply curve says that output supplied will decrease if the price level increases",
       a: "more than expected so that firms believe the relative price of their output has increased.",
       b: "more than expected so that firms believe the relative price of their output has decreased.",
@@ -10343,7 +10335,7 @@ let obj = {
       d: "less than expected so that firms believe the relative price of their output has decreased.",
       ans: 'd'
    },
-   q1293: {
+   q1292: {
       question: "The sticky wage theory of the short-run aggregate supply curve says that when the price level rises more than expected, the real wage",
       a: "rises, so employment falls.",
       b: "rises, so employment rises.",
@@ -10351,7 +10343,7 @@ let obj = {
       d: "falls, so employment rises.",
       ans: 'd'
    },
-   q1294: {
+   q1293: {
       question: "The sticky price theory of the short-run aggregate supply curve says that when the price level rises more than expected, some firms will have ",
       a: "lower prices than they desire, which increases their sales.",
       b: "lower prices than they desire, which depresses their sales.",
@@ -10359,7 +10351,7 @@ let obj = {
       d: "higher prices than they desire, which depresses their sales.",
       ans: 'a'
    },
-   q1295: {
+   q1294: {
       question: "Assuming that a is positive, theories of short-run aggregate supply are expressed mathematically as quantity of output supplied =",
       a: "natural rate of output + a(expected price level – actual price level).",
       b: "a(actual price level – expected price level) – natural rate of output.",
@@ -10367,7 +10359,7 @@ let obj = {
       d: "natural rate of output + a(actual price level – expected price level).",
       ans: 'd'
    },
-   q1296: {
+   q1295: {
       question: "An increase in the expected price level shifts short-run aggregate supply to the",
       a: "left and an increase in the actual price level shifts short-run aggregate supply to the left.",
       b: "left and an increase in the actual price level does not shift short-run aggregate supply.",
@@ -10375,7 +10367,7 @@ let obj = {
       d: "right and an increase in the actual price level does not shift short-run aggregate supply.",
       ans: 'b'
    },
-   q1297: {
+   q1296: {
       question: "Suppose a shift in aggregate demand creates an economic contraction. If policymakers can respond with sufficient speed and precision, they can offset the initial shift by shifting aggregate",
       a: "supply left.",
       b: "supply right.",
@@ -10383,7 +10375,7 @@ let obj = {
       d: "demand right.",
       ans: 'd'
    },
-   q1298: {
+   q1297: {
       question: "Suppose the economy is initially in long-run equilibrium and aggregate demand rises. Compared to where the economy was before the change in aggregate demand, in the long run prices",
       a: "and output are higher.",
       b: "and output are lower.",
@@ -10391,7 +10383,7 @@ let obj = {
       d: "are the same and output is lower.",
       ans: 'c'
    },
-   q1299: {
+   q1298: {
       question: "Which of the following has been suggested as an important cause of the Great Depression?",
       a: "a decline in the money supply",
       b: "a large decline in government expenditures",
@@ -10399,7 +10391,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'a'
    },
-   q1300: {
+   q1299: {
       question: "During World War II",
       a: "government purchases of goods and services roughly doubled.",
       b: "the economy’s production increased almost fivefold.",
@@ -10407,7 +10399,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'c'
    },
-   q1301: {
+   q1300: {
       question: "Suppose that there has been bad weather, a decrease in the availability of oil or some other temporary increase in firms’ costs. In the short run prices",
       a: "fall and output rises.",
       b: "rise and output falls.",
@@ -10415,7 +10407,7 @@ let obj = {
       d: "and output fall.",
       ans: 'b'
    },
-   q1302: {
+   q1301: {
       question: "Which of the following would cause stagflation?",
       a: "Aggregate supply shifts right.",
       b: "Aggregate supply shifts left.",
@@ -10423,7 +10415,7 @@ let obj = {
       d: "Aggregate demand shifts left.",
       ans: 'b'
    },
-   q1303: {
+   q1302: {
       question: "Keynes believed that economies experiencing high unemployment should adopt policies to",
       a: "increase aggregate demand.",
       b: "increase aggregate supply.",
@@ -10431,7 +10423,7 @@ let obj = {
       d: "reduce government expenditures.",
       ans: 'a'
    },
-   q1304: {
+   q1303: {
       question: "According to the crowding-out effect, an increase in government purchases causes interest rates to",
       a: "fall, which increases saving.",
       b: "fall, which decreases investment.",
@@ -10439,7 +10431,7 @@ let obj = {
       d: "rise, which decreases investment.",
       ans: 'd'
    },
-   q1305: {
+   q1304: {
       question: "Recession refers principally to",
       a: "below average real GDP growth. ",
       b: "negative real GDP growth. ",
@@ -10447,7 +10439,7 @@ let obj = {
       d: "negative inflation.",
       ans: 'b'
    },
-   q1306: {
+   q1305: {
       question: "Which of the following is correct? ",
       a: "On average over the past 50 years real GDP has grown about 3% per year. ",
       b: "Recessions occur at regular intervals.",
@@ -10455,7 +10447,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'a'
    },
-   q1307: {
+   q1306: {
       question: "During recessions investment",
       a: "and unemployment rise. ",
       b: "and unemployment decline.",
@@ -10463,7 +10455,7 @@ let obj = {
       d: "declines and unemployment rises. ",
       ans: 'd'
    },
-   q1308: {
+   q1307: {
       question: "Which of the following accounts for most of the decline in value of GDP during recessions? ",
       a: "consumption ",
       b: "investment ",
@@ -10471,7 +10463,7 @@ let obj = {
       d: "net exports ",
       ans: 'b'
    },
-   q1309: {
+   q1308: {
       question: "Long-run analysis of the macroeconomy is based on ",
       a: "both the classical dichotomy and monetary neutrality. ",
       b: "neither the classical dichotomy nor monetary neutrality.",
@@ -10479,7 +10471,7 @@ let obj = {
       d: "monetary neutrality but not the classical dichotomy. ",
       ans: 'a'
    },
-   q1310: {
+   q1309: {
       question: "In the aggregate demand and aggregate supply model the price level is on the",
       a: "horizontal axis and quantity of output is on the vertical axis.",
       b: "vertical axis and quantity of output is on the horizontal axis. ",
@@ -10487,7 +10479,7 @@ let obj = {
       d: "vertical axis and unemployment is on horizontal axis. ",
       ans: 'b'
    },
-   q1311: {
+   q1310: {
       question: "A fall in prices makes consumers feel more wealthy. As a result",
       a: "aggregate demand shifts to the left.",
       b: "aggregate demand shifts to the right.",
@@ -10495,7 +10487,7 @@ let obj = {
       d: "there is a movement down a given aggregate demand curve.",
       ans: 'd'
    },
-   q1312: {
+   q1311: {
       question: "When prices fall, dollars are worth",
       a: "less, so consumers demand a larger quantity of goods. ",
       b: "less, so consumers demand a smaller quantity of goods.",
@@ -10503,7 +10495,7 @@ let obj = {
       d: "more, so consumers demand a smaller quantity of goods.",
       ans: 'c'
    },
-   q1313: {
+   q1312: {
       question: "When the price level rises, other things the same, people want to",
       a: "increase money holdings, so the interest rate increases.",
       b: "increase money holdings, so the interest rate decreases. ",
@@ -10511,7 +10503,7 @@ let obj = {
       d: "reduce money holdings, so the interest rate decreases.",
       ans: 'a'
    },
-   q1314: {
+   q1313: {
       question: "Other things the same, which of the following happens when the price level falls?",
       a: "Households try to increase money holdings.",
       b: "The real exchange rate appreciates. ",
@@ -10519,7 +10511,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'c'
    },
-   q1315: {
+   q1314: {
       question: "Which of the following tends to increase the quantity of output demanded when the price level decreases? ",
       a: "the wealth effect ",
       b: "the interest rate effect ",
@@ -10527,7 +10519,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'd'
    },
-   q1316: {
+   q1315: {
       question: "	If people decide to save more for retirement ",
       a: "or the government raises taxes, aggregate demand will shift right. ",
       b: "or the government raises taxes, aggregate demand will shift left. ",
@@ -10535,7 +10527,7 @@ let obj = {
       d: "aggregate demand will shift left. If the government raises taxes, aggregate demand will shift right. ",
       ans: 'b'
    },
-   q1317: {
+   q1316: {
       question: "Which of the following do we expect in the short run if the money supply increases? ",
       a: "The interest rate rises. ",
       b: "Investment falls. ",
@@ -10543,7 +10535,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'c'
    },
-   q1318: {
+   q1317: {
       question: "Suppose there is a broad increase in the price of stocks which causes an increase in the real wealth of individuals. Consumption spending rises in response to the increase in wealth. This will cause the",
       a: "aggregate demand curve to shift to the left.",
       b: "rate of unemployment to decrease.",
@@ -10551,7 +10543,7 @@ let obj = {
       d: "aggregate supply curve to shift to the right.",
       ans: 'b'
    },
-   q1319: {
+   q1318: {
       question: "Which of the following shifts the long-run aggregate supply curve to the left? ",
       a: "an increase in the economy’s capital stock",
       b: "an increase in the availability of natural resources from abroad ",
@@ -10559,7 +10551,7 @@ let obj = {
       d: "None of the above is correct. ",
       ans: 'c'
    },
-   q1320: {
+   q1319: {
       question: "By itself technological progress tends to ",
       a: "raise real GDP and lower the price level. ",
       b: "raise both real GDP and the price level.",
@@ -10567,7 +10559,7 @@ let obj = {
       d: "decrease real GDP and raise the price level. ",
       ans: 'a'
    },
-   q1321: {
+   q1320: {
       question: "According to the aggregate demand and aggregate supply model, in the long run an increase in the money supply ",
       a: "increases the price level and real GDP.",
       b: "increases the price level, but does not change real GDP.",
@@ -10575,7 +10567,7 @@ let obj = {
       d: "decreases real GDP, but does not change the price level.",
       ans: 'b'
    },
-   q1322: {
+   q1321: {
       question: "If the price level is less than expected, producers believe their relative price has",
       a: "increased and so increase production. ",
       b: "increased and so decrease production.",
@@ -10583,7 +10575,7 @@ let obj = {
       d: "decreased and so decrease production. ",
       ans: 'd'
    },
-   q1323: {
+   q1322: {
       question: "If wages do not adjust immediately to the price level, a higher price level ",
       a: "reduces real wages and employment. ",
       b: "increases real wages and employment. ",
@@ -10591,7 +10583,7 @@ let obj = {
       d: "increases real wages and reduces employment. ",
       ans: 'c'
    },
-   q1324: {
+   q1323: {
       question: "An increase in the expected price level shifts aggregate",
       a: "demand to the right.",
       b: "demand to the left.",
@@ -10599,7 +10591,7 @@ let obj = {
       d: "supply to the left.",
       ans: 'd'
    },
-   q1325: {
+   q1324: {
       question: "A change in price expectations will shift",
       a: "short-run aggregate supply, but not long-run aggregate supply.",
       b: "long-run aggregate supply, but not short-run aggregate supply.",
@@ -10607,7 +10599,7 @@ let obj = {
       d: "long-run aggregate supply and aggregate demand.",
       ans: 'a'
    },
-   q1326: {
+   q1325: {
       question: "Suppose consumers become more pessimistic concerning the future of an economy. In the short run ",
       a: "both the price level and real GDP rise. ",
       b: "both the price level and real GDP fall. ",
@@ -10615,7 +10607,7 @@ let obj = {
       d: "the price level falls and real GDP rises. ",
       ans: 'b'
    },
-   q1327: {
+   q1326: {
       question: "During the 1930s",
       a: "and the 1940s U.S. aggregate demand appears to have shifted far to the left.",
       b: "and the 1940s U.S. aggregate demand appears to have shifted far to the right.",
@@ -10623,7 +10615,7 @@ let obj = {
       d: "U.S. aggregate demand appears to have shifted far to the left. During the 1940s aggregate demand appears to have shifted far to the right.",
       ans: 'd'
    },
-   q1328: {
+   q1327: {
       question: "Which of the following is associated primarily with aggregate supply shifting far to the left?",
       a: "the Great Depression",
       b: "the economic boom of the 1940s",
@@ -10631,7 +10623,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'c'
    },
-   q1329: {
+   q1328: {
       question: "If the economy is experiencing stagflation and the Fed increases the money supply in the short run output",
       a: "increases, in the long run the price level increases.",
       b: "increases, in the long run the price level decreases.",
@@ -10639,7 +10631,7 @@ let obj = {
       d: "decreases, in the long run the price level decreases.",
       ans: 'a'
    },
-   q1330: {
+   q1329: {
       question: "Shocks to the economy such as changes in the value of the stock market",
       a: "affect aggregate demand, but changes in taxes and government expenditures do not.",
       b: "and changes in taxes and government expenditures affect aggregate demand.",
@@ -10647,7 +10639,7 @@ let obj = {
       d: "and changes in taxes and government expenditures do not affect aggregate demand.",
       ans: 'b'
    },
-   q1331: {
+   q1330: {
       question: "Which of the following claims concerning the importance of effects that explain the slope of the aggregate demand curve is correct?",
       a: "The interest-rate effect is relatively large because investment spending is very responsive to interest rate changes.",
       b: "The wealth effect is relatively large because money holdings are a significant portion of most households’ wealth.",
@@ -10655,7 +10647,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'a'
    },
-   q1332: {
+   q1331: {
       question: "When the interest rate decreases, the opportunity cost of holding money",
       a: "increases, so the quantity of money demanded increases.",
       b: "increases, so the quantity of money demanded decreases.",
@@ -10663,7 +10655,7 @@ let obj = {
       d: "decreases, so the quantity of money demanded decreases.",
       ans: 'c'
    },
-   q1333: {
+   q1332: {
       question: "According to liquidity preference theory, if there is an excess supply of money, people will deposit",
       a: "less into interest-bearing accounts, so the interest rate rises.",
       b: "less into interest-bearing accounts, so the interest rate falls.",
@@ -10671,7 +10663,7 @@ let obj = {
       d: "more into interest-bearing accounts, so the interest rate falls.",
       ans: 'd'
    },
-   q1334: {
+   q1333: {
       question: "Which list contains only things that would make people want to hold more money?",
       a: "Interest rates decrease, the price level increases.",
       b: "Interest rates decrease, the price level decreases.",
@@ -10679,7 +10671,7 @@ let obj = {
       d: "Interest rates increase, the price level decreases.",
       ans: 'a'
    },
-   q1335: {
+   q1334: {
       question: "Assume the money market is initially in equilibrium. If the price level increases, according to liquidity preference theory there is an excess",
       a: "supply of money until the interest rate decreases.",
       b: "supply of money until the interest rate increases.",
@@ -10687,7 +10679,7 @@ let obj = {
       d: "demand for money until the interest rate increases.",
       ans: 'd'
    },
-   q1336: {
+   q1335: {
       question: "According to liquidity preference theory, which of the following shifts the money demand curve to the left?",
       a: "a decrease in the price level",
       b: "an increase in the price level",
@@ -10695,7 +10687,7 @@ let obj = {
       d: "Both b and c are correct.",
       ans: 'a'
    },
-   q1337: {
+   q1336: {
       question: "According to liquidity preference theory, an increase in the price level causes the interest rate to",
       a: "increase, which makes investment demanded increase.",
       b: "increase, which makes investment demanded decrease.",
@@ -10703,7 +10695,7 @@ let obj = {
       d: "decrease, which makes investment demanded decrease.",
       ans: 'b'
    },
-   q1338: {
+   q1337: {
       question: "In the short run, a decrease in the money supply causes interest rates to ",
       a: "decrease, and aggregate demand to shift right.",
       b: "decrease, and aggregate demand to shift left.",
@@ -10711,7 +10703,7 @@ let obj = {
       d: "increase, and aggregate demand to shift left.",
       ans: 'd'
    },
-   q1339: {
+   q1338: {
       question: "If the interest rate is above the Fed’s target, the Fed should",
       a: "sell bonds to increase the money supply.",
       b: "sell bonds to decrease the money supply.",
@@ -10719,7 +10711,7 @@ let obj = {
       d: "buy bonds to decrease the money supply.",
       ans: 'c'
    },
-   q1340: {
+   q1339: {
       question: "If the stock market crashes, aggregate demand",
       a: "increases, which the Fed could offset by selling bonds.",
       b: "increases, which the Fed could offset by buying bonds.",
@@ -10727,7 +10719,7 @@ let obj = {
       d: "decreases, which the Fed could offset by buying bonds.",
       ans: 'd'
    },
-   q1341: {
+   q1340: {
       question: "An increase in government spending initially and primarily shifts aggregate",
       a: "supply right.",
       b: "demand right.",
@@ -10735,7 +10727,7 @@ let obj = {
       d: "supply left.",
       ans: 'b'
    },
-   q1342: {
+   q1341: {
       question: "The multiplier effect is the multiplied impact on",
       a: "investment of a given increase in interest rates.",
       b: "the money supply of a given increase in government purchases.",
@@ -10743,7 +10735,7 @@ let obj = {
       d: "tax revenues of a given increase in government purchases.",
       ans: 'c'
    },
-   q1343: {
+   q1342: {
       question: "Which of the following illustrates how the investment accelerator works?",
       a: "An increase in government expenditures increases aggregate spending so that the Gas-and-Go convenience store chain finds it profitable to build more new stores.",
       b: "An increase in government expenditures increases the interest rate so that people buy fewer stocks and bonds.",
@@ -10751,7 +10743,7 @@ let obj = {
       d: "An increase in government expenditures increases the interest rate so that the Gas-and-Go convenience store chain decides to build fewer new stores.",
       ans: 'a'
    },
-   q1344: {
+   q1343: {
       question: "The government purchases multiplier is defined as ",
       a: "MPC.",
       b: "1 – MPC.",
@@ -10759,7 +10751,7 @@ let obj = {
       d: "1/MPC.",
       ans: 'c'
    },
-   q1345: {
+   q1344: {
       question: "According to the crowding-out effect, an increase in government purchases causes interest rates to",
       a: "fall, which increases saving.",
       b: "fall, which decreases investment.",
@@ -10767,7 +10759,7 @@ let obj = {
       d: "rise, which decreases investment.",
       ans: 'd'
    },
-   q1346: {
+   q1345: {
       question: "If taxes",
       a: "increase, consumption decreases, and aggregate demand shifts left.	",
       b: "increase, consumption increases, and aggregate demand shifts right.",
@@ -10775,7 +10767,7 @@ let obj = {
       d: "decrease, consumption decreases, and aggregate demand shifts right.",
       ans: 'a'
    },
-   q1347: {
+   q1346: {
       question: "An increase in government spending on goods to build or repair bridges and highways",
       a: "shifts the aggregate demand curve to the left.",
       b: "has no multiplier effect.",
@@ -10783,7 +10775,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'c'
    },
-   q1348: {
+   q1347: {
       question: "If Congress cuts spending to balance the federal budget, the Fed can act to prevent unemployment and recession while maintaining the balanced budget by",
       a: "raising taxes.",
       b: "cutting expenditures.",
@@ -10791,7 +10783,7 @@ let obj = {
       d: "decreasing the money supply.",
       ans: 'c'
    },
-   q1349: {
+   q1348: {
       question: "Which of the following actions is inconsistent with the Employment Act of 1946?",
       a: "When there is a recession, the government increases the money supply.",
       b: "When unemployment is high, the government decreases expenditures.",
@@ -10799,7 +10791,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'b'
    },
-   q1350: {
+   q1349: {
       question: "Keynes argued that aggregate demand is",
       a: "stable, because the economy returns to long-run equilibrium.",
       b: "stable, because changes in consumption are mostly offset by changes in investment.",
@@ -10807,7 +10799,7 @@ let obj = {
       d: "unstable, because waves of pessimism and optimism create fluctuations in aggregate demand.",
       ans: 'd'
    },
-   q1351: {
+   q1350: {
       question: "If the government wants to stabilize output, which of the following policy alternatives would be an appropriate response to an increase in investment demand?",
       a: "increase taxes",
       b: "increase the money supply",
@@ -10815,7 +10807,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'a'
    },
-   q1352: {
+   q1351: {
       question: "Investment tax credits are designed to ",
       a: "increase aggregate demand in the short run and eventually increase long-run aggregate supply.",
       b: "increase aggregate demand in the short run, but eventually decrease long-run aggregate supply.",
@@ -10823,7 +10815,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'a'
    },
-   q1353: {
+   q1352: {
       question: "During expansions, automatic stabilizers make the government’s budget move",
       a: "toward deficit.",
       b: "toward surplus.",
@@ -10831,7 +10823,7 @@ let obj = {
       d: "in no particular direction.",
       ans: 'b'
    },
-   q1354: {
+   q1353: {
       question: "When the Fed lowers the growth rate of the money supply, it must take into account",
       a: "only the short-run effect on production.",
       b: "only the short-run effects on inflation and production.",
@@ -10839,7 +10831,7 @@ let obj = {
       d: "only the long-run effect on inflation.",
       ans: 'c'
    },
-   q1355: {
+   q1354: {
       question: "Of the effects that help explain why the U.S. aggregate demand curve slopes downward the",
       a: "wealth effect is most important and the exchange rate effect is least important.",
       b: "exchange-rate effect is most important and the interest rate effect is least important.",
@@ -10847,7 +10839,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'c'
    },
-   q1356: {
+   q1355: {
       question: "Liquidity preference theory is most relevant to the ",
       a: "short run and supposes that the interest rate adjusts to bring money supply and money demand into balance. ",
       b: "short run and supposes that the price level adjusts to bring money supply and money demand into balance. ",
@@ -10855,7 +10847,7 @@ let obj = {
       d: "long run and supposes that the price level adjusts to bring money supply and money demand into balance. ",
       ans: 'a'
    },
-   q1357: {
+   q1356: {
       question: "An increase in interest rates",
       a: "increases the cost of holding money and increases the quantity demanded.",
       b: "increases the cost of holding money and decreases the quantity demanded. ",
@@ -10863,7 +10855,7 @@ let obj = {
       d: "decreases the cost of holding money and decreases the quantity demanded. ",
       ans: 'b'
    },
-   q1358: {
+   q1357: {
       question: "According to the theory of liquidity preference if there is a surplus of money, the interest rate will",
       a: "rise and the quantity of money demanded will increase.",
       b: "rise and the quantity of money demanded will decrease.",
@@ -10871,7 +10863,7 @@ let obj = {
       d: "fall and the quantity of money demanded will decrease.",
       ans: 'c'
    },
-   q1359: {
+   q1358: {
       question: "With the interest rate on the vertical axis, an increase in the price level shifts money",
       a: "supply right.",
       b: "supply left.",
@@ -10879,7 +10871,7 @@ let obj = {
       d: "demand left.",
       ans: 'c'
    },
-   q1360: {
+   q1359: {
       question: "Which of the following properly describes the interest-rate effect?",
       a: "A higher price level leads to higher money demand, higher money demand leads to higher interest rates, and a higher interest rate increases the quantity of goods and services demanded.",
       b: "A higher price level leads to higher money demand, higher money demand leads to lower interest rates, and a lower interest rate reduces the quantity of goods and services demanded.",
@@ -10887,7 +10879,7 @@ let obj = {
       d: "A lower price level leads to lower money demand, lower money demand leads to lower interest rates, and a lower interest rate increases the quantity of goods and services demanded.",
       ans: 'd'
    },
-   q1361: {
+   q1360: {
       question: "When the money supply increases interest rates",
       a: "rise and aggregate demand shifts right.",
       b: "fall and aggregate demand shifts left.",
@@ -10895,7 +10887,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'd'
    },
-   q1362: {
+   q1361: {
       question: "Which of the following shifts aggregate demand right?",
       a: "The price level rises.",
       b: "The price level falls.",
@@ -10903,7 +10895,7 @@ let obj = {
       d: "Both a and b are correct.",
       ans: 'c'
    },
-   q1363: {
+   q1362: {
       question: "Suppose the Federal Reserve decreases the money supply. As a result: ",
       a: "investment, real output, and the price level are all lower.",
       b: "investment is higher, real output is lower, and the price level is unchanged.",
@@ -10911,7 +10903,7 @@ let obj = {
       d: "investment is lower, real output is higher, and the price level is lower.",
       ans: 'a'
    },
-   q1364: {
+   q1363: {
       question: "If the stock market booms household spending",
       a: "increases. To offset the effects of this on the price level and real GDP, the Fed would increase the money supply.",
       b: "increases. To offset the effects of this on the price level and real GDP, the Fed would decrease the money supply.",
@@ -10919,7 +10911,7 @@ let obj = {
       d: "decreases. To offset the effects of this on the price level and real GDP, the Fed would decrease the money supply.",
       ans: 'b'
    },
-   q1365: {
+   q1364: {
       question: "In early January 2000 the Fed announced that it would cut interest rates one-half percentage point. To do this requires the Fed to",
       a: "increase the money supply and so increase aggregate demand.",
       b: "increase the money supply and so decrease aggregate demand.",
@@ -10927,7 +10919,7 @@ let obj = {
       d: "decrease the money supply and so decrease aggregate demand.",
       ans: 'a'
    },
-   q1366: {
+   q1365: {
       question: "In the last quarter of 1999 German real GDP grew at a very low rate. Some economists attributed the low growth to monetary policy that by itself would have decreased real GDP. If they are correct, we should observe that the German money supply ",
       a: "and interest rates had increased.",
       b: "and interest rates had decreased.",
@@ -10935,7 +10927,7 @@ let obj = {
       d: "had decreased and interest rates had increased.",
       ans: 'd'
    },
-   q1367: {
+   q1366: {
       question: "When the Fed decreases the money supply we expect interest rates",
       a: "and stock prices to rise.",
       b: "and stock prices to fall.",
@@ -10943,7 +10935,7 @@ let obj = {
       d: "to fall and stock prices to rise.",
       ans: 'c'
    },
-   q1368: {
+   q1367: {
       question: "If the government increases its expenditures the price level",
       a: "and real GDP both rise.",
       b: "and real GDP both fall.",
@@ -10951,7 +10943,7 @@ let obj = {
       d: "falls and real GDP rises.",
       ans: 'a'
    },
-   q1369: {
+   q1368: {
       question: "Suppose that the MPC is .60 and there is no investment accelerator or crowding out. Then if government expenditures increase $10 billion, aggregate demand shifts right",
       a: "$40 billion.",
       b: "$25 billion.",
@@ -10959,7 +10951,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'b'
    },
-   q1370: {
+   q1369: {
       question: "The multiplier effect occurs because an increase in government purchases will",
       a: "increase income which will result in further rounds of spending.",
       b: "increase interest rates which will reduce further rounds of spending.",
@@ -10967,7 +10959,7 @@ let obj = {
       d: "stimulate monetary policy which will increase further rounds of spending.",
       ans: 'a'
    },
-   q1371: {
+   q1370: {
       question: "Which of the following correctly explains the crowding-out effect?",
       a: "An increase in government expenditures decreases the interest rate and so increases investment spending.",
       b: "An increase in government expenditures increases the interest rate and so reduces investment spending.",
@@ -10975,7 +10967,7 @@ let obj = {
       d: "A decrease in government expenditures decreases the interest rate and so reduces investment spending.",
       ans: 'b'
    },
-   q1372: {
+   q1371: {
       question: "When the government increases expenditures the money demand curve shifts",
       a: "right and interest rates rise.",
       b: "right and interest rates fall.",
@@ -10983,7 +10975,7 @@ let obj = {
       d: "left and interest rates fall.",
       ans: 'a'
    },
-   q1373: {
+   q1372: {
       question: "Permanent tax cuts shift the AD curve",
       a: "farther to the right than temporary tax cuts.",
       b: "less to the right than temporary tax cuts.",
@@ -10991,7 +10983,7 @@ let obj = {
       d: "less to the left than temporary tax cuts.",
       ans: 'a'
    },
-   q1374: {
+   q1373: {
       question: "Suppose that net exports fall. Which of the following policies is most likely to stabilize the economy?",
       a: "a decrease in the money supply",
       b: "a tax increase",
@@ -10999,7 +10991,7 @@ let obj = {
       d: "None of the above would be likely to stabilize the economy.",
       ans: 'c'
    },
-   q1375: {
+   q1374: {
       question: "If the government wanted to stabilize the economy when it was in recession it would",
       a: "raise interest rates and government expenditures.",
       b: "decrease interest rates and government expenditures.",
@@ -11007,7 +10999,7 @@ let obj = {
       d: "decrease interest rates and increase government expenditures.",
       ans: 'd'
    },
-   q1376: {
+   q1375: {
       question: "Critics of using fiscal and monetary policies to solve economic problems believe that",
       a: "it can take too long for monetary policy to have an impact on the economy.",
       b: "the political process results in a lag when using fiscal policy.",
@@ -11015,7 +11007,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'd'
    },
-   q1377: {
+   q1376: {
       question: "The most important automatic stabilizer is",
       a: "open market transactions.",
       b: "the tax system.",
@@ -11023,7 +11015,7 @@ let obj = {
       d: "welfare benefits.",
       ans: 'b'
    },
-   q1378: {
+   q1377: {
       question: "The misery index is calculated as the",
       a: "actual inflation rate minus the expected inflation rate.",
       b: "natural unemployment rate plus the long-run inflation rate.",
@@ -11031,7 +11023,7 @@ let obj = {
       d: "inflation rate plus the unemployment rate.",
       ans: 'd'
    },
-   q1379: {
+   q1378: {
       question: "The short-run relationship between inflation and unemployment is often called ",
       a: "Samuelson’s dilemma.",
       b: "Harrod’s knife edge.",
@@ -11039,7 +11031,7 @@ let obj = {
       d: "Barro’s conundrum.",
       ans: 'c'
    },
-   q1380: {
+   q1379: {
       question: "Phillips found a negative relation between",
       a: "output and unemployment.",
       b: "output and employment.	",
@@ -11047,7 +11039,7 @@ let obj = {
       d: "wage inflation and unemployment.",
       ans: 'd'
    },
-   q1381: {
+   q1380: {
       question: "Samuelson and Solow reasoned that when aggregate demand was high, unemployment was",
       a: "low, so there was upward pressure on wages and prices.",
       b: "low, so there was downward pressure on wages and prices.",
@@ -11055,7 +11047,7 @@ let obj = {
       d: "high, so there was downward pressure on wages and prices.",
       ans: 'a'
    },
-   q1382: {
+   q1381: {
       question: "According to Friedman and Phelps, no matter what the Fed does to the money supply, in the long run, the",
       a: "economy will have a zero inflation rate.",
       b: "inflation rate will tend to its natural rate.",
@@ -11063,7 +11055,7 @@ let obj = {
       d: "unemployment rate will tend toward its natural rate.",
       ans: 'd'
    },
-   q1383: {
+   q1382: {
       question: "Which of the following would shift the long-run Phillips curve right?",
       a: "increases in unemployment compensation",
       b: "an increase in the money supply",
@@ -11071,7 +11063,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'a'
    },
-   q1384: {
+   q1383: {
       question: "If the long-run Phillips curve shifts to the right, for any given rate of money growth and inflation the economy will have",
       a: "higher unemployment and higher output.",
       b: "higher unemployment and lower output.",
@@ -11079,7 +11071,7 @@ let obj = {
       d: "lower unemployment and lower output.",
       ans: 'b'
    },
-   q1385: {
+   q1384: {
       question: "An increase in expected inflation shifts the ",
       a: "long-run Phillips curve right.",
       b: "long-run Phillips curve left.",
@@ -11087,7 +11079,7 @@ let obj = {
       d: "short-run Phillips curve left.",
       ans: 'c'
    },
-   q1386: {
+   q1385: {
       question: "The long-run and short-run Phillips curves intersect where",
       a: "the quantity of goods and services demanded equals the quantity supplied.",
       b: "the quantity of labor demanded equals the quantity supplied.",
@@ -11095,7 +11087,7 @@ let obj = {
       d: "expected inflation equals actual inflation.",
       ans: 'd'
    },
-   q1387: {
+   q1386: {
       question: "According to Friedman and Phelps, the unemployment rate is above the natural rate when actual inflation",
       a: "is greater than expected inflation.",
       b: "equals expected inflation.",
@@ -11103,7 +11095,7 @@ let obj = {
       d: "is high.",
       ans: 'c'
    },
-   q1388: {
+   q1387: {
       question: "Faced with an adverse supply shock, policymakers can increase aggregate",
       a: "supply, which increases prices and output.",
       b: "supply, which decreases prices and increases output.",
@@ -11111,7 +11103,7 @@ let obj = {
       d: "demand, which decreases prices and increases output.",
       ans: 'c'
    },
-   q1389: {
+   q1388: {
       question: "A favorable supply shock will cause the short-run Phillips curve to shift ",
       a: "left, and unemployment to rise.",
       b: "left, and unemployment to fall.",
@@ -11119,7 +11111,7 @@ let obj = {
       d: "right, and unemployment to fall.",
       ans: 'b'
    },
-   q1390: {
+   q1389: {
       question: "An adverse supply shock will cause the short-run Phillips curve to shift ",
       a: "right, and inflation to fall.",
       b: "right, and inflation to rise.",
@@ -11127,7 +11119,7 @@ let obj = {
       d: "left, and inflation to rise.",
       ans: 'b'
    },
-   q1391: {
+   q1390: {
       question: "In the 1970s, the Fed accommodated",
       a: "an adverse supply shock and so contributed to higher inflation.",
       b: "an adverse supply shock and so contributed to lower inflation.",
@@ -11135,7 +11127,7 @@ let obj = {
       d: "a favorable supply shock and so contributed to lower inflation.",
       ans: 'a'
    },
-   q1392: {
+   q1391: {
       question: "In 1979, Fed Chair Paul Volcker decided to pursue a policy",
       a: "that would lead to disinflation.",
       b: "that would create falling prices.",
@@ -11143,7 +11135,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'a'
    },
-   q1393: {
+   q1392: {
       question: "If the sacrifice ratio is 3, reducing the inflation rate from 5 percent to 2 percent would require sacrificing ",
       a: "6 percent of annual output.",
       b: "9 percent of annual output.",
@@ -11151,7 +11143,7 @@ let obj = {
       d: "15 percent of annual output.",
       ans: 'b'
    },
-   q1394: {
+   q1393: {
       question: "In 1979, Fed Chair Paul Volcker",
       a: "believed decreasing inflation would temporarily decrease output growth.",
       b: "instituted an accommodating monetary policy.",
@@ -11159,7 +11151,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'a'
    },
-   q1395: {
+   q1394: {
       question: "In the late 1970s proponents of rational expectations argued that",
       a: "the short run might be long because people wouldn’t go to the trouble of computing inflation expectations.",
       b: "if people expected a decrease in the money supply growth rate and inflation, the decrease in the money growth would have little or no affect on output.",
@@ -11167,7 +11159,7 @@ let obj = {
       d: "Friedman and Phelps were wrong because there was no short run since people always anticipated inflation correctly.",
       ans: 'b'
    },
-   q1396: {
+   q1395: {
       question: "The restrictive monetary policy followed by the Fed in the early 1980s",
       a: "reduced both unemployment and inflation.",
       b: "reduced inflation significantly, but at the cost of a severe recession.",
@@ -11175,7 +11167,7 @@ let obj = {
       d: "raised both unemployment and inflation.",
       ans: 'b'
    },
-   q1397: {
+   q1396: {
       question: "The experience of the Volcker disinflation of the early 1980s",
       a: "generally increased estimates of the sacrifice ratio.",
       b: "generally decreased estimates of the sacrifice ratio.	",
@@ -11183,7 +11175,7 @@ let obj = {
       d: "clearly refuted the predictions of the opponents of rational expectations.",
       ans: 'b'
    },
-   q1398: {
+   q1397: {
       question: "Since 1984, the economy has experienced",
       a: "no unemployment rate above the natural rate.",
       b: "a severe recession during 1991 and 1992.",
@@ -11191,7 +11183,7 @@ let obj = {
       d: "relatively mild fluctuations in inflation and unemployment.",
       ans: 'd'
    },
-   q1399: {
+   q1398: {
       question: "In 1999, the Phillips curve was fairly far to the",
       a: "right, partly because of lower inflation expectations.",
       b: "right, partly because of adverse supply shocks.",
@@ -11199,7 +11191,7 @@ let obj = {
       d: "left; partly because of adverse supply shocks.",
       ans: 'c'
    },
-   q1400: {
+   q1399: {
       question: "In the late 1990s,",
       a: "aggregate supply apparently shifted left.",
       b: "the Phillips curve apparently shifted right.",
@@ -11207,7 +11199,7 @@ let obj = {
       d: "Neither a nor b is correct.",
       ans: 'd'
    },
-   q1401: {
+   q1400: {
       question: "In order to reduce inflation an economy will typically endure a period of",
       a: "high unemployment and low output.",
       b: "high unemployment and high output.",
@@ -11215,7 +11207,7 @@ let obj = {
       d: "low unemployment and high output.",
       ans: 'a'
    },
-   q1402: {
+   q1401: {
       question: "The Phillips curve shows the relationship between the",
       a: "price level and real GDP.",
       b: "price level and unemployment.",
@@ -11223,7 +11215,7 @@ let obj = {
       d: "inflation rate and unemployment.",
       ans: 'd'
    },
-   q1403: {
+   q1402: {
       question: "If the government decided that it wanted lower inflation it would",
       a: "increase aggregate demand which would increase unemployment.",
       b: "increase aggregate demand which would decrease unemployment.",
@@ -11231,7 +11223,7 @@ let obj = {
       d: "decrease aggregate demand which would decrease unemployment.",
       ans: 'c'
    },
-   q1404: {
+   q1403: {
       question: "Which of the following lists contains only policies that would increase inflation and decrease unemployment?",
       a: "increase government expenditures, increase the money supply",
       b: "increase government expenditures, decrease the money supply",
@@ -11239,7 +11231,7 @@ let obj = {
       d: "decrease government expenditures, decrease the money supply",
       ans: 'a'
    },
-   q1405: {
+   q1404: {
       question: "Friedman and Phelps argued that an inverse relation between inflation and unemployment could exist",
       a: "in both the long run and the short run.",
       b: "in neither the short run nor the long run.",
@@ -11247,7 +11239,7 @@ let obj = {
       d: "only in the long run.",
       ans: 'c'
    },
-   q1406: {
+   q1405: {
       question: "According to the long-run Phillips curve, if the Fed increases the growth rate of the money supply,",
       a: "inflation and unemployment both rise.",
       b: "inflation rises and unemployment falls.",
@@ -11255,7 +11247,7 @@ let obj = {
       d: "only inflation rises.",
       ans: 'd'
    },
-   q1407: {
+   q1406: {
       question: "Which of the following policies would shift the long-run Phillips curve to the right?",
       a: "Increased use of on-line vitas and job openings decrease the time people spend searching for jobs.",
       b: "The government increases the minimum wage.",
@@ -11263,7 +11255,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'b'
    },
-   q1408: {
+   q1407: {
       question: "Which of the following explanations for an upward sloping aggregate supply curve would imply an upward-sloping short-run Phillips curve?",
       a: "misperceptions of relative prices",
       b: "sticky wages and prices",
@@ -11271,7 +11263,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'c'
    },
-   q1409: {
+   q1408: {
       question: "As compared to their initial values, which of the following variables are higher in both the short and long run if the government pursues an expansionary policy?",
       a: "both unemployment and inflation",
       b: "only inflation",
@@ -11279,7 +11271,7 @@ let obj = {
       d: "neither unemployment nor inflation",
       ans: 'b'
    },
-   q1410: {
+   q1409: {
       question: "Expansionary policy",
       a: "increases unemployment and inflation in the short run, but only increases inflation in the long run.",
       b: "increases unemployment and reduces inflation in the short run, but increases unemployment in the long run.",
@@ -11287,7 +11279,7 @@ let obj = {
       d: "reduces unemployment and inflation in the short run, but increases unemployment in the long run.",
       ans: 'c'
    },
-   q1411: {
+   q1410: {
       question: "If expected inflation decreases the short-run Phillips curve shifts",
       a: "right, so at any actual inflation rate, unemployment will be higher than before.",
       b: "right, so at any actual inflation rate, unemployment will be lower than before.",
@@ -11295,7 +11287,7 @@ let obj = {
       d: "left, so at any actual inflation rate, unemployment will be lower than before.",
       ans: 'd'
    },
-   q1412: {
+   q1411: {
       question: "In 1973, both unemployment and inflation were higher than they had been in 1969. This can be explained by monetary policy that increased",
       a: "inflation expectations and so shifted the short-run Phillips curve to the right.",
       b: "inflation expectations and so shifted the short-run Phillips curve to the left.",
@@ -11303,7 +11295,7 @@ let obj = {
       d: "actual inflation and so shifted the long-run Phillips curve to the left.",
       ans: 'b'
    },
-   q1413: {
+   q1412: {
       question: "The Phillips curve would be shifted rightward by: ",
       a: "a decline in inflationary expectations.",
       b: "a decrease in oil prices.",
@@ -11311,7 +11303,7 @@ let obj = {
       d: "a leftward shift of aggregate demand.",
       ans: 'c'
    },
-   q1414: {
+   q1413: {
       question: "The oil price shock of the 1970s shifted the short-run Phillips curve",
       a: "right briefly because the Fed did not accommodate the oil price shock.",
       b: "right for an extended period because the Fed accommodated the oil price shock.",
@@ -11319,7 +11311,7 @@ let obj = {
       d: "left for an extended period because the Fed accommodated the oil price shock.",
       ans: 'b'
    },
-   q1415: {
+   q1414: {
       question: "Which of the following is a consequence of using monetary policy to fight unemployment created by a supply shock?",
       a: "current inflation rises",
       b: "the Phillips curve will not soon revert to its former position",
@@ -11327,7 +11319,7 @@ let obj = {
       d: "Neither a nor b are correct.",
       ans: 'c'
    },
-   q1416: {
+   q1415: {
       question: "Suppose that a small economy that depends mostly on agriculture experiences a year with exceptionally good conditions for growing crops. The effects of the good weather would shift",
       a: "both short-run aggregate supply and the short-run Phillips curve right.",
       b: "both short-run aggregate supply and the short-run Phillips curve left.",
@@ -11335,7 +11327,7 @@ let obj = {
       d: "the short-run aggregate supply curve to the right, and the short-run Phillips curve to the left.",
       ans: 'd'
    },
-   q1417: {
+   q1416: {
       question: "Suppose an economy with high inflation decides to decrease the money supply growth rate",
       a: "both the current unemployment rate and the natural rate of unemployment fall.",
       b: "both the current unemployment rate and the natural rate of unemployment rise.",
@@ -11343,7 +11335,7 @@ let obj = {
       d: "the current rate of unemployment falls, but there is no change in the natural rate of unemployment.",
       ans: 'c'
    },
-   q1418: {
+   q1417: {
       question: "Suppose the Fed decreased the growth rate of the money supply. Which of the following would permanently decrease?",
       a: "both the unemployment rate and the inflation rate",
       b: "the unemployment rate, but not the inflation rate",
@@ -11351,7 +11343,7 @@ let obj = {
       d: "neither the unemployment rate nor the inflation rate",
       ans: 'c'
    },
-   q1419: {
+   q1418: {
       question: "The annual output of the United States is currently about $10 trillion. If the sacrifice ratio is 3 and the Fed pursues a monetary policy designed to decrease inflation 2 percentage points, what is the cost of reducing inflation?",
       a: "$500 billion",
       b: "$600 billion",
@@ -11359,7 +11351,7 @@ let obj = {
       d: "$6 trillion",
       ans: 'b'
    },
-   q1420: {
+   q1419: {
       question: "If the government’s commitment to low inflation is credible, the sacrifice ratio is",
       a: "high, so the cost of inflation reduction is high.",
       b: "high, so the cost of inflation reduction is low.",
@@ -11367,7 +11359,7 @@ let obj = {
       d: "low, so the cost of inflation reduction is low.",
       ans: 'd'
    },
-   q1421: {
+   q1420: {
       question: "The disinflation of the early 1980s was due to: ",
       a: "restrictive monetary policies of the Federal Reserve.",
       b: "expansionary monetary policies of the Federal Reserve.",
@@ -11375,7 +11367,7 @@ let obj = {
       d: "expansionary fiscal policy.",
       ans: 'a'
    },
-   q1422: {
+   q1421: {
       question: "Consider the following two sentences. Although the Volcker disinflation came at the cost of high unemployment, the cost was less than most economists predicted. The cost of the disinflation might have been even greater if people had believed that Volcker would really reduce inflation as much as he did.",
       a: "Both sentences are true.",
       b: "Neither sentence is true.",
@@ -11383,7 +11375,7 @@ let obj = {
       d: "Only the second sentence is true.",
       ans: 'c'
    },
-   q1423: {
+   q1422: {
       question: "Which of the following is helpful in explaining levels of unemployment and inflation in the late 1990s?",
       a: "Decreased inflation expectations shifted the short-run Phillips curve to the right.",
       b: "The U.S. economy experienced some favorable supply shocks during this period.",
@@ -11391,7 +11383,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'b'
    },
-   q1424: {
+   q1423: {
       question: "“Leaning against the wind” is exemplified by",
       a: "a decrease in government expenditures when there is a recession.",
       b: "an increase in the money supply when there is a recession.",
@@ -11399,7 +11391,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'b'
    },
-   q1425: {
+   q1424: {
       question: "Those who desire that policymakers stabilize the economy would advocate which of the following when employment is above the natural rate?",
       a: "increase the money supply",
       b: "decrease taxes",
@@ -11407,7 +11399,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'c'
    },
-   q1426: {
+   q1425: {
       question: "In general, the longest lag for",
       a: "fiscal policy is the time it takes to change policy, while for monetary policy the longest lag is the time it takes for policy to impact aggregate demand.",
       b: "monetary policy is the time it takes to change policy, while for fiscal policy the longest lag is the time it takes for policy to impact aggregate demand.",
@@ -11415,7 +11407,7 @@ let obj = {
       d: "both fiscal and monetary policy is the time it takes for policy to impact aggregate demand.",
       ans: 'a'
    },
-   q1427: {
+   q1426: {
       question: "The principal reason that monetary policy has lags is that it takes a long time for ",
       a: "changes in the interest rate to change aggregate demand.",
       b: "changes in the money supply to change interest rates.",
@@ -11423,7 +11415,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'a'
    },
-   q1428: {
+   q1427: {
       question: "Opponents of using policy to stabilize the economy generally believe that ",
       a: "unemployment and inflation are not cause for much concern.",
       b: "neither fiscal nor monetary policy have much impact on aggregate demand.",
@@ -11431,7 +11423,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'c'
    },
-   q1429: {
+   q1428: {
       question: "The Federal Open Market Committee",
       a: "is required to keep the interest rate within a range set by Congress.",
       b: "operates with almost complete discretion over monetary policy.",
@@ -11439,7 +11431,7 @@ let obj = {
       d: "is required by its charter to change the money supply using a complex formula that concerns the tradeoff between inflation and unemployment.",
       ans: 'b'
    },
-   q1430: {
+   q1429: {
       question: " The political business cycle refers to",
       a: "changes in output associated with spending to pay for presidential campaigns.",
       b: "changes in output created by the monetary rule the Fed must follow.",
@@ -11447,7 +11439,7 @@ let obj = {
       d: "the fact that about every four years some politician advocates greater government control of the Fed.",
       ans: 'c'
    },
-   q1431: {
+   q1430: {
       question: "A law that requires the money supply to grow by a fixed percentage each year would eliminate",
       a: "the time inconsistency problem, but not political business cycles.",
       b: "the political business cycle, but not the time inconsistency problem.",
@@ -11455,7 +11447,7 @@ let obj = {
       d: "neither the time inconsistency problem nor political business cycles.",
       ans: 'c'
    },
-   q1432: {
+   q1431: {
       question: "	Which of the following is true concerning the recently developed inflation-targeting policy of Brazil’s central bank?",
       a: "It is very different from policies used by Britain, Canada, and New Zealand.",
       b: "Because the economy is easy to predict, they will not likely miss their inflation target.",
@@ -11463,7 +11455,7 @@ let obj = {
       d: "The policy may not work well since the central bank is not free from political pressures.",
       ans: 'd'
    },
-   q1433: {
+   q1432: {
       question: "Suppose that the central bank must follow a rule that requires it to increase the money supply when the price level falls and decrease the money supply when the price level rises. If the economy starts from long-run equilibrium and aggregate supply shifts right, the central bank must",
       a: "decrease the money supply, which will move output back towards its long-run level.",
       b: "decrease the money supply, which will move output further from its long-run level.",
@@ -11471,7 +11463,7 @@ let obj = {
       d: "increase the money supply, which will move output further from its long-run level.",
       ans: 'd'
    },
-   q1434: {
+   q1433: {
       question: "A successful program to reduce inflation",
       a: "eventually reduces inflation expectations.",
       b: "permanently decreases output.",
@@ -11479,7 +11471,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'a'
    },
-   q1435: {
+   q1434: {
       question: "Proponents of zero inflation argue that reducing inflation has",
       a: "permanent costs and temporary benefits.",
       b: "temporary costs and permanent benefits.",
@@ -11487,7 +11479,7 @@ let obj = {
       d: "temporary costs and benefits.",
       ans: 'b'
    },
-   q1436: {
+   q1435: {
       question: "The immediate consequences of Paul Volcker’s inflation reduction efforts were to",
       a: "increase both inflation and unemployment.",
       b: "reduce both inflation and unemployment.",
@@ -11495,7 +11487,7 @@ let obj = {
       d: "reduce inflation and increase unemployment.",
       ans: 'd'
    },
-   q1437: {
+   q1436: {
       question: "Inflation reduction has the lowest cost when the efforts are",
       a: "credible so that the sacrifice ratio is low.",
       b: "unexpected so that the sacrifice ratio is low.",
@@ -11503,7 +11495,7 @@ let obj = {
       d: "unexpected so that the sacrifice ratio is high.",
       ans: 'a'
    },
-   q1438: {
+   q1437: {
       question: "Some countries have had high inflation for a long time. Others have had low or moderate inflation for a long time. Which of the following, at least in theory, could explain why some countries would continue to have high inflation?",
       a: "In a country where inflation has been high for a long time, people are likely to have found ways to limit the costs.",
       b: "High inflation countries have relatively small sacrifice ratios and so see no need to reduce inflation.",
@@ -11511,7 +11503,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'a'
    },
-   q1439: {
+   q1438: {
       question: "In the late 1990s, the U.S. government had a",
       a: "deficit and a debt.",
       b: "deficit, but no debt.",
@@ -11519,7 +11511,7 @@ let obj = {
       d: "surplus and a debt.",
       ans: 'd'
    },
-   q1440: {
+   q1439: {
       question: "Part of the argument for deficit reduction is that it would",
       a: "increase interest rates and investment.",
       b: "decrease interest rates and investment.",
@@ -11527,7 +11519,7 @@ let obj = {
       d: "decrease interest rates and increase investment.",
       ans: 'd'
    },
-   q1441: {
+   q1440: {
       question: "Proponents of debt reduction argue that the rise in government debt during the 1980s",
       a: "can be justified since the United States was involved in major military conflicts.",
       b: "was primarily the result of politicians finding it easier to raise expenditures than cut taxes.",
@@ -11535,7 +11527,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'b'
    },
-   q1442: {
+   q1441: {
       question: "Which of the following is true?",
       a: "The current government debt is about $114,000 per person.",
       b: "As long as the government debt grows faster than the nation’s income, there is nothing to prevent the government debt from growing forever.",
@@ -11543,7 +11535,7 @@ let obj = {
       d: "When there is a deficit, there must also be a debt.",
       ans: 'c'
    },
-   q1443: {
+   q1442: {
       question: "Suppose the budget deficit is rising 2 percent per year and nominal GDP is rising 4 percent per year, the debt created by these continuing deficits is ",
       a: "sustainable, but the future burden on your children cannot be offset.",
       b: "sustainable, and the future burden on your children can be offset if you save for them.",
@@ -11551,7 +11543,7 @@ let obj = {
       d: "not sustainable, but the future burden on your children can be offset if you save for them.",
       ans: 'b'
    },
-   q1444: {
+   q1443: {
       question: "Proponents of tax-law changes to encourage saving would",
       a: "favor the use of means-tests for government benefits.",
       b: "support a tax on consumption instead of on income.",
@@ -11559,7 +11551,7 @@ let obj = {
       d: "favor none of the above programs.",
       ans: 'b'
    },
-   q1445: {
+   q1444: {
       question: "IRA, 401(k), 403(b), and Keogh plans",
       a: "are primarily useful to those saving to buy a home.",
       b: "place limits on the amount people can deposit into these programs.",
@@ -11567,7 +11559,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'b'
    },
-   q1446: {
+   q1445: {
       question: "A lower rate of return on saving has",
       a: "income and substitution effects that decrease saving.",
       b: "income and substitution effects that increase saving.",
@@ -11575,7 +11567,7 @@ let obj = {
       d: "an income effect that encourages saving and a substitution effect that discourages saving.",
       ans: 'd'
    },
-   q1447: {
+   q1446: {
       question: "A reduction in the tax rate on income from saving would ",
       a: "increase real wages over time.",
       b: "decrease the capital stock over time.",
@@ -11583,7 +11575,7 @@ let obj = {
       d: "most directly benefit the poor in the short run.",
       ans: 'a'
    },
-   q1448: {
+   q1447: {
       question: "The five debates over macroeconomic policy exist mostly because",
       a: "economists disagree over basic issues such as the importance of saving for economic growth.",
       b: "people fail to clearly see the benefits or the costs of most changes.",
@@ -11591,7 +11583,7 @@ let obj = {
       d: "politicians offer misleading information.",
       ans: 'c'
    },
-   q1449: {
+   q1448: {
       question: "If households and firms became more optimistic about the future real GDP",
       a: "and unemployment would increase.",
       b: "would increase and unemployment would decrease.",
@@ -11599,7 +11591,7 @@ let obj = {
       d: "and unemployment would decrease.",
       ans: 'b'
    },
-   q1450: {
+   q1449: {
       question: "If unemployment increases, which of the following could the government do to try to decrease it?",
       a: "decrease the money supply",
       b: "decrease taxes",
@@ -11607,7 +11599,7 @@ let obj = {
       d: "None of the above would tend to decrease unemployment.",
       ans: 'b'
    },
-   q1451: {
+   q1450: {
       question: "Which of the following actions would be considered leaning against the wind?",
       a: "In response to a recession, the government leaves fiscal and monetary policy unchanged.",
       b: "In response to a recession, the government decreases the money supply.",
@@ -11615,7 +11607,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'c'
    },
-   q1452: {
+   q1451: {
       question: "In 1999 and 2000 the Federal Reserve raised interest rates several times. This policy implies the Fed",
       a: "increased money supply growth due to concern about inflation.",
       b: "increased money supply growth due to concern about unemployment.",
@@ -11623,7 +11615,7 @@ let obj = {
       d: "decreased money supply growth due to concern about unemployment.",
       ans: 'c'
    },
-   q1453: {
+   q1452: {
       question: "An increase in the money supply affects output primarily by",
       a: "decreasing interest rates which increases business investment.",
       b: "decreasing interest rates which decreases business investment.",
@@ -11631,7 +11623,7 @@ let obj = {
       d: "increasing interest rates which decreases business investment.",
       ans: 'a'
    },
-   q1454: {
+   q1453: {
       question: "The principal lag in implementing fiscal policy is the time it takes",
       a: "for firms to change output in response to the change in the price level.",
       b: "for fiscal policy to affect interest rates.",
@@ -11639,7 +11631,7 @@ let obj = {
       d: "to pass legislation to change expenditures or taxes.",
       ans: 'd'
    },
-   q1455: {
+   q1454: {
       question: "The Federal Reserve ",
       a: "has considerable discretion in determining monetary policy.",
       b: "has little discretion, but not does not have to follow any specific rule.",
@@ -11647,7 +11639,7 @@ let obj = {
       d: "must follow a monetary policy rule that requires it to be primarily concerned with unemployment.",
       ans: 'a'
    },
-   q1456: {
+   q1455: {
       question: "When the Fed has discretion, policy is time inconsistent which means inflation expectations are",
       a: "higher and the short-run Phillips curve is further to the right than otherwise.",
       b: "higher and the short-run Phillips curve is further to the left than otherwise.",
@@ -11655,7 +11647,7 @@ let obj = {
       d: "lower and the short-run Phillips curve is further to the left than otherwise.",
       ans: 'a'
    },
-   q1457: {
+   q1456: {
       question: "Either a constant growth rate of the money supply monetary rule, or a rule requiring the Fed to respond to changes in real GDP would reduce or eliminate",
       a: "the time inconsistency of monetary policy.",
       b: "the monetary portion of the political business cycle.",
@@ -11663,7 +11655,7 @@ let obj = {
       d: "neither the time inconsistency of monetary policy nor the monetary portion of the political business cycle.",
       ans: 'c'
    },
-   q1458: {
+   q1457: {
       question: "Consider the following two sentences. If the Fed is bound by a rule to decrease the money supply when prices increase, then when aggregate supply shifts left, their actions will reduce output further. Paul Volcker’s monetary policy in 1979 caused a rise in Jimmy Carter’s popularity.",
       a: "Only the first sentence is correct.",
       b: "Only the second sentence is correct.",
@@ -11671,7 +11663,7 @@ let obj = {
       d: "Neither sentence is correct.",
       ans: 'a'
    },
-   q1459: {
+   q1458: {
       question: "An economist would be more likely to support a program reducing inflation to zero if she believed that ",
       a: "shoeleather and menu costs were high.",
       b: "Fed policy to reduce inflation was credible.",
@@ -11679,7 +11671,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'd'
    },
-   q1460: {
+   q1459: {
       question: "A policy to reduce inflation is likely to increase unemployment in",
       a: "the short run and the long run.",
       b: "the short run but not the long run.",
@@ -11687,7 +11679,7 @@ let obj = {
       d: "neither the short nor long run.",
       ans: 'b'
    },
-   q1461: {
+   q1460: {
       question: "If people believe a central bank’s intention to decrease the inflation rate, the",
       a: "short-run Phillips curve shifts right.",
       b: "short-run Phillips curve shifts left.",
@@ -11695,7 +11687,7 @@ let obj = {
       d: "long-run Phillips curve shifts left.",
       ans: 'b'
    },
-   q1462: {
+   q1461: {
       question: "	If people in countries that have had persistently high inflation are skeptical of efforts to reduce inflation the short-run Phillips curve will remain far to the",
       a: "right, and the sacrifice ratio will be low.",
       b: "right, and the sacrifice ratio will be high.",
@@ -11703,7 +11695,7 @@ let obj = {
       d: "left, and the sacrifice ratio will be high.",
       ans: 'd'
    },
-   q1463: {
+   q1462: {
       question: "Which of the following is incorrect?",
       a: "A credible inflation reduction program can lead to a low sacrifice ratio.",
       b: "Inflation reduction programs are likely to lower employment, but unlikely to have much impact on the capital stock.",
@@ -11711,7 +11703,7 @@ let obj = {
       d: "Rewriting the tax laws could reduce some of the current costs of inflation.",
       ans: 'b'
    },
-   q1464: {
+   q1463: {
       question: "From 1980 to 1999 the debt of the U.S. federal government ",
       a: "fell by about 80%.",
       b: "fluctuated but ended up about the same.",
@@ -11719,7 +11711,7 @@ let obj = {
       d: "rose by about 400%.",
       ans: 'd'
    },
-   q1465: {
+   q1464: {
       question: "Budget deficits reduce national saving causing real interest rates",
       a: "and investment to fall.",
       b: "and investment to rise.",
@@ -11727,7 +11719,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'c'
    },
-   q1466: {
+   q1465: {
       question: "Consider the following two sentences. A policy that required a balanced budget would require the government to either increase taxes or reduce expenditures during recessions, which would tend to worsen the recessions. Funding more education spending rather then reducing the government debt could, all things considered, make future generations better-off.",
       a: "Only the first sentence is true.",
       b: "Only the second sentence is true.",
@@ -11735,7 +11727,7 @@ let obj = {
       d: "Neither sentence is true.",
       ans: 'c'
    },
-   q1467: {
+   q1466: {
       question: "Each person’s share of the government debt is about",
       a: "2% of lifetime income.",
       b: "10% of lifetime income.",
@@ -11743,7 +11735,7 @@ let obj = {
       d: "40% of lifetime income.",
       ans: 'a'
    },
-   q1468: {
+   q1467: {
       question: "Suppose that a country has a real GDP growth rate of about 1% per year and an inflation rate of about 3%. If they have nominal GDP of about 100 billion units of currency, they can have a deficit of about",
       a: "2 billion without increasing the ratio of debt to income.",
       b: "3 billion without increasing the ratio of debt to income.",
@@ -11751,7 +11743,7 @@ let obj = {
       d: "None of the above is correct.",
       ans: 'c'
    },
-   q1469: {
+   q1468: {
       question: "Double taxation means that both",
       a: "the profits of corporations and the dividends shareholders receive are taxed, which is currently the case in the United States.",
       b: "the profits of corporations and the dividends shareholders receive are taxed, which is not currently the case in the United States.",
@@ -11759,7 +11751,7 @@ let obj = {
       d: "wage income and interest income are taxed, which is not currently the case in the United States.",
       ans: 'a'
    },
-   q1470: {
+   q1469: {
       question: "U.S. public policy discourages saving because ",
       a: "other things the same, taxes reduce the return from savings.",
       b: "means tested programs such as Medicaid provide greater benefits to those who did not save.",
@@ -11767,7 +11759,7 @@ let obj = {
       d: "All of the above are correct.",
       ans: 'd'
    },
-   q1471: {
+   q1470: {
       question: "Assuming the substitution effect is large relative to the income effect, tax reform designed to increase saving,",
       a: "decreases the interest rate and spending on capital goods.",
       b: "decreases the interest rate and increases spending on capital goods.",
@@ -11775,7 +11767,7 @@ let obj = {
       d: "increases the interest rate and increases spending on capital goods.",
       ans: 'b'
    },
-   q1472: {
+   q1471: {
       question: "Tax changes that reduce taxes on interest and capital income may lower tax revenues which",
       a: "increases public saving and so increases national saving.",
       b: "increases public saving and so decreases national saving.",
@@ -11783,7 +11775,7 @@ let obj = {
       d: "decreases public saving and so decreases national saving.",
       ans: 'd'
    },
-   q1473: {
+   q1472: {
       question: "Which of the following is incorrect?",
       a: "Any tax change that favors people who save, tends to favor people with high income.",
       b: "If saving were relatively elastic with respect to tax rates, a decrease in the tax rate on income from saving may not change saving very much.",

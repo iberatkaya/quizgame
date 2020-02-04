@@ -7200,30 +7200,6 @@ let obj = {
       ans: 'a'
    },
    q900: {
-      question: "c.",
-      a: "survey.",
-      b: "correlational study.",
-      c: "A major disadvantage of the experimental method is that",
-      d: "private funding can never be obtained.",
-      ans: 'b'
-   },
-   q901: {
-      question: "b.",
-      a: "APA Ethical Review Committees often do not approve of the research techniques.",
-      b: "there is a certain amount of artificiality attached to it.",
-      c: "subjects are difficult to find for research projects.",
-      d: "A researcher determines that the crime rate in a large city fluctuates with the phases of the moon. He concludes that the gravitational pull of the moon influences human behavior. He has committed what",
-      ans: 'c'
-   },
-   q902: {
-      question: "a.",
-      a: "He incorrectly inferred correlation from causation.",
-      b: "He incorrectly inferred causation from correlation.",
-      c: "He failed to measure the gravitational pull to test his hypothesis.",
-      d: "He has overlooked the placebo effect.",
-      ans: 'b'
-   },
-   q903: {
       question: "Students who do better in high school tend to do better in college. This is an example of",
       a: "a negative correlation.",
       b: "a zero correlation.",
@@ -7231,7 +7207,7 @@ let obj = {
       d: "a perfect correlation.",
       ans: 'c'
    },
-   q904: {
+   q901: {
       question: "In the traditional learning experiment, the effect of practice on performance is investigated. Performance is the __________ variable.",
       a: "independent",
       b: "extraneous",
@@ -7239,7 +7215,7 @@ let obj = {
       d: "control",
       ans: 'c'
    },
-   q905: {
+   q902: {
       question: "Collection of observable evidence, precise definition, and replication of results all form the basis for",
       a: "scientific observation.",
       b: "the scientific method.",
@@ -7247,7 +7223,7 @@ let obj = {
       d: "hypothesis generation.",
       ans: 'b'
    },
-   q906: {
+   q903: {
       question: "An advantage of the experimental method in psychology is",
       a: "the identification of a cause- and-effect relationship.",
       b: "similar to the correlational method in that causality is determined.",
@@ -7255,7 +7231,7 @@ let obj = {
       d: "that it is an informal way to investigate behavior.",
       ans: 'a'
    },
-   q907: {
+   q904: {
       question: "A correlation coefficient of 0 means that there is",
       a: "a strong negative relationship between the two variables.",
       b: "a strong positive relationship between the two variables.",
@@ -7263,7 +7239,7 @@ let obj = {
       d: "no relationship between the two variables.",
       ans: 'd'
    },
-   q908: {
+   q905: {
       question: "The independent variable in an experiment is",
       a: "the subject himself.",
       b: "a measure of the subject's behavior.",
@@ -7271,7 +7247,7 @@ let obj = {
       d: "any unwanted variable that may adversely affect the subject's performance.",
       ans: 'c'
    },
-   q909: {
+   q906: {
       question: "In order to summarize or organize a series of observations in some meaningful way, psychologists may develop",
       a: "hypotheses.",
       b: "experiments.",
@@ -7279,7 +7255,7 @@ let obj = {
       d: "theories.",
       ans: 'd'
    },
-   q910: {
+   q907: {
       question: "Basic ethical guidelines for psychological researchers include",
       a: "ensuring that participation is involuntary.",
       b: "harming the subjects when necessary.",
@@ -7287,7 +7263,7 @@ let obj = {
       d: "providing results and interpretations to participants.",
       ans: 'd'
    },
-   q911: {
+   q908: {
       question: "Which of the following best describes a double-blind experimental procedure?",
       a: "All subjects get the experimental procedure.",
       b: "Half the subjects get the experimental procedure, half the placebo; which they receive is known only to the experimenter.",
@@ -7295,7 +7271,7 @@ let obj = {
       d: "All subjects get the control procedure.",
       ans: 'c'
    },
-   q912: {
+   q909: {
       question: "A set of exact procedures that represent particular variables is called a(n)",
       a: "abstract definition.",
       b: "operational definition.",
@@ -7303,7 +7279,7 @@ let obj = {
       d: "defining characteristic.",
       ans: 'b'
    },
-   q913: {
+   q910: {
       question: "A friend states that since he has been taking vitamin C, he has not had a single cold. His observation has little value in assessing the effects of vitamin C because",
       a: "there was no control group for comparison.",
       b: "he has not calculated a correlation coefficient.",
@@ -7311,7 +7287,7 @@ let obj = {
       d: "he does not specify his dosage of vitamin C.",
       ans: 'a'
    },
-   q914: {
+   q911: {
       question: "A simple experiment has two groups of subjects called",
       a: "the dependent group and the independent group.",
       b: "the extraneous group and the independent group.",
@@ -7319,7 +7295,7 @@ let obj = {
       d: "the control group and the experimental group.",
       ans: 'd'
    },
-   q915: {
+   q912: {
       question: "An example of the &quot;experimenter effect&quot; would be a situation in which the experimenter",
       a: "acts out the proper behavior for the subjects.",
       b: "deceives the subject as to the real purpose of the experiment.",
@@ -7327,7 +7303,7 @@ let obj = {
       d: "overtly tells the subjects how to respond.",
       ans: 'c'
    },
-   q916: {
+   q913: {
       question: "Which of the following is considered by the text to be a pseudo-psychology?",
       a: "cognitive psychology",
       b: "behaviorism",
@@ -7335,7 +7311,7 @@ let obj = {
       d: "astrology",
       ans: 'd'
    },
-   q917: {
+   q914: {
       question: "To investigate the effects of a particular study method on student performance, two different methods are tried, each with a different group of subjects. If only the experimenter knows which method is under investigation, the procedure being used is described as",
       a: "double-blind.",
       b: "single-blind.",
@@ -7343,7 +7319,7 @@ let obj = {
       d: "representative sampling.",
       ans: 'b'
    },
-   q918: {
+   q915: {
       question: "The results of carefully controlled observations of Clever Hans and his ability to solve math problems showed",
       a: "he could do math.",
       b: "he could add, but he could not subtract.",
@@ -7351,7 +7327,7 @@ let obj = {
       d: "none of these could be determined by observation.",
       ans: 'c'
    },
-   q919: {
+   q916: {
       question: "The study of unusual events is to __________ as information from a large number of people is to __________.",
       a: "clinical method; naturalistic observation",
       b: "correlational method; survey method",
@@ -7359,7 +7335,7 @@ let obj = {
       d: "clinical method; survey method",
       ans: 'd'
    },
-   q920: {
+   q917: {
       question: "One of the limitations of the survey method is",
       a: "observer bias.",
       b: "that it sets up an artificial situation.",
@@ -7367,7 +7343,7 @@ let obj = {
       d: "the self-fulfilling prophecy.",
       ans: 'c'
    },
-   q921: {
+   q918: {
       question: "I work at a university, and my research is designed to be of immediate use in the classroom. My research would be called",
       a: "basic.",
       b: "applied.",
@@ -7375,7 +7351,7 @@ let obj = {
       d: "ethical.",
       ans: 'b'
    },
-   q922: {
+   q919: {
       question: "In terms of critical thinking and testing, results should",
       a: "be incredible.",
       b: "be repeatable.",
@@ -7383,7 +7359,7 @@ let obj = {
       d: "be meta-analytical.",
       ans: 'd'
    },
-   q923: {
+   q920: {
       question: "A variable, such as the personality of a subject, that might affect the outcome of an experiment would be controlled by",
       a: "random assignment of subjects.",
       b: "assuming the effects of the variable are negligible.",
@@ -7391,7 +7367,7 @@ let obj = {
       d: "repeating the experiment several times until the results are consistent.",
       ans: 'a'
    },
-   q924: {
+   q921: {
       question: "In my experiment, I am going to investigate how sleep affects anxiety. The number of hours of sleep the subjects have is called the __________ variable.",
       a: "control",
       b: "experiential",
@@ -7399,7 +7375,7 @@ let obj = {
       d: "independent",
       ans: 'd'
    },
-   q925: {
+   q922: {
       question: "With respect to astrology, palmistry, and phrenology, it can be said that",
       a: "all are pseudo-psychology's.",
       b: "none is subject to the P. T. Barnum effect.",
@@ -7407,7 +7383,7 @@ let obj = {
       d: "astrology is the only system with a scientific basis.",
       ans: 'a'
    },
-   q926: {
+   q923: {
       question: "A major problem with the survey method is",
       a: "identifying the group to be questioned.",
       b: "obtaining a representative sample of subjects to be questioned.",
@@ -7415,7 +7391,7 @@ let obj = {
       d: "that it cannot reveal very much about significant psychological events in the lives of the people tested.",
       ans: 'b'
    },
-   q927: {
+   q924: {
       question: "An observation that the higher the air temperature, the lower the activity of test animals would be an example of a",
       a: "negative correlation.",
       b: "positive correlation.",
@@ -7423,7 +7399,7 @@ let obj = {
       d: "zero correlation.",
       ans: 'a'
    },
-   q928: {
+   q925: {
       question: "To assess clients' abilities, a phrenologist would want to",
       a: "read their handwriting.",
       b: "examine their skulls.",
@@ -7431,7 +7407,7 @@ let obj = {
       d: "record their EEGs.",
       ans: 'b'
    },
-   q929: {
+   q926: {
       question: "To replicate an experiment means to",
       a: "use control groups and experimental groups.",
       b: "use statistics to determine the effect of chance.",
@@ -7439,7 +7415,7 @@ let obj = {
       d: "repeat the experiment using either identical or improved research methods.",
       ans: 'd'
    },
-   q930: {
+   q927: {
       question: "The conditions that a researcher wishes to prevent from affecting the experiment are called",
       a: "constants.",
       b: "dependent variables.",
@@ -7447,7 +7423,7 @@ let obj = {
       d: "independent variables.",
       ans: 'c'
    },
-   q931: {
+   q928: {
       question: "One of the characteristics of the scientific method is",
       a: "repeatable results.",
       b: "top-secret information.",
@@ -7455,7 +7431,7 @@ let obj = {
       d: "emotive reasoning.",
       ans: 'a'
    },
-   q932: {
+   q929: {
       question: "In the simplest experiment, the two groups of subjects are treated exactly alike except for the __________ variable.",
       a: "independent",
       b: "dependent",
@@ -7463,7 +7439,7 @@ let obj = {
       d: "control",
       ans: 'a'
    },
-   q933: {
+   q930: {
       question: "The steps involved in the scientific method include?",
       a: "axioms",
       b: "common sense",
@@ -7471,7 +7447,7 @@ let obj = {
       d: "hypothetical theory formulation",
       ans: 'c'
    },
-   q934: {
+   q931: {
       question: "__________ is an inherent part of the scientific method.",
       a: "observation",
       b: "common sense",
@@ -7479,7 +7455,7 @@ let obj = {
       d: "analysis",
       ans: 'a'
    },
-   q935: {
+   q932: {
       question: "The story of Clever Hans, the mathematical horse, illustrates the use of controlled observation to test a series of",
       a: "hypotheses.",
       b: "theories.",
@@ -7487,7 +7463,7 @@ let obj = {
       d: "learning strategies.",
       ans: 'a'
    },
-   q936: {
+   q933: {
       question: "When subjects in an experiment are chosen so that each has an equal chance of being in either the experimental group or the control group, we say that the subjects have been assigned",
       a: "alternately.",
       b: "hypothetically.",
@@ -7495,7 +7471,7 @@ let obj = {
       d: "consecutively.",
       ans: 'c'
    },
-   q937: {
+   q934: {
       question: "The survey method involves",
       a: "an in-depth study of the opinions and attitudes of a selected individual.",
       b: "an overview of the attitudes and backgrounds of selected groups.",
@@ -7503,7 +7479,7 @@ let obj = {
       d: "careful questioning of a representative sample of people.",
       ans: 'd'
    },
-   q938: {
+   q935: {
       question: "The following type of method can be used in order to create a real world laboratory.",
       a: "correlational coefficients",
       b: "field experiment",
@@ -7511,7 +7487,7 @@ let obj = {
       d: "random assignment",
       ans: 'b'
    },
-   q939: {
+   q936: {
       question: "To be confident that a cause-and-effect relationship exists, it is necessary to",
       a: "engage in naturalistic observation.",
       b: "develop a positive correlation.",
@@ -7519,7 +7495,7 @@ let obj = {
       d: "test for a negative correlation.",
       ans: 'c'
    },
-   q940: {
+   q937: {
       question: "An experiment is performed to test the effects of sleep deprivation on rote memory. In this experiment, the dependent variable is the",
       a: "number of hours subjects go without sleep.",
       b: "rote memory scores.",
@@ -7527,7 +7503,7 @@ let obj = {
       d: "correlation between hours of sleep and fatigue.",
       ans: 'b'
    },
-   q941: {
+   q938: {
       question: "The fortune teller who studies your palm carefully before announcing that &quot;great fortune lies in your immediate future&quot; is practicing __________ psychology.",
       a: "applied",
       b: "commonsense",
@@ -7535,7 +7511,7 @@ let obj = {
       d: "forensic",
       ans: 'c'
    },
-   q942: {
+   q939: {
       question: "Research on the benefit of aspirin to prevent heart attacks used only male subjects in the sample. Both men and women are given this advice. The problem with this recommendation reflects",
       a: "gender bias.",
       b: "courtesy bias.",
@@ -7543,7 +7519,7 @@ let obj = {
       d: "age bias.",
       ans: 'a'
    },
-   q943: {
+   q940: {
       question: "To estimate the degree of the relationship between birth order and achievement motivation, a researcher would do a(n) __________ study.",
       a: "naturalistic",
       b: "inventory",
@@ -7551,7 +7527,7 @@ let obj = {
       d: "experimental",
       ans: 'c'
    },
-   q944: {
+   q941: {
       question: "In the method of naturalistic observation, psychologists",
       a: "haphazardly encounter behavior as it naturally occurs.",
       b: "set up controlled experiments by which they uncover causal elements in behavior.",
@@ -7559,7 +7535,7 @@ let obj = {
       d: "interview subjects at different ages.",
       ans: 'c'
    },
-   q945: {
+   q942: {
       question: "Two variables may be said to be causally related if",
       a: "they show a strong positive correlation.",
       b: "all extraneous variables are controlled, and the independent variable creates consistent differences in behavior of the experimental group.",
@@ -7567,7 +7543,7 @@ let obj = {
       d: "they have been observed in a laboratory setting.",
       ans: 'b'
    },
-   q946: {
+   q943: {
       question: "The problems of observers seeing only what they expect to see is called",
       a: "observer bias.",
       b: "the experimenter effect.",
@@ -7575,7 +7551,7 @@ let obj = {
       d: "the halo effect.",
       ans: 'a'
    },
-   q947: {
+   q944: {
       question: "Giving placebos in drug experiments is necessary to",
       a: "counteract the random assignment of subjects.",
       b: "counteract the side effects of the drug.",
@@ -7583,7 +7559,7 @@ let obj = {
       d: "keep control subjects from knowing they have been given the drug.",
       ans: 'c'
    },
-   q948: {
+   q945: {
       question: "Which of the following could serve as an experimental hypothesis?",
       a: "Although 25% of U.S. drivers say that they use the seatbelts in their cars, only 14% really do.",
       b: "A case history of multiple personality appeared to be caused by traumatic childhood experiences.",
@@ -7591,7 +7567,7 @@ let obj = {
       d: "As the temperature increases, the number of hit batters in baseball increases.",
       ans: 'c'
    },
-   q949: {
+   q946: {
       question: "Theories explain results, predict future outcomes, and",
       a: "rely only on naturalistic observations.",
       b: "guide research for future studies.",
@@ -7599,7 +7575,7 @@ let obj = {
       d: "rely only on case studies.",
       ans: 'b'
    },
-   q950: {
+   q947: {
       question: "Which of the following coefficients of correlation indicates the weakest relationship between two sets of variables?",
       a: "-0.29",
       b: "-1.00",
@@ -7607,23 +7583,7 @@ let obj = {
       d: "strong positive correlation.",
       ans: 'a'
    },
-   q951: {
-      question: "b.",
-      a: "strong negative correlation.",
-      b: "cause/effect relationship.",
-      c: "error in computation.",
-      d: "A representative sample is an essential element of the",
-      ans: 'd'
-   },
-   q952: {
-      question: "a.",
-      a: "survey method.",
-      b: "psychoanalytic method.",
-      c: "natural experiment or case study.",
-      d: "clinical method.",
-      ans: 'a'
-   },
-   q953: {
+   q948: {
       question: "The effects of brain injury on personality would usually be investigated by the use of the",
       a: "experimental method.",
       b: "case study method.",
@@ -7631,7 +7591,7 @@ let obj = {
       d: "survey method.",
       ans: 'b'
    },
-   q954: {
+   q949: {
       question: "One of the limitations of the case study is that",
       a: "there are few subjects for which it is applicable.",
       b: "there are no control groups.",
@@ -7639,7 +7599,7 @@ let obj = {
       d: "it requires a large and expensive sample size.",
       ans: 'b'
    },
-   q955: {
+   q950: {
       question: "A scientist wants to find out if there is empirical evidence for a relationship between caffeine and aggressive behavior. She would",
       a: "interview people to get their opinions.",
       b: "correlate newspaper accounts and the types of beverages consumed.",
@@ -7647,7 +7607,7 @@ let obj = {
       d: "research what other experts had thought.",
       ans: 'c'
    },
-   q956: {
+   q951: {
       question: "The essence of the experimental method is",
       a: "accurate calculation of correlation's.",
       b: "obtaining direct reports from subjects about their subjective experiences.",
@@ -7655,7 +7615,7 @@ let obj = {
       d: "using control to identify cause-and-effect connections.",
       ans: 'd'
    },
-   q957: {
+   q952: {
       question: "If you're trying to establish a causal relationship between a reinforcer and increased performance, you should use a(n) __________ method.",
       a: "clinical study",
       b: "experimental",
@@ -7663,7 +7623,7 @@ let obj = {
       d: "correlational",
       ans: 'b'
    },
-   q958: {
+   q953: {
       question: "In a weight-reduction experiment, an overweight individual was given what the researcher called a new type of diet pill that would help curb the desire to eat. In fact, the pill really contained powdered milk, but ever since the individual started taking the diet pill, he has reported that his desire to eat has decreased. This illustrates the",
       a: "curvilinear relationship.",
       b: "effect of extraneous variables.",
@@ -7671,7 +7631,7 @@ let obj = {
       d: "placebo effect.",
       ans: 'd'
    },
-   q959: {
+   q954: {
       question: "An educated guess about what is controlling some behavior is called",
       a: "experimental control.",
       b: "a hypothesis.",
@@ -7679,7 +7639,7 @@ let obj = {
       d: "a theory.",
       ans: 'b'
    },
-   q960: {
+   q955: {
       question: "A correlation coefficient is best characterized as a(n)",
       a: "measure of the extent of the relationship between two variables.",
       b: "index of the causal direction between an independent and dependent variable.",
@@ -7687,7 +7647,7 @@ let obj = {
       d: "measure of the likelihood that observed differences may be attributed to chance.",
       ans: 'a'
    },
-   q961: {
+   q956: {
       question: "In order to determine the cause of behavior, the questions we ask must be",
       a: "tentative.",
       b: "testable.",
@@ -7695,7 +7655,7 @@ let obj = {
       d: "novel.",
       ans: 'b'
    },
-   q962: {
+   q957: {
       question: "A common sense approach to psychology is",
       a: "the most reliable.",
       b: "often contradicted by empirical evidence.",
@@ -7703,7 +7663,7 @@ let obj = {
       d: "the basis for collecting data (observed facts).",
       ans: 'b'
    },
-   q963: {
+   q958: {
       question: "Responding to a substance like a sugar pill as if it were a drug is called",
       a: "the placebo effect.",
       b: "an extraneous factor.",
@@ -7711,7 +7671,7 @@ let obj = {
       d: "psychosomatic illness.",
       ans: 'a'
    },
-   q964: {
+   q959: {
       question: "The control group and the experimental group in an experiment are treated exactly the same except for the",
       a: "dependent variable.",
       b: "independent variable.",
@@ -7719,7 +7679,7 @@ let obj = {
       d: "replication variables.",
       ans: 'b'
    },
-   q965: {
+   q960: {
       question: "A field experiment is one that",
       a: "uses the &quot;real world&quot; as a laboratory.",
       b: "tests a field or &quot;range&quot; of independent variables.",
@@ -7727,7 +7687,7 @@ let obj = {
       d: "requires no measurement of dependent variables.",
       ans: 'a'
    },
-   q966: {
+   q961: {
       question: "Characteristics of the scientific method include",
       a: "anecdotal definition.",
       b: "controlled observation.",
@@ -7735,7 +7695,7 @@ let obj = {
       d: "adherence to inductive thinking or common sense reasoning.",
       ans: 'b'
    },
-   q967: {
+   q962: {
       question: "A correlational study is one that determines",
       a: "the relationship between the independent and the dependent variable.",
       b: "the effects of the observer on the observed.",
@@ -7743,7 +7703,7 @@ let obj = {
       d: "the relationship between two events.",
       ans: 'd'
    },
-   q968: {
+   q963: {
       question: "&quot;I am primarily interested in thinking processes; I am a __________ psychologist.&quot;",
       a: "cognitive",
       b: "learning",
@@ -7751,7 +7711,7 @@ let obj = {
       d: "personality",
       ans: 'a'
    },
-   q969: {
+   q964: {
       question: "Like Carl Rogers, I believe people choose to live more creative and meaningful lives. My name is",
       a: "Wertheimer.",
       b: "Washburn.",
@@ -7759,7 +7719,7 @@ let obj = {
       d: "Maslow.",
       ans: 'd'
    },
-   q970: {
+   q965: {
       question: "Comparative psychologists are primarily interested in",
       a: "stimulus-response connections.",
       b: "animal behavior.",
@@ -7767,7 +7727,7 @@ let obj = {
       d: "the comparison of different types of psychotherapy.",
       ans: 'b'
    },
-   q971: {
+   q966: {
       question: "Of the following, who is associated with the Gestalt school of psychology?",
       a: "Ivan Pavlov",
       b: "Max Wertheimer",
@@ -7775,7 +7735,7 @@ let obj = {
       d: "Of the following, who is a humanistic psychologist?",
       ans: 'c'
    },
-   q972: {
+   q967: {
       question: "a.",
       a: "Sigmund Freud",
       b: "Abraham Maslow",
@@ -7783,7 +7743,7 @@ let obj = {
       d: "Which of the following represents an empirical statement?",
       ans: 'b'
    },
-   q973: {
+   q968: {
       question: "a.",
       a: "Government experts agree that a future downturn in the economy is likely.",
       b: "The temperature today is higher than it was a year ago today.",
@@ -7791,7 +7751,7 @@ let obj = {
       d: "Grandmothers know best.",
       ans: 'c'
    },
-   q974: {
+   q969: {
       question: "A psychologist performs the following experiment: she gives subjects photographs of female faces and asks them to rate the attractiveness of each face. However, some of the subjects have just had to take a very difficult math test, while others have taken a very easy math test. The psychologist would probably be a __________ psychologist.",
       a: "industrial",
       b: "comparative",
@@ -7799,7 +7759,7 @@ let obj = {
       d: "social",
       ans: 'd'
    },
-   q975: {
+   q970: {
       question: "According to John Watson, introspection was",
       a: "a valid method of research.",
       b: "unscientific.",
@@ -7807,7 +7767,7 @@ let obj = {
       d: "the study of the mind in use.",
       ans: 'b'
    },
-   q976: {
+   q971: {
       question: "One of the reasons to study psychology is",
       a: "to understand the human mind and how it works.",
       b: "to learn how to manipulate others.",
@@ -7815,7 +7775,7 @@ let obj = {
       d: "to have the answers to all of life's questions.",
       ans: 'a'
    },
-   q977: {
+   q972: {
       question: "A psychologist who studies family dynamics and their effects on behavior of individuals in different regions would probably be a __________ psychologist.",
       a: "learning",
       b: "cultural",
@@ -7823,7 +7783,7 @@ let obj = {
       d: "cognitive",
       ans: 'b'
    },
-   q978: {
+   q973: {
       question: "Which of the following psychological theories is known as the one that emphasizes &quot;free will&quot;?",
       a: "psychodynamic psychology",
       b: "behaviorism",
@@ -7831,7 +7791,7 @@ let obj = {
       d: "neo-Freudian psychology",
       ans: 'c'
    },
-   q979: {
+   q974: {
       question: "The study of similarities and differences in the behavior of different species is called",
       a: "biology.",
       b: "comparative psychology.",
@@ -7839,7 +7799,7 @@ let obj = {
       d: "differential psychology.",
       ans: 'b'
    },
-   q980: {
+   q975: {
       question: "Which of the following is the best example of covert behavior?",
       a: "blinking in response to a light",
       b: "imitating a friend's gesture",
@@ -7847,7 +7807,7 @@ let obj = {
       d: "rapid eye movements while sleeping",
       ans: 'c'
    },
-   q981: {
+   q976: {
       question: "Which of the following behaviors can best be described as overt behavior?",
       a: "watching a TV game show",
       b: "thinking about the answer to a contestant's question",
@@ -7855,7 +7815,7 @@ let obj = {
       d: "wondering if there are any frozen waffles left in the freezer",
       ans: 'a'
    },
-   q982: {
+   q977: {
       question: "Which of the following statements concerning psychodynamic psychology is true?",
       a: "Freud's theories were very involved and extensive, but they ended up contributing very little to our understanding of human behavior.",
       b: "Freud's theories remain influential today and are largely unchanged from their first conceptualizations.",
@@ -7863,7 +7823,7 @@ let obj = {
       d: "Psychodynamic psychology focuses on observable behaviors.",
       ans: 'c'
    },
-   q983: {
+   q978: {
       question: "Brain mechanisms involved in hunger and thirst would most likely be studied by a",
       a: "personality theorist.",
       b: "sensory psychologist.",
@@ -7871,7 +7831,7 @@ let obj = {
       d: "biopsychologist.",
       ans: 'd'
    },
-   q984: {
+   q979: {
       question: "&quot;The whole is greater than the sum of its parts&quot; is represented by which of the following?",
       a: "the Gestalt psychologists.",
       b: "the behaviorists.",
@@ -7879,7 +7839,7 @@ let obj = {
       d: "the functionalists.",
       ans: 'a'
    },
-   q985: {
+   q980: {
       question: "The goals of psychology are to",
       a: "develop effective methods of psychotherapy.",
       b: "describe, predict, understand, and control behavior.",
@@ -7887,7 +7847,7 @@ let obj = {
       d: "compare, analyze, and control human behavior.",
       ans: 'b'
    },
-   q986: {
+   q981: {
       question: "Freud believed that all thoughts and actions are determined by",
       a: "the first year of life.",
       b: "forces in the personality that are often unconscious.",
@@ -7895,7 +7855,7 @@ let obj = {
       d: "the drive for self-actualization.",
       ans: 'b'
    },
-   q987: {
+   q982: {
       question: "The largest area of specialization among psychologists is",
       a: "industrial and organizational.",
       b: "experimental, physiological, and comparative.",
@@ -7903,7 +7863,7 @@ let obj = {
       d: "clinical and counseling.",
       ans: 'd'
    },
-   q988: {
+   q983: {
       question: "The term cognition refers to",
       a: "predicting the future.",
       b: "analysis and synthesis.",
@@ -7911,7 +7871,7 @@ let obj = {
       d: "introspection.",
       ans: 'c'
    },
-   q989: {
+   q984: {
       question: "Barbara is applying conditioning principles to teach language skills to retarded children. As a psychologist, her point of view appears to be",
       a: "Freudian.",
       b: "Gestalt.",
@@ -7919,7 +7879,7 @@ let obj = {
       d: "behaviorist.",
       ans: 'd'
    },
-   q990: {
+   q985: {
       question: "Strict behaviorists were criticized for overlooking the role that __________ plays in our lives.",
       a: "reward",
       b: "thinking",
@@ -7927,7 +7887,7 @@ let obj = {
       d: "stimuli",
       ans: 'b'
    },
-   q991: {
+   q986: {
       question: "A psychologist who is &quot;eclectic&quot; can best be described as",
       a: "rejecting determinism in favor of free will.",
       b: "cognitive rather than behavioral.",
@@ -7935,7 +7895,7 @@ let obj = {
       d: "preferring pseudo-psychological approaches.",
       ans: 'c'
    },
-   q992: {
+   q987: {
       question: "The study of mental processes such as thinking, perception, information processing, etc. is a key element in __________ psychology.",
       a: "humanistic",
       b: "cognitive",
@@ -7943,7 +7903,7 @@ let obj = {
       d: "biological",
       ans: 'b'
    },
-   q993: {
+   q988: {
       question: "Overt behavior is",
       a: "anything a person does.",
       b: "only those things a person does which you can see.",
@@ -7951,7 +7911,7 @@ let obj = {
       d: "only those things which a person can see with his/her senses.",
       ans: 'b'
    },
-   q994: {
+   q989: {
       question: "Which area in psychology would be most likely to study the phenomenon of &quot;peer influence&quot;?",
       a: "social",
       b: "comparative",
@@ -7959,7 +7919,7 @@ let obj = {
       d: "school",
       ans: 'a'
    },
-   q995: {
+   q990: {
       question: "Psychologists are all",
       a: "scientists.",
       b: "practitioners.",
@@ -7967,7 +7927,7 @@ let obj = {
       d: "either scientists or practitioners.",
       ans: 'd'
    },
-   q996: {
+   q991: {
       question: "If you were to walk into a laboratory where the effects of intense punishment on a rat's ability to form a discrimination was being studied, you would be in the lab of a __________ psychologist.",
       a: "physiological",
       b: "developmental",
@@ -7975,7 +7935,7 @@ let obj = {
       d: "social",
       ans: 'c'
    },
-   q997: {
+   q992: {
       question: "Maslow proposed a need to develop one's potential and be the best one can be, which he called",
       a: "self-image.",
       b: "self-concept.",
@@ -7983,7 +7943,7 @@ let obj = {
       d: "self-actualization.",
       ans: 'd'
    },
-   q998: {
+   q993: {
       question: "The psychodynamic view emphasizes the role of __________ in development.",
       a: "external rewards and punishments",
       b: "internal impulses, desires, and conflicts",
@@ -7991,7 +7951,7 @@ let obj = {
       d: "physiology, genetics, biochemistry, and evolution",
       ans: 'b'
    },
-   q999: {
+   q994: {
       question: "Psychology is",
       a: "the study of human origins, evolution, and cultures.",
       b: "the scientific study of behavior and mental processes of any living creature.",
@@ -7999,7 +7959,7 @@ let obj = {
       d: "the deductive study of forms and functions of human groups.",
       ans: 'b'
    },
-   q1000: {
+   q995: {
       question: "Of the following, who was a structuralist?",
       a: "John Watson",
       b: "Wilhelm Wundt",
@@ -8007,7 +7967,7 @@ let obj = {
       d: "Some modern psychodynamic theorists, or neo-Freudians, focused on",
       ans: 'c'
    },
-   q1001: {
+   q996: {
       question: "a.",
       a: "the whole.",
       b: "social motives and relationships that influence our behavior.",
@@ -8015,7 +7975,7 @@ let obj = {
       d: "observable behaviors.",
       ans: 'b'
    },
-   q1002: {
+   q997: {
       question: "Some topics in psychology are difficult to study because",
       a: "they overlap with other fields, such as law and business.",
       b: "of ethical considerations.",
@@ -8023,7 +7983,7 @@ let obj = {
       d: "of a lack of interest in human behavior.",
       ans: 'b'
    },
-   q1003: {
+   q998: {
       question: "Behaviorism helped make psychology a",
       a: "fad.",
       b: "science.",
@@ -8031,7 +7991,7 @@ let obj = {
       d: "hoax.",
       ans: 'b'
    },
-   q1004: {
+   q999: {
       question: "Psychiatrists differ from psychologists in that psychiatrists",
       a: "are physicians with a specialization in abnormal behavior and psychotherapy.",
       b: "are extensively trained in the theories and techniques of Sigmund Freud.",
@@ -8039,7 +7999,7 @@ let obj = {
       d: "have a Masters or Ph.D. degree with special training in psychological theory and research methods.",
       ans: 'a'
    },
-   q1005: {
+   q1000: {
       question: "Developmental psychologists study the effects of __________ on behavior.",
       a: "marketing",
       b: "learning disabilities",
@@ -8047,7 +8007,7 @@ let obj = {
       d: "robotics",
       ans: 'c'
    },
-   q1006: {
+   q1001: {
       question: "The kind of therapy developed by Freud is called",
       a: "Gestalt therapy.",
       b: "psychoanalysis.",
@@ -8055,7 +8015,7 @@ let obj = {
       d: "S-R therapy.",
       ans: 'b'
    },
-   q1007: {
+   q1002: {
       question: "Freud stressed the role of __________ in shaping our personalities.",
       a: "the structure of the mind",
       b: "the function of our behaviors",
@@ -8063,7 +8023,7 @@ let obj = {
       d: "the unconscious",
       ans: 'd'
    },
-   q1008: {
+   q1003: {
       question: "The &quot;father&quot; of psychology and founder of the first psychological laboratory was",
       a: "Wilhelm Wundt.",
       b: "Sigmund Freud.",
@@ -8071,7 +8031,7 @@ let obj = {
       d: "You see a psychologist and tell her that you are feeling depressed. The psychologist talks to you about your past and attempts to link your present situation with patterns developed in your childhood",
       ans: 'a'
    },
-   q1009: {
+   q1004: {
       question: "a.",
       a: "humanistic psychology",
       b: "psychodynamic psychology",
@@ -8079,7 +8039,7 @@ let obj = {
       d: "Gestalt psychology",
       ans: 'b'
    },
-   q1010: {
+   q1005: {
       question: "The structuralist school of psychology",
       a: "used introspection to analyze conscious experience.",
       b: "relied heavily on the concept of natural selection.",
@@ -8087,7 +8047,7 @@ let obj = {
       d: "used dream analysis to reveal the unconscious.",
       ans: 'a'
    },
-   q1011: {
+   q1006: {
       question: "&quot;Experience cannot be analyzed successfully into its elements&quot; would likely be said by a",
       a: "Gestalt psychology.",
       b: "behaviorist.",
@@ -8095,7 +8055,7 @@ let obj = {
       d: "functionalist.",
       ans: 'a'
    },
-   q1012: {
+   q1007: {
       question: "The key idea in the behavioristic view is that",
       a: "behavior is shaped and controlled by one's environment.",
       b: "behavior is the result of clashing forces with the personality.",
@@ -8103,7 +8063,7 @@ let obj = {
       d: "environment plays a very small role in controlling one's behavior.",
       ans: 'a'
    },
-   q1013: {
+   q1008: {
       question: "Evolutionary psychologists would study",
       a: "the biological makeup of the human mind across cultures.",
       b: "historical behavior of a single species.",
@@ -8111,7 +8071,7 @@ let obj = {
       d: "male and female trends in mating choices.",
       ans: 'b'
    },
-   q1014: {
+   q1009: {
       question: "A practitioner who is intensively trained in the theories of Freud and treats patients by talking to them is probably a",
       a: "psychiatrist.",
       b: "clinical psychologist.",
@@ -8119,7 +8079,7 @@ let obj = {
       d: "counseling psychologist.",
       ans: 'c'
    },
-   q1015: {
+   q1010: {
       question: "You see a psychologist and tell her that you are feeling depressed. The psychologist focuses on those activities you engage in currently around which you feel depressed, and she talks with you about changing these activities and thoughts that make you feel &quot;down&quot; and doing things which make you happy. This psychologist would probably belong to the __________ school of psychology.",
       a: "humanistic",
       b: "psychodynamic",
@@ -8127,7 +8087,7 @@ let obj = {
       d: "Gestalt",
       ans: 'c'
    },
-   q1016: {
+   q1011: {
       question: "A social scientist who characterizes his/her work as the study of the relationship between environmental events and the behavior they produce without regard for experience or consciousness is a",
       a: "functionalist.",
       b: "structuralist.",
@@ -8135,7 +8095,7 @@ let obj = {
       d: "behaviorist.",
       ans: 'd'
    },
-   q1017: {
+   q1012: {
       question: "The APA professional code stresses",
       a: "high levels of competence, integrity, and responsibility.",
       b: "use of the scientific method in testing hypotheses.",
@@ -8143,7 +8103,7 @@ let obj = {
       d: "cooperation with authorities when a client is suspected of a crime.",
       ans: 'a'
    },
-   q1018: {
+   q1013: {
       question: "A psychologist whose viewpoint is psychodynamic",
       a: "focuses on self-image and self-actualization to explain behavior.",
       b: "believes behavior is directed by forces within one's personality which are often unconscious.",
@@ -8151,7 +8111,7 @@ let obj = {
       d: "is usually eclectic in his practice.",
       ans: 'b'
    },
-   q1019: {
+   q1014: {
       question: "You see a psychologist and tell her that you are feeling depressed. She talks to you about the goals you have for yourself, about your image of yourself, and about the choices that you make in your life and that you could make in your life. This psychologist would probably belong to the __________ school of psychology.",
       a: "humanistic",
       b: "psychodynamic",
@@ -8159,7 +8119,7 @@ let obj = {
       d: "Gestalt",
       ans: 'a'
    },
-   q1020: {
+   q1015: {
       question: "A psychologist who studies gender issues focuses on",
       a: "learning the differences between the sexes and how they develop.",
       b: "cultural and family relationships.",
@@ -8167,7 +8127,7 @@ let obj = {
       d: "cognitive processes.",
       ans: 'a'
    },
-   q1021: {
+   q1016: {
       question: "__________ psychology is concerned with thinking, language, and problem solving.",
       a: "Behavioristic",
       b: "Psychoanalytic",
@@ -8175,7 +8135,7 @@ let obj = {
       d: "Humanistic",
       ans: 'c'
    },
-   q1022: {
+   q1017: {
       question: "Eclectic psychologists are known for",
       a: "studying the brain and nervous system.",
       b: "drawing on a variety of theoretical views.",
@@ -8183,7 +8143,7 @@ let obj = {
       d: "stressing the role of the unconscious.",
       ans: 'b'
    },
-   q1023: {
+   q1018: {
       question: "Psychology is considered a science because it",
       a: "gains information through new methods and technology.",
       b: "accepts what seems plausible and sensible.",
@@ -8191,7 +8151,7 @@ let obj = {
       d: "studies animal as well as human behavior.",
       ans: 'c'
    },
-   q1024: {
+   q1019: {
       question: "Covert behavior is",
       a: "anything a person does.",
       b: "only those things a person does which you can see.",
@@ -8199,7 +8159,7 @@ let obj = {
       d: "only those things which are not observable by others.",
       ans: 'd'
    },
-   q1025: {
+   q1020: {
       question: "Who among the following can prescribe drugs to treat emotional problems?",
       a: "psychiatrist",
       b: "social worker",
@@ -8207,7 +8167,7 @@ let obj = {
       d: "Gestalt therapist",
       ans: 'a'
    },
-   q1026: {
+   q1021: {
       question: "The proper use of reward, punishment, and behavior modification are results of",
       a: "functionalism.",
       b: "humanism.",
@@ -8215,7 +8175,7 @@ let obj = {
       d: "behaviorism.",
       ans: 'd'
    },
-   q1027: {
+   q1022: {
       question: "The eclectic approach",
       a: "stresses the Gestalt perspective.",
       b: "emphasizes structuralist principles.",
@@ -8223,7 +8183,7 @@ let obj = {
       d: "has disappeared entirely as a perspective in psychology.",
       ans: 'c'
    },
-   q1028: {
+   q1023: {
       question: "Repression refers to",
       a: "thoughts mistakenly held out of awareness.",
       b: "thoughts actively held out of awareness.",
@@ -8231,7 +8191,7 @@ let obj = {
       d: "the fact that all thoughts, emotions, and actions are determined.",
       ans: 'b'
    },
-   q1029: {
+   q1024: {
       question: "Psychologists use animals in experiments in order to",
       a: "avoid using unreliable human subjects.",
       b: "comply with government prohibitions against any unpleasant experiments using human subjects.",
@@ -8239,7 +8199,7 @@ let obj = {
       d: "eliminate the effect of the anthropomorphic fallacy.",
       ans: 'c'
    },
-   q1030: {
+   q1025: {
       question: "A common sense approach to psychology is",
       a: "the most reliable.",
       b: "often contradicted by empirical evidence.",
@@ -8247,7 +8207,7 @@ let obj = {
       d: "the basis for collecting data (observed facts).",
       ans: 'b'
    },
-   q1031: {
+   q1026: {
       question: "Of the theorists listed below, who helped to develop the humanistic approach in psychology?",
       a: "Rogers",
       b: "Skinner",
@@ -8255,7 +8215,7 @@ let obj = {
       d: "Freud",
       ans: 'a'
    },
-   q1032: {
+   q1027: {
       question: "William James wrote Principles of Psychology and founded",
       a: "structuralism.",
       b: "functionalism.",
@@ -8263,7 +8223,7 @@ let obj = {
       d: "humanism.",
       ans: 'b'
    },
-   q1033: {
+   q1028: {
       question: "__________ focus their work on the attempt to explain all behavior in terms of internal physical mechanisms.",
       a: "Biopsychologists",
       b: "Behaviorists",
@@ -8271,7 +8231,7 @@ let obj = {
       d: "Humanists",
       ans: 'a'
    },
-   q1034: {
+   q1029: {
       question: "Psychodynamic psychology differs from other approaches because it is based on",
       a: "animal rather than human models.",
       b: "thoughts and impulses outside of conscious experience.",
@@ -8279,7 +8239,7 @@ let obj = {
       d: "laboratory studies in controlled settings.",
       ans: 'b'
    },
-   q1035: {
+   q1030: {
       question: "The humanistic viewpoint emphasizes",
       a: "free will, self-image, and self-actualization.",
       b: "determinism, the unconscious, and biological drives.",
@@ -8287,7 +8247,7 @@ let obj = {
       d: "the idea that &quot;the environment is the key causal matrix.&quot;",
       ans: 'a'
    },
-   q1036: {
+   q1031: {
       question: "According to John B. Watson, psychology is the study of",
       a: "the mind.",
       b: "conscious experience.",
@@ -8295,7 +8255,7 @@ let obj = {
       d: "behavior.",
       ans: 'd'
    },
-   q1037: {
+   q1032: {
       question: "&quot;I seek to understand the principles whereby a child develops the ability to think, speak, perceive, and learn.&quot; This statement identifies one as a __________ psychologist.",
       a: "physiological",
       b: "social",
@@ -8303,7 +8263,7 @@ let obj = {
       d: "sensory/perceptual",
       ans: 'c'
    },
-   q1038: {
+   q1033: {
       question: "Behavior is",
       a: "anything a person does.",
       b: "only those things a person does which you can see.",
@@ -8311,7 +8271,7 @@ let obj = {
       d: "only those things which a person can see with his/her senses.",
       ans: 'a'
    },
-   q1039: {
+   q1034: {
       question: "According to the __________ view, the need for love, self-esteem, belonging, self expression, and creativity are as important as biological needs.",
       a: "psychodynamic",
       b: "behavioristic",
@@ -8319,7 +8279,7 @@ let obj = {
       d: "cognitive",
       ans: 'c'
    },
-   q1040: {
+   q1035: {
       question: "Biopsychologists",
       a: "limit the scope of their study to animals.",
       b: "are concerned with self-actualization and free will.",
@@ -8327,7 +8287,7 @@ let obj = {
       d: "attempt to explain behavior in terms of biological or physical mechanisms.",
       ans: 'd'
    },
-   q1041: {
+   q1036: {
       question: "Which of the following best describes Maslow's concept of self-actualization?",
       a: "the need to protect one's self-image through self-deception",
       b: "the need to feel a part of a higher spiritual order",
@@ -8335,7 +8295,7 @@ let obj = {
       d: "self-actualization",
       ans: 'c'
    },
-   q1042: {
+   q1037: {
       question: "Which view of human nature is considered to be the most philosophical and the least scientific?",
       a: "behaviorism",
       b: "cognitive psychology",
@@ -8343,7 +8303,7 @@ let obj = {
       d: "psychoanalysis",
       ans: 'c'
    },
-   q1043: {
+   q1038: {
       question: "In bright light, the iris __________ and the pupil __________ to control the amount of light entering the eye.",
       a: "expands; constricts",
       b: "constricts; expands",
@@ -8351,7 +8311,7 @@ let obj = {
       d: "constricts; focuses",
       ans: 'a'
    },
-   q1044: {
+   q1039: {
       question: "The pain-killing effects of acupuncture may be related to",
       a: "sensory adaptation.",
       b: "stabilization of physiological nystagmus.",
@@ -8359,7 +8319,7 @@ let obj = {
       d: "release of endorphins.",
       ans: 'd'
    },
-   q1045: {
+   q1040: {
       question: "Information picked up by the body's receptor cells is termed",
       a: "cognition",
       b: "perception.",
@@ -8367,7 +8327,7 @@ let obj = {
       d: "sensation.",
       ans: 'd'
    },
-   q1046: {
+   q1041: {
       question: "The function of the lens is to",
       a: "locate an image.",
       b: "focus an image on the retina.",
@@ -8375,7 +8335,7 @@ let obj = {
       d: "project an image on the cornea.",
       ans: 'b'
    },
-   q1047: {
+   q1042: {
       question: "Hearing aids are of no use to an individual with __________ deafness.",
       a: "ossicle",
       b: "nerve",
@@ -8383,7 +8343,7 @@ let obj = {
       d: "auditory",
       ans: 'b'
    },
-   q1048: {
+   q1043: {
       question: "Information processed below the normal level of awareness is called",
       a: "adaptive.",
       b: "subnormal.",
@@ -8391,7 +8351,7 @@ let obj = {
       d: "subliminal.",
       ans: 'd'
    },
-   q1049: {
+   q1044: {
       question: "The idea that the amount of change in a stimulus necessary to produce a JND is a constant proportion of the stimulus intensity is called",
       a: "James' law.",
       b: "the all-or-none principle.",
@@ -8399,7 +8359,7 @@ let obj = {
       d: "Weber's law.",
       ans: 'd'
    },
-   q1050: {
+   q1045: {
       question: "Neural circuits of many sensory systems",
       a: "respond to specific stimulus patterns.",
       b: "respond to the whole visual field.",
@@ -8407,7 +8367,7 @@ let obj = {
       d: "develop only after birth.",
       ans: 'a'
    },
-   q1051: {
+   q1046: {
       question: "A researcher presents two lights of varying brightness to a subject who is asked to respond &quot;same&quot; or &quot;different&quot; by comparing their intensities. The researcher is seeking the",
       a: "just noticeable difference.",
       b: "absolute threshold.",
@@ -8415,7 +8375,7 @@ let obj = {
       d: "minimal threshold.",
       ans: 'a'
    },
-   q1052: {
+   q1047: {
       question: "Seeing out of the corner of your eye, often important in sports activities and driving, is called",
       a: "tunnel vision.",
       b: "peripheral vision.",
@@ -8423,7 +8383,7 @@ let obj = {
       d: "feature detection.",
       ans: 'b'
    },
-   q1053: {
+   q1048: {
       question: "Brain cells that analyze incoming sensory information into lines, angles, shading, and movement are called",
       a: "sight cells.",
       b: "second stage sensors.",
@@ -8431,7 +8391,7 @@ let obj = {
       d: "vision neurons.",
       ans: 'c'
    },
-   q1054: {
+   q1049: {
       question: "Which would represent the greatest loss to a professional wine taster or chef?",
       a: "vestibular loss",
       b: "injury to the pinna",
@@ -8439,7 +8399,7 @@ let obj = {
       d: "injury to the cochlea",
       ans: 'c'
    },
-   q1055: {
+   q1050: {
       question: "Photoreceptors are the __________ sensitive cells that line the retina.",
       a: "wide band",
       b: "narrow band",
@@ -8447,7 +8407,7 @@ let obj = {
       d: "light",
       ans: 'd'
    },
-   q1056: {
+   q1051: {
       question: "Difference thresholds",
       a: "occur when we can first detect some stimulus.",
       b: "occur when we can detect the change in the intensity of a stimulus.",
@@ -8455,7 +8415,7 @@ let obj = {
       d: "are measured in Judgmental Normal Differences.",
       ans: 'b'
    },
-   q1057: {
+   q1052: {
       question: "It is now believed that subliminal advertising",
       a: "is a powerful influence and should be legally controlled.",
       b: "is effective only when used in wide-screen movies.",
@@ -8463,7 +8423,7 @@ let obj = {
       d: "has a weak effect, if any at all.",
       ans: 'd'
    },
-   q1058: {
+   q1053: {
       question: "In order for a frog's visual &quot;bug-detector&quot; to work, the bug must be",
       a: "colored.",
       b: "coming closer to the frog.",
@@ -8471,7 +8431,7 @@ let obj = {
       d: "moving.",
       ans: 'd'
    },
-   q1059: {
+   q1054: {
       question: "Subliminal perception",
       a: "involves the presentation of stimuli too rapidly or too weakly to be consciously recognized.",
       b: "has not been used by advertisers in an attempt to increase sales.",
@@ -8479,7 +8439,7 @@ let obj = {
       d: "changes an individual's intended behavior.",
       ans: 'a'
    },
-   q1060: {
+   q1055: {
       question: "A visual defect known as astigmatism is the result of",
       a: "an eyeball that is too short.",
       b: "an eyeball that is too long.",
@@ -8487,7 +8447,7 @@ let obj = {
       d: "a misshapen cornea or lens.",
       ans: 'd'
    },
-   q1061: {
+   q1056: {
       question: "Which sensory receptor is found in greatest numbers in the skin?",
       a: "touch receptors",
       b: "warmth receptors",
@@ -8495,7 +8455,7 @@ let obj = {
       d: "pain receptors",
       ans: 'd'
    },
-   q1062: {
+   q1057: {
       question: "Frequency is to __________ as amplitude is to __________.",
       a: "compression; rarefaction",
       b: "rarefaction; compression",
@@ -8503,7 +8463,7 @@ let obj = {
       d: "loudness; pitch",
       ans: 'c'
    },
-   q1063: {
+   q1058: {
       question: "Limen refers to",
       a: "a threshold.",
       b: "perceptual defense.",
@@ -8511,7 +8471,7 @@ let obj = {
       d: "subliminal messages.",
       ans: 'a'
    },
-   q1064: {
+   q1059: {
       question: "The process where the lens of the eye changes shape is called",
       a: "accommodation.",
       b: "plasticity.",
@@ -8519,7 +8479,7 @@ let obj = {
       d: "regulation.",
       ans: 'a'
    },
-   q1065: {
+   q1060: {
       question: "Hearing loss caused when the eardrums or ossicles are damaged by disease or injury is called",
       a: "Hunter's notch.",
       b: "conduction deafness.",
@@ -8527,7 +8487,7 @@ let obj = {
       d: "nerve deafness.",
       ans: 'b'
    },
-   q1066: {
+   q1061: {
       question: "The incoming flow of information from our sensory systems is referred to as",
       a: "sensation.",
       b: "perception.",
@@ -8535,7 +8495,7 @@ let obj = {
       d: "cognition.",
       ans: 'a'
    },
-   q1067: {
+   q1062: {
       question: "What sensory organs responsible for balance are also related to motion sickness?",
       a: "ciliary muscles.",
       b: "the cochlea.",
@@ -8543,7 +8503,7 @@ let obj = {
       d: "the semicircular canals",
       ans: 'd'
    },
-   q1068: {
+   q1063: {
       question: "The cones of the retina",
       a: "are densely packed in an area called the fovea.",
       b: "are specialized for black and white sensations.",
@@ -8551,7 +8511,7 @@ let obj = {
       d: "are not well specialized for fine detail.",
       ans: 'a'
    },
-   q1069: {
+   q1064: {
       question: "The organ of hearing, where sensitive cells respond to auditory stimuli, is known as the",
       a: "auditory ossicles.",
       b: "retina.",
@@ -8559,7 +8519,7 @@ let obj = {
       d: "oval window.",
       ans: 'c'
    },
-   q1070: {
+   q1065: {
       question: "Myopia is the condition of the eyes in which the person cannot",
       a: "focus on distant objects.",
       b: "see very well in dim illumination.",
@@ -8567,7 +8527,7 @@ let obj = {
       d: "see clearly because the lens is pigmented.",
       ans: 'a'
    },
-   q1071: {
+   q1066: {
       question: "The iris controls the",
       a: "thickness of the lens.",
       b: "size of the pupil.",
@@ -8575,7 +8535,7 @@ let obj = {
       d: "distance between the lens and retina.",
       ans: 'b'
    },
-   q1072: {
+   q1067: {
       question: "Brain cells that analyze incoming sensory information into lines, angles, shading and movement are called",
       a: "sight cells.",
       b: "second stage sensors.",
@@ -8583,7 +8543,7 @@ let obj = {
       d: "vision neurons.",
       ans: 'c'
    },
-   q1073: {
+   q1068: {
       question: "The psychological dimension corresponding to the amplitude of light waves is",
       a: "hue.",
       b: "brightness.",
@@ -8591,7 +8551,7 @@ let obj = {
       d: "timbre.",
       ans: 'b'
    },
-   q1074: {
+   q1069: {
       question: "Sense receptors are biological transducers, which means that they",
       a: "select from a broad range of stimulation.",
       b: "analyze the environment into important features.",
@@ -8599,7 +8559,7 @@ let obj = {
       d: "detect only a limited range of energies.",
       ans: 'c'
    },
-   q1075: {
+   q1070: {
       question: "Airborne chemical signals which greatly affect mating, sexual behavior, and territorial marking among animals are called",
       a: "hormones.",
       b: "pheromones.",
@@ -8607,7 +8567,7 @@ let obj = {
       d: "lock and key signals.",
       ans: 'b'
    },
-   q1076: {
+   q1071: {
       question: "In the eye, focusing is accomplished by",
       a: "changing the thickness of the cornea.",
       b: "relaxing or constricting the fovea.",
@@ -8615,7 +8575,7 @@ let obj = {
       d: "changing the thickness (or shape) of the lens.",
       ans: 'd'
    },
-   q1077: {
+   q1072: {
       question: "Which theory of hearing explains the perception of higher sounds?",
       a: "tone",
       b: "place",
@@ -8623,7 +8583,7 @@ let obj = {
       d: "auditory",
       ans: 'b'
    },
-   q1078: {
+   q1073: {
       question: "Which theory of color vision is correct?",
       a: "opponent-process",
       b: "trichromatic",
@@ -8631,7 +8591,7 @@ let obj = {
       d: "both opponent-process and trichromatic",
       ans: 'd'
    },
-   q1079: {
+   q1074: {
       question: "Visual acuity is best when",
       a: "an image falls on the rods.",
       b: "colors at the edges of the visible spectrum are used.",
@@ -8639,7 +8599,7 @@ let obj = {
       d: "both the rods and the cones are used.",
       ans: 'c'
    },
-   q1080: {
+   q1075: {
       question: "Skin mapping indicates that",
       a: "the forearm is the most sensitive area of the body.",
       b: "skin receptors are found in varying concentrations, reflecting the sensitivity of the body areas.",
@@ -8647,7 +8607,7 @@ let obj = {
       d: "temperature sensitivity is greatest in the chest and trunk areas.",
       ans: 'b'
    },
-   q1081: {
+   q1076: {
       question: "When an image is stabilized on the retina, after a brief period of time the image",
       a: "is seen with normal visual acuity.",
       b: "is seen with better than normal acuity.",
@@ -8655,7 +8615,7 @@ let obj = {
       d: "becomes distorted in shape and color.",
       ans: 'c'
    },
-   q1082: {
+   q1077: {
       question: "Visual perception is ultimately a function of the",
       a: "muscular movements of the eye.",
       b: "neural activity of the rods and cones.",
@@ -8663,7 +8623,7 @@ let obj = {
       d: "neural activity in the brain.",
       ans: 'd'
    },
-   q1083: {
+   q1078: {
       question: "The part of the eye where the optic nerve leaves the eye is called the",
       a: "lens.",
       b: "retina.",
@@ -8671,7 +8631,7 @@ let obj = {
       d: "pupil.",
       ans: 'c'
    },
-   q1084: {
+   q1079: {
       question: "The point at which a change in sensory stimulation is detected is called the",
       a: "absolute threshold.",
       b: "psychophysical equation.",
@@ -8679,7 +8639,7 @@ let obj = {
       d: "Weber Effect.",
       ans: 'c'
    },
-   q1085: {
+   q1080: {
       question: "Night vision is mainly due to an increase in",
       a: "rhodopsin.",
       b: "visual acuity.",
@@ -8687,7 +8647,7 @@ let obj = {
       d: "the sensitivity of the lens.",
       ans: 'a'
    },
-   q1086: {
+   q1081: {
       question: "The vestibular sense helps keep us from",
       a: "eating too much.",
       b: "starving to death.",
@@ -8695,7 +8655,7 @@ let obj = {
       d: "falling over.",
       ans: 'd'
    },
-   q1087: {
+   q1082: {
       question: "The minimum amount of energy needed for a sensation to occur is called",
       a: "the absolute threshold.",
       b: "a transducer.",
@@ -8703,7 +8663,7 @@ let obj = {
       d: "minimal level.",
       ans: 'a'
    },
-   q1088: {
+   q1083: {
       question: "The electromagnetic spectrum includes visible light, infrared and ultraviolet light, radio waves, and",
       a: "a broad range of nerve impulses.",
       b: "television broadcasts, gamma rays, and other energies.",
@@ -8711,7 +8671,7 @@ let obj = {
       d: "many kinds of nerve impulses.",
       ans: 'b'
    },
-   q1089: {
+   q1084: {
       question: "Which of the following is a skin sensation?",
       a: "oomami",
       b: "olfaction",
@@ -8719,7 +8679,7 @@ let obj = {
       d: "gravity",
       ans: 'c'
    },
-   q1090: {
+   q1085: {
       question: "Taste buds sensitive to sweet substances are found primarily on the __________ of the tongue.",
       a: "tip",
       b: "side",
@@ -8727,7 +8687,7 @@ let obj = {
       d: "middle",
       ans: 'a'
    },
-   q1091: {
+   q1086: {
       question: "The stimuli for audition are",
       a: "sound pressure waves.",
       b: "transduction waves.",
@@ -8735,7 +8695,7 @@ let obj = {
       d: "auditrons.",
       ans: 'a'
    },
-   q1092: {
+   q1087: {
       question: "The __________ theory explains that hearing high or low tones depends upon which area of the cochlea is most strongly stimulated.",
       a: "tone",
       b: "place",
@@ -8743,7 +8703,7 @@ let obj = {
       d: "auditory",
       ans: 'b'
    },
-   q1093: {
+   q1088: {
       question: "Kinesthetic sensation results from",
       a: "receptors in the inner ear that signal balance.",
       b: "receptors in the skin.",
@@ -8751,7 +8711,7 @@ let obj = {
       d: "receptors in the muscles and joints responding to movement.",
       ans: 'd'
    },
-   q1094: {
+   q1089: {
       question: "The stapes is attached to a second membrane, or drumhead, called the __________. As this moves back and forth, it makes waves in a fluid within the __________.",
       a: "cochlea; eardrum",
       b: "eardrum; tympanic membrane",
@@ -8759,7 +8719,7 @@ let obj = {
       d: "oval window; cochlea",
       ans: 'd'
    },
-   q1095: {
+   q1090: {
       question: "The conversion of electromagnetic energy into a neural impulse involves",
       a: "feature analysis.",
       b: "phosphenes.",
@@ -8767,7 +8727,7 @@ let obj = {
       d: "localization of function.",
       ans: 'c'
    },
-   q1096: {
+   q1091: {
       question: "The three auditory ossicles are the malleus, incus, and the",
       a: "stapes.",
       b: "anvil.",
@@ -8775,7 +8735,7 @@ let obj = {
       d: "organ of Corti.",
       ans: 'a'
    },
-   q1097: {
+   q1092: {
       question: "The amount of change necessary in a given stimulus to produce a just noticeable difference is a constant proportion of the original stimulus. This defines",
       a: "perceptual constancy.",
       b: "perceptual set.",
@@ -8783,7 +8743,7 @@ let obj = {
       d: "psychophysics.",
       ans: 'c'
    },
-   q1098: {
+   q1093: {
       question: "Sense organs in the joints and muscles contribute to our __________ sense.",
       a: "skin",
       b: "kinesthetic",
@@ -8791,7 +8751,7 @@ let obj = {
       d: "temperature",
       ans: 'b'
    },
-   q1099: {
+   q1094: {
       question: "Humans respond to different wavelengths of light by experiencing differing",
       a: "hues.",
       b: "levels of brightness.",
@@ -8799,7 +8759,7 @@ let obj = {
       d: "amplitudes.",
       ans: 'a'
    },
-   q1100: {
+   q1095: {
       question: "The part of the eye that focuses the image is called the",
       a: "lens.",
       b: "retina.",
@@ -8807,7 +8767,7 @@ let obj = {
       d: "pupil.",
       ans: 'a'
    },
-   q1101: {
+   q1096: {
       question: "The scientific term for farsightedness is",
       a: "hyperopia.",
       b: "myopia.",
@@ -8815,7 +8775,7 @@ let obj = {
       d: "astigmatism.",
       ans: 'a'
    },
-   q1102: {
+   q1097: {
       question: "Olfaction is another name for the sense of",
       a: "taste.",
       b: "smell.",
@@ -8823,7 +8783,7 @@ let obj = {
       d: "vision.",
       ans: 'b'
    },
-   q1103: {
+   q1098: {
       question: "The three small bones of the inner ear are called the",
       a: "cochlear bones.",
       b: "tympanic bones.",
@@ -8831,7 +8791,7 @@ let obj = {
       d: "auditory ossicles.",
       ans: 'd'
    },
-   q1104: {
+   q1099: {
       question: "That humans are not visually sensitive to ultraviolet radiation suggests that sensory systems function as",
       a: "transducers.",
       b: "encoding systems.",
@@ -8839,7 +8799,7 @@ let obj = {
       d: "data reduction systems.",
       ans: 'd'
    },
-   q1105: {
+   q1100: {
       question: "Which of the following body areas is most sensitive to pain?",
       a: "the buttocks",
       b: "the cheek",
@@ -8847,7 +8807,7 @@ let obj = {
       d: "behind the knee",
       ans: 'b'
    },
-   q1106: {
+   q1101: {
       question: "Subliminal perception",
       a: "involves the presentation of stimuli rapidly but strong enough to be consciously recognized.",
       b: "has been used by advertising companies and politicians in an attempt to increase sales or change opinions.",
@@ -8855,7 +8815,7 @@ let obj = {
       d: "has been shown to make people by popcorn when used in movie theaters.",
       ans: 'b'
    },
-   q1107: {
+   q1102: {
       question: "Taste buds are mainly located",
       a: "near the back of the tongue.",
       b: "near the tip of the tongue.",
@@ -8863,7 +8823,7 @@ let obj = {
       d: "on the top side of the tongue especially around the edges.",
       ans: 'd'
    },
-   q1108: {
+   q1103: {
       question: "According to Weber's Law, if two light bulbs must go out in a room in which twenty are burning to make the room noticeably dimmer, then a room in which forty are burning will become noticeably dimmer when __________ bulbs go out.",
       a: "two",
       b: "four",
@@ -8871,7 +8831,7 @@ let obj = {
       d: "eight",
       ans: 'b'
    },
-   q1109: {
+   q1104: {
       question: "The most widely accepted explanation for motion sickness is provided by",
       a: "dynamic movement theory.",
       b: "sensory conflict theory.",
@@ -8879,7 +8839,7 @@ let obj = {
       d: "the Gestalt principles of perception.",
       ans: 'b'
    },
-   q1110: {
+   q1105: {
       question: "Sensory adaptation refers to a decrease in sensory response that accompanies",
       a: "perceptual defense.",
       b: "threshold shifts.",
@@ -8887,7 +8847,7 @@ let obj = {
       d: "selective attention.",
       ans: 'c'
    },
-   q1111: {
+   q1106: {
       question: "In the auditory system, the first anatomical structure to respond to the sound wave is/are the",
       a: "auditory ossicles.",
       b: "cochlea.",
@@ -8895,7 +8855,7 @@ let obj = {
       d: "round window.",
       ans: 'c'
    },
-   q1112: {
+   q1107: {
       question: "The ringing sensation following exposure to loud sounds is called",
       a: "olfaction.",
       b: "tinnitus.",
@@ -8903,7 +8863,7 @@ let obj = {
       d: "gustation.",
       ans: 'b'
    },
-   q1113: {
+   q1108: {
       question: "Messages from the body's pain warning system",
       a: "close the spinal gate directly.",
       b: "pass through the pain gate and on to a &quot;central biasing system.&quot;",
@@ -8911,7 +8871,7 @@ let obj = {
       d: "are processed in the right hemisphere.",
       ans: 'a'
    },
-   q1114: {
+   q1109: {
       question: "That you do not hear the traffic outside your psychology class because you are engrossed in the lecture is a good example of",
       a: "sensory gating.",
       b: "sensory adaptation.",
@@ -8919,7 +8879,7 @@ let obj = {
       d: "selective detention.",
       ans: 'c'
    },
-   q1115: {
+   q1110: {
       question: "The __________ theory explains how sounds up to 4000 hertz reach the brain.",
       a: "place",
       b: "auditory",
@@ -8927,7 +8887,7 @@ let obj = {
       d: "tone",
       ans: 'c'
    },
-   q1116: {
+   q1111: {
       question: "The final step (within the ear) required to convert vibrations into sound sensations is movement of the",
       a: "hair cells.",
       b: "cochlea.",
@@ -8935,7 +8895,7 @@ let obj = {
       d: "ossicles.",
       ans: 'a'
    },
-   q1117: {
+   q1112: {
       question: "A system is developed where a television camera produces an &quot;image&quot; of touch points applied to the back of a blind person. Such a system involves",
       a: "a conversion of light into JNDs.",
       b: "transducing light into pressure.",
@@ -8943,7 +8903,7 @@ let obj = {
       d: "applying the &quot;lock and key&quot; theory of touch.",
       ans: 'b'
    },
-   q1118: {
+   q1113: {
       question: "When you were in seventh grade, you had to get glasses because you could not see the board at school. Your vision problem is called",
       a: "hyperopia.",
       b: "astigmatism.",
@@ -8951,7 +8911,7 @@ let obj = {
       d: "myopia.",
       ans: 'd'
    },
-   q1119: {
+   q1114: {
       question: "A popular theory of olfaction which states that odors are related to the shapes of chemical molecules is the __________ theory.",
       a: "flavor/fragrance",
       b: "place",
@@ -8959,7 +8919,7 @@ let obj = {
       d: "frequency",
       ans: 'c'
    },
-   q1120: {
+   q1115: {
       question: "Which theory of hearing explains the perception of lower sounds?",
       a: "tone",
       b: "place",
@@ -8967,7 +8927,7 @@ let obj = {
       d: "auditory",
       ans: 'c'
    },
-   q1121: {
+   q1116: {
       question: "Film is to camera as __________ is to eye.",
       a: "retina",
       b: "iris",
@@ -8975,7 +8935,7 @@ let obj = {
       d: "pupil",
       ans: 'a'
    },
-   q1122: {
+   q1117: {
       question: "New mothers who are emotionally depressed take longer than non-depressed women to recognize pictures related to pregnancy, birth, and babies. This is an example of",
       a: "aversive stimulation.",
       b: "perceptual defense.",
@@ -8983,7 +8943,7 @@ let obj = {
       d: "unconscious guard.",
       ans: 'b'
    },
-   q1123: {
+   q1118: {
       question: "One of the characteristics that all sensory systems have in common is",
       a: "electromagnetic sensitivity.",
       b: "transduction.",
@@ -8991,7 +8951,7 @@ let obj = {
       d: "corticalization.",
       ans: 'b'
    },
-   q1124: {
+   q1119: {
       question: "A &quot;silent&quot; dog whistle takes advantage of a characteristic of sensory systems known as",
       a: "the absolute threshold.",
       b: "the difference threshold.",
@@ -8999,7 +8959,7 @@ let obj = {
       d: "a just noticeable difference.",
       ans: 'a'
    },
-   q1125: {
+   q1120: {
       question: "Skin senses, kinesthetic senses, and vestibular senses comprise which sense system?",
       a: "perceptual feedback system",
       b: "somesthetic sense system",
@@ -9007,7 +8967,7 @@ let obj = {
       d: "motion sense system",
       ans: 'b'
    },
-   q1126: {
+   q1121: {
       question: "Melzack and Wall's theory that some pain messages can block other pain messages is called",
       a: "physiological nystagmus.",
       b: "endorphin theory.",
@@ -9015,7 +8975,7 @@ let obj = {
       d: "receptor interlocking.",
       ans: 'c'
    },
-   q1127: {
+   q1122: {
       question: "The theory of color vision which states that the visual system analyzes information into &quot;either-or&quot; messages is the __________ theory.",
       a: "opponent-process",
       b: "trichromatic",
@@ -9023,7 +8983,7 @@ let obj = {
       d: "polaroid",
       ans: 'a'
    },
-   q1128: {
+   q1123: {
       question: "__________ is concerned with relating changes in physical stimuli to corresponding psychological sensations.",
       a: "Physiological psychology",
       b: "Psychokinesis",
@@ -9031,7 +8991,7 @@ let obj = {
       d: "Psychometry",
       ans: 'c'
    },
-   q1129: {
+   q1124: {
       question: "Black and white vision with greatest sensitivity under low levels of illumination describes the function of",
       a: "the cones.",
       b: "the visual pigments.",
@@ -9039,7 +8999,7 @@ let obj = {
       d: "the phosphenes.",
       ans: 'c'
    },
-   q1130: {
+   q1125: {
       question: "The fact that we see negative afterimages supports which theory of color vision?",
       a: "opponent-process",
       b: "trichromatic",
@@ -9047,7 +9007,7 @@ let obj = {
       d: "both opponent-process and trichromatic",
       ans: 'a'
    },
-   q1131: {
+   q1126: {
       question: "One of the more touch-sensitive areas of the human body is the",
       a: "face.",
       b: "thigh.",
@@ -9055,7 +9015,7 @@ let obj = {
       d: "upper arm.",
       ans: 'a'
    },
-   q1132: {
+   q1127: {
       question: "Unpleasant stimuli may raise the threshold for recognition. This phenomenon is called",
       a: "aversive stimulation.",
       b: "absolute threshold.",
@@ -9063,7 +9023,7 @@ let obj = {
       d: "unconscious guard.",
       ans: 'c'
    },
-   q1133: {
+   q1128: {
       question: "After a musical concert that you enjoyed without distraction, a companion complains that she heard little of the music due to frequent shuffling and throat-clearing in the audience. The difference in your experience and hers is related to",
       a: "just noticeable differences.",
       b: "subliminal thresholds.",
@@ -9071,7 +9031,7 @@ let obj = {
       d: "selective attention.",
       ans: 'd'
    },
-   q1134: {
+   q1129: {
       question: "Sensory adaptation is normally most rapid for the sense of",
       a: "vision.",
       b: "olfaction.",
@@ -9079,7 +9039,7 @@ let obj = {
       d: "kinesthesis.",
       ans: 'b'
    },
-   q1135: {
+   q1130: {
       question: "Visual problems such as nearsightedness, farsightedness, and astigmatism are the result of",
       a: "irregularities in the visual cortex.",
       b: "nutritional or traumatic damage to the sensory nerves.",
@@ -9087,7 +9047,7 @@ let obj = {
       d: "defective processing of sensory information in the visual cortex.",
       ans: 'c'
    },
-   q1136: {
+   q1131: {
       question: "The external, or visible, part of the ear is called the",
       a: "cochlea.",
       b: "pinna.",
@@ -9095,7 +9055,7 @@ let obj = {
       d: "tympanic membrane.",
       ans: 'b'
    },
-   q1137: {
+   q1132: {
       question: "Localization of function means that",
       a: "sense organs respond to only one form of stimulation.",
       b: "specific areas of the brain are specialized to interpret input from particular sense organs.",
@@ -9103,7 +9063,7 @@ let obj = {
       d: "the nature of one's experience of a stimulus depends entirely on where it is located in the visual field.",
       ans: 'b'
    },
-   q1138: {
+   q1133: {
       question: "The cones of the retina",
       a: "are densely packed in the periphery of the retina.",
       b: "are specialized for black, white, and gray sensations.",
@@ -9111,7 +9071,7 @@ let obj = {
       d: "are responsible for night vision.",
       ans: 'c'
    },
-   q1139: {
+   q1134: {
       question: "The sensation you experience ultimately depends on which of the following?",
       a: "the nature of the sensory receptors activated",
       b: "the particular processes involved in transduction",
@@ -9119,7 +9079,7 @@ let obj = {
       d: "the pathways traveled by nerve impulses from sensory receptors",
       ans: 'c'
    },
-   q1140: {
+   q1135: {
       question: "The frequency of a sound determines its",
       a: "hue.",
       b: "intensity.",
@@ -9127,7 +9087,7 @@ let obj = {
       d: "pitch.",
       ans: 'd'
    },
-   q1141: {
+   q1136: {
       question: "Trichromatic theory states that there are three kinds of __________ in the eye.",
       a: "rods",
       b: "iopolar cells",
@@ -9135,7 +9095,7 @@ let obj = {
       d: "cones",
       ans: 'd'
    },
-   q1142: {
+   q1137: {
       question: "The Ishihara test",
       a: "is a test for color deficiencies.",
       b: "consists of colored chips that must be placed in a row.",
@@ -9143,7 +9103,7 @@ let obj = {
       d: "is the only means of assessing true color blindness.",
       ans: 'a'
    },
-   q1143: {
+   q1138: {
       question: "Nell tastes her food, then salts it. You assume that the food needed salt, therefore, you attribute her actions to a(n)",
       a: "internal cause.",
       b: "external cause.",
@@ -9151,7 +9111,7 @@ let obj = {
       d: "situational demand.",
       ans: 'b'
    },
-   q1144: {
+   q1139: {
       question: "There is a strong relationship between dating frequency and physical attractiveness",
       a: "for males.",
       b: "for females.",
@@ -9159,7 +9119,7 @@ let obj = {
       d: "beyond the initial stage of attraction.",
       ans: 'b'
    },
-   q1145: {
+   q1140: {
       question: "__________ is best known for his research on conformity.",
       a: "Asch",
       b: "Rubin",
@@ -9167,7 +9127,7 @@ let obj = {
       d: "Zimbardo",
       ans: 'a'
    },
-   q1146: {
+   q1141: {
       question: "Which is TRUE regarding choosing a mate?",
       a: "People who marry are highly similar in age, education, race, religion, and ethnic background.",
       b: "The highest correlation between people who marry involves their temperaments.",
@@ -9175,7 +9135,7 @@ let obj = {
       d: "Men rate physical attractiveness as a less important quality in a mate than women do.",
       ans: 'a'
    },
-   q1147: {
+   q1142: {
       question: "The study in which college students attached a bumper sticker for a militant black organization to their cars and then received frequent traffic citations demonstrates",
       a: "group prejudice.",
       b: "scapegoating.",
@@ -9183,7 +9143,7 @@ let obj = {
       d: "discrimination.",
       ans: 'd'
    },
-   q1148: {
+   q1143: {
       question: "According to Janis, John F. Kennedy's Bay of Pigs failure was caused in large part by",
       a: "brainstorming.",
       b: "groupthink.",
@@ -9191,7 +9151,7 @@ let obj = {
       d: "the expert power effect.",
       ans: 'b'
    },
-   q1149: {
+   q1144: {
       question: "When we perform well, we typically attribute our success to __________.",
       a: "internal characteristics",
       b: "our group of colleagues",
@@ -9199,7 +9159,7 @@ let obj = {
       d: "our personality type",
       ans: 'a'
    },
-   q1150: {
+   q1145: {
       question: "Which is true of social stereotypes?",
       a: "They are always negative.",
       b: "They tend to be rational.",
@@ -9207,7 +9167,7 @@ let obj = {
       d: "University students show more evidence of ethnic stereotyping now than they did in the past.",
       ans: 'c'
    },
-   q1151: {
+   q1146: {
       question: "A __________ group is a group based on social comparison.",
       a: "focus",
       b: "personal identification",
@@ -9215,7 +9175,7 @@ let obj = {
       d: "comparison",
       ans: 'c'
    },
-   q1152: {
+   q1147: {
       question: "During the Stanford Prison study,",
       a: "guards did not take their roles seriously.",
       b: "guards readily assumed their roles as agents of force.",
@@ -9223,7 +9183,7 @@ let obj = {
       d: "three prisoners were so severely beaten they had to be hospitalized.",
       ans: 'b'
    },
-   q1153: {
+   q1148: {
       question: "Scapegoating is releasing aggression on __________ targets.",
       a: "moving",
       b: "unsafe",
@@ -9231,7 +9191,7 @@ let obj = {
       d: "none of these",
       ans: 'c'
    },
-   q1154: {
+   q1149: {
       question: "During research in a simulated prison situation",
       a: "three prisoners were so severely beaten they had to be hospitalized.",
       b: "guards did not take their roles seriously.",
@@ -9239,7 +9199,7 @@ let obj = {
       d: "the prisoners and the guards quickly became friendly towards one another.",
       ans: 'c'
    },
-   q1155: {
+   q1150: {
       question: "The degree of attraction among group members relates to the dimension of",
       a: "compatibility.",
       b: "structure.",
@@ -9247,7 +9207,7 @@ let obj = {
       d: "conformity.",
       ans: 'c'
    },
-   q1156: {
+   q1151: {
       question: "According to the theory of cognitive dissonance, attitudes are changed because",
       a: "emotionally persuasive arguments unfreeze beliefs.",
       b: "logical arguments alter the belief component of an attitude.",
@@ -9255,7 +9215,7 @@ let obj = {
       d: "acting contrary to one's beliefs for a large reward causes dissonance.",
       ans: 'c'
    },
-   q1157: {
+   q1152: {
       question: "An example of a superordinate goal is",
       a: "getting good grades.",
       b: "making money.",
@@ -9263,7 +9223,7 @@ let obj = {
       d: "protecting clean water supplies.",
       ans: 'd'
    },
-   q1158: {
+   q1153: {
       question: "You are walking into a store when a man rudely cuts in front of you, almost shoving you, so that he may enter the store first. &quot;What a jerk!&quot; you think to yourself. As you enter the store, you see the same man performing an emergency tracheotomy on a women with a collapsed windpipe. You have just",
       a: "discounted a person's actions due to situational demands.",
       b: "self-handicapped.",
@@ -9271,7 +9231,7 @@ let obj = {
       d: "made the fundamental attribution error.",
       ans: 'd'
    },
-   q1159: {
+   q1154: {
       question: "According to evolutionary psychologists,",
       a: "women tend to be concerned with whether mates will devote time and resources to a relationship.",
       b: "men place less emphasis on physical attractiveness.",
@@ -9279,7 +9239,7 @@ let obj = {
       d: "men are biologically driven to have multiple partners.",
       ans: 'a'
    },
-   q1160: {
+   q1155: {
       question: "In North America, male friendships are __________ based and female friendships are __________ .",
       a: "activity; based on sharing feelings.",
       b: "attraction; based on activity",
@@ -9287,7 +9247,7 @@ let obj = {
       d: "activity; based on attraction",
       ans: 'a'
    },
-   q1161: {
+   q1156: {
       question: "Which statement about physical attractiveness is FALSE?",
       a: "Beauty is a factor mainly in initial acquaintances.",
       b: "Looks are less related to dating frequency for men than for women.",
@@ -9295,7 +9255,7 @@ let obj = {
       d: "For marriage partners there is a tendency for attractive men to be paired with highly educated women with high incomes.",
       ans: 'd'
    },
-   q1162: {
+   q1157: {
       question: "Moderate self-disclosure typically leads to",
       a: "competence matching.",
       b: "rejection.",
@@ -9303,7 +9263,7 @@ let obj = {
       d: "reciprocity.",
       ans: 'd'
    },
-   q1163: {
+   q1158: {
       question: "Research by Donnerstein suggests that the circumstances most likely to increase violent sexual acts against women (such as rape) involve:",
       a: "newspaper publicity given to rapists.",
       b: "direct exposure to persons who have committed such acts.",
@@ -9311,7 +9271,7 @@ let obj = {
       d: "pornographic stimuli that generate sexual fantasies.",
       ans: 'c'
    },
-   q1164: {
+   q1159: {
       question: "When subjects in Milgram's obedience experiments received their orders over the phone, they",
       a: "conformed more completely due to the formality of the telephoned instructions.",
       b: "completely refused to participate.",
@@ -9319,7 +9279,7 @@ let obj = {
       d: "were far less obedient.",
       ans: 'd'
    },
-   q1165: {
+   q1160: {
       question: "Solomon Asch's classic experiment (in which subjects judged a standard line and comparison lines) was arranged to test the limits of",
       a: "social perception.",
       b: "indoctrination.",
@@ -9327,7 +9287,7 @@ let obj = {
       d: "conformity.",
       ans: 'd'
    },
-   q1166: {
+   q1161: {
       question: "Aggression is best defined as",
       a: "hostility.",
       b: "anger.",
@@ -9335,7 +9295,7 @@ let obj = {
       d: "none of these",
       ans: 'c'
    },
-   q1167: {
+   q1162: {
       question: "Attribution theory concerns our tendency to explain our behavior and that of others",
       a: "by external causes rather than internal causes.",
       b: "by inferring causes on the basis of internal or external factors.",
@@ -9343,7 +9303,7 @@ let obj = {
       d: "based on personality factors.",
       ans: 'b'
    },
-   q1168: {
+   q1163: {
       question: "The __________ hypothesis states that frustration tends to lead to aggression.",
       a: "frustration-aggression",
       b: "biological instinct",
@@ -9351,7 +9311,7 @@ let obj = {
       d: "cognitive dissonance",
       ans: 'a'
    },
-   q1169: {
+   q1164: {
       question: "Which of the following is a testament to the power of roles?",
       a: "Cialdini's door-in-the-face effect",
       b: "Milgram's message experiment",
@@ -9359,7 +9319,7 @@ let obj = {
       d: "Zimbardo's prison experiment",
       ans: 'd'
    },
-   q1170: {
+   q1165: {
       question: "Arabs are typically depicted in the media as oil-rich but ignorant and savage. In a time of war with an Arab country, this image would be used",
       a: "to make it easier for soldiers to kill the enemy.",
       b: "to educate the population regarding the enemy.",
@@ -9367,7 +9327,7 @@ let obj = {
       d: "very little, since previous attempts at dehumanizing (during W.W.II, for example) were ineffective.",
       ans: 'a'
    },
-   q1171: {
+   q1166: {
       question: "A compulsion by decision makers to maintain each other's approval, even at the cost of critical thinking and good judgment, is called",
       a: "the halo effect.",
       b: "expert power.",
@@ -9375,7 +9335,7 @@ let obj = {
       d: "social conformity.",
       ans: 'c'
    },
-   q1172: {
+   q1167: {
       question: "The person who agrees to a small request initially is more likely later to comply with a larger demand. This describes the",
       a: "door-in-the-face-effect.",
       b: "foot-in-the-door effect.",
@@ -9383,7 +9343,7 @@ let obj = {
       d: "high-ball technique.",
       ans: 'b'
    },
-   q1173: {
+   q1168: {
       question: "For most American adults, an invisible spatial envelope defining their most intimate space",
       a: "extends four feet from their body.",
       b: "extends an &quot;arm's reach&quot; from their body.",
@@ -9391,7 +9351,7 @@ let obj = {
       d: "extends about 18 inches out from their body.",
       ans: 'd'
    },
-   q1174: {
+   q1169: {
       question: "Which theory holds that a relationship must be profitable to endure?",
       a: "complementary need theory",
       b: "social exchange theory",
@@ -9399,7 +9359,7 @@ let obj = {
       d: "social comparison theory",
       ans: 'b'
    },
-   q1175: {
+   q1170: {
       question: "Prejudice based on displaced aggression represents a form of",
       a: "projection.",
       b: "discrimination.",
@@ -9407,7 +9367,7 @@ let obj = {
       d: "authoritarianism.",
       ans: 'c'
    },
-   q1176: {
+   q1171: {
       question: "Social position in a group determines one's",
       a: "competence.",
       b: "autokinetic norms.",
@@ -9415,7 +9375,7 @@ let obj = {
       d: "usefulness.",
       ans: 'c'
    },
-   q1177: {
+   q1172: {
       question: "You are asked by a close friend to outline a complete text to aid her studying for a final exam. You refuse to help. Later, your friend asks if you would at least outline two chapters. Feeling guilty, you now agree to help. Your behavior is predicted by the",
       a: "foot-in-the-face technique.",
       b: "high-ball effect.",
@@ -9423,7 +9383,7 @@ let obj = {
       d: "door-in-the-face effect.",
       ans: 'd'
    },
-   q1178: {
+   q1173: {
       question: "__________ attachment style is marked by conflicting feelings of affection, anger, and emotional turmoil.",
       a: "Mutual",
       b: "Secure",
@@ -9431,7 +9391,7 @@ let obj = {
       d: "Ambivalent",
       ans: 'd'
    },
-   q1179: {
+   q1174: {
       question: "Zimbardo interpreted the results of his simulated prison study as an indication of the",
       a: "powerful influence of roles on people.",
       b: "tendency to show compassion to people in need.",
@@ -9439,7 +9399,7 @@ let obj = {
       d: "tendency to displace aggression.",
       ans: 'a'
    },
-   q1180: {
+   q1175: {
       question: "With regard to the effects of TV on children, we can conclude that",
       a: "TV has little effect on the behavior of children.",
       b: "TV only increases aggressive behavior in children.",
@@ -9447,7 +9407,7 @@ let obj = {
       d: "the amount of TV viewing may be related to aggressive behavior later in life.",
       ans: 'd'
    },
-   q1181: {
+   q1176: {
       question: "Subjects in Milgram's experiment who gave large shocks rationalized that they were NOT personally responsible for their actions. This raises questions about our willingness to commit inhumane acts as a result of",
       a: "coercive power.",
       b: "obedience to a legitimate authority.",
@@ -9455,7 +9415,7 @@ let obj = {
       d: "conformity to group pressure.",
       ans: 'b'
    },
-   q1182: {
+   q1177: {
       question: "The process of changing your behavior to match that of others in a group is",
       a: "norming.",
       b: "forming a social contract.",
@@ -9463,7 +9423,7 @@ let obj = {
       d: "standardization.",
       ans: 'c'
    },
-   q1183: {
+   q1178: {
       question: "If everyone leaves five minutes before the game is over to avoid a traffic jam, the resulting traffic jam would be an example of",
       a: "social impregnation.",
       b: "a social trap.",
@@ -9471,7 +9431,7 @@ let obj = {
       d: "self-handicapping.",
       ans: 'b'
    },
-   q1184: {
+   q1179: {
       question: "People's invisible &quot;spatial envelope&quot; defines their __________, and extends &quot;I&quot; or &quot;me&quot; boundaries past the skin.",
       a: "spatial role",
       b: "personal space",
@@ -9479,7 +9439,7 @@ let obj = {
       d: "proximal location",
       ans: 'b'
    },
-   q1185: {
+   q1180: {
       question: "A student who is unprepared for a final exam complains that he has a stomach ache and cannot take the exam. If the student's roommate ignores this complaint, he or she has probably attributed the student's symptoms to the",
       a: "object.",
       b: "actor.",
@@ -9487,7 +9447,7 @@ let obj = {
       d: "need for affiliation.",
       ans: 'c'
    },
-   q1186: {
+   q1181: {
       question: "Physical proximity increases attraction because it",
       a: "increases frequency of contact.",
       b: "enhances social comparisons.",
@@ -9495,7 +9455,7 @@ let obj = {
       d: "reduces development of incompatible roles.",
       ans: 'a'
    },
-   q1187: {
+   q1182: {
       question: "The study of unspoken rules for the use of interpersonal space is called",
       a: "kinesics.",
       b: "psychoecology.",
@@ -9503,7 +9463,7 @@ let obj = {
       d: "territoriality.",
       ans: 'c'
    },
-   q1188: {
+   q1183: {
       question: "Someone asks you to bring dip to a party and you agree. Later the person asks you to also bring popcorn, chips, and sodas. The person has used which compliance strategy?",
       a: "the low-ball technique",
       b: "the over-commitment strategy",
@@ -9511,7 +9471,7 @@ let obj = {
       d: "the passive obedience method",
       ans: 'a'
    },
-   q1189: {
+   q1184: {
       question: "The real danger of &quot;groupthink&quot; is that it",
       a: "is contagious.",
       b: "occurs in cohesive groups.",
@@ -9519,7 +9479,7 @@ let obj = {
       d: "leads to a suspension of critical thinking.",
       ans: 'd'
    },
-   q1190: {
+   q1185: {
       question: "The organization of roles, patterns of communication, and power in a group defines the group's",
       a: "status.",
       b: "structure.",
@@ -9527,7 +9487,7 @@ let obj = {
       d: "norms.",
       ans: 'b'
    },
-   q1191: {
+   q1186: {
       question: "Those roles which one attains voluntarily are called",
       a: "ascribed roles.",
       b: "achieved roles.",
@@ -9535,7 +9495,7 @@ let obj = {
       d: "social selves.",
       ans: 'b'
    },
-   q1192: {
+   q1187: {
       question: "Social traps can be dismantled by changing",
       a: "rewards and costs.",
       b: "supply and demand.",
@@ -9543,7 +9503,7 @@ let obj = {
       d: "the tendency toward groupthink.",
       ans: 'a'
    },
-   q1193: {
+   q1188: {
       question: "A learned disposition to respond to people, objects, or institutions in a positive or negative way defines",
       a: "cognitive dissonance.",
       b: "socialization.",
@@ -9551,7 +9511,7 @@ let obj = {
       d: "stereotypes.",
       ans: 'c'
    },
-   q1194: {
+   q1189: {
       question: "In general, helping behavior in emergency situations is discouraged by",
       a: "the presence of a large number of persons.",
       b: "low costs associated with helping.",
@@ -9559,7 +9519,7 @@ let obj = {
       d: "fear of cognitive dissonance.",
       ans: 'a'
    },
-   q1195: {
+   q1190: {
       question: "Frustration probably encourages aggression because it",
       a: "triggers genetic mechanisms.",
       b: "raises arousal levels and sensitivity to cues for aggression.",
@@ -9567,7 +9527,7 @@ let obj = {
       d: "relieves tension.",
       ans: 'b'
    },
-   q1196: {
+   q1191: {
       question: "When a person with little or no authority makes a direct request to another person, the situation involves",
       a: "compliance.",
       b: "obedience.",
@@ -9575,7 +9535,7 @@ let obj = {
       d: "conformity.",
       ans: 'a'
    },
-   q1197: {
+   q1192: {
       question: "The fact that physically attractive people also tend to be rated more highly on traits such as intelligence and honesty is an example of",
       a: "social magnetism.",
       b: "role modeling.",
@@ -9583,7 +9543,7 @@ let obj = {
       d: "the halo effect.",
       ans: 'd'
    },
-   q1198: {
+   q1193: {
       question: "Which of the following statements concerning &quot;jigsaw&quot; classrooms is TRUE?",
       a: "Jigsaw groups emphasize cooperation over competition.",
       b: "Compared to children in traditional classrooms, children in jigsaw groups were less prejudiced but had slightly lower grades.",
@@ -9591,7 +9551,7 @@ let obj = {
       d: "Even though the jigsaw groups as a whole perform better, high achievers tend to do worse in such groups than when learning alone.",
       ans: 'a'
    },
-   q1199: {
+   q1194: {
       question: "Negative attitudes that are tinged with fear, hatred, or suspicion is a definition of",
       a: "prejudice.",
       b: "authoritarianism.",
@@ -9599,7 +9559,7 @@ let obj = {
       d: "displaced aggression.",
       ans: 'a'
    },
-   q1200: {
+   q1195: {
       question: "During his rise to power, Hitler blamed the Jews for Germany's economic woes. This is an example of",
       a: "personal discrimination.",
       b: "social stereotypes.",
@@ -9607,7 +9567,7 @@ let obj = {
       d: "scapegoating.",
       ans: 'd'
    },
-   q1201: {
+   q1196: {
       question: "When you have &quot;clashing thoughts,&quot; you are experiencing",
       a: "conformity pressure.",
       b: "obedience pressure.",
@@ -9615,7 +9575,7 @@ let obj = {
       d: "open-ended role conflict.",
       ans: 'c'
    },
-   q1202: {
+   q1197: {
       question: "Interpersonal attraction is encouraged by which one of the following?",
       a: "personal space",
       b: "proxemics",
@@ -9623,7 +9583,7 @@ let obj = {
       d: "similarity",
       ans: 'd'
    },
-   q1203: {
+   q1198: {
       question: "Vanessa is female, a daughter, and a young adult. The roles that shape her behavior are called __________ roles.",
       a: "achieved",
       b: "ascribed",
@@ -9631,7 +9591,7 @@ let obj = {
       d: "actualized",
       ans: 'b'
    },
-   q1204: {
+   q1199: {
       question: "Desensitization is",
       a: "the imitation of an undesired response.",
       b: "the removal of an inhibition.",
@@ -9639,7 +9599,7 @@ let obj = {
       d: "an increase in emotional sympathy.",
       ans: 'c'
    },
-   q1205: {
+   q1200: {
       question: "With respect to social traps, people are more likely to restrain themselves from inappropriate behavior if",
       a: "others are in the same social trap.",
       b: "the social trap involves lack of assertiveness.",
@@ -9647,7 +9607,7 @@ let obj = {
       d: "the trap involves an element of groupthink.",
       ans: 'c'
    },
-   q1206: {
+   q1201: {
       question: "Janis recommends ways to prevent groupthink, which include",
       a: "focusing on subjective evaluation and interpretation.",
       b: "having the leader state personal preferences before discussion.",
@@ -9655,7 +9615,7 @@ let obj = {
       d: "encouraging someone to play devil's advocate.",
       ans: 'd'
    },
-   q1207: {
+   q1202: {
       question: "People's attitudes about women and rape primarily come from",
       a: "sexual images in X-rated books.",
       b: "sexual images in X-rated movies.",
@@ -9663,7 +9623,7 @@ let obj = {
       d: "sexual images in mainstream movies and magazines.",
       ans: 'c'
    },
-   q1208: {
+   q1203: {
       question: "The judge who is caught cheating on his income tax is likely experiencing",
       a: "role diffusion.",
       b: "attribution failure.",
@@ -9671,7 +9631,7 @@ let obj = {
       d: "attribution error.",
       ans: 'c'
    },
-   q1209: {
+   q1204: {
       question: "Alcohol",
       a: "is a direct cause of aggression.",
       b: "lowers the threshold for aggression.",
@@ -9679,7 +9639,7 @@ let obj = {
       d: "induces hypoglycemia and frustration.",
       ans: 'b'
    },
-   q1210: {
+   q1205: {
       question: "Cognitive dissonance theory is based on the human need for",
       a: "self-actualization.",
       b: "gain-loss.",
@@ -9687,7 +9647,7 @@ let obj = {
       d: "consistency.",
       ans: 'd'
    },
-   q1211: {
+   q1206: {
       question: "According to evolutionary psychologists,",
       a: "men tend to be concerned with whether mates will devote time and resources to a relationship.",
       b: "men place more emphasis on physical attractiveness.",
@@ -9695,7 +9655,7 @@ let obj = {
       d: "women are biologically driven to have multiple partners.",
       ans: 'b'
    },
-   q1212: {
+   q1207: {
       question: "Which of the following was a factor in determining the degree of obedience in Milgram's series of experiments?",
       a: "whether the experimenter was male or female",
       b: "distance between the teacher and the learner",
@@ -9703,7 +9663,7 @@ let obj = {
       d: "the tone of voice used by the experimenter",
       ans: 'b'
    },
-   q1213: {
+   q1208: {
       question: "Discrimination refers to behaviors that",
       a: "allow us to tell one ethnic group from another.",
       b: "occur when members of a racial group threaten an individual's security.",
@@ -9711,7 +9671,7 @@ let obj = {
       d: "are directed toward a particular group.",
       ans: 'c'
    },
-   q1214: {
+   q1209: {
       question: "In an experiment in which a &quot;student&quot; simulated a seizure, helping was inhibited by",
       a: "conditions employing smaller groups.",
       b: "diffusion of responsibility.",
@@ -9719,7 +9679,7 @@ let obj = {
       d: "reference cognitive dissonance.",
       ans: 'b'
    },
-   q1215: {
+   q1210: {
       question: "Sharing your own private thoughts and feelings is called",
       a: "self-talk.",
       b: "autonomy.",
@@ -9727,7 +9687,7 @@ let obj = {
       d: "introspection.",
       ans: 'c'
    },
-   q1216: {
+   q1211: {
       question: "Which of the following was a significant factor in determining the degree of obedience in Milgram's series of experiments?",
       a: "the tone of voice used by the experimenter",
       b: "whether the experimenter was male or female",
@@ -9735,7 +9695,7 @@ let obj = {
       d: "the setting in which the experiment was conducted",
       ans: 'd'
    },
-   q1217: {
+   q1212: {
       question: "When making the &quot;attribution error,&quot; we tend to overestimate the importance of __________ in judging the behavior of others.",
       a: "personal factors",
       b: "situational factors",
@@ -9743,7 +9703,7 @@ let obj = {
       d: "motivation",
       ans: 'a'
    },
-   q1218: {
+   q1213: {
       question: "People who think their ethnic, national, or religious group is superior to others are called",
       a: "authoritarian.",
       b: "dogmatic.",
@@ -9751,7 +9711,7 @@ let obj = {
       d: "rigid.",
       ans: 'c'
    },
-   q1219: {
+   q1214: {
       question: "You do not want a large, unattractive political sign in your yard. However, if you initially agree to put a small sign in your window, later you are more likely to allow the large sign in your yard. This course of events is described by the",
       a: "foot-in-the-face technique.",
       b: "low-ball technique.",
@@ -9759,7 +9719,7 @@ let obj = {
       d: "foot-in-the-door effect.",
       ans: 'd'
    },
-   q1220: {
+   q1215: {
       question: "In his classic studies of conformity, Asch demonstrated that",
       a: "size of the majority does not influence how many people will conform.",
       b: "a majority of one produces about as much conformity as a majority of eight.",
@@ -9767,7 +9727,7 @@ let obj = {
       d: "obedience to authority was determined by the authority's perceived referent power.",
       ans: 'c'
    },
-   q1221: {
+   q1216: {
       question: "__________ is the process of making inferences about behavior.",
       a: "Proxemics",
       b: "Attribution",
@@ -9775,7 +9735,7 @@ let obj = {
       d: "Statusing",
       ans: 'b'
    },
-   q1222: {
+   q1217: {
       question: "Creation of superordinate goals has been shown to be effective in reducing",
       a: "intergroup conflict.",
       b: "authoritarianism.",
@@ -9783,7 +9743,7 @@ let obj = {
       d: "social posturing.",
       ans: 'a'
    },
-   q1223: {
+   q1218: {
       question: "Expected behavior patterns associated with particular social positions are called",
       a: "roles.",
       b: "culture.",
@@ -9791,7 +9751,7 @@ let obj = {
       d: "mannerisms.",
       ans: 'a'
    },
-   q1224: {
+   q1219: {
       question: "As part of an experiment, two young women stroll down a busy sidewalk with their arms around each other. They get a variety of reactions from passersby, including disapproving looks and comments. These reactions demonstrate the existence of",
       a: "norms.",
       b: "ascribed roles.",
@@ -9799,7 +9759,7 @@ let obj = {
       d: "achieved roles.",
       ans: 'a'
    },
-   q1225: {
+   q1220: {
       question: "After Mrs. Keech's doomsday predictions failed, her followers suddenly became interested in convincing others they were right. This turn of events is predicted by __________ theory.",
       a: "social exchange",
       b: "gain-loss",
@@ -9807,7 +9767,7 @@ let obj = {
       d: "balance",
       ans: 'c'
    },
-   q1226: {
+   q1221: {
       question: "The demonstration by Jane Elliot with blue-eyed and brown-eyed children suggests that an effective way to generate conditions of prejudice is to",
       a: "require persons to compete for scarce resources.",
       b: "physically isolate two groups from each other.",
@@ -9815,7 +9775,7 @@ let obj = {
       d: "demand that members of two groups cooperate to achieve a common goal.",
       ans: 'c'
    },
-   q1227: {
+   q1222: {
       question: "An individual's misuse of valuable natural resources could be an example of",
       a: "group sanctions.",
       b: "a social trap.",
@@ -9823,7 +9783,7 @@ let obj = {
       d: "groupthink.",
       ans: 'b'
    },
-   q1228: {
+   q1223: {
       question: "Overdisclosure often results in",
       a: "growing trust and intimacy.",
       b: "increased attraction.",
@@ -9831,7 +9791,7 @@ let obj = {
       d: "a tendency to respond in the same way.",
       ans: 'c'
    },
-   q1229: {
+   q1224: {
       question: "The three techniques used for brainwashing identified by McConnell are",
       a: "isolation, dependency, and reward.",
       b: "de-stabilization, isolation, and conditioning.",
@@ -9839,7 +9799,7 @@ let obj = {
       d: "isolation, change, and direct contact.",
       ans: 'a'
    },
-   q1230: {
+   q1225: {
       question: "Comparing yourself with a person who ranks lower than you is referred to as",
       a: "social comparison.",
       b: "downward comparison.",
@@ -9847,7 +9807,7 @@ let obj = {
       d: "physical proximity.",
       ans: 'b'
    },
-   q1231: {
+   q1226: {
       question: "How individuals are affected by the presence of others is the focus of study in the field of",
       a: "Sociology.",
       b: "Social psychology.",
@@ -9855,7 +9815,7 @@ let obj = {
       d: "Sociobiology",
       ans: 'b'
    },
-   q1232: {
+   q1227: {
       question: "Shows such as Mr. Roger's Neighborhood and Sesame Street demonstrate TV's ability to",
       a: "teach prosocial behavior.",
       b: "desensitize children.",
@@ -9863,7 +9823,7 @@ let obj = {
       d: "reduce tension and frustration.",
       ans: 'a'
    },
-   q1233: {
+   q1228: {
       question: "Karen smokes two packs of cigarettes a day. However, she is aware that smoking is harmful to her health; therefore, she holds two conflicting or dissonant thoughts. If Karen were to reduce her cognitive dissonance by changing her attitude, she might say to herself,",
       a: "&quot;Smoking really isn't that dangerous.&quot;",
       b: "&quot;Smoking is a habit that I have little control over.&quot;",
@@ -9871,7 +9831,7 @@ let obj = {
       d: "&quot;I'll only smoke when I feel stressed out.&quot;",
       ans: 'a'
    },
-   q1234: {
+   q1229: {
       question: "Zimbardo's prison experiment suggests that many destructive human relationships have their source in",
       a: "role diffusion.",
       b: "role conflict.",
@@ -9879,7 +9839,7 @@ let obj = {
       d: "group cohesiveness.",
       ans: 'c'
    },
-   q1235: {
+   q1230: {
       question: "The study of the adaptive origins of human behavior patterns is called",
       a: "Matin's preferences.",
       b: "evolutionary attachment.",
@@ -9887,7 +9847,7 @@ let obj = {
       d: "evolutionary psychology.",
       ans: 'd'
    },
-   q1236: {
+   q1231: {
       question: "Groups reward members with __________ and __________ for comformity.",
       a: "unanimity; power",
       b: "power; authority",
@@ -9895,7 +9855,7 @@ let obj = {
       d: "approval; acceptance",
       ans: 'd'
    },
-   q1237: {
+   q1232: {
       question: "Stanley Milgram's experiment in which a &quot;teacher&quot; gave shocks to a &quot;learner&quot; was designed to test the limits of",
       a: "expert power.",
       b: "coercive power.",
@@ -9903,7 +9863,7 @@ let obj = {
       d: "conformity to a majority.",
       ans: 'c'
    },
-   q1238: {
+   q1233: {
       question: "Milgram's shock study showed people to be surprisingly",
       a: "rebellious.",
       b: "intelligent.",
@@ -9911,7 +9871,7 @@ let obj = {
       d: "obedient.",
       ans: 'd'
    },
-   q1239: {
+   q1234: {
       question: "Which is a method to reduce prejudice?",
       a: "mixed-status contact",
       b: "mutual exclusivity",
@@ -9919,7 +9879,7 @@ let obj = {
       d: "mutual interdependence",
       ans: 'd'
    },
-   q1240: {
+   q1235: {
       question: "An ongoing pattern of life including such things as language, customs and sex roles is called",
       a: "conformity.",
       b: "norms.",
@@ -9927,7 +9887,7 @@ let obj = {
       d: "culture.",
       ans: 'd'
    },
-   q1241: {
+   q1236: {
       question: "A reference group is",
       a: "one with which a person has face-to-face contact.",
       b: "any group in which one plays an active role or has membership.",
@@ -9935,7 +9895,7 @@ let obj = {
       d: "any group whose values and attitudes are seen as relevant to one's own.",
       ans: 'd'
    },
-   q1242: {
+   q1237: {
       question: "Studies of conformity indicate that people are more apt to be influenced by others if they",
       a: "are concerned about the approval of others.",
       b: "have low needs for certainty and structure.",
@@ -9943,7 +9903,7 @@ let obj = {
       d: "are in very large groups.",
       ans: 'a'
    },
-   q1243: {
+   q1238: {
       question: "The chief characteristic of hypnosis is",
       a: "heightened arousal.",
       b: "increased suggestibility.",
@@ -9951,7 +9911,7 @@ let obj = {
       d: "increased clairvoyance.",
       ans: 'b'
    },
-   q1244: {
+   q1239: {
       question: "The most frequently used psychoactive drug in the United States is",
       a: "marijuana.",
       b: "cocaine.",
@@ -9959,7 +9919,7 @@ let obj = {
       d: "caffeine.",
       ans: 'd'
    },
-   q1245: {
+   q1240: {
       question: "Which of the following sleep phenomena could be detected without the aid of an EEG machine?",
       a: "Stage 2 sleep",
       b: "REM sleep",
@@ -9967,7 +9927,7 @@ let obj = {
       d: "sleep spindles",
       ans: 'b'
    },
-   q1246: {
+   q1241: {
       question: "Dissociation or a split in awareness is an experience commonly associated with",
       a: "hypnotic induction.",
       b: "amphetamine intoxication.",
@@ -9975,7 +9935,7 @@ let obj = {
       d: "relaxation training.",
       ans: 'a'
    },
-   q1247: {
+   q1242: {
       question: "Which of the following best describes the stability of sleep cycles?",
       a: "They are innate so they cannot be modified.",
       b: "They are innate but can be modified in times of emergency.",
@@ -9983,7 +9943,7 @@ let obj = {
       d: "They are entirely learned and, thus, may be easily modified.",
       ans: 'b'
    },
-   q1248: {
+   q1243: {
       question: "A loud noise awakens you; you emerge from sleep confused and do not remember the noise. You were in which stage of sleep?",
       a: "Stage 1",
       b: "Stage 2",
@@ -9991,7 +9951,7 @@ let obj = {
       d: "Stage 4",
       ans: 'd'
    },
-   q1249: {
+   q1244: {
       question: "Which of the following is a goal of the therapeutic use of sensory deprivation?",
       a: "decompression of the ventricular system.",
       b: "experiencing relaxation and reducing stress.",
@@ -9999,7 +9959,7 @@ let obj = {
       d: "producing hallucinations.",
       ans: 'b'
    },
-   q1250: {
+   q1245: {
       question: "Hypnotized subjects who were told to plunge one hand into a painful bath of ice water, and were told to feel no pain,",
       a: "awoke from their hypnosis.",
       b: "wrote &quot;it hurts&quot; with their free hand.",
@@ -10007,7 +9967,7 @@ let obj = {
       d: "went into a coma.",
       ans: 'b'
    },
-   q1251: {
+   q1246: {
       question: "Beta waves are characteristic in the EEG of a person who is",
       a: "dreaming.",
       b: "asleep but not dreaming.",
@@ -10015,7 +9975,7 @@ let obj = {
       d: "in Stage 2 sleep.",
       ans: 'c'
    },
-   q1252: {
+   q1247: {
       question: "Physical cravings for a drug and unpleasant reactions when the drug is withheld are signs of",
       a: "drug tolerance.",
       b: "psychological dependence.",
@@ -10023,7 +9983,7 @@ let obj = {
       d: "physical addiction.",
       ans: 'd'
    },
-   q1253: {
+   q1248: {
       question: "Drug abuse associated with which of the following drugs is correlated with breast cysts, birth defects, miscarriage, and contributes to bladder cancer, heart problems, and high blood pressure?",
       a: "caffeine",
       b: "cocaine",
@@ -10031,7 +9991,7 @@ let obj = {
       d: "heroin",
       ans: 'a'
    },
-   q1254: {
+   q1249: {
       question: "Which of the following drugs is physically addictive?",
       a: "morphine",
       b: "cocaine",
@@ -10039,7 +9999,7 @@ let obj = {
       d: "all of these",
       ans: 'd'
    },
-   q1255: {
+   q1250: {
       question: "The reduction in the body's response to a drug which may accompany drug use is called",
       a: "withdrawal.",
       b: "addiction.",
@@ -10047,7 +10007,7 @@ let obj = {
       d: "tolerance.",
       ans: 'd'
    },
-   q1256: {
+   q1251: {
       question: "A sudden, irresistible urge to sleep, which lasts a few minutes to half an hour during the daytime, is called",
       a: "narcolepsy.",
       b: "hypersomnia.",
@@ -10055,7 +10015,7 @@ let obj = {
       d: "sleepwalking disorder.",
       ans: 'a'
    },
-   q1257: {
+   q1252: {
       question: "A particularly dangerous (often fatal) combination of drugs is",
       a: "marijuana and hashish.",
       b: "amphetamines and dexedrine.",
@@ -10063,7 +10023,7 @@ let obj = {
       d: "caffeine and nicotine.",
       ans: 'c'
    },
-   q1258: {
+   q1253: {
       question: "The surest way to alter human consciousness is",
       a: "through meditation.",
       b: "by sleeping.",
@@ -10071,7 +10031,7 @@ let obj = {
       d: "to use sensory deprivation.",
       ans: 'c'
    },
-   q1259: {
+   q1254: {
       question: "Freud believed that, in order to protect sleep and prevent the arousal of conscience, the content of our dreams is",
       a: "suppressed.",
       b: "disguised.",
@@ -10079,7 +10039,7 @@ let obj = {
       d: "synthesized.",
       ans: 'b'
    },
-   q1260: {
+   q1255: {
       question: "A sleep disturbance in which one awakens several times during the night and has difficulty returning to sleep is",
       a: "narcolepsy.",
       b: "sleep apnea.",
@@ -10087,7 +10047,7 @@ let obj = {
       d: "insomnia.",
       ans: 'd'
    },
-   q1261: {
+   q1256: {
       question: "When a person stops taking cocaine, all of the following occur EXCEPT",
       a: "occasional cravings for as long as a month.",
       b: "depression.",
@@ -10095,7 +10055,7 @@ let obj = {
       d: "anhedonia.",
       ans: 'c'
    },
-   q1262: {
+   q1257: {
       question: "Which of the following is most likely to occur as a consequence of hypnosis?",
       a: "increase in strength to superhuman levels",
       b: "genuine regression to earlier age levels",
@@ -10103,7 +10063,7 @@ let obj = {
       d: "increased clarity and accuracy of memory",
       ans: 'c'
    },
-   q1263: {
+   q1258: {
       question: "Smoked forms of cocaine are commonly called",
       a: "meth.",
       b: "crack.",
@@ -10111,7 +10071,7 @@ let obj = {
       d: "uppers.",
       ans: 'b'
    },
-   q1264: {
+   q1259: {
       question: "Confusion, disorientation, delusions, and hallucinations are characteristic of",
       a: "microsleeps.",
       b: "circadian rhythms.",
@@ -10119,7 +10079,7 @@ let obj = {
       d: "sleep narcosis.",
       ans: 'c'
    },
-   q1265: {
+   q1260: {
       question: "Someone who is hungry may show",
       a: "an increase in dreams about food and eating.",
       b: "a decrease in dreams about food and eating.",
@@ -10127,7 +10087,7 @@ let obj = {
       d: "no increase in food symbols in their dreams.",
       ans: 'a'
    },
-   q1266: {
+   q1261: {
       question: "During hypnosis, EEG (brain-wave) recordings",
       a: "resemble those obtained during sleep.",
       b: "resemble those obtained when a person is awake.",
@@ -10135,7 +10095,7 @@ let obj = {
       d: "show clearly identifiable &quot;trance waves.&quot;",
       ans: 'b'
    },
-   q1267: {
+   q1262: {
       question: "Nicotine is classified as a",
       a: "narcotic.",
       b: "depressant.",
@@ -10143,7 +10103,7 @@ let obj = {
       d: "stimulant.",
       ans: 'd'
    },
-   q1268: {
+   q1263: {
       question: "The safest sleep position for most infants in order to prevent SIDS is",
       a: "face down.",
       b: "on their backs or sides.",
@@ -10151,7 +10111,7 @@ let obj = {
       d: "none of these.",
       ans: 'b'
    },
-   q1269: {
+   q1264: {
       question: "Infants sleep",
       a: "in 6-8 hour blocks of time.",
       b: "12 hours a day.",
@@ -10159,7 +10119,7 @@ let obj = {
       d: "in totally irregular patterns.",
       ans: 'c'
    },
-   q1270: {
+   q1265: {
       question: "The most common reactions to sleep loss up to 48 hours",
       a: "include inattention, staring, and tremor of the hands.",
       b: "include hallucinations and delusions.",
@@ -10167,7 +10127,7 @@ let obj = {
       d: "are similar to those found in psychosis.",
       ans: 'a'
    },
-   q1271: {
+   q1266: {
       question: "In a newborn infant, one could expect total sleep time each day to approach",
       a: "24 hours.",
       b: "20 hours.",
@@ -10175,7 +10135,7 @@ let obj = {
       d: "8 hours.",
       ans: 'b'
    },
-   q1272: {
+   q1267: {
       question: "Our sleep rhythms are tied to a 24-hour day because",
       a: "the time of peak activity is invariant from person to person.",
       b: "they are tied to external time markers like light and dark.",
@@ -10183,7 +10143,7 @@ let obj = {
       d: "everyone needs at least 8 hours of sleep every night.",
       ans: 'b'
    },
-   q1273: {
+   q1268: {
       question: "Drugs with names like Xanax, Halcion, and Valium are",
       a: "barbiturates.",
       b: "stimulants.",
@@ -10191,7 +10151,7 @@ let obj = {
       d: "tranquilizers.",
       ans: 'd'
    },
-   q1274: {
+   q1269: {
       question: "Substances capable of altering human consciousness are classified as",
       a: "pharmacologic drugs.",
       b: "addictive.",
@@ -10199,7 +10159,7 @@ let obj = {
       d: "narcotics.",
       ans: 'c'
    },
-   q1275: {
+   q1270: {
       question: "The ordering and duration of daily sleep and waking periods are known as",
       a: "meridian rhythms.",
       b: "sleep patterns.",
@@ -10207,7 +10167,7 @@ let obj = {
       d: "sleep stages.",
       ans: 'b'
    },
-   q1276: {
+   q1271: {
       question: "The major cause of temporary insomnia is",
       a: "REM deprivation.",
       b: "worry, stress, or excitement.",
@@ -10215,7 +10175,7 @@ let obj = {
       d: "stress combined with the use of sleeping pills.",
       ans: 'b'
    },
-   q1277: {
+   q1272: {
       question: "Research suggests that the two most basic states of sleep are",
       a: "alpha sleep and beta sleep.",
       b: "light sleep and deep sleep.",
@@ -10223,7 +10183,7 @@ let obj = {
       d: "REM sleep and paradoxical sleep.",
       ans: 'c'
    },
-   q1278: {
+   q1273: {
       question: "When a person is shut off from the world such that he or she cannot even tell what time it is by light or dark, their sleep-waking cycle",
       a: "stays at about 24 hours.",
       b: "shortens to an average of about 20 hours.",
@@ -10231,7 +10191,7 @@ let obj = {
       d: "becomes completely disrupted.",
       ans: 'c'
    },
-   q1279: {
+   q1274: {
       question: "Hypnosis",
       a: "was introduced by the Austrian physician, Karl Zener.",
       b: "is characterized by brain wave patterns similar to sleep.",
@@ -10239,7 +10199,7 @@ let obj = {
       d: "is a sleep state in which the subjects are partially aware of their actions and able to perform many activities not normally carried out during sleep.",
       ans: 'c'
    },
-   q1280: {
+   q1275: {
       question: "The rhythms of sleep and waking",
       a: "coincide with cycles of the moon.",
       b: "are considerably shorter than 24 hours.",
@@ -10247,7 +10207,7 @@ let obj = {
       d: "average around 36 hours.",
       ans: 'c'
    },
-   q1281: {
+   q1276: {
       question: "Which of the following is a major way in which altered states of consciousness are produced?",
       a: "prolonged mental exertion",
       b: "hypnosis",
@@ -10255,7 +10215,7 @@ let obj = {
       d: "maintaining routine sleep patterns",
       ans: 'b'
    },
-   q1282: {
+   q1277: {
       question: "The average ratio of time awake to time asleep is",
       a: "1 to 1.",
       b: "2 to 1.",
@@ -10263,7 +10223,7 @@ let obj = {
       d: "unknown.",
       ans: 'b'
    },
-   q1283: {
+   q1278: {
       question: "Night terrors most often occur during",
       a: "Stage 1 NREM sleep.",
       b: "Stage 2 REM sleep.",
@@ -10271,7 +10231,7 @@ let obj = {
       d: "Stage 4 NREM sleep.",
       ans: 'd'
    },
-   q1284: {
+   q1279: {
       question: "According to Freud, dreams are very often a means of",
       a: "wish fulfillment.",
       b: "solving daytime problems.",
@@ -10279,7 +10239,7 @@ let obj = {
       d: "categorizing one's experience.",
       ans: 'a'
    },
-   q1285: {
+   q1280: {
       question: "Lindsay is having trouble going to sleep. Which food would be recommended for her to eat if she wanted to increase her intake of tryptophan?",
       a: "a turkey sandwich and a banana",
       b: "a hamburger",
@@ -10287,7 +10247,7 @@ let obj = {
       d: "a glass of red wine",
       ans: 'a'
    },
-   q1286: {
+   q1281: {
       question: "Excessive daytime sleepiness is a condition called",
       a: "narcolepsy.",
       b: "hypersomnia.",
@@ -10295,7 +10255,7 @@ let obj = {
       d: "sleepwalking disorder.",
       ans: 'b'
    },
-   q1287: {
+   q1282: {
       question: "Immediately before sleep the EEG shifts to patterns of larger and slower waves called __________ waves.",
       a: "alpha",
       b: "beta",
@@ -10303,7 +10263,7 @@ let obj = {
       d: "spindle",
       ans: 'a'
    },
-   q1288: {
+   q1283: {
       question: "Perhaps the best known hallucinogen is",
       a: "cocaine.",
       b: "alcohol.",
@@ -10311,7 +10271,7 @@ let obj = {
       d: "nicotine.",
       ans: 'c'
    },
-   q1289: {
+   q1284: {
       question: "Dreams usually",
       a: "occur twice nightly.",
       b: "last only about five minutes each.",
@@ -10319,7 +10279,7 @@ let obj = {
       d: "are instantaneous, being a flash of visual images.",
       ans: 'c'
    },
-   q1290: {
+   q1285: {
       question: "Which of the following is a primary characteristic of dream sleep?",
       a: "irregular heart rate and blood pressure",
       b: "sexual arousal",
@@ -10327,7 +10287,7 @@ let obj = {
       d: "rapid eye movements",
       ans: 'd'
    },
-   q1291: {
+   q1286: {
       question: "Which stage of sleep typically has spindles?",
       a: "first",
       b: "second",
@@ -10335,7 +10295,7 @@ let obj = {
       d: "fourth",
       ans: 'b'
    },
-   q1292: {
+   q1287: {
       question: "NREM sleep occurs mainly in",
       a: "Stage 2 sleep.",
       b: "Stage 3 sleep.",
@@ -10343,7 +10303,7 @@ let obj = {
       d: "all of these.",
       ans: 'd'
    },
-   q1293: {
+   q1288: {
       question: "That there is a need for REM sleep is suggested by",
       a: "REM rebound.",
       b: "REM tolerance.",
@@ -10351,7 +10311,7 @@ let obj = {
       d: "emotional catharsis during REM sleep.",
       ans: 'a'
    },
-   q1294: {
+   q1289: {
       question: "Hypnosis is particularly useful",
       a: "for test taking due to increased memory.",
       b: "in helping a subject regress to childhood.",
@@ -10359,7 +10319,7 @@ let obj = {
       d: "in controlling phantom limb pain.",
       ans: 'd'
    },
-   q1295: {
+   q1290: {
       question: "Recent evidence suggests that THC, the active ingredient in marijuana,",
       a: "is harmless.",
       b: "is physically addictive.",
@@ -10367,7 +10327,7 @@ let obj = {
       d: "accumulates in fatty tissue.",
       ans: 'd'
    },
-   q1296: {
+   q1291: {
       question: "Short-term drug use based largely on curiosity is called",
       a: "experimental.",
       b: "compulsive.",
@@ -10375,7 +10335,7 @@ let obj = {
       d: "regressive.",
       ans: 'a'
    },
-   q1297: {
+   q1292: {
       question: "A sleep disturbance characterized by snoring, short silences, and gasps is called",
       a: "sleep apnea.",
       b: "narcolepsy.",
@@ -10383,7 +10343,7 @@ let obj = {
       d: "insomnia.",
       ans: 'a'
    },
-   q1298: {
+   q1293: {
       question: "Hypnosis currently has its greatest value as a(n)",
       a: "cure-all counseling approach.",
       b: "combination treatment with acupuncture and massage.",
@@ -10391,7 +10351,7 @@ let obj = {
       d: "valuable technique for uncovering repressed memories.",
       ans: 'c'
    },
-   q1299: {
+   q1294: {
       question: "Some physicians believe that SIDS, or crib death, may be caused by",
       a: "prematurity.",
       b: "sleep apnea.",
@@ -10399,7 +10359,7 @@ let obj = {
       d: "snoring.",
       ans: 'b'
    },
-   q1300: {
+   q1295: {
       question: "__________ is an amino acid that can help people sleep and can be found in a glass of __________.",
       a: "Teratogen; orange juice",
       b: "Tetracycline; natural sparkling water",
@@ -10407,7 +10367,7 @@ let obj = {
       d: "Thalidomide; wine",
       ans: 'c'
    },
-   q1301: {
+   q1296: {
       question: "Which of the following is a correct match?",
       a: "Stage 1 - light sleep",
       b: "Stage 2 - beta waves",
@@ -10415,7 +10375,7 @@ let obj = {
       d: "Stage 4 - sleep spindles",
       ans: 'a'
    },
-   q1302: {
+   q1297: {
       question: "Which of the following is classified as a stimulant?",
       a: "alcohol",
       b: "cocaine",
@@ -10423,7 +10383,7 @@ let obj = {
       d: "morphine",
       ans: 'b'
    },
-   q1303: {
+   q1298: {
       question: "Sleeptalking",
       a: "occurs most often in association with night terrors.",
       b: "is the outward expression of dream content.",
@@ -10431,7 +10391,7 @@ let obj = {
       d: "occurs during REM sleep and is therefore rather brief.",
       ans: 'c'
    },
-   q1304: {
+   q1299: {
       question: "Which of the following could you learn to do in your sleep?",
       a: "math",
       b: "foreign language",
@@ -10439,7 +10399,7 @@ let obj = {
       d: "dream analysis",
       ans: 'c'
    },
-   q1305: {
+   q1300: {
       question: "Treatment for alcoholism generally begins with",
       a: "vitamin therapy.",
       b: "tranquilizers.",
@@ -10447,7 +10407,7 @@ let obj = {
       d: "detoxification.",
       ans: 'd'
    },
-   q1306: {
+   q1301: {
       question: "If you suffered sleep deprivation, what type of effect would occur first?",
       a: "hallucinations and delusions",
       b: "loss of ability to pay attention and perform simple routine tasks",
@@ -10455,7 +10415,7 @@ let obj = {
       d: "coma",
       ans: 'b'
    },
-   q1307: {
+   q1302: {
       question: "People dream",
       a: "about 15 minutes during the night.",
       b: "about every 30 minutes in each 90 minute cycle.",
@@ -10463,7 +10423,7 @@ let obj = {
       d: "about 90 minutes a night.",
       ans: 'd'
    },
-   q1308: {
+   q1303: {
       question: "A very stressful day is likely to increase the amount of",
       a: "somnambulism.",
       b: "sleep talking.",
@@ -10471,7 +10431,7 @@ let obj = {
       d: "REM sleep.",
       ans: 'd'
    },
-   q1309: {
+   q1304: {
       question: "Which of the following occurs during dream sleep?",
       a: "irregular heart rate and blood pressure",
       b: "delta waves",
@@ -10479,7 +10439,7 @@ let obj = {
       d: "sleep walking",
       ans: 'a'
    },
-   q1310: {
+   q1305: {
       question: "Extensive study of dreams indicates that",
       a: "nearly all dreams are sexual.",
       b: "most dreams are extensions of everyday experience.",
@@ -10487,7 +10447,7 @@ let obj = {
       d: "the content of dreams usually deals with psychological violence.",
       ans: 'b'
    },
-   q1311: {
+   q1306: {
       question: "In Stage __________, a new brain wave begins to appear. __________ waves are very large and slow and signal deeper sleep and a further loss of consciousness.",
       a: "one; Alpha",
       b: "two; Delta",
@@ -10495,7 +10455,7 @@ let obj = {
       d: "four; Alpha",
       ans: 'c'
    },
-   q1312: {
+   q1307: {
       question: "Cocaine achieves its effect through the chemical messengers",
       a: "dopamine and noradrenaline.",
       b: "noradrenaline and THC.",
@@ -10503,7 +10463,7 @@ let obj = {
       d: "RNA and adrenaline.",
       ans: 'a'
    },
-   q1313: {
+   q1308: {
       question: "Many of the chemicals released by a burning cigarette are",
       a: "harmless.",
       b: "carcinogens.",
@@ -10511,7 +10471,7 @@ let obj = {
       d: "tetrahydrines.",
       ans: 'b'
    },
-   q1314: {
+   q1309: {
       question: "As the muscles in your body relax during Stage 1 sleep, the reflex muscle contraction that may happen is called",
       a: "an autonomic cramp.",
       b: "a hypnic jerk.",
@@ -10519,7 +10479,7 @@ let obj = {
       d: "hypnogogic image syndrome.",
       ans: 'b'
    },
-   q1315: {
+   q1310: {
       question: "Which waves are characteristic of stage 1 or light sleep?",
       a: "beta waves",
       b: "large regular waves with some sleep spindles",
@@ -10527,7 +10487,7 @@ let obj = {
       d: "delta waves",
       ans: 'c'
    },
-   q1316: {
+   q1311: {
       question: "Alcohol is classified as a",
       a: "stimulant.",
       b: "depressant.",
@@ -10535,7 +10495,7 @@ let obj = {
       d: "barbiturate.",
       ans: 'b'
    },
-   q1317: {
+   q1312: {
       question: "A person experiences blind panic, screaming, and thrashing around during the terror. This episode is called",
       a: "a nightmare.",
       b: "a night terror.",
@@ -10543,7 +10503,7 @@ let obj = {
       d: "paradoxical sleep.",
       ans: 'b'
    },
-   q1318: {
+   q1313: {
       question: "REM sleep makes up about __________ percent of total sleep.",
       a: "10",
       b: "20",
@@ -10551,7 +10511,7 @@ let obj = {
       d: "40",
       ans: 'b'
    },
-   q1319: {
+   q1314: {
       question: "Which of the following statements concerning marijuana is TRUE?",
       a: "There is a direct link between marijuana and lung cancer.",
       b: "Long-term marijuana users show no impairments of thinking abilities.",
@@ -10559,7 +10519,7 @@ let obj = {
       d: "Marijuana is extremely harmful.",
       ans: 'c'
    },
-   q1320: {
+   q1315: {
       question: "To be conscious means to be __________ .",
       a: "dreaming",
       b: "aware",
@@ -10567,7 +10527,7 @@ let obj = {
       d: "in REM",
       ans: 'b'
    },
-   q1321: {
+   q1316: {
       question: "At the center of the activation-synthesis hypothesis of dreaming is the need to",
       a: "give expression to unfulfilled wishes.",
       b: "provide an outlet for repressed thoughts.",
@@ -10575,7 +10535,7 @@ let obj = {
       d: "exhibit socially acceptable behavior.",
       ans: 'c'
    },
-   q1322: {
+   q1317: {
       question: "The drug in America that causes the most damage is",
       a: "marijuana.",
       b: "heroin.",
@@ -10583,7 +10543,7 @@ let obj = {
       d: "cocaine.",
       ans: 'c'
    },
-   q1323: {
+   q1318: {
       question: "EEG records indicate that during sleep the brain",
       a: "increases its activity.",
       b: "changes its pattern of activity.",
@@ -10591,7 +10551,7 @@ let obj = {
       d: "shuts down.",
       ans: 'b'
    },
-   q1324: {
+   q1319: {
       question: "A person who has trouble getting to sleep is said to suffer from",
       a: "narcolepsy.",
       b: "sleep apnea.",
@@ -10599,7 +10559,7 @@ let obj = {
       d: "somnambulism.",
       ans: 'c'
    },
-   q1325: {
+   q1320: {
       question: "The most obvious difference between the human brain and the brain of a carp would be in the",
       a: "hypothalamus.",
       b: "thalamus.",
@@ -10607,7 +10567,7 @@ let obj = {
       d: "cerebral cortex.",
       ans: 'd'
    },
-   q1326: {
+   q1321: {
       question: "The major link between the brain and the glandular system is the",
       a: "hypothalamus.",
       b: "pituitary.",
@@ -10615,7 +10575,7 @@ let obj = {
       d: "midbrain.",
       ans: 'a'
    },
-   q1327: {
+   q1322: {
       question: "__________ is closely related to grammar and pronunciation.",
       a: "Aphasia",
       b: "Broca's area",
@@ -10623,7 +10583,7 @@ let obj = {
       d: "Agnosia",
       ans: 'b'
    },
-   q1328: {
+   q1323: {
       question: "One of the main differences between the brains of people who score high on mental tests and those who score low indicate that higher scorers have",
       a: "higher levels of gray matter.",
       b: "lower levels of gray matter.",
@@ -10631,7 +10591,7 @@ let obj = {
       d: "higher PET scan recordings.",
       ans: 'a'
    },
-   q1329: {
+   q1324: {
       question: "Damage to the cerebellum would most likely result in",
       a: "heart stoppage or respiratory failure.",
       b: "a loss of hearing ability.",
@@ -10639,7 +10599,7 @@ let obj = {
       d: "a reduction in emotional response.",
       ans: 'c'
    },
-   q1330: {
+   q1325: {
       question: "The endocrine system",
       a: "is the only communications network in the body.",
       b: "depends on electrical messages for communication.",
@@ -10647,7 +10607,7 @@ let obj = {
       d: "secretes hormones into the exocrine ducts for communication.",
       ans: 'c'
    },
-   q1331: {
+   q1326: {
       question: "An elderly acquaintance of yours has suffered from partial blindness since she had a stroke. Apparently the stroke damaged her",
       a: "occipital lobe.",
       b: "parietal lobe.",
@@ -10655,7 +10615,7 @@ let obj = {
       d: "reticular formation.",
       ans: 'a'
    },
-   q1332: {
+   q1327: {
       question: "The pons acts as a bridge between the medulla and other brain areas and influences",
       a: "activity.",
       b: "sleep and arousal.",
@@ -10663,7 +10623,7 @@ let obj = {
       d: "higher reasoning.",
       ans: 'b'
    },
-   q1333: {
+   q1328: {
       question: "You are walking through a bad part of town, down a dark alley, and carrying a large amount of cash. Behind you, you hear a door open and close suddenly, and you immediately dive into the nearest trash container. The part of the forebrain mainly responsible for your reaction is the",
       a: "hippocampus.",
       b: "medulla.",
@@ -10671,7 +10631,7 @@ let obj = {
       d: "amygdala.",
       ans: 'd'
    },
-   q1334: {
+   q1329: {
       question: "An EEG records",
       a: "the number of neurons in the brain.",
       b: "electrical impulses from the brain.",
@@ -10679,7 +10639,7 @@ let obj = {
       d: "direct electrical stimulation and activation of the brain.",
       ans: 'b'
    },
-   q1335: {
+   q1330: {
       question: "As we move from lower to higher animals a larger proportion of the brain is devoted to",
       a: "unusually large occipital lobes.",
       b: "the corpus callosum.",
@@ -10687,7 +10647,7 @@ let obj = {
       d: "the spinal cord.",
       ans: 'c'
    },
-   q1336: {
+   q1331: {
       question: "Using an electrode, an experimenter produces flashes of colored light and simple visual experiences in a patient undergoing brain surgery. Most likely she has activated the",
       a: "parietal lobe.",
       b: "frontal lobe.",
@@ -10695,7 +10655,7 @@ let obj = {
       d: "temporal lobe.",
       ans: 'c'
    },
-   q1337: {
+   q1332: {
       question: "The cerebral cortex is composed of two sides or __________.",
       a: "pons",
       b: "positrons",
@@ -10703,7 +10663,7 @@ let obj = {
       d: "hemispheres",
       ans: 'd'
    },
-   q1338: {
+   q1333: {
       question: "The brainstem consists mainly of the",
       a: "cerebellum and the cerebral cortex.",
       b: "cerebrum and the medulla.",
@@ -10711,7 +10671,7 @@ let obj = {
       d: "cerebral cortex and the medulla.",
       ans: 'c'
    },
-   q1339: {
+   q1334: {
       question: "A person who had difficulty __________ would be described as having aphasia.",
       a: "walking",
       b: "smelling",
@@ -10719,7 +10679,7 @@ let obj = {
       d: "communicating",
       ans: 'd'
    },
-   q1340: {
+   q1335: {
       question: "In order to perform a split-brain operation, the __________ must be severed.",
       a: "pons",
       b: "cerebellum",
@@ -10727,7 +10687,7 @@ let obj = {
       d: "cerebral cortex",
       ans: 'c'
    },
-   q1341: {
+   q1336: {
       question: "The __________ cerebral hemisphere is superior at perceptual skills and detectingand expressing emotion.",
       a: "right",
       b: "left",
@@ -10735,7 +10695,7 @@ let obj = {
       d: "subcortical",
       ans: 'a'
    },
-   q1342: {
+   q1337: {
       question: "By using electrical stimulation, reward (or &quot;pleasure centers&quot;) and punishment (or &quot;aversive&quot; areas) can be shown to exist in the",
       a: "corpus callosum.",
       b: "limbic system.",
@@ -10743,7 +10703,7 @@ let obj = {
       d: "thalamus.",
       ans: 'b'
    },
-   q1343: {
+   q1338: {
       question: "Many addictive drugs stimulate the pleasure centers of the",
       a: "medulla.",
       b: "cerebellum.",
@@ -10751,7 +10711,7 @@ let obj = {
       d: "limbic system.",
       ans: 'd'
    },
-   q1344: {
+   q1339: {
       question: "Agnosia may sometimes be helped by",
       a: "cues of touch.",
       b: "visual cues.",
@@ -10759,7 +10719,7 @@ let obj = {
       d: "speech therapy.",
       ans: 'a'
    },
-   q1345: {
+   q1340: {
       question: "There is a greater portion of motor cortex for the",
       a: "mouth.",
       b: "hands and fingers.",
@@ -10767,7 +10727,7 @@ let obj = {
       d: "legs.",
       ans: 'b'
    },
-   q1346: {
+   q1341: {
       question: "The limbic system is responsible for",
       a: "the control of hunger, thirst, and sex.",
       b: "executive functions.",
@@ -10775,7 +10735,7 @@ let obj = {
       d: "auditory processing.",
       ans: 'a'
    },
-   q1347: {
+   q1342: {
       question: "An innovative scanning technique that uses magnetic technology to visualize brain activity is called",
       a: "PET.",
       b: "MRI.",
@@ -10783,7 +10743,7 @@ let obj = {
       d: "fMRI.",
       ans: 'd'
    },
-   q1348: {
+   q1343: {
       question: "The technique that uses a magnetic field to develop an image of the brain is called the",
       a: "clinical scan",
       b: "ablation technique",
@@ -10791,7 +10751,7 @@ let obj = {
       d: "EEG",
       ans: 'c'
    },
-   q1349: {
+   q1344: {
       question: "There is more somatosensory cortex for the",
       a: "mouth.",
       b: "shoulder.",
@@ -10799,7 +10759,7 @@ let obj = {
       d: "legs.",
       ans: 'a'
    },
-   q1350: {
+   q1345: {
       question: "The sense of smell depends on the __________ lobe.",
       a: "frontal",
       b: "occipital",
@@ -10807,7 +10767,7 @@ let obj = {
       d: "temporal",
       ans: 'a'
    },
-   q1351: {
+   q1346: {
       question: "If the brain were similar to the postal system, the function of the thalamus would be similar to the role of",
       a: "postmaster.",
       b: "mail sorter.",
@@ -10815,7 +10775,7 @@ let obj = {
       d: "Postmaster General.",
       ans: 'b'
    },
-   q1352: {
+   q1347: {
       question: "The use of an electrode to destroy small areas of the brain beneath the surface is called",
       a: "ablation.",
       b: "deep lesioning.",
@@ -10823,7 +10783,7 @@ let obj = {
       d: "electroencephalography.",
       ans: 'b'
    },
-   q1353: {
+   q1348: {
       question: "Which of the following is most closely associated with language comprehension?",
       a: "aphasia",
       b: "Broca's area",
@@ -10831,7 +10791,7 @@ let obj = {
       d: "agnosia",
       ans: 'c'
    },
-   q1354: {
+   q1349: {
       question: "The __________ cortex is all areas of the cerebral cortex that are not sensory or motor in function.",
       a: "association",
       b: "aphasia",
@@ -10839,7 +10799,7 @@ let obj = {
       d: "agnosia",
       ans: 'a'
    },
-   q1355: {
+   q1350: {
       question: "Which of the following is most closely associated with language production?",
       a: "aphasia",
       b: "Broca's area",
@@ -10847,7 +10807,7 @@ let obj = {
       d: "agnosia",
       ans: 'b'
    },
-   q1356: {
+   q1351: {
       question: "The reflex control centers for vital life functions like heart rate and breathing are found in the",
       a: "forebrain.",
       b: "medulla.",
@@ -10855,7 +10815,7 @@ let obj = {
       d: "pituitary gland.",
       ans: 'b'
    },
-   q1357: {
+   q1352: {
       question: "Experiments with animals have found pleasure centers to be located in the",
       a: "pituitary gland.",
       b: "left parietal lobe.",
@@ -10863,7 +10823,7 @@ let obj = {
       d: "amygdala.",
       ans: 'c'
    },
-   q1358: {
+   q1353: {
       question: "Which of the following involves electrical brain wave measurement?",
       a: "clinical studies",
       b: "ablation",
@@ -10871,7 +10831,7 @@ let obj = {
       d: "EEG",
       ans: 'd'
    },
-   q1359: {
+   q1354: {
       question: "The area of the frontal lobe that directs the body's muscles is called the",
       a: "somatosensory area.",
       b: "associative area.",
@@ -10879,7 +10839,7 @@ let obj = {
       d: "cerebral cortex.",
       ans: 'c'
    },
-   q1360: {
+   q1355: {
       question: "Bodily sensations such as touch, temperature, and pressure register in which brain area?",
       a: "the occipital lobes",
       b: "the parietal lobes",
@@ -10887,7 +10847,7 @@ let obj = {
       d: "the frontal lobes",
       ans: 'b'
    },
-   q1361: {
+   q1356: {
       question: "The surgical procedure of cutting the corpus callosum is done in cases of",
       a: "communication problems.",
       b: "severe epilepsy.",
@@ -10895,7 +10855,7 @@ let obj = {
       d: "split personality.",
       ans: 'b'
    },
-   q1362: {
+   q1357: {
       question: "Which of the following statements concerning the brain is true?",
       a: "Because the cerebrum is so indispensable to functioning, damage to it may endanger a person's life.",
       b: "Even if damage is limited to less crucial areas of the cortex, the person's behavior changes so radically that even casual observers know that some brain damage has occurred.",
@@ -10903,7 +10863,7 @@ let obj = {
       d: "The cerebral cortex is considered a part of the hindbrain.",
       ans: 'c'
    },
-   q1363: {
+   q1358: {
       question: "Which of the following is a major function of the somatosensory area of the cerebral cortex?",
       a: "primary area for receiving visual information",
       b: "analysis of body sensations",
@@ -10911,7 +10871,7 @@ let obj = {
       d: "primary area for receiving auditory information",
       ans: 'b'
    },
-   q1364: {
+   q1359: {
       question: "An elderly woman suffered a stroke, and there was injury to Broca's area of her brain. Her resulting speech impairment is called",
       a: "aphasia.",
       b: "agnosia.",
@@ -10919,7 +10879,7 @@ let obj = {
       d: "neglect.",
       ans: 'a'
    },
-   q1365: {
+   q1360: {
       question: "Which of the following changes would you expect to occur in someone whose frontal lobes were damaged in an accident?",
       a: "development of blank spots in the visual field",
       b: "reduced capacity to hear high frequency sounds",
@@ -10927,7 +10887,7 @@ let obj = {
       d: "inability to demonstrate complex motor skills",
       ans: 'c'
    },
-   q1366: {
+   q1361: {
       question: "Which of the following describes brains of persons who do well on mental tests?",
       a: "They seem to work the hardest.",
       b: "They seem to consume the least glucose.",
@@ -10935,7 +10895,7 @@ let obj = {
       d: "They are the easiest to study using EEGs.",
       ans: 'b'
    },
-   q1367: {
+   q1362: {
       question: "Creating the magic of consciousness is carried out primarily by",
       a: "the hindbrain.",
       b: "the midbrain.",
@@ -10943,7 +10903,7 @@ let obj = {
       d: "the brainstem.",
       ans: 'c'
    },
-   q1368: {
+   q1363: {
       question: "The two cerebral hemispheres are connected by a band of fibers called",
       a: "the corpus callosum.",
       b: "the cortex.",
@@ -10951,7 +10911,7 @@ let obj = {
       d: "association fibers.",
       ans: 'a'
    },
-   q1369: {
+   q1364: {
       question: "Electrical stimulation of the brain",
       a: "begins with the implantation of thin metal electrodes deep within the brain.",
       b: "cannot be used to electrically activate specific brain areas.",
@@ -10959,7 +10919,7 @@ let obj = {
       d: "cannot effect behaviors such as sleeping and euphoria.",
       ans: 'a'
    },
-   q1370: {
+   q1365: {
       question: "Language is controlled by the __________ of the brain.",
       a: "right hemisphere",
       b: "left hemisphere",
@@ -10967,7 +10927,7 @@ let obj = {
       d: "occipital lobe",
       ans: 'b'
    },
-   q1371: {
+   q1366: {
       question: "The __________ gland is involved in the regulation of growth.",
       a: "pituitary",
       b: "pineal",
@@ -10975,7 +10935,7 @@ let obj = {
       d: "adrenal",
       ans: 'a'
    },
-   q1372: {
+   q1367: {
       question: "The increased size and wrinkling of the cerebral cortex in higher animals is referred to as",
       a: "cerebralization.",
       b: "hemispherization.",
@@ -10983,7 +10943,7 @@ let obj = {
       d: "reticulation.",
       ans: 'c'
    },
-   q1373: {
+   q1368: {
       question: "An accident victim is shown a picture of a car and says, &quot;dar.&quot; This person is suffering from",
       a: "Broca's aphasia.",
       b: "mindblindness.",
@@ -10991,7 +10951,7 @@ let obj = {
       d: "agnosia.",
       ans: 'a'
    },
-   q1374: {
+   q1369: {
       question: "The visual area of the brain is located in the __________ lobe.",
       a: "frontal",
       b: "parietal",
@@ -10999,7 +10959,7 @@ let obj = {
       d: "temporal",
       ans: 'c'
    },
-   q1375: {
+   q1370: {
       question: "Weeks after an automobile accident, a friend continues to have difficulty maintaining balance and movements. You should suspect that damage may have occurred to the",
       a: "corpus callosum.",
       b: "cerebellum.",
@@ -11007,7 +10967,7 @@ let obj = {
       d: "reticular formation.",
       ans: 'b'
    },
-   q1376: {
+   q1371: {
       question: "An aphasia is a speech disturbance; an agnosia is",
       a: "the inability to identify objects.",
       b: "also related to the speech center.",
@@ -11015,7 +10975,7 @@ let obj = {
       d: "a thought disturbance.",
       ans: 'a'
    },
-   q1377: {
+   q1372: {
       question: "The reticular formation (RF) is associated with",
       a: "hunger and thirst.",
       b: "attention and wakefulness.",
@@ -11023,7 +10983,7 @@ let obj = {
       d: "pleasure and punishment.",
       ans: 'b'
    },
-   q1378: {
+   q1373: {
       question: "The association areas of the cerebral cortex",
       a: "are largest in the brains of lower animals.",
       b: "are directly related to such functions as thinking, language, and memory and include Broca's and Wernicke's areas.",
@@ -11031,7 +10991,7 @@ let obj = {
       d: "are not essential to the performance of higher mental functions.",
       ans: 'b'
    },
-   q1379: {
+   q1374: {
       question: "Which of the cerebral hemispheres is superior at drawing a picture?",
       a: "left",
       b: "right",
@@ -11039,7 +10999,7 @@ let obj = {
       d: "mid",
       ans: 'b'
    },
-   q1380: {
+   q1375: {
       question: "In most people, the right hemisphere of the brain is in charge of",
       a: "language.",
       b: "logic.",
@@ -11047,7 +11007,7 @@ let obj = {
       d: "mathematics.",
       ans: 'c'
    },
-   q1381: {
+   q1376: {
       question: "If a &quot;split-brain&quot; subject were given a key (hidden from sight) to feel with his left hand, he",
       a: "could easily name what he had touched.",
       b: "would be unable to describe the object.",
@@ -11055,7 +11015,7 @@ let obj = {
       d: "would have to wait for the information transfer to take place before describing it.",
       ans: 'b'
    },
-   q1382: {
+   q1377: {
       question: "As one moves up the evolutionary scale, development of the nervous system shows",
       a: "an increase in the brain tissue devoted to the cerebral cortex.",
       b: "corticalization of the peripheral nervous system.",
@@ -11063,7 +11023,7 @@ let obj = {
       d: "a diminishing importance of the corpus callosum.",
       ans: 'a'
    },
-   q1383: {
+   q1378: {
       question: "Which of the following is most involved in the production of emotion?",
       a: "the occipital lobe",
       b: "the limbic system",
@@ -11071,7 +11031,7 @@ let obj = {
       d: "the pituitary gland",
       ans: 'b'
    },
-   q1384: {
+   q1379: {
       question: "In higher animals, visible portions of the brain are covered with a wrinkled layer of gray matter called the",
       a: "cerebral cortex.",
       b: "cerebellum.",
@@ -11079,7 +11039,7 @@ let obj = {
       d: "forebrain.",
       ans: 'a'
    },
-   q1385: {
+   q1380: {
       question: "Although the human brain weighs approximately 3 pounds, it is also important to take into consideration __________ when comparing it to the brain of an elephant or whale.",
       a: "the cortex weight",
       b: "the body weight",
@@ -11087,7 +11047,7 @@ let obj = {
       d: "the brain weight to body weight ratio",
       ans: 'd'
    },
-   q1386: {
+   q1381: {
       question: "The occipital lobe is to vision as the parietal lobe is to",
       a: "smell.",
       b: "touch.",
@@ -11095,7 +11055,7 @@ let obj = {
       d: "complex behaviors.",
       ans: 'b'
    },
-   q1387: {
+   q1382: {
       question: "Surgical removal of parts of the brain to determine their function relies on a technique called",
       a: "positron emission.",
       b: "corticalization.",
@@ -11103,7 +11063,7 @@ let obj = {
       d: "ultrasound.",
       ans: 'c'
    },
-   q1388: {
+   q1383: {
       question: "Broca's area is located on the",
       a: "right parietal lobe.",
       b: "left parietal lobe.",
@@ -11111,7 +11071,7 @@ let obj = {
       d: "left frontal lobe.",
       ans: 'd'
    },
-   q1389: {
+   q1384: {
       question: "A patient who has suffered brain damage to the left hemisphere is likely to style='font-family:\"Times New Roman\", \"Times\", serif; font-size:12pt; color:#000000'>experience diminished capacity for",
       a: "naming objects.",
       b: "recognizing faces.",
@@ -11119,7 +11079,7 @@ let obj = {
       d: "identifying emotions.",
       ans: 'a'
    },
-   q1390: {
+   q1385: {
       question: "The functions of the amygdala include",
       a: "delivery of electrical stimulation to the limbic system.",
       b: "stopping electrical stimulation to the limbic system.",
@@ -11127,7 +11087,7 @@ let obj = {
       d: "helping us react to dangerous stimuli through a quick fear response.",
       ans: 'd'
    },
-   q1391: {
+   q1386: {
       question: "Does having a larger brain make a person smarter?",
       a: "Recent research found a positive correlation between intelligence and the size of several higher brain structures.",
       b: "The overall volume of gray matter is not correlated with IQ test scores.",
@@ -11135,7 +11095,7 @@ let obj = {
       d: "Environment has clearly been found to be the sole determinant of human intelligence.",
       ans: 'a'
    },
-   q1392: {
+   q1387: {
       question: "The cerebral cortex is",
       a: "the two large hemispheres that cover the upper part of the brain.",
       b: "the highest and largest brain area in humans.",
@@ -11143,7 +11103,7 @@ let obj = {
       d: "the outer layer of the cerebrum.",
       ans: 'd'
    },
-   q1393: {
+   q1388: {
       question: "Brain centers for most vital functions are",
       a: "distributed randomly throughout the cerebral cortex.",
       b: "localized in the left cerebral hemisphere.",
@@ -11151,7 +11111,7 @@ let obj = {
       d: "localized deep within the brain in the upper brainstem.",
       ans: 'd'
    },
-   q1394: {
+   q1389: {
       question: "The hippocampus",
       a: "is part of the hypothalamus.",
       b: "is associated with forming lasting memories.",
@@ -11159,7 +11119,7 @@ let obj = {
       d: "is involved with sensing emotion.",
       ans: 'b'
    },
-   q1395: {
+   q1390: {
       question: "Which statement concerning brain function is TRUE?",
       a: "The left side of the body is generally controlled by the left hemisphere.",
       b: "The left side of the body is generally controlled by the right hemisphere.",
@@ -11167,7 +11127,7 @@ let obj = {
       d: "A stroke to a person's left hemisphere will affect the left side of his or her body.",
       ans: 'b'
    },
-   q1396: {
+   q1391: {
       question: "Sue has recovered from extensive injury to her left cerebral hemisphere and has continued her career with little sign of impairment. Her occupation is most likely",
       a: "graphic artist.",
       b: "accountant.",
@@ -11175,7 +11135,7 @@ let obj = {
       d: "sports writer for a newspaper.",
       ans: 'a'
    },
-   q1397: {
+   q1392: {
       question: "A new, improved brain imaging technique for measuring glucose metabolism of the brain is called",
       a: "MANSCAN.",
       b: "PET scan.",
@@ -11183,7 +11143,7 @@ let obj = {
       d: "CT scan.",
       ans: 'b'
    },
-   q1398: {
+   q1393: {
       question: "The greater the sensitivity of a part of the body,",
       a: "the larger the area of somatosensory cortex associated with it.",
       b: "the smaller the area of somatosensory cortex associated with it.",
@@ -11191,7 +11151,7 @@ let obj = {
       d: "the larger the area of the cerebellum associated with it.",
       ans: 'a'
    },
-   q1399: {
+   q1394: {
       question: "The __________ area in the brain acts as a final &quot;switching station&quot; for most incoming sensory information.",
       a: "superior colliculus",
       b: "reticular formation (RF)",
@@ -11199,7 +11159,7 @@ let obj = {
       d: "thalamus",
       ans: 'd'
    },
-   q1400: {
+   q1395: {
       question: "Which of the following is NOT controlled by the hypothalamus?",
       a: "sex",
       b: "eating and drinking",
@@ -11207,7 +11167,7 @@ let obj = {
       d: "posture",
       ans: 'd'
    },
-   q1401: {
+   q1396: {
       question: "The somatosensory area is located in the",
       a: "temporal lobes.",
       b: "parietal lobes.",
@@ -11215,7 +11175,7 @@ let obj = {
       d: "frontal lobes.",
       ans: 'b'
    },
-   q1402: {
+   q1397: {
       question: "Destruction of the reticular activating system would result in",
       a: "coma.",
       b: "dizziness.",
@@ -11223,7 +11183,7 @@ let obj = {
       d: "aphasia.",
       ans: 'a'
    },
-   q1403: {
+   q1398: {
       question: "The __________ is the part of the brain that stores lasting memories.",
       a: "hindbrain",
       b: "temporal lobe",
@@ -11231,7 +11191,7 @@ let obj = {
       d: "hippocampus",
       ans: 'd'
    },
-   q1404: {
+   q1399: {
       question: "__________ measures the structure of the brain by utilizing a series of x-rays.",
       a: "EEG",
       b: "CT scan",
@@ -11239,7 +11199,7 @@ let obj = {
       d: "PET",
       ans: 'b'
    },
-   q1405: {
+   q1400: {
       question: "John has some paralysis and loss of sensation in his right side after a motorcycle accident. It is likely that there is brain damage in the",
       a: "cerebellum.",
       b: "left hemisphere.",
@@ -11247,7 +11207,7 @@ let obj = {
       d: "right hemisphere.",
       ans: 'b'
    },
-   q1406: {
+   q1401: {
       question: "Dave has just had some medical tests conducted. One of the tests recorded Dave's brain waves on a moving sheet of paper. Dave was probably given the",
       a: "EEG.",
       b: "CT scan.",
@@ -11255,7 +11215,7 @@ let obj = {
       d: "PET scan.",
       ans: 'a'
    },
-   q1407: {
+   q1402: {
       question: "The __________ regulates the functioning of other glands.",
       a: "pituitary gland",
       b: "pineal gland",
@@ -11263,7 +11223,7 @@ let obj = {
       d: "adrenal gland",
       ans: 'a'
    },
-   q1408: {
+   q1403: {
       question: "Hormones",
       a: "are the electrical messengers of the glands.",
       b: "are related to neurotransmitters.",
@@ -11271,7 +11231,7 @@ let obj = {
       d: "are similar to neurotransmitters, but unlike neurotransmitters, hormones do not require receptor sites.",
       ans: 'b'
    },
-   q1409: {
+   q1404: {
       question: "A brief electrical current is applied to the cortex causing movements and muscular twitches in various parts of the body. The area stimulated is the",
       a: "somesthetic area of the parietal lobe.",
       b: "association cortex of the occipital lobes.",
@@ -11279,7 +11239,7 @@ let obj = {
       d: "motor cortex of the frontal lobes.",
       ans: 'd'
    },
-   q1410: {
+   q1405: {
       question: "The brain center for audition is in the __________ lobe.",
       a: "temporal",
       b: "parietal",
@@ -11287,7 +11247,7 @@ let obj = {
       d: "frontal",
       ans: 'a'
    },
-   q1411: {
+   q1406: {
       question: "Jim does not understand algebra, but he's a good artist. Jim's __________ brain isprobably more fully developed.",
       a: "left",
       b: "right",
@@ -11295,7 +11255,7 @@ let obj = {
       d: "subcortical",
       ans: 'b'
    },
-   q1412: {
+   q1407: {
       question: "In the brain, the function of the reticular formation is similar to the hotel service known as",
       a: "advance registration.",
       b: "maid service.",
@@ -11303,7 +11263,7 @@ let obj = {
       d: "room service.",
       ans: 'c'
    },
-   q1413: {
+   q1408: {
       question: "Freud's theory was based on the belief that neuroses were caused by",
       a: "repressed memories, motives, and conflicts.",
       b: "learned maladaptive behaviors.",
@@ -11311,7 +11271,7 @@ let obj = {
       d: "destructive interpersonal relationships.",
       ans: 'a'
    },
-   q1414: {
+   q1409: {
       question: "In an institution for delinquent adolescents, a behavioral system has been implemented in which the adolescents earn points for target behaviors like getting up on time, making beds, attending class, etc. They are allowed to exchange their earned points for privileges, activities, etc. This system is called __________ and is based on __________.",
       a: "systematic desensitization; gradual exposure.",
       b: "time out; extinction.",
@@ -11319,7 +11279,7 @@ let obj = {
       d: "primary reinforcement; non-reward",
       ans: 'c'
    },
-   q1415: {
+   q1410: {
       question: "Freud considered the distinction between manifest content and latent content essential for",
       a: "free association.",
       b: "dream analysis.",
@@ -11327,7 +11287,7 @@ let obj = {
       d: "transference.",
       ans: 'b'
    },
-   q1416: {
+   q1411: {
       question: "In psychoanalysis, patients avoid talking about certain subjects. This is called",
       a: "avoidance.",
       b: "transference.",
@@ -11335,7 +11295,7 @@ let obj = {
       d: "resistance.",
       ans: 'd'
    },
-   q1417: {
+   q1412: {
       question: "In psychoanalysis, an emotional attachment to the therapist that symbolically represents other important relationships is called",
       a: "resistance.",
       b: "transference.",
@@ -11343,7 +11303,7 @@ let obj = {
       d: "empathy.",
       ans: 'b'
    },
-   q1418: {
+   q1413: {
       question: "A form of therapy that encourages one to become aware of emotions in the &quot;here and now&quot; and to rebuild thinking, feeling, and acting into connected wholes is",
       a: "existential therapy.",
       b: "Gestalt therapy.",
@@ -11351,7 +11311,7 @@ let obj = {
       d: "non-directive therapy.",
       ans: 'b'
    },
-   q1419: {
+   q1414: {
       question: "According to Aaron Beck, negative, __________ underlie depression.",
       a: "unconscious motives",
       b: "unrealistic goals",
@@ -11359,7 +11319,7 @@ let obj = {
       d: "self-defeating thoughts",
       ans: 'd'
    },
-   q1420: {
+   q1415: {
       question: "__________ is any technique involving surgical alteration of the brain.",
       a: "Ablation lesioning",
       b: "Psychosurgery",
@@ -11367,7 +11327,7 @@ let obj = {
       d: "Psychic surgery",
       ans: 'b'
    },
-   q1421: {
+   q1416: {
       question: "A psychoanalyst who believes in the theories of Freud would see psychopathology as caused by",
       a: "birth trauma.",
       b: "repressed sexuality and aggression.",
@@ -11375,7 +11335,7 @@ let obj = {
       d: "immature personal relationships.",
       ans: 'b'
    },
-   q1422: {
+   q1417: {
       question: "A parent who copes with quarreling among young children by placing them in separate rooms is using",
       a: "punishment.",
       b: "reinforcement.",
@@ -11383,7 +11343,7 @@ let obj = {
       d: "shaping.",
       ans: 'c'
    },
-   q1423: {
+   q1418: {
       question: "If ignoring causes a child's temper-tantrums to cease, a psychologist would call this effect",
       a: "shaping.",
       b: "punishment.",
@@ -11391,7 +11351,7 @@ let obj = {
       d: "extinction.",
       ans: 'd'
    },
-   q1424: {
+   q1419: {
       question: "When electric shock is used to make the sight and smell of alcohol conditioned stimuli for an aversion response, the electric shock serves as the",
       a: "conditioned response.",
       b: "unconditioned stimulus.",
@@ -11399,7 +11359,7 @@ let obj = {
       d: "conditioned hierarchy.",
       ans: 'b'
    },
-   q1425: {
+   q1420: {
       question: "Role reversal and the mirror technique are associated with",
       a: "Gestalt therapy.",
       b: "psychodrama.",
@@ -11407,7 +11367,7 @@ let obj = {
       d: "psychoanalysis.",
       ans: 'b'
    },
-   q1426: {
+   q1421: {
       question: "The prefrontal lobotomy has been replaced by",
       a: "electroconvulsive shock.",
       b: "deep-lesioning techniques.",
@@ -11415,7 +11375,7 @@ let obj = {
       d: "X-ray therapy.",
       ans: 'b'
    },
-   q1427: {
+   q1422: {
       question: "Virtual reality exposure refers to",
       a: "a sexual disorder involving flashing in order to shock and get attention",
       b: "having a person vividly imagine distressing images",
@@ -11423,7 +11383,7 @@ let obj = {
       d: "another form of role playing",
       ans: 'c'
    },
-   q1428: {
+   q1423: {
       question: "Exorcism often involved",
       a: "religious catharsis.",
       b: "boring a hole in the jaw.",
@@ -11431,7 +11391,7 @@ let obj = {
       d: "hypnotism.",
       ans: 'c'
    },
-   q1429: {
+   q1424: {
       question: "In rational-emotive therapy,",
       a: "clients are encouraged to take responsibility for their own choices.",
       b: "clients learn to challenge irrational beliefs.",
@@ -11439,7 +11399,7 @@ let obj = {
       d: "irrational elements of the unconscious are made to conform to reality.",
       ans: 'b'
    },
-   q1430: {
+   q1425: {
       question: "The most appropriate use of electroconvulsive therapy is as a",
       a: "preferred means of treatment for all cases of depression.",
       b: "preferred means of treatment for organic psychoses in which brain pathology exists.",
@@ -11447,7 +11407,7 @@ let obj = {
       d: "last resort after other methods have failed and the likelihood of self-destructive behavior is great.",
       ans: 'd'
    },
-   q1431: {
+   q1426: {
       question: "Harriet, a student nurse, was at first extremely uncomfortable at the sight of blood. After a month of experience working in the emergency room, she is no longer upset when confronted with serious injuries. Harriet has undergone",
       a: "time out.",
       b: "shaping.",
@@ -11455,7 +11415,7 @@ let obj = {
       d: "trial-and-error learning.",
       ans: 'c'
    },
-   q1432: {
+   q1427: {
       question: "A problem with aversion therapy is",
       a: "constructing a realistic hierarchy.",
       b: "transfer of learning to the real world.",
@@ -11463,7 +11423,7 @@ let obj = {
       d: "the overuse of habituation.",
       ans: 'b'
    },
-   q1433: {
+   q1428: {
       question: "Which is a myth regarding psychotherapy?",
       a: "Psychotherapy provides a complete transformation of the psyche.",
       b: "Chances for improvement are good with phobias, some sexual problems, and marital conflicts.",
@@ -11471,7 +11431,7 @@ let obj = {
       d: "Psychotherapy's major benefit is that it provides the person comfort and support.",
       ans: 'a'
    },
-   q1434: {
+   q1429: {
       question: "When a therapist attempts to see the world through the client's eyes and to feel some part of what he or she is feeling, the therapist is using",
       a: "authenticity.",
       b: "empathy.",
@@ -11479,7 +11439,7 @@ let obj = {
       d: "ego-centering.",
       ans: 'b'
    },
-   q1435: {
+   q1430: {
       question: "Trepanning, one of the more primitive practices involving boring a hole into the skull, was used to",
       a: "release &quot;evil spirits.&quot;",
       b: "shock patients into a remission of symptoms.",
@@ -11487,7 +11447,7 @@ let obj = {
       d: "punish those who had committed crimes.",
       ans: 'a'
    },
-   q1436: {
+   q1431: {
       question: "The key aspect of existential therapy is",
       a: "resolving unconscious conflicts.",
       b: "eliminating symptoms.",
@@ -11495,7 +11455,7 @@ let obj = {
       d: "a holistic analysis.",
       ans: 'c'
    },
-   q1437: {
+   q1432: {
       question: "The owner of a chicken ranch ends a pet dog's habit of stealing and eating eggs by allowing the dog to &quot;find&quot; and eat several eggs laced with Tabasco sauce. The ranch owner's approach is similar to",
       a: "covert sensitization.",
       b: "aversion therapy.",
@@ -11503,7 +11463,7 @@ let obj = {
       d: "desensitization techniques.",
       ans: 'b'
    },
-   q1438: {
+   q1433: {
       question: "Freud called which of the following the &quot;royal road to the unconscious&quot;?",
       a: "analysis of transference.",
       b: "analysis of resistance.",
@@ -11511,7 +11471,7 @@ let obj = {
       d: "free association.",
       ans: 'c'
    },
-   q1439: {
+   q1434: {
       question: "Psychoanalysis, desensitization, reality therapy, behavior therapy, and client-centered therapy are all forms of",
       a: "somatotherapy.",
       b: "psychic therapy.",
@@ -11519,7 +11479,7 @@ let obj = {
       d: "psychotherapy.",
       ans: 'd'
    },
-   q1440: {
+   q1435: {
       question: "Which of the following statements regarding the use of drugs for treating schizophrenia is TRUE?",
       a: "The best new drugs are cure-alls.",
       b: "A combination of medication and psychotherapy almost always works best.",
@@ -11527,7 +11487,7 @@ let obj = {
       d: "Medication works effectively for 90% of the cases.",
       ans: 'b'
    },
-   q1441: {
+   q1436: {
       question: "Which of the following is the MOST likely outcome for psychotherapy?",
       a: "a complete personal transformation",
       b: "a renewal of intellectual and creative abilities",
@@ -11535,7 +11495,7 @@ let obj = {
       d: "learning skills to better cope with stress",
       ans: 'd'
    },
-   q1442: {
+   q1437: {
       question: "The first true psychotherapy was developed by __________ around the turn of the century to treat cases of __________ .",
       a: "Freud; hysteria",
       b: "Pinel; psychosis",
@@ -11543,7 +11503,7 @@ let obj = {
       d: "Bic&#233;tre; hysteria",
       ans: 'a'
    },
-   q1443: {
+   q1438: {
       question: "Traditional psychoanalysis can be objectively criticized as",
       a: "requiring large amounts of time and money.",
       b: "effective only in treating psychosis.",
@@ -11551,7 +11511,7 @@ let obj = {
       d: "placing too much responsibility on the client.",
       ans: 'a'
    },
-   q1444: {
+   q1439: {
       question: "Which of the following is identified with client-centered therapy?",
       a: "providing advice, setting goals, and giving interpretations",
       b: "dream analysis, transference, and analysis of resistance",
@@ -11559,7 +11519,7 @@ let obj = {
       d: "goal-setting, desensitization, modeling, and recentering",
       ans: 'c'
    },
-   q1445: {
+   q1440: {
       question: "Major tranquilizers are also known as",
       a: "stimulants.",
       b: "energizers.",
@@ -11567,7 +11527,7 @@ let obj = {
       d: "antipsychotics.",
       ans: 'd'
    },
-   q1446: {
+   q1441: {
       question: "The practice of drilling a hole in a person's head to let the evil spirits out is called",
       a: "ECT.",
       b: "envaraging.",
@@ -11575,7 +11535,7 @@ let obj = {
       d: "trepanning.",
       ans: 'd'
    },
-   q1447: {
+   q1442: {
       question: "Freud called his form of psychotherapy",
       a: "hysteria therapy.",
       b: "somatotherapy.",
@@ -11583,7 +11543,7 @@ let obj = {
       d: "transference therapy.",
       ans: 'c'
    },
-   q1448: {
+   q1443: {
       question: "Unconditional positive regard is part of what therapy?",
       a: "logotherapy",
       b: "psychoanalysis",
@@ -11591,7 +11551,7 @@ let obj = {
       d: "Gestalt therapy",
       ans: 'c'
    },
-   q1449: {
+   q1444: {
       question: "Humane treatment of the emotionally disturbed was spearheaded by __________, who personally unchained inmates at the Bic&#233;tre Asylum.",
       a: "Freud",
       b: "Pinel",
@@ -11599,7 +11559,7 @@ let obj = {
       d: "Frankl",
       ans: 'b'
    },
-   q1450: {
+   q1445: {
       question: "Psychoanalysis is to insight as behavior therapy is to",
       a: "motivation.",
       b: "action.",
@@ -11607,7 +11567,7 @@ let obj = {
       d: "understanding.",
       ans: 'b'
    },
-   q1451: {
+   q1446: {
       question: "Dr. Hochman is a therapist who tries to lend support to clients who are having an emotional crisis and want to solve daily life problems. He most likely practices __________ therapy.",
       a: "insight",
       b: "action",
@@ -11615,7 +11575,7 @@ let obj = {
       d: "supportive",
       ans: 'd'
    },
-   q1452: {
+   q1447: {
       question: "Which of the following promotes mental health?",
       a: "identity confusion",
       b: "personal autonomy",
@@ -11623,7 +11583,7 @@ let obj = {
       d: "Type A personality",
       ans: 'b'
    },
-   q1453: {
+   q1448: {
       question: "The behavioral technique that has been most effective in treating depression is",
       a: "aversion therapy.",
       b: "a token economy.",
@@ -11631,7 +11591,7 @@ let obj = {
       d: "covert sensitization.",
       ans: 'c'
    },
-   q1454: {
+   q1449: {
       question: "Which form of therapy places responsibility for the course of therapy on the client?",
       a: "insight therapy",
       b: "action therapy",
@@ -11639,7 +11599,7 @@ let obj = {
       d: "non-directive therapy",
       ans: 'd'
    },
-   q1455: {
+   q1450: {
       question: "Tardive dyskinesia is a neurological disorder that may be caused by",
       a: "taking major tranquilizers for extended periods.",
       b: "an undersecretion of the body's natural dopamine's.",
@@ -11647,7 +11607,7 @@ let obj = {
       d: "abuse of amphetamines.",
       ans: 'a'
    },
-   q1456: {
+   q1451: {
       question: "Which of the following is the most likely consequence of punishment?",
       a: "elimination of the punished response",
       b: "increase in the frequency of the response",
@@ -11655,7 +11615,7 @@ let obj = {
       d: "no change in the immediate or long-term frequency of the response",
       ans: 'c'
    },
-   q1457: {
+   q1452: {
       question: "In aversion therapy a person __________ to associate a strong aversion with an undesirable habit.",
       a: "knows",
       b: "learns",
@@ -11663,7 +11623,7 @@ let obj = {
       d: "hopes",
       ans: 'b'
    },
-   q1458: {
+   q1453: {
       question: "Saying whatever comes to mind, even if it seems senseless, painful, or embarrassing, is part of the Freudian technique known as",
       a: "unconditional regard.",
       b: "non-directive therapy.",
@@ -11671,7 +11631,7 @@ let obj = {
       d: "transactional analysis.",
       ans: 'c'
    },
-   q1459: {
+   q1454: {
       question: "The use of classical conditioning to alleviate human problems is called",
       a: "radical therapy.",
       b: "behavior modification.",
@@ -11679,7 +11639,7 @@ let obj = {
       d: "reciprocal inhibition.",
       ans: 'b'
    },
-   q1460: {
+   q1455: {
       question: "Ergotism refers to",
       a: "a primitive form of drug therapy.",
       b: "a form of possession or madness.",
@@ -11687,7 +11647,7 @@ let obj = {
       d: "a treatment designed to expand sensory experience.",
       ans: 'c'
    },
-   q1461: {
+   q1456: {
       question: "The disappearance of symptoms due to the mere passage of time is termed",
       a: "spontaneous remission.",
       b: "catharsis.",
@@ -11695,7 +11655,7 @@ let obj = {
       d: "reversal.",
       ans: 'a'
    },
-   q1462: {
+   q1457: {
       question: "Behavior modification might be considered optimistic because it views mental disorders as",
       a: "biochemical imbalances that can be balanced.",
       b: "learned responses that can be unlearned.",
@@ -11703,7 +11663,7 @@ let obj = {
       d: "the result of only temporary blockages to a natural tendency for growth.",
       ans: 'b'
    },
-   q1463: {
+   q1458: {
       question: "Those who decide that no one will ever love them again because they have been rejected by a &quot;significant other&quot; and are, therefore, unlovable are illustrating",
       a: "all-or-nothing thinking.",
       b: "overgeneralization.",
@@ -11711,7 +11671,7 @@ let obj = {
       d: "minimizing the importance of an undesirable event.",
       ans: 'b'
    },
-   q1464: {
+   q1459: {
       question: "Carena has a bad habit of biting her fingernails and pulling at her cuticles until her fingers bleed and have sores. Her therapist is teaching her how to not bite and pick at her fingernails using various learning principles. Her therapist is using",
       a: "behavior therapy.",
       b: "humanistic therapy.",
@@ -11719,7 +11679,7 @@ let obj = {
       d: "logotherapy.",
       ans: 'a'
    },
-   q1465: {
+   q1460: {
       question: "The basic assumption of behavior therapy is that",
       a: "deep understanding of one's problems leads to behavior change.",
       b: "past experiences and emotional trauma must be probed before behavior can be changed.",
@@ -11727,7 +11687,7 @@ let obj = {
       d: "phobias can be created and dismantled.",
       ans: 'c'
    },
-   q1466: {
+   q1461: {
       question: "Carl Rogers is responsible for",
       a: "client-centered therapy.",
       b: "psychoanalysis.",
@@ -11735,7 +11695,7 @@ let obj = {
       d: "existential therapy.",
       ans: 'a'
    },
-   q1467: {
+   q1462: {
       question: "Behavior modification involves",
       a: "applying non-directive techniques such as unconditional positive regard to clients.",
       b: "psychoanalytic approaches to specific behavior disturbances.",
@@ -11743,7 +11703,7 @@ let obj = {
       d: "the use of insight therapy to change upsetting thoughts and beliefs.",
       ans: 'c'
    },
-   q1468: {
+   q1463: {
       question: "The obvious and visible aspects of a dream comprise its",
       a: "manifest content.",
       b: "lucid content.",
@@ -11751,7 +11711,7 @@ let obj = {
       d: "latent content.",
       ans: 'a'
    },
-   q1469: {
+   q1464: {
       question: "Cognitive therapists are interested in",
       a: "only maladaptive actions.",
       b: "unconscious thoughts of sex and aggression.",
@@ -11759,7 +11719,7 @@ let obj = {
       d: "only visible behaviors.",
       ans: 'c'
    },
-   q1470: {
+   q1465: {
       question: "According to __________, perception (awareness) becomes disjointed and incomplete in a maladjusted person.",
       a: "logotherapists",
       b: "existentialists",
@@ -11767,7 +11727,7 @@ let obj = {
       d: "Rogerians",
       ans: 'c'
    },
-   q1471: {
+   q1466: {
       question: "Which of the following psychotherapeutic techniques is most likely to be used by a client-centered therapist?",
       a: "reflection of feelings",
       b: "interpretation of unconscious resistance",
@@ -11775,7 +11735,7 @@ let obj = {
       d: "probing experiences of early childhood",
       ans: 'a'
    },
-   q1472: {
+   q1467: {
       question: "Freud's method of psychotherapy stressed",
       a: "bringing an end to irrational and self-defeating internal dialogue.",
       b: "unconditional positive regard and empathy.",
@@ -11783,7 +11743,7 @@ let obj = {
       d: "pharmacology.",
       ans: 'c'
    },
-   q1473: {
+   q1468: {
       question: "Desensitization is primarily used to",
       a: "alleviate phobias and anxieties.",
       b: "overcome destructive habits.",
@@ -11791,7 +11751,7 @@ let obj = {
       d: "decrease free-floating anxiety.",
       ans: 'a'
    },
-   q1474: {
+   q1469: {
       question: "Free association is a basic technique in",
       a: "psychoanalysis.",
       b: "action therapy.",
@@ -11799,7 +11759,7 @@ let obj = {
       d: "directive therapy.",
       ans: 'a'
    },
-   q1475: {
+   q1470: {
       question: "Your friend Kiki comes to you with a personal problem. The first thing you should do to counsel her is to",
       a: "give her advise on what she should do.",
       b: "ask closed questions to get her talking.",
@@ -11807,7 +11767,7 @@ let obj = {
       d: "actively listen to try to clarify the problem.",
       ans: 'd'
    },
-   q1476: {
+   q1471: {
       question: "The risk-benefit ratio in treating schizophrenia refers to",
       a: "the advantages and disadvantages of hospitalization.",
       b: "the benefits of medication in alleviating psychotic symptoms versus the adverse effects.",
@@ -11815,7 +11775,7 @@ let obj = {
       d: "neither the advantages and disadvantages of hospitalization nor benefits of medication versus the adverse effects.",
       ans: 'b'
    },
-   q1477: {
+   q1472: {
       question: "A verbal interaction between a trained mental health professional and several clients is called",
       a: "psychoanalysis.",
       b: "individual therapy.",
@@ -11823,7 +11783,7 @@ let obj = {
       d: "group therapy.",
       ans: 'd'
    },
-   q1478: {
+   q1473: {
       question: "Electroconvulsive therapy (ECT) is most likely to be used, as a last resort, with which type of problem?",
       a: "hyperactivity and agitation",
       b: "conversion reactions",
@@ -11831,7 +11791,7 @@ let obj = {
       d: "severe depression that does not respond to any other treatment",
       ans: 'd'
    },
-   q1479: {
+   q1474: {
       question: "A child who has an intense fear of a dog as a result of some traumatic experience in the dog's presence would be a candidate for",
       a: "aversive conditioning.",
       b: "punishment training.",
@@ -11839,7 +11799,7 @@ let obj = {
       d: "stimulus control.",
       ans: 'c'
    },
-   q1480: {
+   q1475: {
       question: "The drugs used to control hallucinations and other psychotic symptoms are called",
       a: "anti-depressants.",
       b: "energizers.",
@@ -11847,7 +11807,7 @@ let obj = {
       d: "antipsychotics.",
       ans: 'd'
    },
-   q1481: {
+   q1476: {
       question: "According to __________, each person creates his or her private world by making choices in order to confront and overcome feelings of meaninglessness and isolation.",
       a: "existential therapists",
       b: "Gestalt therapists",
@@ -11855,7 +11815,7 @@ let obj = {
       d: "Carl Rogers",
       ans: 'a'
    },
-   q1482: {
+   q1477: {
       question: "A therapist guides a client by giving instructions, interpretations, or solutions, and by making decisions. The therapist's approach can be described as __________ therapy.",
       a: "directive",
       b: "action",
@@ -11863,7 +11823,7 @@ let obj = {
       d: "individual",
       ans: 'a'
    },
-   q1483: {
+   q1478: {
       question: "Humanistic therapies generally emphasize",
       a: "making full use of one's potential.",
       b: "an in-depth analysis of unconscious forces within the personality.",
@@ -11871,7 +11831,7 @@ let obj = {
       d: "the value of spontaneous remissions.",
       ans: 'a'
    },
-   q1484: {
+   q1479: {
       question: "Freud's theory of dream analysis is based on the assumption that the true meaning of dreams is found in their",
       a: "latent content.",
       b: "manifest content.",
@@ -11879,7 +11839,7 @@ let obj = {
       d: "conscious core.",
       ans: 'a'
    },
-   q1485: {
+   q1480: {
       question: "Regarding rational-emotive therapy, it can be said that",
       a: "critics suggest that it is really a type of psychoanalysis.",
       b: "having irrational beliefs is related to feelings of unhappiness.",
@@ -11887,7 +11847,7 @@ let obj = {
       d: "most irrational beliefs occur at the unconscious level and can't be stopped.",
       ans: 'b'
    },
-   q1486: {
+   q1481: {
       question: "Frank considers himself to be a total failure and a worthless person because he failed one class. Frank's behavior exemplifies the distortion of thinking behavioral therapists call",
       a: "all-or-nothing thinking.",
       b: "magnification.",
@@ -11895,7 +11855,7 @@ let obj = {
       d: "selective perception.",
       ans: 'c'
    },
-   q1487: {
+   q1482: {
       question: "A cognitive therapist is concerned primarily with helping clients change their",
       a: "thinking patterns.",
       b: "behaviors.",
@@ -11903,7 +11863,7 @@ let obj = {
       d: "habits.",
       ans: 'a'
    },
-   q1488: {
+   q1483: {
       question: "The therapeutic technique of associating a discomfort with a bad habit is based on which type of conditioning?",
       a: "instrumental",
       b: "classical",
@@ -11911,7 +11871,7 @@ let obj = {
       d: "token",
       ans: 'b'
    },
-   q1489: {
+   q1484: {
       question: "Symbolic rewards used to encourage positive changes in behavior are called",
       a: "operants.",
       b: "tokens.",
@@ -11919,7 +11879,7 @@ let obj = {
       d: "strokes.",
       ans: 'b'
    },
-   q1490: {
+   q1485: {
       question: "If you get praised by your parents for making A's in your college courses, the grades are",
       a: "an example of stimulus control.",
       b: "an example of time out.",
@@ -11927,7 +11887,7 @@ let obj = {
       d: "situationally controlled.",
       ans: 'c'
    },
-   q1491: {
+   q1486: {
       question: "A therapeutic technique for psychological disorders that produces seizures, decreased emotional responses, and even stupor as side effects is",
       a: "lobotomy.",
       b: "chemotherapy.",
@@ -11935,7 +11895,7 @@ let obj = {
       d: "immunotherapy.",
       ans: 'a'
    },
-   q1492: {
+   q1487: {
       question: "In client-centered therapy, the troubled individual is",
       a: "asked to free associate to bring hidden conflicts into awareness.",
       b: "stripped of ego-defenses and unrealistic beliefs.",

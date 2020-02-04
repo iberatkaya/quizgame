@@ -1,22 +1,26 @@
 import React, { Component } from 'react'
-import { Text, View, ScrollView, StyleSheet, StatusBar, TouchableOpacity, ToastAndroid } from 'react-native';
+import { Text, View, ScrollView, Platform, StyleSheet, StatusBar, TouchableOpacity, ToastAndroid } from 'react-native';
 import { NavigationStackProp } from 'react-navigation-stack';
 import { SafeAreaView } from 'react-native-safe-area-context';
+import NetInfo from "@react-native-community/netinfo";
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
 import Dialog, { SlideAnimation, DialogContent, DialogFooter, DialogButton, DialogTitle } from 'react-native-popup-dialog';
 import MIcon from 'react-native-vector-icons/MaterialCommunityIcons';
 import AsyncStorage from '@react-native-community/async-storage';
 import FastImage from 'react-native-fast-image';
+import SplashScreen from 'react-native-splash-screen';
 const { AdMobBanner, AdMobRewarded } = require('react-native-admob');
 const { SliderBox } = require('react-native-image-slider-box');
-import { adunitid, demobanner, demovideo } from './appid';
+import { adunitid, videoadid, demobanner, demovideo } from './appid';
 import { setHighScore, setLives } from './Actions';
 import { User } from './Reducer';
 
+export const DEFAULT_LIVES = 7;
+
 interface State {
    loadedAd: boolean,
-   visible: boolean
+   screen: string
 };
 
 interface Props {
@@ -36,28 +40,32 @@ export class Home extends Component<Props, State>{
       super(props);
       this.state = {
          loadedAd: false,
-         visible: false
+         screen: 'Home'
       };
    }
 
 
    async componentDidMount() {
       try {
-         this.highScore();
-         AdMobRewarded.setAdUnitID(demovideo);
-         AdMobRewarded.addEventListener('rewarded', async () => {
-            let reward = 2;
+         await this.loadHighScore();
+         await this.loadLives();
+         await AdMobRewarded.setAdUnitID(demovideo);
+         await AdMobRewarded.addEventListener('rewarded', async () => {
+            let reward = 3;
             let { lives } = this.props.user;
             lives += reward;
             this.props.setLives(lives);
             await AsyncStorage.setItem("lives", lives.toString());
          });
-         AdMobRewarded.addEventListener('adClosed', () => {
-            console.log('AdMobRewarded => adClosed');
-         });
+         SplashScreen.hide();
       } catch (e) {
+         SplashScreen.hide();
          console.log(e);
       }
+   }
+
+   async componentWillUnmount() {
+      await AdMobRewarded.removeAllListeners();
    }
 
 
@@ -79,25 +87,19 @@ export class Home extends Component<Props, State>{
       )
    });
 
-   highScore = async () => {
+   loadHighScore = async () => {
       const highScoreStr = await AsyncStorage.getItem("highScore");
       const highScore = highScoreStr === null ? 0 : parseInt(highScoreStr);
-      if (highScore > this.props.user.highScore && this.props.user.highScore !== 0)
-         this.setState({ visible: true }, () => {
-            this.props.setHighScore(highScore);
-         })
-      else if (highScore > this.props.user.highScore)
-         this.props.setHighScore(highScore);
+      this.props.setHighScore(highScore);
    }
 
    loadLives = async () => {
       const livesstr = await AsyncStorage.getItem("lives");
       const playDateStr = await AsyncStorage.getItem("playDate");
-      console.log(playDateStr);
       const playDate = playDateStr === null ? 0 : parseInt(playDateStr);
-      let lives = livesstr === null ? 3 : parseInt(livesstr);
-      if (playDate !== new Date().getDate() && lives < 3)
-         lives = 3;
+      let lives = livesstr === null ? DEFAULT_LIVES : parseInt(livesstr);
+      if (playDate !== new Date().getDate() && lives < DEFAULT_LIVES)
+         lives = DEFAULT_LIVES;
       this.props.setLives(lives);
    }
 
@@ -109,12 +111,11 @@ export class Home extends Component<Props, State>{
    }
 
    quizNavigate = async (index: number) => {
-      const { navigation } = this.props;
-      let { lives } = this.props.user;
-      if (lives === 0)
-         ToastAndroid.show("Please watch an ad for more lives!", ToastAndroid.LONG);
-      this.props.setLives(lives - 1);
-      await AsyncStorage.setItem("lives", (lives - 1).toString());
+      const { navigation, user } = this.props;
+      if(user.lives < 1){
+         ToastAndroid.show("Watch a video for more lives", ToastAndroid.LONG)
+         return;
+      }
       if (index === 0)
          navigation.navigate("Game", { type: "Random" })
       else if (index === 1)
@@ -129,18 +130,20 @@ export class Home extends Component<Props, State>{
          navigation.navigate("Game", { type: "World History" })
       else if (index === 6)
          navigation.navigate("Game", { type: "Marketing" })
-      else if (index === 5)
+      else if (index === 7)
          navigation.navigate("Game", { type: "Psychology" })
    }
 
    render() {
       return (
-         <SafeAreaView style={{ flex: 1, backgroundColor: '#fff', paddingBottom: this.mainViewBottomPadding() }}>
+         <SafeAreaView style={{ flex: 1, paddingTop: 0, backgroundColor: '#fff', paddingBottom: this.mainViewBottomPadding() }}>
             <StatusBar backgroundColor="#5df25d" />
             <ScrollView>
                <View style={styles.score}>
                   <Text style={styles.scoreText}>High Score: {this.props.user.highScore}</Text>
-                  <View style={{ height: 1, backgroundColor: '#ddd', marginVertical: 6 }} />
+               </View>
+               <View style={{ height: 1, backgroundColor: '#ddd' }} />
+               <View style={styles.lives}>
                   <Text style={styles.scoreText}>Remaining Lives: {this.props.user.lives}</Text>
                </View>
                <SliderBox
@@ -155,10 +158,21 @@ export class Home extends Component<Props, State>{
                   style={styles.ad}
                   onPress={async () => {
                      try {
-                        await AdMobRewarded.requestAd()
-                        await AdMobRewarded.showAd()
+                        await AdMobRewarded.requestAd();
+                        await AdMobRewarded.showAd();
                      } catch (e) {
                         console.log(e);
+                        const info = await NetInfo.fetch();
+                        if(!info.isConnected){
+                           ToastAndroid.show("No internet connection!", ToastAndroid.LONG);
+                        }
+                        else if(this.props.user.lives !== 0)
+                           ToastAndroid.show("Could not find an ad!", ToastAndroid.LONG);
+                        else if(this.props.user.lives === 0){
+                           ToastAndroid.show("Could not find an ad! Here is a life.", ToastAndroid.LONG);
+                           this.props.setLives(1);
+                           await AsyncStorage.setItem("lives", '1');   
+                        }
                      }
                   }}
                >
@@ -166,27 +180,6 @@ export class Home extends Component<Props, State>{
                   <Text style={styles.adText}>Watch an ad for more lives! </Text>
                </TouchableOpacity>
             </ScrollView>
-            <Dialog
-               visible={this.state.visible}
-               dialogAnimation={new SlideAnimation({
-                  slideFrom: 'bottom',
-               })}
-               onTouchOutside={() => { this.setState({ visible: false }); }}
-               onHardwareBackPress={() => { this.setState({ visible: false }); return true }}
-               dialogTitle={<DialogTitle title="High Score!" />}
-               footer={
-                  <DialogFooter>
-                     <DialogButton
-                        text="OK"
-                        onPress={() => this.setState({ visible: false })}
-                     />
-                  </DialogFooter>
-               }
-            >
-               <DialogContent style={{ paddingVertical: 8 }}>
-                  <Text style={{ fontSize: 16, fontFamily: 'sans-serif-light' }}>You've reached a new high score!{'\n'}Well done!</Text>
-               </DialogContent>
-            </Dialog>
             <AdMobBanner
                style={{ position: 'absolute', bottom: 0 }}
                adSize="smartBannerPortrait"
@@ -222,10 +215,14 @@ const styles = StyleSheet.create({
       paddingVertical: 8,
       backgroundColor: '#e9e9e9'
    },
+   lives: {
+      paddingVertical: 8,
+      backgroundColor: '#ffdddd'
+   },
    scoreText: {
       textAlign: 'center',
       fontSize: 18,
-      fontFamily: 'sans-serif-light'
+      fontFamily: Platform.OS === "android" ? 'sans-serif-light' : "Helvetica" 
    },
    row: {
       flexDirection: 'row',

@@ -1,13 +1,11 @@
 import React, { Component } from 'react';
-import { Text, View, ScrollView, StyleSheet, TouchableOpacity } from 'react-native';
+import { Text, View, ScrollView, StyleSheet, TouchableOpacity, Platform, ToastAndroid } from 'react-native';
 import { NavigationStackProp } from 'react-navigation-stack';
 import MIcon from 'react-native-vector-icons/MaterialCommunityIcons';
 import Dialog, { SlideAnimation, DialogContent, DialogFooter, DialogButton, DialogTitle } from 'react-native-popup-dialog';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
-const { AdMobBanner, AdMobRewarded } = require('react-native-admob');
-import { adunitid, demobanner, demovideo } from './appid';
-import { setHighScore } from './Actions';
+import { setHighScore, setLives } from './Actions';
 import { User } from './Reducer';
 import Eco from '../questions/eco'
 import Gov from '../questions/gov'
@@ -22,6 +20,7 @@ import AsyncStorage from '@react-native-community/async-storage';
 interface Props {
    navigation: NavigationStackProp,
    user: User,
+   setLives: (num: number) => void,
    setHighScore: (num: number) => void
 }
 
@@ -42,9 +41,9 @@ interface State {
    tileColors: Array<"#e3e3e3" | "#f77" | "#7f7">,
    questions: Array<Question>,
    fontSize: number,
-   extra: boolean,
    pastQuestionIndeces: Array<number>,
    currentIndex: number,
+   played: boolean,
    lost: boolean,
    type: string
 }
@@ -74,8 +73,8 @@ export class Game extends Component<Props, State>{
             question: ''
          },
          questions: [],
-         extra: false,
          score: 0,
+         played: false,
          type: this.props.navigation.getParam("type")
       }
    }
@@ -89,32 +88,6 @@ export class Game extends Component<Props, State>{
    }
 
    async componentDidMount() {
-      AdMobRewarded.setAdUnitID(demovideo);
-      AdMobRewarded.addEventListener('rewarded', () => {
-         let { questions } = this.state;
-         let index = this.randomNum(0, questions.length);
-         for (let i = 0; i < this.state.pastQuestionIndeces.length; i++) {
-            if (index === this.state.pastQuestionIndeces[i]) {
-               index = this.randomNum(0, questions.length);
-               i = 0;
-            }
-         }
-         let pastindeces = [...this.state.pastQuestionIndeces];
-         pastindeces.push(index);
-         let fontSize = 13;
-         if (questions[index].a.length < 10 && questions[index].b.length < 10 && questions[index].c.length < 10 && questions[index].d.length < 10)
-            fontSize = 20
-         else if (questions[index].a.length < 20 && questions[index].b.length < 20 && questions[index].c.length < 20 && questions[index].d.length < 20)
-            fontSize = 18
-         else if (questions[index].a.length < 26 && questions[index].b.length < 26 && questions[index].c.length < 26 && questions[index].d.length < 26)
-            fontSize = 16
-         else if (questions[index].a.length < 32 && questions[index].b.length < 32 && questions[index].c.length < 32 && questions[index].d.length < 32)
-            fontSize = 15
-         this.setState({ lost: false, extra: true, wrong: this.state.wrong - 1, fontSize, currentIndex: index, tileColors: ["#e3e3e3", "#e3e3e3", "#e3e3e3", "#e3e3e3"], question: questions[index], pastQuestionIndeces: pastindeces, questions, clickable: true })
-      });
-      AdMobRewarded.addEventListener('adClosed', () => {
-         console.log('AdMobRewarded => adClosed');
-      });
       let questions = [];
       if (this.state.type === 'Random') {
          for (let i in Eco) {
@@ -295,9 +268,9 @@ export class Game extends Component<Props, State>{
       await AsyncStorage.setItem("playDate", new Date().getDate().toString());
    }
 
-   submit = (val: "a" | "b" | "c" | "d", index: number) => {
+   submit = async (val: "a" | "b" | "c" | "d", index: number) => {
       let colors = [...this.state.tileColors];
-      let { score, wrong, lost } = this.state;
+      let { score, wrong, played } = this.state;
       if (val === this.state.question.ans) {
          colors[index] = "#7f7";
          score++;
@@ -314,15 +287,21 @@ export class Game extends Component<Props, State>{
          if (this.state.question.ans === 'd')
             colors[3] = "#7f7";
       }
-      if (wrong === 2) {
+      if (!played){
+         let { lives } = this.props.user;
+         this.props.setLives(lives - 1);
+         await AsyncStorage.setItem("lives", (lives - 1).toString());   
+         this.setState({played: true});
+      }
+      if (wrong === 5) {
          this.setState({ tileColors: colors, lost: true, clickable: false, wrong });
       }
-      else if (!lost) {
-         this.setState({ tileColors: colors, clickable: false, score, wrong }, async () => {
-            if (score > this.props.navigation.getParam("highScore")) {
-               this.props.setHighScore(score);
-               await AsyncStorage.setItem("highScore", score.toString())
-            }
+      if (score > this.props.user.highScore) {
+         this.props.setHighScore(score);
+         await AsyncStorage.setItem("highScore", score.toString())
+      }
+      else if (wrong !== 5) {
+         this.setState({ tileColors: colors, clickable: false, score, wrong }, async () => {     
             setTimeout(() => {
                let { questions } = this.state;
                let index = this.randomNum(0, questions.length);
@@ -375,7 +354,7 @@ export class Game extends Component<Props, State>{
                {this.wrongs()}
             </View>
             <View style={styles.question}>
-               <Text style={styles.questionText}>{'\t\t'}{this.state.question.question}</Text>
+               <Text style={styles.questionText}>{'\t'}{this.state.question.question}</Text>
             </View>
             <View style={{ flex: 1 }}></View>
             <View style={styles.row}>
@@ -408,21 +387,11 @@ export class Game extends Component<Props, State>{
                         text="OK"
                         onPress={() => this.setState({ lost: false }, () => this.props.navigation.pop())}
                      />
-                     {
-                        this.state.extra ? <View/> :
-                        <DialogButton
-                           text="Watch Video"
-                           onPress={ async () => {
-                              await AdMobRewarded.requestAd()
-                              await AdMobRewarded.showAd()
-                           }}
-                        />
-                     }
                   </DialogFooter>
                }
             >
                <DialogContent style={{ paddingVertical: 8 }}>
-                  <Text style={{ fontSize: 16, fontFamily: 'sans-serif-light' }}>{!this.state.extra ? "Watch a video for two extra lives!\n" : ''}Press OK to go back to the menu.</Text>
+                  <Text style={{ fontSize: 16, fontFamily: Platform.OS === "android" ? 'sans-serif-light' : "Helvetica"  }}>Press OK to go back to the menu.</Text>
                </DialogContent>
             </Dialog>
          </ScrollView>
@@ -441,7 +410,8 @@ const mapStateToProps = (state: StateRedux) => {
 
 const mapDispatchToProps = (dispatch: any) => (
    bindActionCreators({
-      setHighScore
+      setHighScore,
+      setLives
    }, dispatch)
 );
 
@@ -459,15 +429,16 @@ const styles = StyleSheet.create({
    scoreText: {
       textAlign: 'center',
       fontSize: 18,
-      fontFamily: 'sans-serif-light'
+      fontFamily: Platform.OS === "android" ? 'sans-serif-light' : "Helvetica" 
    },
    question: {
+      flexGrow: 1,
       height: '6%',
       marginHorizontal: 10,
       marginVertical: 10
    },
    questionText: {
-      fontFamily: 'sans-serif-light',
+      fontFamily: Platform.OS === "android" ? 'sans-serif-light' : "Helvetica" ,
       fontSize: 18
    },
    row: {
@@ -487,7 +458,7 @@ const styles = StyleSheet.create({
       color: '#444'
    },
    choiceText: {
-      fontFamily: 'sans-serif-light',
+      fontFamily: Platform.OS === "android" ? 'sans-serif-light' : "Helvetica" ,
       fontSize: 14
    }
 })

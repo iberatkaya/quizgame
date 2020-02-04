@@ -3615,12 +3615,6 @@ As the number of firms in an oligopoly grows larger, price and output in that ma
 0 the Nash equilibrium of a duopoly.
 0 None of the above is correct.
 
-According to this decision box, if both firms follow a dominant strategy, the losses of Firm A and Firm B respectively will be
-1 –$30 b and –$25 b.
-0 –$60 b and –$15 b.
-0 –$15 b and–$60 b.
-0 –$20 b and –$20 b.
-
 According to this decision box, which of the following is the dominant strategies for the firms?
 0 Firm A should reveal the site and Firm B should keep it secret.
 0 Firm A should keep the site secret and Firm B should reveal it.

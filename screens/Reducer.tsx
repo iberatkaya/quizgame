@@ -1,8 +1,9 @@
 import { combineReducers } from 'redux';
+import {DEFAULT_LIVES} from './Home'
 
 const INITIAL_STATE: User = {
     highScore: 0,
-    lives: 3
+    lives: DEFAULT_LIVES
 };
 
 export interface User {

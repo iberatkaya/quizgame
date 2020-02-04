@@ -6299,27 +6299,6 @@ Which of the following coefficients of correlation indicates the strongest relat
 0 experiment.
 
 
-c.
-0 survey.
-1 correlational study.
-0 A major disadvantage of the experimental method is that
-0 private funding can never be obtained.
-
-
-b.
-0 APA Ethical Review Committees often do not approve of the research techniques.
-0 there is a certain amount of artificiality attached to it.
-1 subjects are difficult to find for research projects.
-0 A researcher determines that the crime rate in a large city fluctuates with the phases of the moon. He concludes that the gravitational pull of the moon influences human behavior. He has committed what
-
-
-a.
-0 He incorrectly inferred correlation from causation.
-1 He incorrectly inferred causation from correlation.
-0 He failed to measure the gravitational pull to test his hypothesis.
-0 He has overlooked the placebo effect.
-
-
 Students who do better in high school tend to do better in college. This is an example of
 0 a negative correlation.
 0 a zero correlation.
@@ -6654,20 +6633,6 @@ Which of the following coefficients of correlation indicates the weakest relatio
 0 -1.00
 0 A correlation coefficient of -1.09 indicates a(n)
 0 strong positive correlation.
-
-
-b.
-0 strong negative correlation.
-0 cause/effect relationship.
-0 error in computation.
-1 A representative sample is an essential element of the
-
-
-a.
-1 survey method.
-0 psychoanalytic method.
-0 natural experiment or case study.
-0 clinical method.
 
 
 The effects of brain injury on personality would usually be investigated by the use of the
