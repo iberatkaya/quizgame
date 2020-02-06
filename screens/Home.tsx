@@ -16,7 +16,7 @@ import { adunitid, videoadid, demobanner, demovideo } from './appid';
 import { setHighScore, setLives } from './Actions';
 import { User } from './Reducer';
 
-export const DEFAULT_LIVES = 7;
+export const DEFAULT_LIVES = 5;
 
 interface State {
    loadedAd: boolean,
@@ -49,7 +49,7 @@ export class Home extends Component<Props, State>{
       try {
          await this.loadHighScore();
          await this.loadLives();
-         await AdMobRewarded.setAdUnitID(demovideo);
+         await AdMobRewarded.setAdUnitID(videoadid);
          await AdMobRewarded.addEventListener('rewarded', async () => {
             let reward = 3;
             let { lives } = this.props.user;
@@ -183,7 +183,7 @@ export class Home extends Component<Props, State>{
             <AdMobBanner
                style={{ position: 'absolute', bottom: 0 }}
                adSize="smartBannerPortrait"
-               adUnitID={demobanner}
+               adUnitID={adunitid}
                onAdLoaded={() => { this.setState({ loadedAd: true }); }}
                onAdFailedToLoad={(error: string) => console.error(error)}
             />

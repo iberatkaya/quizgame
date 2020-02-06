@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Quiz Game 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-0.2.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
 > Quiz Game is a mobile app built with React Native. It is a quiz app with 7 categories with more than 10000 questions.

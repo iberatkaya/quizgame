@@ -131,10 +131,15 @@ android {
         applicationId "com.kaya.quiz"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 2
-        versionName "0.1.1"
+        versionCode 3
+        versionName "0.2.0"
         multiDexEnabled true
     }
+
+    dexOptions {
+        javaMaxHeapSize "4g"
+    } 
+
     splits {
         abi {
             reset()
