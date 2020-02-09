@@ -16,7 +16,7 @@ import { adunitid, videoadid, demobanner, demovideo, aduntidios, videoadidios } 
 import { setHighScore, setLives } from './Actions';
 import { User } from './Reducer';
 
-export const DEFAULT_LIVES = 7;
+export const DEFAULT_LIVES = 5;
 
 interface State {
    loadedAd: boolean,
