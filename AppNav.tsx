@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Text, View, ScrollView, Linking, ToastAndroid, TouchableOpacity, Dimensions, Image, PermissionsAndroid, StyleSheet } from 'react-native';
+import { Text, View, ScrollView, Linking, ToastAndroid, TouchableOpacity, Dimensions, Image, PermissionsAndroid, StyleSheet, Platform } from 'react-native';
 import { createAppContainer } from 'react-navigation';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import { createStackNavigator } from 'react-navigation-stack';
@@ -47,31 +47,38 @@ class Drawer extends Component {
             <View>
                <TouchableOpacity
                   style={{ paddingLeft: 16, paddingVertical: 14.5 }}
-                  onPress={() => { Linking.openURL("https://play.google.com/store/apps/details?id=com.kaya.quiz"); }}
+                  onPress={() => { Linking.openURL(Platform.OS === 'android' ? "https://play.google.com/store/apps/details?id=com.kaya.quiz" : "itms-apps://itunes.apple.com/app/apple-store/id1498307900?mt=8"); }}
                >
                   <View style={{ flexDirection: 'row', alignItems: 'center' }}>
                      <Icon name="star" size={24} color="#888888" />
                      <Text style={{ fontSize: 14, fontWeight: 'bold', paddingLeft: 32, color: 'black' }}>Rate App</Text>
                   </View>
                </TouchableOpacity>
-               <TouchableOpacity
-                  style={{ paddingLeft: 16, paddingVertical: 14.5 }}
-                  onPress={() => { Linking.openURL("https://play.google.com/store/apps/developer?id=IBK+Apps"); }}
-               >
-                  <View style={{ flexDirection: 'row', alignItems: 'center' }}>
-                     <Icon name="google-play" size={24} color="#888" />
-                     <Text style={{ fontSize: 14, fontWeight: 'bold', paddingLeft: 32, color: 'black' }}>View Other Apps</Text>
+            {
+               Platform.OS === 'android' ? 
+                  <View>
+                     <TouchableOpacity
+                        style={{ paddingLeft: 16, paddingVertical: 14.5 }}
+                        onPress={() => { Linking.openURL("https://play.google.com/store/apps/developer?id=IBK+Apps"); }}
+                     >
+                        <View style={{ flexDirection: 'row', alignItems: 'center' }}>
+                           <Icon name="google-play" size={24} color="#888" />
+                           <Text style={{ fontSize: 14, fontWeight: 'bold', paddingLeft: 32, color: 'black' }}>View Other Apps</Text>
+                        </View>
+                     </TouchableOpacity>
+                     <TouchableOpacity
+                        style={{ paddingLeft: 16, paddingVertical: 14.5 }}
+                        onPress={() => { Linking.openURL("mailto:ibraberatkaya@gmail.com?subject=Quiz Feedback"); }}
+                     >
+                        <View style={{ flexDirection: 'row', alignItems: 'center' }}>
+                           <Icon name="email" size={24} color="#888888" />
+                           <Text style={{ fontSize: 14, fontWeight: 'bold', paddingLeft: 32, color: 'black' }}>Feedback</Text>
+                        </View>
+                     </TouchableOpacity>
                   </View>
-               </TouchableOpacity>
-               <TouchableOpacity
-                  style={{ paddingLeft: 16, paddingVertical: 14.5 }}
-                  onPress={() => { Linking.openURL("mailto:ibraberatkaya@gmail.com?subject=Quiz Feedback"); }}
-               >
-                  <View style={{ flexDirection: 'row', alignItems: 'center' }}>
-                     <Icon name="email" size={24} color="#888888" />
-                     <Text style={{ fontSize: 14, fontWeight: 'bold', paddingLeft: 32, color: 'black' }}>Feedback</Text>
-                  </View>
-               </TouchableOpacity>
+                  : 
+                  <View/>   
+            }
             </View>
          </ScrollView>
       )
