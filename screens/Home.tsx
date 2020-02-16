@@ -12,7 +12,7 @@ import FastImage from 'react-native-fast-image';
 import SplashScreen from 'react-native-splash-screen';
 const { AdMobBanner, AdMobRewarded } = require('react-native-admob');
 const { SliderBox } = require('react-native-image-slider-box');
-import { adunitid, videoadid, demobanner, demovideo } from './appid';
+import { adunitid, videoadid, demobanner, demovideo, aduntidios, videoadidios } from './appid';
 import { setHighScore, setLives } from './Actions';
 import { User } from './Reducer';
 
@@ -49,7 +49,7 @@ export class Home extends Component<Props, State>{
       try {
          await this.loadHighScore();
          await this.loadLives();
-         await AdMobRewarded.setAdUnitID(videoadid);
+         await AdMobRewarded.setAdUnitID(Platform.OS === 'android' ? videoadid : videoadidios);
          await AdMobRewarded.addEventListener('rewarded', async () => {
             let reward = 3;
             let { lives } = this.props.user;
@@ -181,9 +181,9 @@ export class Home extends Component<Props, State>{
                </TouchableOpacity>
             </ScrollView>
             <AdMobBanner
-               style={{ position: 'absolute', bottom: 0 }}
+               style={{ position: 'absolute', bottom: 0,  }}
                adSize="smartBannerPortrait"
-               adUnitID={adunitid}
+               adUnitID={Platform.OS === 'android' ? adunitid : aduntidios}
                onAdLoaded={() => { this.setState({ loadedAd: true }); }}
                onAdFailedToLoad={(error: string) => console.error(error)}
             />
