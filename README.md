@@ -5,7 +5,7 @@
 
 > Quiz Game is a mobile app built with React Native. It is a quiz app with 7 categories with more than 10000 questions.
 
-### 🏠 [Homepage](https://play.google.com/store/apps/details?id=com.kaya.quiz)
+### 🏠 [Homepage](https://play.google.com/store/apps/details?id=com.kaya.quiz) - [App Store](https://apps.apple.com/us/app/quiz-game-fun/id1498307900)
 
 ## Install
 
